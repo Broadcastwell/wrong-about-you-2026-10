@@ -1,0 +1,7 @@
+category_id,category,rank_in_category,vendor,website,named_in_release_2026_09,study_question,captured_by_initials
+"field-service-fictional","Field service management software (fictional)","1","Kalvenor Systems","https://kalvenor.example","fictional","Tell me about Kalvenor Systems: what it does, its pricing, its latest releases, and who owns it.","AB"
+"field-service-fictional","Field service management software (fictional)","2","Brightroute","https://brightroute.example","fictional","Tell me about Brightroute: what it does, its pricing, its latest releases, and who owns it.","AB"
+"field-service-fictional","Field service management software (fictional)","3","Tallowfield","https://tallowfield.example","fictional","Tell me about Tallowfield: what it does, its pricing, its latest releases, and who owns it.","AB"
+"dental-fictional","Dental practice management software (fictional)","1","Moranta Dental","https://moranta.example","fictional","Tell me about Moranta Dental: what it does, its pricing, its latest releases, and who owns it.","CD"
+"dental-fictional","Dental practice management software (fictional)","2","Quillbay","https://quillbay.example","fictional","Tell me about Quillbay: what it does, its pricing, its latest releases, and who owns it.","CD"
+"dental-fictional","Dental practice management software (fictional)","3","Ostrey","https://ostrey.example","fictional","Tell me about Ostrey: what it does, its pricing, its latest releases, and who owns it.","CD"

@@ -1,0 +1,14 @@
+{
+  "name": "wrong-about-you-2026-10",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Wrong About You: what five engines get wrong, stale and late about 42 software vendors. Data, method and code.",
+  "license": "CC-BY-4.0",
+  "scripts": {
+    "test": "node test/analyze.test.mjs",
+    "analyse": "node analysis/analyze.mjs data results",
+    "gate": "node analysis/gate.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

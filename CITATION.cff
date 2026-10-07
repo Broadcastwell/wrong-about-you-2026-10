@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Wrong About You: what five engines get wrong, stale and late about 42 software vendors"
+type: dataset
+version: "1.0"
+authors:
+  - name: "Broadcastwell"
+    website: "https://broadcastwell.com"
+    email: "hello@broadcastwell.com"
+license: CC-BY-4.0
+repository-code: "https://github.com/Broadcastwell/wrong-about-you-2026-10"
+url: "https://broadcastwell.com/research/wrong-about-you"
+abstract: "210 answers captured by hand by the Broadcastwell team: one fact question about each of 42 Absence Index vendors (the three most-named vendors in each of the 14 categories of release 2026-09) on ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode. Every statement verified against the vendor's own pages and classed true, wrong, stale or unverifiable; each wrong or stale statement traced to its causing page and type; each vendor's latest dated release checked against each engine's answer."
+keywords:
+  - "AI search"
+  - "B2B software"
+  - "Absence Index"
+  - "ChatGPT"
+  - "Claude"
+  - "Perplexity"
+  - "Google AI Overviews"
+  - "Google AI Mode"
+references:
+  - type: dataset
+    title: "The Absence Index, release 2026-09"
+    authors:
+      - name: "Broadcastwell"
+    doi: "10.5281/zenodo.22907695"
