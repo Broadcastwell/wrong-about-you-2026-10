@@ -7,7 +7,10 @@ import { readDerived, engineStatements, CAPTURE_LINE } from '../analysis/index-r
 import { requirePublication, METHOD_LINE, BYLINE, DISPUTE_LINE } from '../lib/publication.mjs';
 
 const BANNED = /\bpaused?\b|\bpilot\b|\bclosed\b|\bnot currently offered\b|\bnot open\b|\breopens\b|\bis full\b|\borders in total\b|\(\d+ orders\)|\b(?:\d+|one|two|three|four|five|six|seven|eight|nine|ten|twenty|fifty) orders\b|\bwaitlist\b|\btemporarily\b|\blimited availability\b|\bnext batch\b|\bcapacity\b|\bDiagnostic\b|\$990\b|\bAI Fact Check\b|\bGemini\b|free audit|number one|winner|loser|\b(?:rose|fell|climbed|dropped|trend)\b|[\u2012-\u2015]|--/i;
-const printable = q => typeof q === 'string' && q.length > 0 && q.length <= 320 && !BANNED.test(q) && !/\$(?!490\b)\d|[<>*|#]/.test(q);
+// Historical evidence is verbatim, including prices and punctuation. Renderers
+// escape it as text inside an attributed statement; marketing copy rules must
+// never silently remove the evidence for a flagged finding.
+const printable = q => typeof q === 'string' && q.trim().length > 0;
 const humanDay = iso => { const [y,m,d] = iso.slice(0,10).split('-').map(Number); return `${d} ${['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][m-1]} ${y}`; };
 
 export function exportSurfaces(data, { doi, conceptDoi, savedResults = null }) {
@@ -22,11 +25,12 @@ export function exportSurfaces(data, { doi, conceptDoi, savedResults = null }) {
       if (BANNED.test(c.claim)) throw new Error(`Claim needs a public copy correction: ${s.slug}/${s.claim_id}`);
       const pick = data.instances.find(i => i.slug === s.slug && i.claim_id === s.claim_id && i.engine === s.engine && printable(i.quote));
       const a = pick ? answers.get(s.slug+'|'+pick.record_id) : null;
+      if (!pick || !a) throw new Error(`Flagged statement lacks a source quote: ${s.slug}/${s.claim_id}/${s.engine}`);
       return {
         statement_id: s.slug+'|'+s.claim_id+'|'+s.engine, claim: c.claim, class: s.class, type: c.type,
         engines: [{engine:s.engine,runs_stated:s.runs_stated}],
-        quote: pick?.quote || null, quote_engine:a?.engine || null, quote_run:a ? Number(a.run) : null,
-        quote_question:a?.question_id || null, quote_date:a ? humanDay(a.captured_at) : null,
+        quote: pick.quote, quote_engine:a.engine, quote_run:Number(a.run),
+        quote_question:a.question_id, quote_date:humanDay(a.captured_at),
         proof_url:c.proof_url, proof_read_on:(c.proof_read_at || '').slice(0,10),
         causing_type:c.causing_type, causing_url:c.causing_url || '',
         reviewer_1:s.reviewer_1 || '', reviewer_2:s.reviewer_2 || '', review_date:s.review_date || '',
