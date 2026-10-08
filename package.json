@@ -6,7 +6,7 @@
   "description": "Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages. Data, method and code.",
   "license": "CC-BY-4.0",
   "scripts": {
-    "test": "node test/analyze.test.mjs && node --test test/derived.test.mjs test/review-decisions.test.mjs",
+    "test": "node test/analyze.test.mjs && node --test test/derived.test.mjs test/review-decisions.test.mjs test/publication-exports.test.mjs",
     "analyse": "node analysis/index-record.mjs data results",
     "derive": "node analysis/derive.mjs",
     "review": "node scripts/import-review.mjs",
