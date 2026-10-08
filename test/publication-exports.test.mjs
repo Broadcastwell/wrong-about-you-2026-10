@@ -22,11 +22,19 @@ test('each exported item uses its own engine decision, review fields and verbati
  const items=doc.vendors.flatMap(v=>v.items);
  assert.equal(items.length,116);
  assert.ok(!items.some(i=>[statementKey(first),statementKey(peer)].includes(i.statement_id)));
- for(const i of items){assert.equal(i.review_state,'verified');assert.equal(i.engines.length,1);assert.equal(i.reviewer_1,'AB');if(i.quote)assert.equal(i.quote_engine,i.engines[0].engine);}
+ for(const i of items){assert.equal(i.review_state,'verified');assert.equal(i.engines.length,1);assert.equal(i.reviewer_1,'AB');assert.ok(i.quote);assert.equal(i.quote_engine,i.engines[0].engine);const [slug,claim_id,engine]=i.statement_id.split('|');assert.ok(d.instances.some(x=>x.slug===slug&&x.claim_id===claim_id&&x.engine===engine&&x.quote===i.quote));}
  for(const v of doc.vendors)assert.equal(v.items_total,v.counts.wrong+v.counts.stale);
  assert.match(vendorReviewLabel(d,keep.slug),/^Flagged statements verified/);
 });
 test('stale saved tables are rejected even if their headline totals still match',()=>{
  const d=fixture(),saved=analyseDerived(d);saved.per_vendor[0].category_median.wrong+=1;
  assert.throws(()=>requirePublication(d,saved),/stale/);
+});
+
+test('quoted prices, punctuation, markup and long evidence are preserved as source text',()=>{
+ const d=fixture(),s=d.statement_reviews[0];
+ const quote='The fictional plan costs $39 — includes <custom> & **reports**. '+('A long original observation. '.repeat(20));
+ for(const i of d.instances)if(i.slug===s.slug&&i.claim_id===s.claim_id&&i.engine===s.engine)i.quote=quote;
+ const row=exportSurfaces(d,options).vendors.flatMap(v=>v.items).find(i=>i.statement_id===statementKey(s));
+ assert.equal(row.quote,quote);assert.ok(row.quote.length>320);
 });
