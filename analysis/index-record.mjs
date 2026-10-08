@@ -21,20 +21,22 @@ export const COLUMNS = Object.freeze({
   instances: ['slug', 'claim_id', 'record_id', 'engine', 'run', 'question_id', 'quote'],
   pages: ['slug', 'url', 'final_url', 'read_at', 'status', 'method', 'robots', 'sha256', 'note']
 });
-const isoDate = v => /^\d{4}-\d{2}-\d{2}$/.test(v || '') && Number.isFinite(Date.parse(v + 'T00:00:00Z'));
+const isoDate = v => /^\d{4}-\d{2}-\d{2}$/.test(v || '') && Number.isFinite(Date.parse(v + 'T00:00:00Z')) && new Date(v + 'T00:00:00Z').toISOString().slice(0, 10) === v;
 const isoTime = v => /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(?::\d{2}(?:\.\d+)?)?Z$/.test(v || '');
 const httpUrl = v => /^https?:\/\/\S+$/i.test(String(v || '').trim());
 const initials = v => /^[A-Z]{2,4}$/.test(String(v || '').trim());
 
 export function readDerived(dir) {
   const read = f => parseCsv(readFileSync(join(dir, f), 'utf8'));
-  return Object.fromEntries(Object.entries(DERIVED_FILES).map(([k, f]) => [k, read(f)]));
+  const data = Object.fromEntries(Object.entries(DERIVED_FILES).map(([k, f]) => [k, read(f)]));
+  data.statement_reviews = existsSync(join(dir, 'statement_reviews.csv')) ? read('statement_reviews.csv') : [];
+  return data;
 }
 
 // Review state is derived from the reviewer fields; a row is "verified" only with two reviewers and a date.
 export function reviewState(c) {
   const r1 = String(c.reviewer_1 || '').trim(), r2 = String(c.reviewer_2 || '').trim();
-  if (r1 && r2 && r1 !== r2 && isoDate(c.review_date)) return 'verified';
+  if (initials(r1) && initials(r2) && r1 !== r2 && isoDate(c.review_date)) return 'verified';
   if (r1 || r2) return 'first review';
   return 'unreviewed';
 }
@@ -90,20 +92,40 @@ export function validateDerived(d) {
     const k = i.slug + '|' + i.claim_id; instancesOf.set(k, (instancesOf.get(k) || 0) + 1);
   }
   for (const c of d.claims) if (!instancesOf.get(c.slug + '|' + c.claim_id)) errors.push(`${c.slug} ${c.claim_id}: claim without instances`);
+  const statementKeys = new Set(d.instances.map(statementKey));
+  const reviewKeys = new Set();
+  for (const row of d.statement_reviews || []) {
+    const key = statementKey(row);
+    if (!statementKeys.has(key)) errors.push(`${key}: review of an unknown engine statement`);
+    if (reviewKeys.has(key)) errors.push(`${key}: duplicate statement review`);
+    reviewKeys.add(key);
+    if (!CLASSES.includes(row.class)) errors.push(`${key}: invalid reviewed class`);
+    if (row.review_state !== reviewState(row)) errors.push(`${key}: review state disagrees with initials and date`);
+    for (const r of [row.reviewer_1, row.reviewer_2]) if (r && !initials(r)) errors.push(`${key}: invalid analyst initials`);
+    const source = claims.get(row.slug + '|' + row.claim_id);
+    if ((isDropped(row) || row.class !== source?.class) && reviewState(row) !== 'verified') errors.push(`${key}: changing or dropping a statement needs two analysts`);
+    if (row.review_date && (!isoDate(row.review_date) || row.review_date > new Date().toISOString().slice(0, 10))) errors.push(`${key}: invalid or future review date`);
+    if (isDropped(row) !== (row.decision === 'Drop')) errors.push(`${key}: Drop decision and published state disagree`);
+    const expectedClass = row.decision?.startsWith('Reclassify to ') ? row.decision.slice(14) : source?.class;
+    if (expectedClass !== row.class) errors.push(`${key}: decision and class disagree`);
+  }
   return { ok: errors.length === 0, errors };
 }
 
 // An engine statement: one claim as stated by one engine. Its confidence is the number of the three scheduled
 // runs in which that engine stated it at least once (any question), out of 3.
-export function engineStatements(d) {
+export const statementKey = s => s.slug + '|' + s.claim_id + '|' + s.engine;
+const isDropped = r => r.dropped === true || r.dropped === 'true';
+export function engineStatements(d, { includeDropped = false } = {}) {
   const claims = new Map(d.claims.map(c => [c.slug + '|' + c.claim_id, c]));
+  const reviews = new Map((d.statement_reviews || []).map(r => [statementKey(r), r]));
   const map = new Map();
   for (const i of d.instances) {
     const key = i.slug + '|' + i.claim_id + '|' + i.engine;
-    if (!map.has(key)) { const c = claims.get(i.slug + '|' + i.claim_id); map.set(key, { slug: i.slug, claim_id: i.claim_id, engine: i.engine, class: c.class, type: c.type, review_state: c.review_state, runs: new Set(), records: new Set() }); }
+    if (!map.has(key)) { const c = claims.get(i.slug + '|' + i.claim_id); const review = reviews.get(key); map.set(key, { slug: i.slug, claim_id: i.claim_id, engine: i.engine, class: c.class, type: c.type, review_state: c.review_state, reviewer_1: c.reviewer_1 || '', reviewer_2: c.reviewer_2 || '', review_date: c.review_date || '', ...review, dropped: review ? isDropped(review) : false, runs: new Set(), records: new Set() }); }
     const s = map.get(key); s.runs.add(String(i.run)); s.records.add(i.record_id);
   }
-  return [...map.values()].map(s => ({ ...s, runs_stated: s.runs.size, answers: s.records.size, runs: undefined, records: undefined }))
+  return [...map.values()].filter(s => includeDropped || !s.dropped).map(s => ({ ...s, runs_stated: s.runs.size, answers: s.records.size, runs: undefined, records: undefined }))
     .sort((a, b) => a.slug.localeCompare(b.slug) || a.claim_id.localeCompare(b.claim_id) || ENGINES.indexOf(a.engine) - ENGINES.indexOf(b.engine));
 }
 
@@ -112,14 +134,16 @@ const errorRate = list => { const c = countClasses(list); return rate(c.wrong + 
 
 export function analyseDerived(d) {
   const stmts = engineStatements(d);
-  const claimClass = new Map(d.claims.map(c => [c.slug + '|' + c.claim_id, c.class]));
-  const badAnswers = new Set(d.instances.filter(i => ['wrong', 'stale'].includes(claimClass.get(i.slug + '|' + i.claim_id))).map(i => i.slug + '|' + i.record_id));
+  const activeClaims = new Set(stmts.map(s => s.slug + '|' + s.claim_id));
+  const claimRows = d.claims.filter(c => activeClaims.has(c.slug + '|' + c.claim_id));
+  const statementClasses = new Map(stmts.map(s => [statementKey(s), s.class]));
+  const badAnswers = new Set(d.instances.filter(i => ['wrong', 'stale'].includes(statementClasses.get(statementKey(i)))).map(i => i.slug + '|' + i.record_id));
   const vendors = d.vendors.map(v => {
     const mine = stmts.filter(s => s.slug === v.slug);
     const c = countClasses(mine);
     const answers = d.answers.filter(a => a.slug === v.slug);
     return { category_id: v.category_id, category: v.category, vendor: v.vendor, slug: v.slug, named_answers: answers.length, statements: mine.length, ...c,
-      wrong_or_stale: c.wrong + c.stale, claims: d.claims.filter(x => x.slug === v.slug).length,
+      wrong_or_stale: c.wrong + c.stale, claims: claimRows.filter(x => x.slug === v.slug).length,
       answers_with_wrong_or_stale: answers.filter(a => badAnswers.has(v.slug + '|' + a.record_id)).length };
   });
   const categories = [...new Set(d.vendors.map(v => v.category_id))].map(id => {
@@ -133,14 +157,20 @@ export function analyseDerived(d) {
   for (const v of vendors) v.category_median = categories.find(c => c.category_id === v.category_id).median;
   const engines = ENGINES.map(engine => { const mine = stmts.filter(s => s.engine === engine); return { engine, statements: mine.length, ...countClasses(mine), wrong_or_stale_rate: errorRate(mine) }; });
   const types = TYPES.map(type => { const mine = stmts.filter(s => s.type === type); return { type, statements: mine.length, ...countClasses(mine), wrong_or_stale_rate: errorRate(mine) }; });
-  const badClaims = d.claims.filter(c => ['wrong', 'stale'].includes(c.class));
+  const badClaimKeys = new Set(stmts.filter(s => ['wrong', 'stale'].includes(s.class)).map(s => s.slug + '|' + s.claim_id));
+  const badClaims = claimRows.filter(c => badClaimKeys.has(c.slug + '|' + c.claim_id));
   const causes = CAUSING_TYPES.map(t => ({ causing_type: t, claims: badClaims.filter(c => c.causing_type === t).length }));
   const confidence = [1, 2, 3].map(n => ({ runs_stated: n, ...countClasses(stmts.filter(s => s.runs_stated === n)) }));
   const allAnswers = d.answers.length;
-  const reviewed = Object.fromEntries(REVIEW_STATES.map(s => [s, d.claims.filter(c => c.review_state === s).length]));
+  const claimReview = c => {
+    const group = stmts.filter(s => s.slug === c.slug && s.claim_id === c.claim_id);
+    if (group.every(s => s.review_state === 'verified')) return 'verified';
+    return group.some(s => s.review_state !== 'unreviewed') ? 'first review' : 'unreviewed';
+  };
+  const reviewed = Object.fromEntries(REVIEW_STATES.map(s => [s, claimRows.filter(c => claimReview(c) === s).length]));
   return {
     study: 'Wrong About You', version: '1.0', capture: CAPTURE_LINE, index_doi: INDEX_DOI,
-    totals: { vendors: d.vendors.length, categories: categories.length, answers: allAnswers, claims: d.claims.length, statements: stmts.length, ...countClasses(stmts),
+    totals: { vendors: d.vendors.length, categories: categories.length, answers: allAnswers, claims: claimRows.length, statements: stmts.length, ...countClasses(stmts),
       wrong_or_stale_rate: errorRate(stmts), answers_with_wrong_or_stale: rate(badAnswers.size, allAnswers), pages_read: d.pages.length, review: reviewed },
     per_engine: engines, per_category: categories, per_vendor: vendors, per_type: types, causes, confidence, statements: stmts
   };
@@ -181,6 +211,7 @@ export function runDerived(dataDir, outDir) {
   const r = analyseDerived(d);
   mkdirSync(outDir, { recursive: true });
   const inputs = Object.fromEntries(Object.values(DERIVED_FILES).map(f => [f, sha256(join(dataDir, f))]));
+  if (existsSync(join(dataDir, 'statement_reviews.csv'))) inputs['statement_reviews.csv'] = sha256(join(dataDir, 'statement_reviews.csv'));
   writeFileSync(join(outDir, 'summary.json'), JSON.stringify({ ...r, statements: undefined, inputs }, null, 1) + '\n');
   writeFileSync(join(outDir, 'RESULTS.md'), resultsMarkdown(r));
   const flat = o => ({ ...o, wrong_or_stale_rate: undefined, wrong_or_stale_pct: o.wrong_or_stale_rate?.pct ?? '', wrong_or_stale_low: o.wrong_or_stale_rate?.low ?? '', wrong_or_stale_high: o.wrong_or_stale_rate?.high ?? '' });
@@ -189,7 +220,7 @@ export function runDerived(dataDir, outDir) {
   writeFileSync(join(outDir, 'vendor_table.csv'), toCsv(r.per_vendor.map(v => ({ ...v, ...Object.fromEntries(Object.entries(v.category_median).map(([k, x]) => ['category_median_' + k, x])) })), ['category_id', 'category', 'vendor', 'slug', 'named_answers', 'claims', 'statements', 'true', 'wrong', 'stale', 'unverifiable', 'wrong_or_stale', 'answers_with_wrong_or_stale', 'category_median_true', 'category_median_wrong', 'category_median_stale', 'category_median_unverifiable', 'category_median_wrong_or_stale']));
   writeFileSync(join(outDir, 'type_table.csv'), toCsv(r.per_type.map(flat), ['type', 'statements', 'true', 'wrong', 'stale', 'unverifiable', 'wrong_or_stale_pct', 'wrong_or_stale_low', 'wrong_or_stale_high']));
   writeFileSync(join(outDir, 'causes.csv'), toCsv(r.causes, ['causing_type', 'claims']));
-  writeFileSync(join(outDir, 'engine_statements.csv'), toCsv(r.statements, ['slug', 'claim_id', 'engine', 'class', 'type', 'runs_stated', 'answers', 'review_state']));
+  writeFileSync(join(outDir, 'engine_statements.csv'), toCsv(r.statements, ['slug', 'claim_id', 'engine', 'class', 'type', 'runs_stated', 'answers', 'review_state', 'reviewer_1', 'reviewer_2', 'review_date']));
   return { ok: true, results: r, inputs };
 }
 
