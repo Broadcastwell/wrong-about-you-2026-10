@@ -1,0 +1,428 @@
+{
+ "vendor": "Asana",
+ "slug": "asana",
+ "category": "project_management",
+ "coded_at": "2026-10-08T03:59:00Z",
+ "pages_read": [
+  {
+   "url": "https://asana.com/pricing",
+   "key": "a27f07cc75bcbd16",
+   "used_for": "pricing, plans, free tier (HTTP 200)"
+  },
+  {
+   "url": "https://asana.com/",
+   "key": "e5b40c7fcd19cfe5",
+   "used_for": "home (HTTP 200)"
+  },
+  {
+   "url": "https://www.icertglobal.com/blog/top-project-management-tools-2026",
+   "key": "0ce0bd23d9e6a62d",
+   "used_for": "cause tracing for C05, cited third-party page, not used to class (HTTP 200)"
+  },
+  {
+   "url": "https://www.guideflow.com/blog/project-management-tools",
+   "key": "71487df560e0c681",
+   "used_for": "cause tracing for C05, cited third-party page, not used to class (HTTP 200)"
+  },
+  {
+   "url": "https://www.goodday.work/blog/best-project-management-software-for-mid-sized-companies/",
+   "key": "ea728e701937eb2c",
+   "used_for": "cause tracing for C05, cited third-party page, not used to class (HTTP 200)"
+  },
+  {
+   "url": "https://www.celoxis.com/article/project-management-software-tools-must-consider",
+   "key": "048ca7b844fc8bb3",
+   "used_for": "cause tracing for C05, cited third-party page, not used to class (HTTP 200)"
+  },
+  {
+   "url": "https://www.workzone.com/blog/project-management-software-mid-sized-teams/",
+   "key": "359dd1ba79d2e48d",
+   "used_for": "cause tracing for C05, cited third-party page, not used to class (HTTP 200)"
+  },
+  {
+   "url": "https://medium.com/@kanerika/6-best-project-management-tools-in-2026-790ad20c59eb",
+   "key": "fac56b5f25fff3e4",
+   "used_for": "cause tracing for C05, cited third-party page (HTTP 403, thin, not read)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Starter plan costs $10.99 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://asana.com/pricing",
+   "proof_quote": "$10.99 Per user, per month billed annually. $13.49 billed monthly",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Starter at $10.99 per user per month billed annually, the same plan and billing basis as the claim.",
+   "instances": [
+    {
+     "record_id": "project_management|1|ChatGPT|1",
+     "quote": "Pilot **Asana Starter**, currently listed at **$10.99/user/month billed annually**."
+    },
+    {
+     "record_id": "project_management|1|ChatGPT|2",
+     "quote": "I’d trial **Starter** for project-level coordination, currently listed at **$10.99/user/month billed annually**."
+    },
+    {
+     "record_id": "project_management|1|ChatGPT|3",
+     "quote": "Starter is listed at **$10.99 per user/month, billed annually**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "The Advanced plan costs $24.99 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://asana.com/pricing",
+   "proof_quote": "$24.99 Per user, per month billed annually. $30.49 billed monthly",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Advanced at $24.99 per user per month billed annually, the same plan and billing basis as the claim.",
+   "instances": [
+    {
+     "record_id": "project_management|1|ChatGPT|1",
+     "quote": "Consider **Advanced at $24.99** only if you need portfolio-level visibility, workload management, or approvals."
+    },
+    {
+     "record_id": "project_management|1|ChatGPT|2",
+     "quote": "Consider **Advanced**, at **$24.99/user/month billed annually**"
+    },
+    {
+     "record_id": "project_management|1|ChatGPT|3",
+     "quote": "you’ll need Advanced, listed at **$24.99 per user/month, billed annually**"
+    },
+    {
+     "record_id": "project_management|2|ChatGPT|1",
+     "quote": "Teamwork.com Accelerate and Asana Advanced both currently list **$24.99 per user/month, billed annually**."
+    },
+    {
+     "record_id": "project_management|2|ChatGPT|3",
+     "quote": "Listed at **$24.99/user/month, billed annually**."
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "Advanced is **$24.99/user/month billed annually**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Paid plans start at about $10.99 per user per month (billing basis not stated).",
+   "class": "true",
+   "proof_url": "https://asana.com/pricing",
+   "proof_quote": "$10.99 Per user, per month billed annually. $13.49 billed monthly",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Starter is the lowest paid plan on the pricing page at $10.99 per user per month (billed annually), so the stated starting price matches; the answers do not claim a monthly-billing price.",
+   "instances": [
+    {
+     "record_id": "project_management|3|Claude|1",
+     "quote": "Starting price is around $10.99/user/month with a free tier for up to 15 users."
+    },
+    {
+     "record_id": "project_management|3|Claude|2",
+     "quote": "It starts at **$10.99/user/month** with a free tier for up to 15 users."
+    },
+    {
+     "record_id": "project_management|3|Claude|3",
+     "quote": "It starts at **$10.99/user/month** with a free tier for up to 15 users."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "free_tier",
+   "claim": "Asana has a free tier.",
+   "class": "true",
+   "proof_url": "https://asana.com/pricing",
+   "proof_quote": "Personal For one or two people managing personal projects. $0 Free forever",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the Personal plan at $0, free forever.",
+   "instances": [
+    {
+     "record_id": "project_management|3|Claude|1",
+     "quote": "Starting price is around $10.99/user/month with a free tier for up to 15 users."
+    },
+    {
+     "record_id": "project_management|3|Claude|2",
+     "quote": "It starts at **$10.99/user/month** with a free tier for up to 15 users."
+    },
+    {
+     "record_id": "project_management|3|Claude|3",
+     "quote": "It starts at **$10.99/user/month** with a free tier for up to 15 users."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "free_tier",
+   "claim": "The free tier allows up to 15 users.",
+   "class": "wrong",
+   "proof_url": "https://asana.com/pricing",
+   "proof_quote": "Personal For one or two people managing personal projects. $0 Free forever Sign up Manage tasks and personal to-dos: 2 users collaborate for free",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page gives the free Personal plan 2 users (its user-limit row reads 2 seats), which contradicts 15 for the same free plan; no page read dates a change of the free user limit, so the claim is wrong, not stale.",
+   "instances": [
+    {
+     "record_id": "project_management|3|Claude|1",
+     "quote": "Starting price is around $10.99/user/month with a free tier for up to 15 users."
+    },
+    {
+     "record_id": "project_management|3|Claude|2",
+     "quote": "It starts at **$10.99/user/month** with a free tier for up to 15 users."
+    },
+    {
+     "record_id": "project_management|3|Claude|3",
+     "quote": "It starts at **$10.99/user/month** with a free tier for up to 15 users."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "plans",
+   "claim": "Portfolios, goals, workload within a portfolio, approvals and proofing come with the Advanced plan and higher, not with Starter.",
+   "class": "true",
+   "proof_url": "https://asana.com/pricing",
+   "proof_quote": "Everything in Starter, plus: Unlimited portfolios track progress across related projects Goals connect daily work to strategic objectives Resource management balances workloads within a portfolio Approvals and proofing streamline feedback and sign-off",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Advanced plan card lists unlimited portfolios, goals, resource management within a portfolio, and approvals and proofing as what it adds over Starter.",
+   "instances": [
+    {
+     "record_id": "project_management|1|ChatGPT|1",
+     "quote": "The Advanced plan adds portfolios, goals, approvals, and workload management within a portfolio."
+    },
+    {
+     "record_id": "project_management|1|ChatGPT|2",
+     "quote": "these oversight features require Advanced or higher."
+    },
+    {
+     "record_id": "project_management|1|ChatGPT|3",
+     "quote": "For portfolios, approvals, and resource management within a portfolio, you’ll need Advanced"
+    },
+    {
+     "record_id": "project_management|2|ChatGPT|1",
+     "quote": "Includes unlimited portfolios, portfolio workload, approvals, and proofing."
+    },
+    {
+     "record_id": "project_management|2|ChatGPT|2",
+     "quote": "**Asana Advanced** | Portfolios group multiple projects into one overview"
+    },
+    {
+     "record_id": "project_management|2|ChatGPT|3",
+     "quote": "Asana Advanced provides portfolios and workload views for oversight across projects."
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|1",
+     "quote": "Its Advanced plan brings together portfolios, goals, workload, approvals, and proofing"
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Advanced includes portfolios, goals, workload views, approvals, and proofing"
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "Advanced includes portfolios, goals, workload views, approvals, and proofing"
+    },
+    {
+     "record_id": "project_management|6|ChatGPT|1",
+     "quote": "Portfolios require Advanced or a higher plan."
+    },
+    {
+     "record_id": "project_management|6|ChatGPT|2",
+     "quote": "Portfolio reporting is available on Advanced and higher tiers—not every plan."
+    },
+    {
+     "record_id": "project_management|6|ChatGPT|3",
+     "quote": "Asana’s portfolios are available on Advanced and higher tiers."
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|3",
+     "quote": "Portfolio workload is available on Advanced"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "plans",
+   "claim": "SAML SSO, automated user provisioning, organization-wide workload and capacity planning require the Enterprise tier, above Advanced.",
+   "class": "true",
+   "proof_url": "https://asana.com/pricing",
+   "proof_quote": "SAML authentication connects Asana to your company's single sign-on User provisioning (SCIM) automates employee onboarding and offboarding Universal resource management balances workloads across your organization Capacity planning aligns staffing with upcoming project needs",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Enterprise plan card (Everything in Advanced, plus) lists SAML authentication, SCIM user provisioning, universal resource management across the organization and capacity planning; Advanced has resource management only within a portfolio.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|1",
+     "quote": "organization-wide workload and stronger governance require higher tiers."
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "SAML SSO, automated user provisioning, and organization-wide resource management require Enterprise."
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|1",
+     "quote": "Enterprise capacity planning supports longer-term project staffing."
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|2",
+     "quote": "Enterprise capacity planning supports longer-term project staffing."
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|3",
+     "quote": "organization-wide workload and project-level capacity planning require Enterprise."
+    },
+    {
+     "record_id": "project_management|7|Google AI Overviews|1",
+     "quote": "though deep capacity planning requires higher-tier plans."
+    },
+    {
+     "record_id": "project_management|7|Google AI Overviews|3",
+     "quote": "though advanced resource forecasting requires higher-tier plans."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "plans",
+   "claim": "The Starter plan includes timelines, dashboards, forms and automation.",
+   "class": "true",
+   "proof_url": "https://asana.com/pricing",
+   "proof_quote": "Timeline and Gantt views visualize schedules and task dependencies Reporting dashboards turn project data into clear insights Unlimited automations handle routine tasks and handoffs Forms capture requests and turn them into tasks",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Starter plan card lists timeline and Gantt views, reporting dashboards, unlimited automations and forms.",
+   "instances": [
+    {
+     "record_id": "project_management|1|ChatGPT|3",
+     "quote": "Starter is listed at **$10.99 per user/month, billed annually**, with timelines, dashboards, forms, and automation."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Two own pages read, both HTTP 200 and not thin: the pricing page settles every claim, and the home page settles none beyond it. No other own page was needed. C05 (free tier up to 15 users) is wrong: the pricing page gives the free Personal plan 2 users; no own page read dates a change of the free limit, so it is not classed stale. Cause tracing for C05 read six pages cited by the three Claude answers (q3 runs 1 to 3): icertglobal carries the $10.99 price but not the 15-user limit, guideflow says the free plan caps at 10 users, goodday.work carries 'free for up to 15 users' but about GoodDay, not Asana, celoxis and workzone carry no free-plan limit, and medium.com answered HTTP 403 (a person could read it once in a browser to complete the trace). Cause recorded as not found. Not coded: hedged or non-specific plan lines (q1 ChatGPT run 1 'Availability varies by plan', q5 ChatGPT runs 2 and 3 'Some planning features require paid plans/tiers', q3 ChatGPT run 2 'warrant reviewing Enterprise tiers', q7 Google AI Overviews run 2 'often requires higher-tier plans'), the q3 Perplexity run 1 category-wide range ('entry-level plans often start around $7-$11 per user per month for tools like ClickUp, monday.com, and Asana'), mentions of the company name (Asana, Inc.) and feature names (Portfolios, Universal Reporting, Rules, multi-homing), which are names or capabilities, not naming facts. C07 groups Enterprise-only features with two Google AI Overviews lines that say deep capacity planning or resource forecasting needs higher-tier plans. Pass 2 (8 Oct 2026): no browser snapshots exist for Asana and no claim was unverifiable for a blocked or thin page; the three gap lines (the generic free-trials line, a capability line in q3 Google AI Overviews run 2, the hedged category-wide price range) are out of scope; a scan of every table and Asana sub-heading in the full answers found only prices and plan lines already coded, capabilities and best-for cells (the passing 'enterprise-level quote' in q3 ChatGPT run 3 and 'Prices are in USD' in q1 ChatGPT run 2 were not coded), so no claim or instance was added. Consistency check: C05 stays wrong, since the pricing page states the free Personal plan's limit for the same plan and unit ('2 users collaborate for free'; user limit row '2 seats') with no dated change.",
+ "answer_record_ids": [
+  "project_management|1|ChatGPT|1",
+  "project_management|1|ChatGPT|2",
+  "project_management|1|ChatGPT|3",
+  "project_management|1|Claude|1",
+  "project_management|1|Claude|2",
+  "project_management|1|Claude|3",
+  "project_management|1|Google AI Mode|1",
+  "project_management|1|Google AI Mode|2",
+  "project_management|1|Google AI Mode|3",
+  "project_management|1|Google AI Overviews|1",
+  "project_management|1|Google AI Overviews|2",
+  "project_management|1|Google AI Overviews|3",
+  "project_management|1|Perplexity|1",
+  "project_management|1|Perplexity|2",
+  "project_management|1|Perplexity|3",
+  "project_management|10|Google AI Mode|1",
+  "project_management|10|Google AI Mode|2",
+  "project_management|10|Google AI Mode|3",
+  "project_management|10|Google AI Overviews|2",
+  "project_management|10|Google AI Overviews|3",
+  "project_management|10|Perplexity|3",
+  "project_management|2|ChatGPT|1",
+  "project_management|2|ChatGPT|2",
+  "project_management|2|ChatGPT|3",
+  "project_management|2|Google AI Mode|1",
+  "project_management|2|Google AI Mode|2",
+  "project_management|2|Google AI Mode|3",
+  "project_management|2|Google AI Overviews|1",
+  "project_management|2|Google AI Overviews|2",
+  "project_management|2|Google AI Overviews|3",
+  "project_management|2|Perplexity|1",
+  "project_management|2|Perplexity|2",
+  "project_management|2|Perplexity|3",
+  "project_management|3|ChatGPT|1",
+  "project_management|3|ChatGPT|2",
+  "project_management|3|ChatGPT|3",
+  "project_management|3|Claude|1",
+  "project_management|3|Claude|2",
+  "project_management|3|Claude|3",
+  "project_management|3|Google AI Mode|1",
+  "project_management|3|Google AI Mode|2",
+  "project_management|3|Google AI Mode|3",
+  "project_management|3|Google AI Overviews|1",
+  "project_management|3|Google AI Overviews|2",
+  "project_management|3|Google AI Overviews|3",
+  "project_management|3|Perplexity|1",
+  "project_management|3|Perplexity|2",
+  "project_management|3|Perplexity|3",
+  "project_management|4|ChatGPT|1",
+  "project_management|4|ChatGPT|2",
+  "project_management|4|ChatGPT|3",
+  "project_management|4|Claude|1",
+  "project_management|4|Claude|3",
+  "project_management|4|Google AI Mode|1",
+  "project_management|4|Google AI Mode|2",
+  "project_management|4|Google AI Mode|3",
+  "project_management|4|Google AI Overviews|1",
+  "project_management|4|Google AI Overviews|2",
+  "project_management|4|Google AI Overviews|3",
+  "project_management|4|Perplexity|1",
+  "project_management|4|Perplexity|2",
+  "project_management|4|Perplexity|3",
+  "project_management|5|ChatGPT|1",
+  "project_management|5|ChatGPT|2",
+  "project_management|5|ChatGPT|3",
+  "project_management|5|Claude|1",
+  "project_management|5|Claude|2",
+  "project_management|5|Claude|3",
+  "project_management|5|Google AI Mode|2",
+  "project_management|5|Google AI Mode|3",
+  "project_management|5|Google AI Overviews|1",
+  "project_management|5|Google AI Overviews|3",
+  "project_management|5|Perplexity|1",
+  "project_management|5|Perplexity|2",
+  "project_management|5|Perplexity|3",
+  "project_management|6|ChatGPT|1",
+  "project_management|6|ChatGPT|2",
+  "project_management|6|ChatGPT|3",
+  "project_management|6|Claude|1",
+  "project_management|6|Google AI Mode|3",
+  "project_management|7|ChatGPT|1",
+  "project_management|7|ChatGPT|2",
+  "project_management|7|ChatGPT|3",
+  "project_management|7|Claude|1",
+  "project_management|7|Claude|2",
+  "project_management|7|Claude|3",
+  "project_management|7|Google AI Mode|1",
+  "project_management|7|Google AI Mode|2",
+  "project_management|7|Google AI Mode|3",
+  "project_management|7|Google AI Overviews|1",
+  "project_management|7|Google AI Overviews|2",
+  "project_management|7|Google AI Overviews|3",
+  "project_management|7|Perplexity|1",
+  "project_management|7|Perplexity|2",
+  "project_management|7|Perplexity|3",
+  "project_management|8|Google AI Mode|2",
+  "project_management|9|Google AI Mode|1"
+ ],
+ "named_count": 97
+}

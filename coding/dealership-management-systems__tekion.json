@@ -1,0 +1,1442 @@
+{
+ "vendor": "Tekion",
+ "slug": "tekion",
+ "category": "dealership-management-systems",
+ "coded_at": "2026-10-08T04:22:00Z",
+ "pages_read": [
+  {
+   "url": "https://tekion.com/",
+   "key": "e81e041e4eb240f2",
+   "used_for": "home"
+  },
+  {
+   "url": "https://tekion.com/about-us",
+   "key": "989a8208b9fef5ef",
+   "used_for": "about (founding, founders, timeline)"
+  },
+  {
+   "url": "https://tekion.com/oem-partners",
+   "key": "9e691dcc7d85bff5",
+   "used_for": "integrations (certified OEM integrations)"
+  },
+  {
+   "url": "https://tekion.com/products/dms",
+   "key": "0df7d1ed07cc5ab9",
+   "used_for": "product (DMS)"
+  },
+  {
+   "url": "https://tekion.com/products",
+   "key": "b9229396792dee73",
+   "used_for": "product (Automotive Retail Cloud)"
+  },
+  {
+   "url": "https://tekion.com/trust-portal/security",
+   "key": "eed6400ad481bdc7",
+   "used_for": "security (hosting)"
+  },
+  {
+   "url": "https://cloud.tekion.com/products/apc",
+   "key": "58f7f37836e3d0a6",
+   "used_for": "integrations (Automotive Partner Cloud, cited): HTTP 403 challenge, no text"
+  },
+  {
+   "url": "https://www.vendormotive.com/insights/best-dealership-dms-software-2026",
+   "key": "76174df5340d82bf",
+   "used_for": "cause (cited page): HTTP 429, no text"
+  },
+  {
+   "url": "https://www.dealerint.com/blog/tekion-arc-review-2026",
+   "key": "ead7d9bccb342e1a",
+   "used_for": "cause (cited page)"
+  },
+  {
+   "url": "https://www.dealerint.com/best/dealer-management-system",
+   "key": "87f5c486286c8492",
+   "used_for": "cause (cited page, statement not found)"
+  },
+  {
+   "url": "https://dealersignals.com/insights/tekion-dms-review/",
+   "key": "963b8f7393d2ceed",
+   "used_for": "cause (cited page)"
+  }
+ ],
+ "needs_browser_read": [
+  "https://cloud.tekion.com/products/apc"
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "product_names",
+   "claim": "Tekion's platform is named Automotive Retail Cloud (ARC).",
+   "class": "true",
+   "proof_url": "https://tekion.com/products",
+   "proof_quote": "Tekion ARC is an end-to-end, AI-native and cloud-native automotive retail software platform that unifies DMS, CRM, service, payments, payroll, and analytics into one intelligent system for automotive dealerships.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page names the platform Tekion Automotive Retail Cloud (ARC).",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|ChatGPT|1",
+     "quote": "**Tekion ARC**"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|ChatGPT|2",
+     "quote": "**Tekion ARC**"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|ChatGPT|3",
+     "quote": "**Tekion ARC**"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "Tekion ARC is cloud-native, open-API"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "Tekion ARC is cloud-native, open-API"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "Tekion's Automotive Retail Cloud (ARC) is a unified platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|1",
+     "quote": "Tekion (ARC) - Best for Cloud-Native Innovation & Enterprise View"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|2",
+     "quote": "Tekion (Automotive Retail Cloud - ARC)"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|3",
+     "quote": "1. Tekion (Arc)"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|1",
+     "quote": "Tekion ARC | Best Modern / Cloud-Native Option"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|2",
+     "quote": "1. Tekion (Automotive Retail Cloud) — Best Overall Modern Pick"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|3",
+     "quote": "1. Tekion Automotive Retail Cloud (ARC)"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|1",
+     "quote": "**Tekion Automotive Retail Cloud**"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|2",
+     "quote": "**Tekion Automotive Retail Cloud**"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|3",
+     "quote": "**Tekion Automotive Retail Cloud**"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "is a cloud-native Automotive Retail Cloud (ARC) platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|1",
+     "quote": "**Tekion Automotive Retail Cloud**"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|2",
+     "quote": "**Tekion Automotive Retail Cloud**"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|3",
+     "quote": "**Tekion Automotive Retail Cloud**"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "is a cloud-native Automotive Retail Cloud (ARC) platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|2",
+     "quote": "Tekion (Automotive Retail Cloud): A modern, cloud-native, and AI-driven platform."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|2",
+     "quote": "Tekion (Automotive Retail Cloud): A cloud-native platform built on an open, self-serve API architecture."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|3",
+     "quote": "Tekion (Automotive Retail Cloud): A modern, cloud-native alternative built on open, self-serve APIs."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|3",
+     "quote": "**Tekion Automotive Retail Cloud**"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Tekion (Automotive Retail Cloud)"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "Tekion's Automotive Retail Cloud (ARC) is a unified platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "Tekion Automotive Retail Cloud"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|1",
+     "quote": "Tekion ARC is a fast-growing cloud-native platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|3",
+     "quote": "Tekion (Automotive Retail Cloud): A modern, AI-native, cloud-centric platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|3",
+     "quote": "Cloud-native ARC brings DMS, CRM, service, payments, payroll, and analytics onto one platform."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "is a cloud-native Automotive Retail Cloud (ARC) platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "is a cloud-native Automotive Retail Cloud (ARC) platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "Tekion ARC is the first cloud-native dealer management system built from scratch for the modern dealership"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|1",
+     "quote": "Feature / Metric | Tekion (ARC) | CDK Global (Drive)"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|2",
+     "quote": "running on Microsoft Azure (Automotive Retail Cloud)"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|3",
+     "quote": "Tekion (Automotive Retail Cloud - ARC)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "product_names",
+   "claim": "Tekion's platform is named Tekion Automotive Cloud.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read name the products Automotive Retail Cloud, Automotive Enterprise Cloud and Automotive Partner Cloud and never use 'Automotive Cloud' on its own; no page says that name is not used, so it is not explicitly contradicted.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Mode|1",
+     "quote": "Tekion Automotive Cloud"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Mode|2",
+     "quote": "Tekion Automotive Cloud: Built by former Tesla executives"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Mode|3",
+     "quote": "Tekion (Automotive Cloud): Best modern, cloud-native enterprise alternative."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|1",
+     "quote": "Tekion (Automotive Cloud)"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|3",
+     "quote": "Tekion Automotive Cloud | Modern user experience, open APIs, and unified cloud data"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|2",
+     "quote": "Tekion (automotive Cloud)"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|3",
+     "quote": "Tekion (Automotive Cloud)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "product_names",
+   "claim": "Automotive Partner Cloud (APC) is Tekion's partner integration product.",
+   "class": "true",
+   "proof_url": "https://tekion.com/about-us",
+   "proof_quote": "Tekion Automotive Partner Cloud (APC) launches next gen platform",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page names Tekion Automotive Partner Cloud (APC), and the home page lists it as the product for technology partners.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|1",
+     "quote": "Tekion has Automotive Partner Cloud and an app store"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|2",
+     "quote": "Tekion offers Automotive Partner Cloud"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|3",
+     "quote": "Automotive Partner Cloud provides partner APIs and integrations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "plans",
+   "claim": "CRM and payroll are add-ons to the Tekion DMS.",
+   "class": "true",
+   "proof_url": "https://tekion.com/products/dms",
+   "proof_quote": "Accelerate lead response and personalize engagement with CRM—an add-on solution that works seamlessly with your DMS on the same unified platform.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page describes CRM as an add-on solution and Payroll as 'an add-on that’s fully connected to your DMS'.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|3",
+     "quote": "also offers integrated CRM and payroll add-ons"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|1",
+     "quote": "with CRM and payroll available as connected add-ons"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|2",
+     "quote": "Tekion explicitly identifies CRM and payroll as add-ons"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|3",
+     "quote": "CRM and payroll are identified as add-ons to the DMS."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Tekion pricing is custom and quote-based (no published rates).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read publish no prices and offer demo requests, but none states how Tekion prices or quotes.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|3",
+     "quote": "Tekion | Enterprise & multi-rooftop | Cloud-native, modern UI | Request a quote"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "| **Tekion ARC** | Cloud-native franchise groups | Enterprise (quote-based) |"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Both platforms use custom, opaque pricing — no public rate cards."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Both platforms use custom, quote-based pricing — neither publishes rates publicly."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "Neither platform publishes pricing, but here's what's known:"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Tekion is priced as a subscription per rooftop per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states Tekion's price basis.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Tekion's pricing is subscription-based, per-rooftop, per-month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Tekion's core DMS costs about $6,000 per month per store (reported GM dealer rate).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read publishes Tekion prices.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Based on available reports, Tekion costs approximately ~$6,000/month per store for core DMS (reported GM dealer rate)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Large multi-store operations pay in the low $30,000s per month on Tekion.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read publishes Tekion prices or customer spend.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Tekion has helped some large operations reduce DMS costs from $50,000–60,000 per month (CDK enterprise) to the low $30,000s."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Tekion has helped some large operations reduce DMS costs from $50,000–60,000 per month (CDK enterprise) to the low $30,000s."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "One multi-store group switching from CDK reported total costs dropping from $50,000–$60,000/month to the low $30,000s."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Tekion charges no (hidden) data integration fees.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states Tekion's integration or API fees; the cited Automotive Partner Cloud page answered 403 and is listed for a browser read.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|1",
+     "quote": "True cloud-native architecture, built-in enterprise CRM, no hidden data integration fees, strong multi-store AI reporting."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|2",
+     "quote": "Integration Philosophy | Open API (No extortion fees) | Closed / Monetized"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "founding",
+   "claim": "Tekion was founded in 2016.",
+   "class": "true",
+   "proof_url": "https://tekion.com/about-us",
+   "proof_quote": "2016 Founded by CEO, Jay Vijayan and COO, Guru Sankararaman",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page timeline dates Tekion's founding to 2016.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "Founded in 2016 by ex-SAP CEO Raj Sundararajan"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "Founded in 2016 by ex-SAP CEO Raj Sundararajan"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "founded in 2016 by Jay Vijayan, formerly CTO of Tesla"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "founding",
+   "claim": "Tekion was founded by Jay Vijayan.",
+   "class": "true",
+   "proof_url": "https://tekion.com/about-us",
+   "proof_quote": "2016 Founded by CEO, Jay Vijayan and COO, Guru Sankararaman",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page names Jay Vijayan as founder (with co-founder Guru Sankararaman).",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "Tekion is a cloud-native dealership platform founded by Jay Vijayan, a former Tesla CIO."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "founded in 2016 by Jay Vijayan, formerly CTO of Tesla"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "founding",
+   "claim": "Founder Jay Vijayan was formerly Tesla's CIO.",
+   "class": "true",
+   "proof_url": "https://tekion.com/about-us",
+   "proof_quote": "Prior to founding Tekion, he was the Global CIO of Tesla Motors",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Jay Vijayan's bio on the about page says he was the Global CIO of Tesla Motors before founding Tekion.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "Tekion is a cloud-native dealership platform founded by Jay Vijayan, a former Tesla CIO."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Tekion, founded in 2016 by former Tesla CIO Jay Vijayan"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "Founded by former Tesla CIO Jay Vijayan"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "founding",
+   "claim": "Founder Jay Vijayan was formerly Tesla's CTO.",
+   "class": "wrong",
+   "proof_url": "https://tekion.com/about-us",
+   "proof_quote": "Prior to founding Tekion, he was the Global CIO of Tesla Motors",
+   "stale_change": null,
+   "causing_url": "https://www.dealerint.com/blog/tekion-arc-review-2026",
+   "causing_type": "other",
+   "causing_quote": "Founded in 2016 by Jay Vijayan, formerly CTO of Tesla, Tekion set out to rebuild the DMS from zero",
+   "rationale": "The about page gives his prior Tesla role as Global CIO, not CTO; the cited DealerInt blog review (a software vendor's blog) carries the CTO title.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "founded in 2016 by Jay Vijayan, formerly CTO of Tesla"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "founding",
+   "claim": "Tekion was built by former Tesla executives (tech leaders).",
+   "class": "true",
+   "proof_url": "https://tekion.com/about-us",
+   "proof_quote": "Prior to founding Tekion, he was the Global CIO of Tesla Motors",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page states that founder Jay Vijayan was Global CIO of Tesla Motors before founding Tekion.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Mode|2",
+     "quote": "Built by former Tesla executives"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|1",
+     "quote": "Built by former Tesla tech leaders"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "founding",
+   "claim": "Tekion was founded by Raj Sundararajan, described as an ex-SAP CEO.",
+   "class": "wrong",
+   "proof_url": "https://tekion.com/about-us",
+   "proof_quote": "2016 Founded by CEO, Jay Vijayan and COO, Guru Sankararaman",
+   "stale_change": null,
+   "causing_url": "https://dealersignals.com/insights/tekion-dms-review/",
+   "causing_type": "review site",
+   "causing_quote": "Founded in 2016 by ex-SAP CEO Raj Sundararajan, it is cloud-native",
+   "rationale": "The about page names Tekion's founders as Jay Vijayan and Guru Sankararaman; the cited DealerSignals review carries the Raj Sundararajan statement word for word.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "Founded in 2016 by ex-SAP CEO Raj Sundararajan"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "Founded in 2016 by ex-SAP CEO Raj Sundararajan"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "customer_counts",
+   "claim": "Tekion serves roughly 3,000 rooftops (dealerships).",
+   "class": "true",
+   "proof_url": "https://tekion.com/",
+   "proof_quote": "3,000+ Dealerships Powered by Tekion",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states 3,000+ dealerships powered by Tekion, matching roughly 3,000 rooftops.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "Tekion serves roughly 3,000 rooftops"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "Tekion serves roughly **3,000 rooftops**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "integrations",
+   "claim": "Tekion supports 52 OEM brands.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page timeline gives 'integrations with 50 OEM brands globally' as of 2023 and the OEM page lists OEM groups without a brand total, so the current count of 52 is neither confirmed nor contradicted.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "supports 52 OEM brands including GM, Ford, and Honda."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "integrations",
+   "claim": "Tekion integrates with 50+ OEMs.",
+   "class": "true",
+   "proof_url": "https://tekion.com/about-us",
+   "proof_quote": "Tekion has integrations with 50 OEM brands globally",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page states integrations with 50 OEM brands, which meets '50+' read as at least 50.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "| **Tekion** | Tech-forward groups modernizing | Cloud-native (Azure) | 50+ OEMs, open API | Open, real-time |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "integrations",
+   "claim": "Tekion integrates with GM (General Motors).",
+   "class": "true",
+   "proof_url": "https://tekion.com/oem-partners",
+   "proof_quote": "General Motors 22 3 module · 8 integrations Accounting Dealer Data Share (DDS) Financial Accounting System",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The certified OEM integrations page lists General Motors with its integrated programs.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "| OEM fit | GM, Toyota, Acura, Honda | Broadest OEM certification list |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "integrations",
+   "claim": "Tekion integrates with Ford.",
+   "class": "true",
+   "proof_url": "https://tekion.com/oem-partners",
+   "proof_quote": "Ford/Lincoln 22 3 module · 8 integrations Accounting Financial Statement Ford Reports (COMBAT Reports)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The certified OEM integrations page lists Ford/Lincoln with its integrated programs.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "supports 52 OEM brands including GM, Ford, and Honda."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "integrations",
+   "claim": "Tekion integrates with Honda.",
+   "class": "true",
+   "proof_url": "https://tekion.com/oem-partners",
+   "proof_quote": "Honda 22 3 module · 8 integrations Accounting Financial Statement Parts",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The certified OEM integrations page lists Honda with its integrated programs.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Tekion supports 52 OEM brands including GM, Ford, and Honda."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "| OEM fit | GM, Toyota, Acura, Honda | Broadest OEM certification list |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "integrations",
+   "claim": "Tekion integrates with Toyota.",
+   "class": "true",
+   "proof_url": "https://tekion.com/oem-partners",
+   "proof_quote": "Gulf States Toyota (GST) 22 3 module · 8 integrations Accounting Financial Statement Parts",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The certified OEM integrations page lists Toyota distributors Gulf States Toyota (GST) and TMNA with integrated programs.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "| OEM fit | GM, Toyota, Acura, Honda | Broadest OEM certification list |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "integrations",
+   "claim": "Tekion integrates with Acura.",
+   "class": "true",
+   "proof_url": "https://tekion.com/oem-partners",
+   "proof_quote": "Acura 22 3 module · 8 integrations Accounting Financial Statement Parts",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The certified OEM integrations page lists Acura with its integrated programs.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "| OEM fit | GM, Toyota, Acura, Honda | Broadest OEM certification list |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "integrations",
+   "claim": "BMW has certified Tekion for its dealer network (in select markets).",
+   "class": "true",
+   "proof_url": "https://tekion.com/oem-partners",
+   "proof_quote": "BMW/MINI 22 3 module · 8 integrations Accounting Financial Statement Parts",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The page, headed Certified OEM Integrations ('Explore Tekion's certified DMS modules and OEM integrations'), lists BMW/MINI with integrated programs.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Several luxury brands (including BMW in select markets) have certified Tekion for their dealer networks."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "integrations",
+   "claim": "GM has endorsed Tekion as a preferred DMS partner.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages list General Motors integrations and an Automotive Enterprise Cloud launched for General Motors (2022) but do not describe a preferred DMS partner endorsement.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "GM has endorsed Tekion as a preferred DMS partner, driving adoption across the GM dealer network."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "platforms",
+   "claim": "Tekion is cloud-native (a cloud platform that runs in the browser).",
+   "class": "true",
+   "proof_url": "https://tekion.com/products",
+   "proof_quote": "Tekion ARC is an end-to-end, AI-native and cloud-native automotive retail software platform that unifies DMS, CRM, service, payments, payroll, and analytics into one intelligent system for automotive dealerships.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page describes Tekion ARC as cloud-native.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|ChatGPT|3",
+     "quote": "You want to standardize the group on a unified cloud platform."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "Tekion is a cloud-native dealership platform founded by Jay Vijayan, a former Tesla CIO."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "Tekion launched as the first cloud-native dealer management system built from scratch."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "in a single cloud-native system"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|1",
+     "quote": "It is built entirely in the cloud on a modern data foundation"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|2",
+     "quote": "The Vibe: Cloud-native, hyper-modern, and built with zero legacy code."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|3",
+     "quote": "Tekion was built from scratch on modern cloud architecture."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|1",
+     "quote": "True cloud-native architecture, built-in enterprise CRM, no hidden data integration fees, strong multi-store AI reporting."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|2",
+     "quote": "It is built natively on a modern cloud architecture with open APIs"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|3",
+     "quote": "It is an AI-native, cloud-first platform that unifies the DMS, CRM, and digital retail layers into a single console."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Perplexity|1",
+     "quote": "**Tekion** — best if you want a modern cloud platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Perplexity|2",
+     "quote": "offers cloud-native deployment and native mobile tools"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Perplexity|3",
+     "quote": "**Tekion** — best fit if you want modern UX, real-time data, and cloud-native architecture"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|1",
+     "quote": "Dealers wanting a cloud-native, unified platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|2",
+     "quote": "A cloud-native platform combining DMS, CRM, service, payments, and analytics"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|3",
+     "quote": "Dealers wanting a unified, cloud-native platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Claude|1",
+     "quote": "should consider Tekion for its cloud-native architecture and AI-driven features."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Claude|2",
+     "quote": "Tekion offers a modern, cloud-native dealership management system (DMS)"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "is a cloud-native Automotive Retail Cloud (ARC) platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Mode|1",
+     "quote": "Tekion: Best modern cloud-native platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Mode|2",
+     "quote": "Tekion | Enterprise & modern stores | Cloud-native platform, AI capabilities, and high scalability"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Mode|3",
+     "quote": "Tekion | Enterprise & Multi-Store Franchises | Fully cloud-native, modern UI, fast updates"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|1",
+     "quote": "Tekion for modern cloud scalability"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|2",
+     "quote": "Tekion: Cloud-native, AI-driven platform praised for speed and modern UX"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|3",
+     "quote": "Tekion | Enterprise & multi-rooftop | Cloud-native, modern UI | Request a quote"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Perplexity|1",
+     "quote": "a strong fit for multi-rooftop groups that want a modern cloud-native system"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Perplexity|2",
+     "quote": "is positioned for modern, cloud-native dealership operations"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Perplexity|3",
+     "quote": "especially for cloud-native, modern dealership operations"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|1",
+     "quote": "You want a unified, cloud-native platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|2",
+     "quote": "You want a cloud-native, unified platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|3",
+     "quote": "Its cloud-native platform brings DMS, CRM, service, payments, and analytics together."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|1",
+     "quote": "Tekion is a cloud-native automotive platform that focuses on the automotive retail sector"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|2",
+     "quote": "Tekion is a cloud-native automotive platform that focuses on the automotive retail sector"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "is a cloud-native Automotive Retail Cloud (ARC) platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|1",
+     "quote": "Tekion: A modern, cloud-native DMS built with open, self-serve APIs."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|2",
+     "quote": "Tekion (Automotive Retail Cloud): A modern, cloud-native, and AI-driven platform."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|3",
+     "quote": "Tekion is built from the ground up on a unified cloud architecture with open APIs"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|1",
+     "quote": "Tekion: A cloud-native alternative built with modern open, self-serve APIs."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|2",
+     "quote": "Tekion (Automotive Retail Cloud): A cloud-native platform built on an open, self-serve API architecture."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|3",
+     "quote": "Tekion (Automotive Retail Cloud): A modern, cloud-native alternative built on open, self-serve APIs."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Perplexity|1",
+     "quote": "a modern, cloud-native DMS built from scratch"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Perplexity|2",
+     "quote": "a modern cloud-native DMS built from scratch"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Perplexity|3",
+     "quote": "**modern cloud-native DMS** built from scratch"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|1",
+     "quote": "A dealership looking for a cloud-first, unified platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|2",
+     "quote": "Dealers prioritizing a modern, unified cloud platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|3",
+     "quote": "You want a cloud-native platform and fewer separate systems"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "is a cloud-native Automotive Retail Cloud (ARC) platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "it is cloud-native — built from scratch, not a web wrapper on a legacy system."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "it is cloud-native — built from scratch, not a web wrapper on a legacy system."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|1",
+     "quote": "Tekion ARC is a fast-growing cloud-native platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|2",
+     "quote": "Tekion | Tech-Forward Dealerships | AI-native Cloud Platform | Franchise / Large"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|3",
+     "quote": "A modern, AI-native, cloud-centric platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|1",
+     "quote": "modern cloud-native systems like Tekion"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|2",
+     "quote": "Tekion: This is a new cloud platform."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|3",
+     "quote": "Tekion: A cutting-edge, AI-native cloud platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Perplexity|1",
+     "quote": "a modern, cloud-native choice"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Perplexity|2",
+     "quote": "Cloud-native and commonly listed among the main Dealertrack alternatives."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Perplexity|3",
+     "quote": "a modern, cloud-native platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|2",
+     "quote": "Its cloud-native platform brings sales, service, parts, and accounting together with shared real-time data."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|3",
+     "quote": "Cloud-native ARC brings DMS, CRM, service, payments, payroll, and analytics onto one platform."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "is a cloud-native Automotive Retail Cloud (ARC) platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "is a cloud-native Automotive Retail Cloud (ARC) platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "Tekion ARC is the first cloud-native dealer management system built from scratch for the modern dealership"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|1",
+     "quote": "Tekion: Built from the ground up on modern cloud infrastructure."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|2",
+     "quote": "Tekion is truly cloud-native, meaning it runs smoothly in a browser"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|3",
+     "quote": "Architecture | Modern, multi-tenant cloud-native | Legacy-hybrid / traditional enterprise"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|1",
+     "quote": "Modern Cloud Architecture: Built natively in the cloud with agile API access"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|2",
+     "quote": "Tekion: Built from scratch in 2016 as a cloud-native platform running on Microsoft Azure"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|3",
+     "quote": "Tekion is a cloud-native disruptor built from scratch on a single codebase"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Perplexity|2",
+     "quote": "**Tekion** is repeatedly described as **cloud-native** with a **single unified platform**"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Perplexity|3",
+     "quote": "**Choose Tekion** if you want **cloud-native architecture, faster innovation, stronger mobile/UX, and easier integration with newer software**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "platforms",
+   "claim": "Tekion runs on Microsoft Azure.",
+   "class": "true",
+   "proof_url": "https://tekion.com/trust-portal/security",
+   "proof_quote": "As an end-to-end AI-native, cloud platform, Tekion leverages the state-of-the-art security provided by Azure and AWS-so your data is protected by world-class security foundations.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The security page names Microsoft Azure as an infrastructure provider; it also names AWS, so 'everything runs on Microsoft Azure' in two answers overstates exclusivity, but the Azure hosting fact itself is confirmed.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "| **Tekion** | Tech-forward groups modernizing | Cloud-native (Azure) | 50+ OEMs, open API | Open, real-time |"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "everything runs on Microsoft Azure"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "Everything runs on Microsoft Azure"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|2",
+     "quote": "Tekion: Built from scratch in 2016 as a cloud-native platform running on Microsoft Azure"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "platforms",
+   "claim": "Tekion needs no on-premise infrastructure or dealership servers.",
+   "class": "true",
+   "proof_url": "https://tekion.com/products",
+   "proof_quote": "Traditional dealer management system (DMS) platforms were built decades ago on an on-premise architecture with features bolted on over time. ARC was built AI-native from day one on a single cloud platform",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page contrasts the on-premise architecture of traditional DMS platforms with ARC, built on a single cloud platform.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "no on-premise infrastructure, no servers at the dealership"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Tekion has no servers in your back office"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "With Tekion, there are no servers in your back office."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|2",
+     "quote": "with no back-office servers required"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "no server maintenance required"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "eliminating the data silos and on-premise infrastructure that plague legacy dealers"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|2",
+     "quote": "without legacy server baggage"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|2",
+     "quote": "without clunky terminal emulators or heavy local server setups"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "platforms",
+   "claim": "Tekion can be used on mobile devices (smartphones, tablets, any device).",
+   "class": "true",
+   "proof_url": "https://tekion.com/products/dms",
+   "proof_quote": "Modern Experience AI-native, intuitive, and designed for how your team actually works—on any device, anywhere.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page says the platform is designed to work on any device, anywhere.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Perplexity|2",
+     "quote": "offers cloud-native deployment and native mobile tools"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Claude|2",
+     "quote": "Mobile accessibility extends beyond basic functions, offering full dealership management capabilities from smartphones and tablets."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Mobile accessibility extends beyond basic functions, offering full dealership management capabilities from smartphones and tablets."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "staff can work from any device"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|2",
+     "quote": "User Interface | Fast, consumer-grade, phone-and-tablet friendly"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "Mobile accessibility extends beyond basic functions, offering full dealership management capabilities from smartphones and tablets."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|3",
+     "quote": "Consumer-grade, fast, mobile-first"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "customer_counts",
+   "claim": "Tekion has 1,100+ dealership rooftops (reached within roughly five years).",
+   "class": "true",
+   "proof_url": "https://tekion.com/",
+   "proof_quote": "3,000+ Dealerships Powered by Tekion",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "1,100+ is a lower bound and the home page states 3,000+ dealerships powered by Tekion, so the count is true as written; the 'roughly five years' time frame is not dated on any page read and was not classed.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "Going from zero to 1,100+ dealership rooftops in roughly five years is fast in automotive retail."
+    }
+   ]
+  }
+ ],
+ "notes": "Six own pages read with text (home, about, OEM partners, DMS, products, security), all HTTP 200 and not thin. The cited own page https://cloud.tekion.com/products/apc answered HTTP 403 (challenge) and is listed in needs_browser_read; it would bear on C09 (integration fees). Cause tracing: VendorMotive's roundup answered 429 (not retried); DealerInt's best-DMS page did not carry the statements; DealerSignals' Tekion review carries the Raj Sundararajan founder line (C15) and DealerInt's Tekion blog review carries 'formerly CTO of Tesla' (C13). Judgement calls: (1) C13 is wrong because the vendor's bio gives Jay Vijayan's Tesla title as Global CIO; (2) C27 (Azure) is true although the security page names Azure and AWS, so 'everything runs on Microsoft Azure' overstates exclusivity; (3) C17 (52 OEM brands) is unverifiable because the only count is '50 OEM brands' dated 2023, while C18 (50+) is true as a lower bound. 'Tekion Automotive Cloud' (C02) is a near-miss of the published name Automotive Retail Cloud and is unverifiable, not wrong. Hedged or out-of-scope lines not coded: '$640M+ in total funding at a $4B+ valuation' (funding, valuation), G2 ratings, '3,000 new features in 2025', '22% faster' deal desk, '20–35% lower than comparable CDK configurations' (comparison with another vendor), 'Reports suggest Tekion costs approximately ~$6,000/month' and 'A 3% annual increase cap has been reported' (hedged; the committed '$6,000' line in q7 Claude 1 is coded as C07), 'often cited around $4k–$8k per month' (hedged), named customers (Asbury, Ken Garff, American Motors Group) and lawsuits. The about page also states Tekion is headquartered in Pleasanton, CA; no answer made a headquarters claim. Pass 2 (8 Oct 2026): no browser snapshot of https://cloud.tekion.com/products/apc exists in the manifest (it was requested in browser-reads.json but no browser row was recorded), so it stays in needs_browser_read and C09 stays unverifiable; no claim was re-classed. Consistency check: C13 (Tesla CTO) and C15 (founded by Raj Sundararajan) stay wrong; the about page states Jay Vijayan's prior Tesla role as 'Global CIO of Tesla Motors' and names the founders as Jay Vijayan and Guru Sankararaman, an explicit contradiction of the same fact. Completeness from comparison tables and sub-headed lines: new claim C30 '1,100+ dealership rooftops' (dealership-management-systems|q10|Claude|3), true as a lower bound against '3,000+ Dealerships Powered by Tekion'; two instances added to C29 (mobile use): dealership-management-systems|q6|Claude|3 and dealership-management-systems|q7|Google AI Mode|3 ('mobile-first' interface cell). Gap lines added nothing: they are comparisons with CDK, hedged price ranges (the 'often cited' $4k to $8k a month), lawsuits, feature descriptions, or repeats for answers already listed.",
+ "answer_record_ids": [
+  "dealership-management-systems|q10|ChatGPT|1",
+  "dealership-management-systems|q10|ChatGPT|2",
+  "dealership-management-systems|q10|ChatGPT|3",
+  "dealership-management-systems|q10|Claude|1",
+  "dealership-management-systems|q10|Claude|2",
+  "dealership-management-systems|q10|Claude|3",
+  "dealership-management-systems|q10|Google AI Mode|1",
+  "dealership-management-systems|q10|Google AI Mode|2",
+  "dealership-management-systems|q10|Google AI Mode|3",
+  "dealership-management-systems|q10|Google AI Overviews|1",
+  "dealership-management-systems|q10|Google AI Overviews|2",
+  "dealership-management-systems|q10|Google AI Overviews|3",
+  "dealership-management-systems|q10|Perplexity|1",
+  "dealership-management-systems|q10|Perplexity|2",
+  "dealership-management-systems|q10|Perplexity|3",
+  "dealership-management-systems|q4|ChatGPT|1",
+  "dealership-management-systems|q4|ChatGPT|2",
+  "dealership-management-systems|q4|ChatGPT|3",
+  "dealership-management-systems|q4|Claude|1",
+  "dealership-management-systems|q4|Claude|2",
+  "dealership-management-systems|q4|Claude|3",
+  "dealership-management-systems|q4|Google AI Mode|1",
+  "dealership-management-systems|q4|Google AI Mode|2",
+  "dealership-management-systems|q4|Google AI Mode|3",
+  "dealership-management-systems|q4|Google AI Overviews|1",
+  "dealership-management-systems|q4|Google AI Overviews|2",
+  "dealership-management-systems|q4|Google AI Overviews|3",
+  "dealership-management-systems|q4|Perplexity|1",
+  "dealership-management-systems|q4|Perplexity|2",
+  "dealership-management-systems|q4|Perplexity|3",
+  "dealership-management-systems|q5|ChatGPT|1",
+  "dealership-management-systems|q5|ChatGPT|2",
+  "dealership-management-systems|q5|ChatGPT|3",
+  "dealership-management-systems|q5|Claude|1",
+  "dealership-management-systems|q5|Claude|2",
+  "dealership-management-systems|q5|Claude|3",
+  "dealership-management-systems|q5|Google AI Mode|1",
+  "dealership-management-systems|q5|Google AI Mode|2",
+  "dealership-management-systems|q5|Google AI Mode|3",
+  "dealership-management-systems|q5|Google AI Overviews|1",
+  "dealership-management-systems|q5|Google AI Overviews|2",
+  "dealership-management-systems|q5|Google AI Overviews|3",
+  "dealership-management-systems|q5|Perplexity|1",
+  "dealership-management-systems|q5|Perplexity|2",
+  "dealership-management-systems|q5|Perplexity|3",
+  "dealership-management-systems|q6|ChatGPT|1",
+  "dealership-management-systems|q6|ChatGPT|2",
+  "dealership-management-systems|q6|ChatGPT|3",
+  "dealership-management-systems|q6|Claude|1",
+  "dealership-management-systems|q6|Claude|2",
+  "dealership-management-systems|q6|Claude|3",
+  "dealership-management-systems|q6|Google AI Mode|1",
+  "dealership-management-systems|q6|Google AI Mode|2",
+  "dealership-management-systems|q6|Google AI Mode|3",
+  "dealership-management-systems|q6|Google AI Overviews|1",
+  "dealership-management-systems|q6|Google AI Overviews|2",
+  "dealership-management-systems|q6|Google AI Overviews|3",
+  "dealership-management-systems|q6|Perplexity|1",
+  "dealership-management-systems|q6|Perplexity|2",
+  "dealership-management-systems|q6|Perplexity|3",
+  "dealership-management-systems|q7|ChatGPT|1",
+  "dealership-management-systems|q7|ChatGPT|2",
+  "dealership-management-systems|q7|ChatGPT|3",
+  "dealership-management-systems|q7|Claude|1",
+  "dealership-management-systems|q7|Claude|2",
+  "dealership-management-systems|q7|Claude|3",
+  "dealership-management-systems|q7|Google AI Mode|1",
+  "dealership-management-systems|q7|Google AI Mode|2",
+  "dealership-management-systems|q7|Google AI Mode|3",
+  "dealership-management-systems|q7|Google AI Overviews|1",
+  "dealership-management-systems|q7|Google AI Overviews|2",
+  "dealership-management-systems|q7|Google AI Overviews|3",
+  "dealership-management-systems|q7|Perplexity|1",
+  "dealership-management-systems|q7|Perplexity|2",
+  "dealership-management-systems|q7|Perplexity|3",
+  "dealership-management-systems|q8|Claude|1"
+ ],
+ "named_count": 76
+}

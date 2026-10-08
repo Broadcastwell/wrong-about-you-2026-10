@@ -1,8 +1,21 @@
-# Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages
+// Write README.md and CITATION.cff for Wrong About You v1.0 from results/summary.json. Numbers are never typed by hand.
+// Usage: node scripts/build-readme.mjs [doi] [conceptDoi] [releaseDate]
+import { readFileSync, writeFileSync } from 'node:fs';
+const [doi = '', conceptDoi = '', releaseDate = '2026-10-08'] = process.argv.slice(2);
+const minted = /^10\.\d+\//.test(doi) && /^10\.\d+\//.test(conceptDoi);
+const r = JSON.parse(readFileSync('results/summary.json', 'utf8'));
+const t = r.totals;
+const pct = x => x.pct === null ? `${x.k} of ${x.n}` : `${x.k} of ${x.n} (${x.pct.toFixed(1)} percent; 95 percent Wilson interval ${x.low.toFixed(1)} to ${x.high.toFixed(1)})`;
+const types = r.per_type.filter(x => x.statements).map(x => `| ${x.type.replace(/_/g, ' ')} | ${x.statements} | ${x.true} | ${x.wrong} | ${x.stale} | ${x.unverifiable} |`).join('\n');
+const engines = r.per_engine.map(e => `| ${e.engine} | ${e.statements} | ${e.true} | ${e.wrong} | ${e.stale} | ${e.unverifiable} | ${pct(e.wrong_or_stale_rate)} |`).join('\n');
+const cats = r.per_category.map(c => `| ${c.category} | ${c.statements} | ${c.true} | ${c.wrong} | ${c.stale} | ${c.unverifiable} | ${pct(c.wrong_or_stale_rate)} |`).join('\n');
+const causes = r.causes.map(c => `| ${c.causing_type === 'not found' ? 'cause not found' : c.causing_type} | ${c.claims} |`).join('\n');
+const conf = r.confidence.map(c => `| ${c.runs_stated} of 3 runs | ${c.true} | ${c.wrong} | ${c.stale} | ${c.unverifiable} |`).join('\n');
+const readme = `# Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages
 
-Broadcastwell, Study 6, version 1.0, 2026-10-08. Archived on Zenodo at release; the DOI is added here once Zenodo mints it. Licence CC BY 4.0.
+Broadcastwell, Study 6, version 1.0, ${releaseDate}. ${minted ? `DOI ${doi} (all versions: ${conceptDoi})` : 'Archived on Zenodo at release; the DOI is added here once Zenodo mints it'}. Licence CC BY 4.0.
 
-Every valid target answer that names one of 70 vendors, captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index release 2026-09 (DOI 10.5281/zenodo.22907695). From those 5346 answers we extracted every factual statement each answer makes about the vendor and classed it true, wrong, stale or unverifiable against the vendor's own public pages. No new answer was captured for this study.
+Every valid target answer that names one of 70 vendors, ${r.capture}. From those ${t.answers} answers we extracted every factual statement each answer makes about the vendor and classed it true, wrong, stale or unverifiable against the vendor's own public pages. No new answer was captured for this study.
 
 Read the study at https://broadcastwell.com/research/wrong-about-you. Every vendor's record is on its Absence Index page (https://index.broadcastwell.com/vendors/).
 
@@ -10,12 +23,12 @@ Read the study at https://broadcastwell.com/research/wrong-about-you. Every vend
 
 ## Results
 
-- Vendors: 70 in 14 categories (the five most named vendors of each category in release 2026-09, the Agent Gap selection, DOI 10.5281/zenodo.23197560).
-- Answers naming them: 5346.
-- Claims (distinct factual statements per vendor): 1894. Engine statements (one claim as stated by one engine): 2922: 1924 true, 113 wrong, 5 stale, 880 unverifiable.
-- Wrong or stale among verifiable engine statements: 118 of 2042 (5.8 percent; 95 percent Wilson interval 4.8 to 6.9).
-- Answers carrying at least one wrong or stale statement about the vendor they name: 175 of 5346 (3.3 percent; 95 percent Wilson interval 2.8 to 3.8).
-- Review: 0 claims verified by two Broadcastwell analysts, 0 in first review, 1894 not yet reviewed.
+- Vendors: ${t.vendors} in ${t.categories} categories (the five most named vendors of each category in release 2026-09, the Agent Gap selection, DOI 10.5281/zenodo.23197560).
+- Answers naming them: ${t.answers}.
+- Claims (distinct factual statements per vendor): ${t.claims}. Engine statements (one claim as stated by one engine): ${t.statements}: ${t.true} true, ${t.wrong} wrong, ${t.stale} stale, ${t.unverifiable} unverifiable.
+- Wrong or stale among verifiable engine statements: ${pct(t.wrong_or_stale_rate)}.
+- Answers carrying at least one wrong or stale statement about the vendor they name: ${pct(t.answers_with_wrong_or_stale)}.
+- Review: ${t.review.verified} claims verified by two Broadcastwell analysts, ${t.review['first review']} in first review, ${t.review.unreviewed} not yet reviewed.
 
 Unverifiable counts as neither right nor wrong. Counts come before rates; every rate carries a 95 percent Wilson interval. The intervals describe these engine statements; statements from one answer or one engine are not independent, so read them as descriptive.
 
@@ -23,74 +36,37 @@ Unverifiable counts as neither right nor wrong. Counts come before rates; every 
 
 | Engine | Statements | True | Wrong | Stale | Unverifiable | Wrong or stale among verifiable |
 |-|-|-|-|-|-|-|
-| ChatGPT | 647 | 575 | 0 | 0 | 72 | 0 of 575 (0.0 percent; 95 percent Wilson interval 0.0 to 0.7) |
-| Claude | 1177 | 605 | 77 | 2 | 493 | 79 of 684 (11.5 percent; 95 percent Wilson interval 9.4 to 14.2) |
-| Perplexity | 150 | 113 | 4 | 0 | 33 | 4 of 117 (3.4 percent; 95 percent Wilson interval 1.3 to 8.5) |
-| Google AI Overviews | 496 | 316 | 25 | 2 | 153 | 27 of 343 (7.9 percent; 95 percent Wilson interval 5.5 to 11.2) |
-| Google AI Mode | 452 | 315 | 7 | 1 | 129 | 8 of 323 (2.5 percent; 95 percent Wilson interval 1.3 to 4.8) |
+${engines}
 
 ### Per category
 
 | Category | Statements | True | Wrong | Stale | Unverifiable | Wrong or stale among verifiable |
 |-|-|-|-|-|-|-|
-| Construction project management software | 217 | 138 | 9 | 0 | 70 | 9 of 147 (6.1 percent; 95 percent Wilson interval 3.3 to 11.2) |
-| Dealership management systems | 272 | 184 | 11 | 0 | 77 | 11 of 195 (5.6 percent; 95 percent Wilson interval 3.2 to 9.8) |
-| Dental practice management software | 221 | 145 | 13 | 4 | 59 | 17 of 162 (10.5 percent; 95 percent Wilson interval 6.7 to 16.2) |
-| Field service management software | 241 | 166 | 5 | 0 | 70 | 5 of 171 (2.9 percent; 95 percent Wilson interval 1.3 to 6.7) |
-| Hotel property management software | 153 | 119 | 2 | 0 | 32 | 2 of 121 (1.7 percent; 95 percent Wilson interval 0.5 to 5.8) |
-| Insurance agency management systems | 244 | 139 | 6 | 0 | 99 | 6 of 145 (4.1 percent; 95 percent Wilson interval 1.9 to 8.7) |
-| Legal practice management software | 300 | 149 | 34 | 0 | 117 | 34 of 183 (18.6 percent; 95 percent Wilson interval 13.6 to 24.8) |
-| Loan origination and lending software | 111 | 69 | 0 | 1 | 41 | 1 of 70 (1.4 percent; 95 percent Wilson interval 0.3 to 7.7) |
-| Radiology and medical imaging software | 146 | 110 | 0 | 0 | 36 | 0 of 110 (0.0 percent; 95 percent Wilson interval 0.0 to 3.4) |
-| Residential property management software | 377 | 261 | 15 | 0 | 101 | 15 of 276 (5.4 percent; 95 percent Wilson interval 3.3 to 8.8) |
-| Transportation management systems | 159 | 106 | 4 | 0 | 49 | 4 of 110 (3.6 percent; 95 percent Wilson interval 1.4 to 9.0) |
-| Veterinary practice management software | 247 | 164 | 7 | 0 | 76 | 7 of 171 (4.1 percent; 95 percent Wilson interval 2.0 to 8.2) |
-| CRM | 192 | 136 | 6 | 0 | 50 | 6 of 142 (4.2 percent; 95 percent Wilson interval 2.0 to 8.9) |
-| Project management | 42 | 38 | 1 | 0 | 3 | 1 of 39 (2.6 percent; 95 percent Wilson interval 0.5 to 13.2) |
+${cats}
 
 ### Per statement type
 
 | Type | Statements | True | Wrong | Stale | Unverifiable |
 |-|-|-|-|-|-|
-| pricing | 1034 | 539 | 76 | 4 | 415 |
-| plans | 388 | 274 | 9 | 0 | 105 |
-| free tier | 90 | 61 | 8 | 0 | 21 |
-| founding | 32 | 20 | 2 | 0 | 10 |
-| ownership | 72 | 62 | 3 | 0 | 7 |
-| headquarters | 3 | 2 | 0 | 0 | 1 |
-| product names | 395 | 289 | 4 | 1 | 101 |
-| integrations | 391 | 292 | 2 | 0 | 97 |
-| platforms | 435 | 348 | 7 | 0 | 80 |
-| certifications | 12 | 7 | 0 | 0 | 5 |
-| customer counts | 44 | 20 | 2 | 0 | 22 |
-| acquisitions | 23 | 8 | 0 | 0 | 15 |
-| discontinued | 3 | 2 | 0 | 0 | 1 |
+${types}
 
 ### Causing pages of wrong or stale claims
 
 | Cause | Claims |
 |-|-|
-| own page | 1 |
-| directory | 3 |
-| review site | 3 |
-| press | 0 |
-| forum | 0 |
-| other | 43 |
-| cause not found | 50 |
+${causes}
 
 ### Confidence: in how many of the three runs the engine stated the claim
 
 | Stated in | True | Wrong | Stale | Unverifiable |
 |-|-|-|-|-|
-| 1 of 3 runs | 714 | 71 | 3 | 483 |
-| 2 of 3 runs | 420 | 16 | 2 | 213 |
-| 3 of 3 runs | 790 | 26 | 0 | 184 |
+${conf}
 
 The per-vendor table with each vendor's category median is results/vendor_table.csv.
 
 ## Method
 
-Answers. The 70 vendors are the five most named of each of the 14 categories of the Absence Index release 2026-09, ordered by named count, then cited count, then name. A vendor's answers are every valid target answer in the release that names it under the release's own matching rule; their number equals the vendor's published named count. The answers were captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index release 2026-09 (DOI 10.5281/zenodo.22907695): five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), ten buyer questions per category, three scheduled runs. data/answers.csv lists each answer by its deposit record id with its engine, run, question, capture time and cited URLs; the verbatim text is in the Index deposit.
+Answers. The 70 vendors are the five most named of each of the 14 categories of the Absence Index release 2026-09, ordered by named count, then cited count, then name. A vendor's answers are every valid target answer in the release that names it under the release's own matching rule; their number equals the vendor's published named count. The answers were ${r.capture}: five engines (ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode), ten buyer questions per category, three scheduled runs. data/answers.csv lists each answer by its deposit record id with its engine, run, question, capture time and cited URLs; the verbatim text is in the Index deposit.
 
 Statements. A statement is one factual claim an answer makes about the vendor, of thirteen types: pricing, plans, free tier, founding, ownership, headquarters, product names, integrations, platforms, certifications, customer counts, acquisitions and discontinued products (CODING_GUIDE.md). Opinions, rankings, feature descriptions, ratings and statements about other vendors are not statements here. The same claim in different words is one claim; each answer that makes it is an instance with a short verbatim quote.
 
@@ -124,8 +100,34 @@ Every named vendor may request one no-cost re-read at index@broadcastwell.com, b
 
 ## How to cite
 
-Broadcastwell (2026). Wrong About You: what five AI engines state about 70 software vendors (Version 1.0) [Data set]. Zenodo. https://github.com/Broadcastwell/wrong-about-you-2026-10
+Broadcastwell (2026). Wrong About You: what five AI engines state about 70 software vendors (Version 1.0) [Data set]. Zenodo. ${minted ? `https://doi.org/${doi}` : 'https://github.com/Broadcastwell/wrong-about-you-2026-10'}
 
 ## Licence
 
 CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode). The licence covers Broadcastwell's work: the classifications, tables, method and code. Quoted answer text records what each engine displayed; rights in that output stay with whoever holds them.
+`;
+writeFileSync('README.md', readme);
+const cff = `cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "Wrong About You: what five AI engines state about 70 software vendors"
+type: dataset
+version: "1.0"
+date-released: "${releaseDate}"
+${doi.startsWith('10.') ? `doi: "${doi}"\n` : ''}authors:
+  - name: "Broadcastwell"
+    website: "https://broadcastwell.com"
+    email: "hello@broadcastwell.com"
+license: CC-BY-4.0
+repository-code: "https://github.com/Broadcastwell/wrong-about-you-2026-10"
+url: "https://broadcastwell.com/research/wrong-about-you"
+abstract: "Every valid target answer in the Absence Index release 2026-09 that names one of 70 vendors (${t.answers} answers, ${r.capture}), read for factual statements about the vendor and classed true, wrong, stale or unverifiable against the vendor's own pages under the published Record rules. ${t.statements} engine statements; every row carries its review state."
+keywords: ["AI search", "B2B software", "Absence Index", "ChatGPT", "Claude", "Perplexity", "Google AI Overviews", "Google AI Mode"]
+references:
+  - type: dataset
+    title: "The Absence Index, release 2026-09"
+    authors:
+      - name: "Broadcastwell"
+    doi: "10.5281/zenodo.22907695"
+`;
+writeFileSync('CITATION.cff', cff);
+console.log('README.md and CITATION.cff written');

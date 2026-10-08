@@ -1,0 +1,1336 @@
+{
+ "vendor": "Dentrix",
+ "slug": "dentrix",
+ "category": "dental-practice-management",
+ "coded_at": "2026-10-08T04:31:19Z",
+ "pages_read": [
+  {
+   "url": "https://www.dentrix.com/",
+   "key": "67cad269410a8ba9",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.dentrix.com/about-us/dentrix-or-dentrix-ascend",
+   "key": "cbdd593b4158b1e2",
+   "used_for": "product comparison (Dentrix vs Dentrix Ascend), platforms, ownership"
+  },
+  {
+   "url": "https://www.dentrix.com/about-us/",
+   "key": "b295e0e173ed0b87",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.dentrix.com/dental-solutions/dentrix-packages-and-suites",
+   "key": "59a2fb74cbb31b69",
+   "used_for": "plans and pricing"
+  },
+  {
+   "url": "https://www.dentrix.com/dental-solutions/charting-imaging-and-clinical-ai/",
+   "key": "d3bc6f42b36ff41c",
+   "used_for": "product (imaging and clinical AI)"
+  },
+  {
+   "url": "https://www.dentrix.com/dental-solutions/practice-data-and-analytics",
+   "key": "ef86509ce1a27e82",
+   "used_for": "product (analytics)"
+  },
+  {
+   "url": "https://www.dentrix.com/dental-solutions/dental-insurance-billing-and-collections/dentrix-eligibility-and-claims-processing-suite",
+   "key": "032ead764253a60c",
+   "used_for": "product (eligibility and claims suite)"
+  },
+  {
+   "url": "https://www.henryscheinone.com/dental-solutions/api-exchange/",
+   "key": "52b8b7c3e758677a",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://ekimit.com/best-dental-software-dso-2026/",
+   "key": "cf92192dabd48108",
+   "used_for": "cause tracing for C03 (cited page, not an own page)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "ownership",
+   "claim": "Dentrix is made by or owned by Henry Schein.",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/about-us/",
+   "proof_quote": "Dentrix was founded in 1985 and acquired by Henry Schein, Inc. in 1997.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page states Henry Schein, Inc. acquired Dentrix in 1997 and describes Henry Schein One, which publishes Dentrix, as a joint venture between Henry Schein Inc. and Internet Brands, so attributing Dentrix to Henry Schein matches the published fact.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|1",
+     "quote": "Made by Henry Schein, Dentrix is the long-standing market leader."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|2",
+     "quote": "Dentrix (by Henry Schein) — The Industry Giant"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|3",
+     "quote": "Dentrix (by Henry Schein)"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "Henry Schein offers two versions of their software: Dentrix and Dentrix Ascend."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|2",
+     "quote": "Dentrix or Dentrix Ascend — Henry Schein’s flagship ecosystem."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|3",
+     "quote": "Produced by Henry Schein, Dentrix is the most widely used traditional on-premise system in the market."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|1",
+     "quote": "The primary legacy competitor to Eaglesoft (backed by Henry Schein)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Dentrix (by Henry Schein)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Overviews|1",
+     "quote": "Dentrix (by Henry Schein): The traditional market leader."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|1",
+     "quote": "Dentrix, owned by Henry Schein, has the largest installed base in U.S. dentistry."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|2",
+     "quote": "Dentrix, owned by Henry Schein, has the largest installed base in U.S. dentistry."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|3",
+     "quote": "Dentrix, owned by Henry Schein, has the largest installed base in U.S. dentistry."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|1",
+     "quote": "Dentrix by Henry Schein is an industry veteran."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|2",
+     "quote": "Dentrix (by Henry Schein) operates on a rigid subscription and module-based pricing model"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|1",
+     "quote": "Dentrix (Henry Schein)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|2",
+     "quote": "Choosing between Dentrix (by Henry Schein) and Eaglesoft (by Patterson Dental)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|3",
+     "quote": "Choosing between Dentrix (by Henry Schein) and Eaglesoft (by Patterson Dental)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|1",
+     "quote": "Dentrix is owned by Henry Schein and features a massive third-party integration marketplace"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|2",
+     "quote": "Both Dentrix (by Henry Schein) and (by Patterson Dental) are powerful, server-based desktop systems for dental practices"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|3",
+     "quote": "Dentrix (Henry Schein)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "ownership",
+   "claim": "Dentrix is a Henry Schein One product.",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/about-us/dentrix-or-dentrix-ascend",
+   "proof_quote": "Dentrix and Dentrix Ascend are two powerful practice management systems from Henry Schein One",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's comparison page names Dentrix as a practice management system from Henry Schein One.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|1",
+     "quote": "Dentrix (by Henry Schein One): Widely recognized as the market share leader in North America."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|2",
+     "quote": "Dentrix (Henry Schein One): An industry standard found in tens of thousands of practices."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "ownership",
+   "claim": "Dentrix is a Planet DDS product (\"Dentrix by Planet DDS\").",
+   "class": "wrong",
+   "proof_url": "https://www.dentrix.com/about-us/dentrix-or-dentrix-ascend",
+   "proof_quote": "Dentrix and Dentrix Ascend are two powerful practice management systems from Henry Schein One",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The vendor's page states Dentrix comes from Henry Schein One, which contradicts attributing it to Planet DDS; the cited ekimit.com page reads \"Denticon by Planet DDS and Dentrix Enterprise\", so no cited page carries the statement as made.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q10|Claude|2",
+     "quote": "Dentrix by Planet DDS and Dentrix Enterprise are the most widely deployed dedicated DSO platforms."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "product_names",
+   "claim": "The same company offers Dentrix (on-premises) and Dentrix Ascend as its separate cloud-based counterpart.",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/about-us/dentrix-or-dentrix-ascend",
+   "proof_quote": "Dentrix and Dentrix Ascend are two powerful practice management systems from Henry Schein One",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The comparison page presents Dentrix (On-Premise) and Dentrix Ascend (Cloud-Based) as two practice management systems from Henry Schein One. Statements whose subject is Ascend being a separate product (not a hosted Dentrix) are coded in the Dentrix Ascend file.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|1",
+     "quote": "Its cloud counterpart, Dentrix Ascend, is growing in popularity for offices wanting to move away from local servers."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|3",
+     "quote": "Its cloud alternative, Dentrix Ascend, is growing in popularity for multi-location groups"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "Henry Schein offers two versions of their software: Dentrix and Dentrix Ascend."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "They offer two versions: Dentrix (on-premise) and Dentrix Ascend (cloud-based)."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "They offer two versions: Dentrix (on-premise) and Dentrix Ascend (cloud-based)."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "Dentrix offers two versions of their software: Dentrix (on-premise) and Dentrix Ascend (cloud-based)."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|2",
+     "quote": "while Dentrix Ascend provides their official cloud-based counterpart"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|3",
+     "quote": "Henry Schein also offers Dentrix Ascend if you prefer their ecosystem in a cloud format."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "Choose Dentrix if you want a path to the cloud (Dentrix Ascend)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Choose Dentrix if you want a path to the cloud (Dentrix Ascend)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Choose Dentrix if you want a path to the cloud (Dentrix Ascend)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|2",
+     "quote": "Dentrix Ascend is their cloud-native browser option"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|3",
+     "quote": "Classic Dentrix is heavily feature-rich and dominant in the market, while Dentrix Ascend is its cloud-based counterpart tailored for streamlined multi-location scalability."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "Dentrix and Dentrix Ascend are different products."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "Dentrix and Dentrix Ascend are different products."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "Dentrix and Dentrix Ascend are different products."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|1",
+     "quote": "Traditional desktop/server setup, with separate true cloud variant (Dentrix Ascend)"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|3",
+     "quote": "Traditional Dentrix is on-premise, though they offer Dentrix Ascend as their cloud-native alternative if you want to move away from local servers."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|1",
+     "quote": "Its cloud alternative, Dentrix Ascend, offers browser-based access and automatic updates."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|2",
+     "quote": "Their cloud version, Dentrix Ascend, eliminates local servers but requires constant internet"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|3",
+     "quote": "Classic Dentrix is on-premise, though Dentrix Ascend offers a true cloud choice."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|1",
+     "quote": "On-premise (plus cloud via Dentrix Ascend)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|2",
+     "quote": "though Henry Schein offers Dentrix Ascend, a true cloud-native version"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|3",
+     "quote": "It also offers a direct path to the cloud via Dentrix Ascend if you prefer web-based access."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|1",
+     "quote": "Dentrix offers Dentrix Ascend as a true cloud-native platform ideal for multi-location or remote access"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|2",
+     "quote": "Dentrix Ascend offers a cloud-native platform"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|3",
+     "quote": "Clear path via Dentrix Ascend (cloud-native option)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Perplexity|2",
+     "quote": "Dentrix has a clearer cloud path via Dentrix Ascend"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "product_names",
+   "claim": "Dentrix's products include one named Dentrix G.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the Dentrix pages read in this study uses the name Dentrix G.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q7|Perplexity|3",
+     "quote": "Dentrix has multiple products and deployment models, including Dentrix G and Dentrix Ascend"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "product_names",
+   "claim": "Dentrix offers imaging integration named Smart Image.",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/about-us/dentrix-or-dentrix-ascend",
+   "proof_quote": "Integrated imaging with Smart Image",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The comparison table lists Dentrix imaging integration as Integrated imaging with Smart Image.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "It offers Smart Image integration and on-site, online, and self-paced training."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "product_names",
+   "claim": "Dentrix has a module named the Eligibility & Claims Processing Suite.",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/dental-solutions/dental-insurance-billing-and-collections/dentrix-eligibility-and-claims-processing-suite",
+   "proof_quote": "Dentrix Eligibility & Claims Processing Suite",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor has a product page titled Dentrix Eligibility & Claims Processing Suite.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|1",
+     "quote": "Its Eligibility & Claims Processing Suite supports eligibility information flowing into coverage tables, electronic claims, and attachments."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "product_names",
+   "claim": "Dentrix's built-in AI diagnostics are named Detect AI.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The imaging page describes AI-powered caries detection in Dentrix Imaging without the name Detect AI; the name appears only inside a customer testimonial on the home page, which is not a vendor statement of the product name.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "built-in AI diagnostics (Detect AI)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "built-in AI diagnostics (Detect AI)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "built-in AI diagnostics (Detect AI)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "product_names",
+   "claim": "Dentrix's third-party add-on ecosystem is named the Dentrix Developer Network.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read call the vendor integration community the Dentrix API Exchange or Henry Schein One API Exchange and never mention a Dentrix Developer Network, so the name is neither confirmed nor explicitly contradicted.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|3",
+     "quote": "an enormous third-party add-on ecosystem (Dentrix Developer Network)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "plans",
+   "claim": "Jarvis Analytics is available for Dentrix as an add-on.",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/about-us/dentrix-or-dentrix-ascend",
+   "proof_quote": "Advanced reports, Daily Huddle, Jarvis add-on",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The comparison table lists Jarvis as an add-on under Dentrix reporting and analytics.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|2",
+     "quote": "Its offerings include advanced reports, Daily Huddle, Jarvis analytics as an add-on, and an integration ecosystem."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "plans",
+   "claim": "Dentrix is sold in customizable or configurable packages (bundles).",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/dental-solutions/dentrix-packages-and-suites",
+   "proof_quote": "Dentrix offers customizable packages and suites to meet your practice’s needs",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The packages page states that Dentrix offers customizable packages and suites.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "Dentrix likewise offers service bundles"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "Dentrix offers customizable packages"
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|1",
+     "quote": "Dentrix offers configurable packages"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "plans",
+   "claim": "Patient engagement tools such as texting are optional add-ons for Dentrix.",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/about-us/dentrix-or-dentrix-ascend",
+   "proof_quote": "Dentrix offers add-ons for patient engagement.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The comparison page states that patient engagement for Dentrix comes as add-ons (Add-on tools available).",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|3",
+     "quote": "Add-on costs for imaging/texting"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "with imaging integration, reporting, and optional patient-engagement tools"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "plans",
+   "claim": "Imaging is a paid add-on for Dentrix.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages describe built-in Dentrix Imaging and list it among the benefits of enrolling in Dentrix Connected Care Essentials, but do not say whether imaging is charged separately.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|3",
+     "quote": "Add-on costs for imaging/texting"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Dentrix does not publish pricing; prices are quoted by sales (or the dealer).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read shows a price, and the packages page offers only Request a Demo and Contact Us, but no page states that pricing is quote only, so the absence claim is not settled by a published fact.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "Dentrix does not publish pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "Dentrix, Eaglesoft, and Curve Dental do not publish pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "Neither Dentrix nor Eaglesoft publishes pricing publicly — both require contacting their respective dealer (Henry Schein for Dentrix) for a quote"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Dentrix, Eaglesoft, and Curve Dental do not publish pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Dentrix does not publish pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|1",
+     "quote": "Dentrix doesn't publish pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|3",
+     "quote": "Dentrix does not publish pricing publicly"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|3",
+     "quote": "Pricing is less transparent and typically requires contacting a sales rep."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Neither Dentrix nor Eaglesoft publishes official pricing, and both offer customized quotes through a consultative sales process."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Neither Dentrix nor Eaglesoft publishes pricing — both offer customized quotes through a consultative sales process."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|3",
+     "quote": "Neither publishes strict pricing publicly"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Perplexity|2",
+     "quote": "Quote-based and typically higher"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Dentrix costs about $350 to $1,200 per month (third-party estimate).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Dentrix page read publishes a price.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "expect $350–$1,200/month based on third-party estimates"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "~$350–$1,200/mo (est.)"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "expect $350–$1,200/month based on third-party estimates depending on practice size"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "expect $350–$1,200/month based on third-party estimates"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "expect $350–$1,200/month based on third-party estimates depending on practice size and features"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "Dentrix starts at about $500 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Dentrix page read publishes a price.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Dentrix starts at $500 per month and Eaglesoft starts at $200 per month"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Dentrix starts at $500 per month and Eaglesoft starts at $200 per month"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Dentrix starts at approximately $500/month"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|2",
+     "quote": "Pricing tends to start around $500/month."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Perplexity|1",
+     "quote": "one comparison says Dentrix starts around $500/month"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Perplexity|2",
+     "quote": "several sources describe it as around $500/month or more depending on setup"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "Dentrix costs about $500 per month combining the license fee and a mandatory annual support plan.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages mention Dentrix software licenses but publish no license or support price and do not say a support plan is mandatory.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q7|Claude|1",
+     "quote": "practitioners report approximately $500/month when combining the license fee and mandatory annual support plan"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|2",
+     "quote": "Dentrix practitioners report approximately $500/month when combining the license fee and mandatory annual support plan."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|3",
+     "quote": "practitioners report approximately $500/month when combining the license fee and mandatory annual support plan"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "Full-feature Dentrix installs run about $500 to $700+ per month including licensing, annual support and required modules.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Dentrix page read publishes a price.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "full-feature Dentrix installs typically run in the range of $500–$700+ per month once you include software licensing, annual support, and required modules"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "Dentrix is priced on a subscription basis.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read do not state the price basis; they mention transferable software licenses but no subscription terms.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|2",
+     "quote": "Dentrix (by Henry Schein) operates on a rigid subscription and module-based pricing model"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|3",
+     "quote": "Operates on a heavier subscription model with costs that scale up quickly as you add modules, imaging integrations, or extra features."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|1",
+     "quote": "Operates on a complex subscription and modular pricing model"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|2",
+     "quote": "Subscription-based model with extra module fees that can scale high."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|3",
+     "quote": "Dentrix runs on higher subscription or module fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "pricing",
+   "claim": "Dentrix modules and add-ons carry separate fees (module-based pricing).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages show that some tools are add-ons (Jarvis, patient engagement) but publish no fees or pricing structure for modules.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|2",
+     "quote": "many core features require add-ons"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|1",
+     "quote": "each with its own fee and sometimes its own login"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|2",
+     "quote": "each comes with its own fee and sometimes its own login"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|3",
+     "quote": "each with its own fee and sometimes its own login"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|2",
+     "quote": "Dentrix (by Henry Schein) operates on a rigid subscription and module-based pricing model"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|3",
+     "quote": "Operates on a heavier subscription model with costs that scale up quickly as you add modules, imaging integrations, or extra features."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|1",
+     "quote": "Operates on a complex subscription and modular pricing model"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|2",
+     "quote": "Subscription-based model with extra module fees that can scale high."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|3",
+     "quote": "Dentrix runs on higher subscription or module fees."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|1",
+     "quote": "rigid modular pricing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "Dentrix charges added fees for deep third-party bridges.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The API Exchange page describes the integration program but publishes no fees for integrations or bridges.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|2",
+     "quote": "added fees for deep third-party bridges"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "customer_counts",
+   "claim": "Dentrix is used by tens of thousands of practices.",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/about-us/dentrix-or-dentrix-ascend",
+   "proof_quote": "trusted by tens of thousands of practices for decades",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The comparison page says Dentrix is trusted by tens of thousands of practices.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Claude|3",
+     "quote": "serving tens of thousands of practices across the U.S."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|1",
+     "quote": "serving tens of thousands of practices across the U.S."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|2",
+     "quote": "serving tens of thousands of practices across the U.S."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|3",
+     "quote": "serving tens of thousands of practices across the U.S."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|2",
+     "quote": "An industry standard found in tens of thousands of practices."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "customer_counts",
+   "claim": "Dentrix has an installed base of 48,000+ practices.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states 35,000+ practices rely on Dentrix, a lower bound that neither confirms nor contradicts 48,000+.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "Dentrix remains the largest installed base with 48,000+ practices and 90% of the top 50 DSOs in its ecosystem."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "Dentrix remains the largest installed base with 48,000+ practices and 90% of the top 50 DSOs in its ecosystem."
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|1",
+     "quote": "Dentrix remains the largest installed base with 48,000+ practices and 90% of the top 50 DSOs in its ecosystem"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|2",
+     "quote": "Dentrix remains the largest installed base with 48,000+ practices and 90% of the top 50 DSOs in its ecosystem"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "customer_counts",
+   "claim": "90% of the top 50 DSOs are in the Dentrix ecosystem.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read gives a DSO customer count or share.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "Dentrix remains the largest installed base with 48,000+ practices and 90% of the top 50 DSOs in its ecosystem."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "Dentrix remains the largest installed base with 48,000+ practices and 90% of the top 50 DSOs in its ecosystem."
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|1",
+     "quote": "Dentrix remains the largest installed base with 48,000+ practices and 90% of the top 50 DSOs in its ecosystem"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|2",
+     "quote": "Dentrix remains the largest installed base with 48,000+ practices and 90% of the top 50 DSOs in its ecosystem"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "customer_counts",
+   "claim": "Dentrix has 35,000+ installations (practices).",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/",
+   "proof_quote": "35,000+ Practices rely on Dentrix to streamline operations",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states 35,000+ practices rely on Dentrix; one answer counts Dentrix and Dentrix Ascend together, which the Dentrix figure satisfies as a lower bound.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Dentrix (on-premises) dominates solo and small group practices with 35,000+ installations."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Dentrix (on-premises) and Dentrix Ascend (cloud) dominate solo and small group practices with 35,000+ installations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "platforms",
+   "claim": "Standard Dentrix is on-premises software: installed locally (desktop) with data on local, practice-managed servers.",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/about-us/dentrix-or-dentrix-ascend",
+   "proof_quote": "Dentrix is installed locally and gives you full control over your systems.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The comparison page labels Dentrix On-Premise, installed locally on office computers, with data on local practice-managed servers.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Claude|3",
+     "quote": "Server/Cloud (Ascend)"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|1",
+     "quote": "Server-based systems like Dentrix and Eaglesoft add IT overhead and hardware costs"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|2",
+     "quote": "Both Dentrix and Eaglesoft require on-premise servers, local backups, and ongoing hardware maintenance."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|3",
+     "quote": "Both Dentrix and Eaglesoft require on-premise servers, local backups, and ongoing hardware maintenance."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|1",
+     "quote": "It removes the heavy server maintenance of classic Dentrix"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|3",
+     "quote": "Local servers (like standard Dentrix or Open Dental) require upfront IT hardware costs"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|2",
+     "quote": "reliance on local office servers"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|3",
+     "quote": "older desktop systems like Dentrix or Eaglesoft"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|2",
+     "quote": "The most widely used traditional, server-based platform in North America"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "server-based platforms like Dentrix, Eaglesoft, and Open Dental (self-hosted) store data on a computer in your office"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "Dentrix is Eaglesoft's primary on-premise competitor"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "Dentrix is Eaglesoft's primary on-premise competitor"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "Dentrix is Eaglesoft's primary on-premise competitor"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|2",
+     "quote": "Traditional Dentrix is the heavy-duty industry standard desktop alternative"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|3",
+     "quote": "Dentrix is the most widely used traditional on-premise system in the market"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|1",
+     "quote": "for practices that prefer to keep local servers"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Perplexity|1",
+     "quote": "best if you want to stay on-premise"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Perplexity|2",
+     "quote": "recommended for practices that want a familiar desktop/server model"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Perplexity|3",
+     "quote": "Choose Dentrix if you want to stay on-premise."
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|1",
+     "quote": "Provides clinical, financial, and administrative workflows on practice-managed computers and servers."
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|2",
+     "quote": "Traditional Dentrix is on-premises"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|3",
+     "quote": "Brings clinical, financial, and administrative workflows together in locally installed software."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Dentrix (on-premises) dominates solo and small group practices with 35,000+ installations."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Server-based platforms (Dentrix, Eaglesoft, Practice-Web, Open Dental self-hosted) store data on a computer in your office."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|1",
+     "quote": "it requires a heavier upfront investment and local server hardware"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|2",
+     "quote": "it traditionally requires local server hosting"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Overviews|1",
+     "quote": "it requires higher IT complexity and server maintenance compared to Open Dental"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Overviews|3",
+     "quote": "Familiar layout for offices transitioning away from legacy desktop Dentrix."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|1",
+     "quote": "a widely used legacy desktop/server-based system"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|2",
+     "quote": "especially for practices using a more traditional desktop/server-style setup"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "Standard Dentrix is installed locally; Ascend is cloud-native."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "Traditional Dentrix is locally installed; Ascend is cloud-based."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "Standard Dentrix is installed locally; Ascend is cloud-native."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|1",
+     "quote": "Traditional desktop/server setup, with separate true cloud variant (Dentrix Ascend)"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|3",
+     "quote": "Traditional Dentrix is on-premise"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|1",
+     "quote": "Traditionally on-premise and complex to manage from an IT perspective."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|2",
+     "quote": "high IT complexity for on-premise setups"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|3",
+     "quote": "Classic Dentrix is on-premise"
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|1",
+     "quote": "standard Dentrix and Eaglesoft are both server-based."
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|2",
+     "quote": "I’m comparing standard, server-based Dentrix with Eaglesoft."
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|3",
+     "quote": "standard Dentrix and Eaglesoft are both server-based"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Dentrix and Eaglesoft are two of the most common on-premise dental practice management systems"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Dentrix and Eaglesoft are two of the most common on-premise dental practice management systems"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Dentrix and Eaglesoft are two of the most common on-premise dental practice management systems"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|1",
+     "quote": "On-premise (plus cloud via Dentrix Ascend)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|2",
+     "quote": "traditional Dentrix requires local server maintenance"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|3",
+     "quote": "Both are industry heavyweights and traditional server-based practice management systems"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|2",
+     "quote": "are powerful, server-based desktop systems for dental practices"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "integrations",
+   "claim": "Dentrix has about 400+ third-party integrations.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The API Exchange page gives endpoint and request counts (700 endpoints, 1,000 endpoints) but no count of third-party integrations or authorized vendors.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|3",
+     "quote": "massive third-party integration library (~400+ tools for Dentrix)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|3",
+     "quote": "It features a massive network of over 400 third-party app integrations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "integrations",
+   "claim": "Dentrix integrates with Dexis imaging hardware.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names Dexis.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|3",
+     "quote": "It integrates seamlessly with Dexis and Schick imaging hardware."
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "integrations",
+   "claim": "Dentrix integrates with Schick imaging hardware.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names Schick.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|3",
+     "quote": "It integrates seamlessly with Dexis and Schick imaging hardware."
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "plans",
+   "claim": "Dentrix's support offering includes onboarding, training, live support and software updates.",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/",
+   "proof_quote": "we provide comprehensive onboarding, training, and live support. With Connected Care Essentials, you’ll always have access to the latest software updates",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page says Dentrix provides onboarding, training and live support and that Connected Care Essentials gives access to the latest software updates.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|3",
+     "quote": "Dentrix also offers onboarding, training, live support, and updates through its support offering."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [
+  "https://www.themolarreport.com/learn/best-for-multi-location"
+ ],
+ "notes": "Eight own pages read (seven on dentrix.com and the Henry Schein One API Exchange page on the alias domain henryscheinone.com), all HTTP 200 and not thin. Statements in this bundle about Dentrix Ascend (cloud features, SOC 2, Ascend pricing) and about Dentrix Enterprise (Windows Server and SQL Server requirements, DSO positioning) are about other products and were not coded here; Ascend statements belong to the Dentrix Ascend file, including the answers saying Ascend is a separate product rather than a hosted Dentrix (C04 keeps only statements framed around Dentrix or its maker). Name-only mentions, rankings, market share, review ratings, Townie award votes and comparisons were not coded. Table cells that label Dentrix On-Premise/Cloud or Desktop/Hybrid without naming Ascend were treated as ambiguous and not coded. C03 (Dentrix by Planet DDS): the cited ekimit.com page reads Denticon by Planet DDS, so the answer garbled its source and the cause is recorded as not found; a second cited page (themolarreport.com) failed with a network error and is listed in needs_browser_read only for cause tracing, not for classing. C01 is classed true on the about page's 1997 acquisition by Henry Schein, Inc.; the current publisher is Henry Schein One, a joint venture of Henry Schein Inc. and Internet Brands. C14 (no public pricing) is unverifiable because the pages show no price but do not state that pricing is quote only. Detect AI appears on the home page only inside a customer testimonial. Pass 2 (8 Oct 2026): the manifest has no browser read for any Dentrix page or for themolarreport.com, so no claim was re-classed and themolarreport.com stays in needs_browser_read. Added from comparison tables: C30 (support offering includes onboarding, training, live support and updates, true on the home page) and one Perplexity table cell as instances of C14 (quote-based) and C16 (around $500 per month). The consistency check kept C03 wrong: the vendor's own comparison page names Henry Schein One as the maker, which contradicts Planet DDS like for like. Table price cells already carried by the same answers (~$350+/mo, ~$350 to $1,200/mo, ~$500/mo) and the Dentrix Enterprise rows were not added.",
+ "answer_record_ids": [
+  "dental-practice-management|q1|ChatGPT|3",
+  "dental-practice-management|q1|Claude|2",
+  "dental-practice-management|q1|Claude|3",
+  "dental-practice-management|q1|Google AI Mode|1",
+  "dental-practice-management|q1|Google AI Mode|2",
+  "dental-practice-management|q1|Google AI Overviews|2",
+  "dental-practice-management|q10|ChatGPT|1",
+  "dental-practice-management|q10|ChatGPT|2",
+  "dental-practice-management|q10|ChatGPT|3",
+  "dental-practice-management|q10|Claude|1",
+  "dental-practice-management|q10|Claude|2",
+  "dental-practice-management|q10|Claude|3",
+  "dental-practice-management|q10|Google AI Mode|1",
+  "dental-practice-management|q10|Google AI Mode|2",
+  "dental-practice-management|q10|Google AI Mode|3",
+  "dental-practice-management|q10|Google AI Overviews|1",
+  "dental-practice-management|q10|Google AI Overviews|2",
+  "dental-practice-management|q10|Google AI Overviews|3",
+  "dental-practice-management|q10|Perplexity|1",
+  "dental-practice-management|q10|Perplexity|2",
+  "dental-practice-management|q10|Perplexity|3",
+  "dental-practice-management|q2|Claude|1",
+  "dental-practice-management|q2|Claude|2",
+  "dental-practice-management|q2|Claude|3",
+  "dental-practice-management|q2|Google AI Mode|1",
+  "dental-practice-management|q2|Google AI Mode|2",
+  "dental-practice-management|q2|Google AI Mode|3",
+  "dental-practice-management|q2|Google AI Overviews|1",
+  "dental-practice-management|q2|Google AI Overviews|3",
+  "dental-practice-management|q3|ChatGPT|1",
+  "dental-practice-management|q3|ChatGPT|2",
+  "dental-practice-management|q3|ChatGPT|3",
+  "dental-practice-management|q3|Claude|1",
+  "dental-practice-management|q3|Claude|2",
+  "dental-practice-management|q3|Claude|3",
+  "dental-practice-management|q3|Google AI Mode|1",
+  "dental-practice-management|q3|Google AI Mode|2",
+  "dental-practice-management|q3|Google AI Mode|3",
+  "dental-practice-management|q3|Google AI Overviews|1",
+  "dental-practice-management|q3|Google AI Overviews|2",
+  "dental-practice-management|q3|Google AI Overviews|3",
+  "dental-practice-management|q3|Perplexity|1",
+  "dental-practice-management|q3|Perplexity|2",
+  "dental-practice-management|q3|Perplexity|3",
+  "dental-practice-management|q4|ChatGPT|1",
+  "dental-practice-management|q4|ChatGPT|2",
+  "dental-practice-management|q4|ChatGPT|3",
+  "dental-practice-management|q4|Claude|1",
+  "dental-practice-management|q4|Claude|2",
+  "dental-practice-management|q4|Claude|3",
+  "dental-practice-management|q4|Google AI Mode|1",
+  "dental-practice-management|q4|Google AI Mode|2",
+  "dental-practice-management|q4|Google AI Mode|3",
+  "dental-practice-management|q4|Google AI Overviews|1",
+  "dental-practice-management|q4|Google AI Overviews|2",
+  "dental-practice-management|q4|Google AI Overviews|3",
+  "dental-practice-management|q4|Perplexity|1",
+  "dental-practice-management|q4|Perplexity|2",
+  "dental-practice-management|q4|Perplexity|3",
+  "dental-practice-management|q5|ChatGPT|1",
+  "dental-practice-management|q5|ChatGPT|2",
+  "dental-practice-management|q5|ChatGPT|3",
+  "dental-practice-management|q5|Claude|1",
+  "dental-practice-management|q5|Claude|2",
+  "dental-practice-management|q5|Claude|3",
+  "dental-practice-management|q5|Google AI Mode|1",
+  "dental-practice-management|q5|Google AI Mode|2",
+  "dental-practice-management|q5|Google AI Mode|3",
+  "dental-practice-management|q5|Google AI Overviews|1",
+  "dental-practice-management|q5|Google AI Overviews|2",
+  "dental-practice-management|q5|Google AI Overviews|3",
+  "dental-practice-management|q5|Perplexity|1",
+  "dental-practice-management|q5|Perplexity|2",
+  "dental-practice-management|q5|Perplexity|3",
+  "dental-practice-management|q6|ChatGPT|1",
+  "dental-practice-management|q6|ChatGPT|2",
+  "dental-practice-management|q6|ChatGPT|3",
+  "dental-practice-management|q6|Claude|1",
+  "dental-practice-management|q6|Claude|2",
+  "dental-practice-management|q6|Claude|3",
+  "dental-practice-management|q6|Google AI Mode|1",
+  "dental-practice-management|q6|Google AI Mode|2",
+  "dental-practice-management|q6|Google AI Mode|3",
+  "dental-practice-management|q6|Google AI Overviews|1",
+  "dental-practice-management|q6|Google AI Overviews|2",
+  "dental-practice-management|q6|Google AI Overviews|3",
+  "dental-practice-management|q6|Perplexity|1",
+  "dental-practice-management|q6|Perplexity|2",
+  "dental-practice-management|q6|Perplexity|3",
+  "dental-practice-management|q7|ChatGPT|1",
+  "dental-practice-management|q7|ChatGPT|2",
+  "dental-practice-management|q7|ChatGPT|3",
+  "dental-practice-management|q7|Claude|1",
+  "dental-practice-management|q7|Claude|2",
+  "dental-practice-management|q7|Claude|3",
+  "dental-practice-management|q7|Google AI Mode|1",
+  "dental-practice-management|q7|Google AI Mode|2",
+  "dental-practice-management|q7|Google AI Mode|3",
+  "dental-practice-management|q7|Google AI Overviews|1",
+  "dental-practice-management|q7|Google AI Overviews|2",
+  "dental-practice-management|q7|Google AI Overviews|3",
+  "dental-practice-management|q7|Perplexity|1",
+  "dental-practice-management|q7|Perplexity|2",
+  "dental-practice-management|q7|Perplexity|3",
+  "dental-practice-management|q8|ChatGPT|1",
+  "dental-practice-management|q8|ChatGPT|2",
+  "dental-practice-management|q8|ChatGPT|3",
+  "dental-practice-management|q8|Claude|1",
+  "dental-practice-management|q8|Claude|2",
+  "dental-practice-management|q8|Claude|3",
+  "dental-practice-management|q8|Google AI Mode|1",
+  "dental-practice-management|q8|Google AI Mode|2",
+  "dental-practice-management|q8|Google AI Mode|3",
+  "dental-practice-management|q8|Google AI Overviews|1",
+  "dental-practice-management|q8|Google AI Overviews|2",
+  "dental-practice-management|q8|Google AI Overviews|3",
+  "dental-practice-management|q8|Perplexity|1",
+  "dental-practice-management|q8|Perplexity|2",
+  "dental-practice-management|q8|Perplexity|3",
+  "dental-practice-management|q9|Google AI Mode|3"
+ ],
+ "named_count": 120
+}

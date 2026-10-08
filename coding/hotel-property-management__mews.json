@@ -1,0 +1,903 @@
+{
+ "vendor": "Mews",
+ "slug": "mews",
+ "category": "hotel-property-management",
+ "coded_at": "2026-10-08T04:22:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.mews.com/en/pricing",
+   "key": "48d097aafbd2ca4a",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.mews.com/",
+   "key": "58365d347faa21f7",
+   "used_for": "home (redirects to /en)"
+  },
+  {
+   "url": "https://www.mews.com/en/products/property-management-system",
+   "key": "9e686407876c5a34",
+   "used_for": "product: PMS"
+  },
+  {
+   "url": "https://www.mews.com/en/products/mews-channel-manager",
+   "key": "e9e079f9614f8d8d",
+   "used_for": "product: channel manager"
+  },
+  {
+   "url": "https://www.mews.com/en/products/payments",
+   "key": "ed2b538085ad6ecf",
+   "used_for": "product: payments"
+  },
+  {
+   "url": "https://www.mews.com/en/products/guest-self-check-in",
+   "key": "8293dab25d1d5062",
+   "used_for": "product: check-in and kiosk"
+  },
+  {
+   "url": "https://www.mews.com/en/blog/introducing-mews-os",
+   "key": "792dfab1b2abb624",
+   "used_for": "press: Mews OS launch (checked for a dated plan change)"
+  },
+  {
+   "url": "https://help.mews.com/s/article/Understanding-the-Portfolio-pricing-plan?language=en_US",
+   "key": "f1c7c6d7ae61b91d",
+   "used_for": "help: Portfolio pricing plan (thin on the fetch; read once in a real browser, f1c7c6d7ae61b91d.browser.txt; feature lists did not render)"
+  },
+  {
+   "url": "https://help.mews.com/s/article/Mews-contract-FAQs",
+   "key": "17165a4a0ea68398",
+   "used_for": "help: contract FAQs (thin on the fetch; read once in a real browser, 17165a4a0ea68398.browser.txt)"
+  },
+  {
+   "url": "https://help.mews.com/s/article/Understanding-Mews-Channel-Manager",
+   "key": "523885fde00ae68a",
+   "used_for": "help: channel manager Core and Pro plans (read once in a real browser)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Mews pricing is quote-based (tailored per property).",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/pricing",
+   "proof_quote": "Pricing varies depending on your business, so our sales team will create a quote that reflects your property.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says the sales team creates a quote for each property and every plan carries Get pricing.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Both require quotes."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Both use tailored pricing."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|3",
+     "quote": "Both use quote-based pricing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Mews is priced as a subscription.",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/pricing",
+   "proof_quote": "Payment processing is charged separately from your Mews subscription.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ refers to the customer's Mews subscription.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q10|Claude|2",
+     "quote": "| Mews | Modern, automation-first groups | ⭐⭐⭐⭐ | Subscription |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Mews costs about $17 per room per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says pricing is per room and quoted per property, and the contract FAQ (browser read) describes a price per room without a figure, so the amount cannot be checked.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "| Mews | Tech-forward boutique hotels | ~$17/room/month |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "The entry tier costs roughly $15 to $17 per room per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page snapshot carries no price figure (pricing is quoted per property), so the range cannot be checked.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|Claude|1",
+     "quote": "Both platforms ship at roughly the same entry tier (USD $15–17 per room per month)"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "Both ship at roughly the same entry tier (USD $15–17 per room per month)"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "Both ship at roughly the same entry tier (USD $15–17 per room per month)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Mews charges card-storage (tokenization), terminal and chargeback fees, documented in its contract FAQ.",
+   "class": "true",
+   "proof_url": "https://help.mews.com/s/article/Mews-contract-FAQs",
+   "proof_quote": "Card protection fees apply when the system securely stores card details Terminal fees apply when you use payment terminals Chargeback fees apply when a payment dispute is lost",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The contract FAQ help article (browser read) lists card protection fees for stored cards, terminal fees and chargeback fees, and also describes per-card tokenization fees.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Mews specifically documents card-storage/tokenization, terminal, and chargeback-related fees."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|3",
+     "quote": "Specifically ask Mews to itemize card-storage, terminal, and chargeback fees, which its contract FAQ identifies."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Marketplace add-ons cost extra beyond the Mews PMS core.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names Mews' own add-ons (POS, bookable services, Housekeeping, Automations) and the Portfolio help article ties unlimited Marketplace access to the Brand plan, but no page read says whether Marketplace integrations carry a charge.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|Claude|1",
+     "quote": "Mews ships the PMS core with marketplace assembly (meaning add-ons cost extra)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Mews Marketplace integrations are fee-free.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read, including the browser-read contract FAQ, states whether Marketplace integrations are free or charged.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|Google AI Mode|3",
+     "quote": "Features the Mews Marketplace with seamless, fee-free third-party API integrations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "plans",
+   "claim": "Mews offers Portfolio and Brand plans for hotel groups.",
+   "class": "true",
+   "proof_url": "https://help.mews.com/s/article/Understanding-the-Portfolio-pricing-plan?language=en_US",
+   "proof_quote": "If you are a hotel group, you can also upgrade to the Brand pricing plan for access to Mews Open API and unlimited Mews Marketplace.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Portfolio pricing plan help article (browser read) says the Portfolio plan is designed for hotel groups and that hotel groups can upgrade to the Brand pricing plan; the pricing page's Core, Pro and Enterprise tiers do not contradict it.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q10|ChatGPT|1",
+     "quote": "Mews' documentation distinguishes its Portfolio and Brand plans, with Open API access and unlimited Marketplace access identified under Brand."
+    },
+    {
+     "record_id": "hotel-property-management|q10|ChatGPT|2",
+     "quote": "Mews distinguishes its Portfolio and Brand plans for API and marketplace access, so package selection needs scrutiny."
+    },
+    {
+     "record_id": "hotel-property-management|q10|ChatGPT|3",
+     "quote": "Mews distinguishes Portfolio from Brand, with Open API access and unlimited Marketplace included in Brand."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Mews offers group-focused Portfolio and Brand packages."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "plans",
+   "claim": "Open API access and unlimited Marketplace access are included in the Brand plan.",
+   "class": "true",
+   "proof_url": "https://help.mews.com/s/article/Understanding-the-Portfolio-pricing-plan?language=en_US",
+   "proof_quote": "If you are a hotel group, you can also upgrade to the Brand pricing plan for access to Mews Open API and unlimited Mews Marketplace.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Portfolio pricing plan help article (browser read) says the Brand pricing plan gives access to Mews Open API and unlimited Mews Marketplace.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q10|ChatGPT|1",
+     "quote": "with Open API access and unlimited Marketplace access identified under Brand."
+    },
+    {
+     "record_id": "hotel-property-management|q10|ChatGPT|3",
+     "quote": "with Open API access and unlimited Marketplace included in Brand."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "plans",
+   "claim": "API access and integration allowances depend on the plan.",
+   "class": "true",
+   "proof_url": "https://help.mews.com/s/article/Understanding-the-Portfolio-pricing-plan?language=en_US",
+   "proof_quote": "If you are a hotel group, you can also upgrade to the Brand pricing plan for access to Mews Open API and unlimited Mews Marketplace.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Portfolio pricing plan help article (browser read) makes Open API access and unlimited Marketplace access an upgrade from Portfolio to Brand, so both depend on the plan.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "But Mews' integration allowances and API access depend on the plan."
+    },
+    {
+     "record_id": "hotel-property-management|q10|ChatGPT|2",
+     "quote": "Mews distinguishes its Portfolio and Brand plans for API and marketplace access"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "plans",
+   "claim": "The Portfolio plan includes unified reservation and guest data, bulk rate changes, centralized policies and a multi-property booking engine.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Portfolio pricing plan help article (browser read) shows only section headings (PMS foundation, Mews Multi-Property, Advanced Guest Experience, Connectivity, Mews Analytics); the feature lists under them did not render as text, so these inclusions cannot be checked.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q3|ChatGPT|1",
+     "quote": "Its Portfolio offering includes unified reservation and guest data, bulk rate changes, centralized policies, and a multi-property booking engine."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Its Portfolio offering explicitly includes bulk property management, centralized rates and policies, and unified reservation data."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "plans",
+   "claim": "The Essentials plan includes automated payments, online check-in and kiosk functionality.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page read on 8 Oct lists Mews Core, Mews Pro and Enterprise; the help center links an Essentials pricing plan article by title only, and no page read lists what Essentials includes.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Essentials includes automated payments, online check-in, and kiosk functionality."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Essentials includes online check-in, automated payments, and kiosk functionality"
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|3",
+     "quote": "Mews lists automated payments, a guest portal, and kiosk functionality in Essentials."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "plans",
+   "claim": "The Advanced plan adds digital keys and automated SMS check-in reminders.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page read on 8 Oct lists Mews Core, Mews Pro and Enterprise; the help center links an Essentials to Advanced upgrade article by title only, and no page read lists what Advanced adds.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Advanced adds digital keys and automated SMS check-in reminders."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Advanced adds features such as digital keys and SMS check-in reminders."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "plans",
+   "claim": "The Enterprise plan includes Open API access and unlimited Marketplace integrations.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page describes Enterprise only as a tailored setup for multi-brand groups without listing inclusions; the Portfolio help article ties Open API and unlimited Marketplace to the Brand plan, and no page equates Brand with Enterprise, so the claim is neither confirmed nor explicitly contradicted.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Mews' API access and unlimited integrations are listed in Enterprise."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|3",
+     "quote": "Its Enterprise plan lists Open API access and unlimited Marketplace integrations, with 1,000+ integrations advertised."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "plans",
+   "claim": "The Essentials plan includes the embedded channel manager.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read lists what the Essentials plan includes; the channel manager help article describes Channel Manager Core and Pro plans without tying them to Essentials.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Mews now lists an embedded channel manager powered by SiteMinder in Essentials."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "plans",
+   "claim": "The Core channel manager covers three default OTAs (Booking.com, Expedia, Airbnb), and channel coverage differs by plan.",
+   "class": "true",
+   "proof_url": "https://help.mews.com/s/article/Understanding-Mews-Channel-Manager",
+   "proof_quote": "Mews Channel Manager Core includes your Mews direct booking engine plus three default online travel agency channels: Booking.com, Expedia, and Airbnb Hotels.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The channel manager help article (browser read) says Core covers the direct booking engine plus Booking.com, Expedia and Airbnb Hotels, while Pro adds the SiteConnect catalogue of 400+ channels.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Its Core version covers Booking.com, Expedia, and Airbnb Hotels"
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|2",
+     "quote": "its SiteMinder-powered Core offering covers three default OTAs"
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|3",
+     "quote": "Its SiteMinder-powered channel manager has different channel coverage by plan."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "plans",
+   "claim": "The Pro plan gives the channel manager access to 400+ channels (the full catalog).",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/pricing",
+   "proof_quote": "Channel manager Two-way sync across a full 400-channel distribution network.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Under Mews Pro the pricing page lists a channel manager with a full 400-channel network, and the channel manager page says 400+ channels.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Pro expands access to 400+ channels."
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|2",
+     "quote": "Pro expands access to the wider channel catalog."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "Bookable services (parking, coworking and similar) are an add-on that can be sold by the hour, day or month.",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/pricing",
+   "proof_quote": "Spaces and Amenities Manage and upsell bookable services like parking spots, coworking seats or bike hire. Turn underused resources into extra income Set pricing, rules and availability for every service Let guests book by the hour, the day or month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists bookable services (Spaces and Amenities) among the add-ons and says guests can book by the hour, day or month; its FAQ confirms bookable services are add-ons.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Its Bookable Services add-on supports inventory sold by the hour, day, or month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "product_names",
+   "claim": "Mews' self check-in kiosk product is named Mews Kiosk.",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/products/guest-self-check-in",
+   "proof_quote": "Mews Kiosk redefines a convenient self check-in and out experience",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The guest check-in page names the kiosk product Mews Kiosk.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "The platform includes Mews Kiosk for self-check-in and Mews Payments as native modules."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "The platform includes Mews Kiosk for self-check-in and Mews Payments as native modules."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "it shipped Mews Kiosk for self-check-in and Mews Payments as native modules."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "The platform shipped Mews Kiosk for self-check-in and Mews Payments as native modules."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "product_names",
+   "claim": "Mews' payments product is named Mews Payments.",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/products/payments",
+   "proof_quote": "Mews Payments is a fully embedded payment gateway that uses automation to process transactions",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The payments page names the product Mews Payments.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "The platform includes Mews Kiosk for self-check-in and Mews Payments as native modules."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "The platform includes Mews Kiosk for self-check-in and Mews Payments as native modules."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "it shipped Mews Kiosk for self-check-in and Mews Payments as native modules."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "The platform shipped Mews Kiosk for self-check-in and Mews Payments as native modules."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Google AI Mode|3",
+     "quote": "Built-in payment processing (Mews Payments)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "product_names",
+   "claim": "Mews' integrations marketplace is named Mews Marketplace.",
+   "class": "true",
+   "proof_url": "https://www.mews.com/",
+   "proof_quote": "It also connects to 1000+ integrations through the Mews Marketplace, so you can tailor your tech stack",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page names the integrations marketplace the Mews Marketplace.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|Google AI Mode|2",
+     "quote": "The Mews Marketplace & Open API"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Google AI Mode|3",
+     "quote": "Features the Mews Marketplace with seamless, fee-free third-party API integrations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "integrations",
+   "claim": "Mews' channel manager is powered by SiteMinder.",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/products/mews-channel-manager",
+   "proof_quote": "Powered by SiteMinder. Built into Mews. Manage 400+ channels from the operating system your property already runs on.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The channel manager page presents Mews Channel Manager as powered by SiteMinder.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Mews now lists an embedded channel manager powered by SiteMinder in Essentials."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Mews now offers a channel manager powered by SiteMinder."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|3",
+     "quote": "Mews now advertises an embedded channel manager powered by SiteMinder."
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|2",
+     "quote": "its SiteMinder-powered Core offering covers three default OTAs"
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|3",
+     "quote": "Its SiteMinder-powered channel manager has different channel coverage by plan."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "integrations",
+   "claim": "Mews' channel manager connects to Booking.com.",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/products/mews-channel-manager",
+   "proof_quote": "OTA connections include Booking.com, Expedia and Airbnb for Hotels",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The channel manager page lists Booking.com among the OTA connections.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Its Core version covers Booking.com, Expedia, and Airbnb Hotels"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "integrations",
+   "claim": "Mews' channel manager connects to Expedia.",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/products/mews-channel-manager",
+   "proof_quote": "OTA connections include Booking.com, Expedia and Airbnb for Hotels",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The channel manager page lists Expedia among the OTA connections.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Its Core version covers Booking.com, Expedia, and Airbnb Hotels"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "integrations",
+   "claim": "Mews' channel manager connects to Airbnb (Airbnb for Hotels).",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/products/mews-channel-manager",
+   "proof_quote": "OTA connections include Booking.com, Expedia and Airbnb for Hotels",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The channel manager page lists Airbnb for Hotels among the OTA connections.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Its Core version covers Booking.com, Expedia, and Airbnb Hotels"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "integrations",
+   "claim": "Mews has 1,000+ integrations.",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/pricing",
+   "proof_quote": "With access to 1,000+ marketplace integrations and an open API, you can connect your existing tech stack rather than replace it all at once.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states 1,000+ marketplace integrations, and the home page 1000+.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "with PMS, POS, payments, guest tools, open APIs, and 1,000+ integrations."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "With an open API and 1,000+ integrations"
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Mews advertises 1,000+ integrations versus Cloudbeds' 400+."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Mews advertises 1,000+ integrations versus Cloudbeds' 400+."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|3",
+     "quote": "with 1,000+ integrations advertised."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Google AI Overviews|2",
+     "quote": "Mews shines with over 1,000 marketplace integrations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "integrations",
+   "claim": "Mews has 335+ integrations.",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/pricing",
+   "proof_quote": "With access to 1,000+ marketplace integrations and an open API, you can connect your existing tech stack rather than replace it all at once.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor states 1,000+ integrations, so 335+ is true as written (lower bound, per the 8 Oct clarification), though it understates the published count.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|Claude|1",
+     "quote": "Mews offers 335+ integrations compared to Cloudbeds' 190."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "Mews offers 335+ integrations"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "Mews offers 335+ integrations, compared to Cloudbeds' ~190."
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "platforms",
+   "claim": "Mews is a cloud-based (cloud-native) PMS.",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/products/property-management-system",
+   "proof_quote": "Mews is cloud-native, secure and modern.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PMS page states that Mews is cloud-native, and the home page says everything runs in one cloud-native platform.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Google AI Mode|2",
+     "quote": "It is cloud-native, highly rated for its open API"
+    },
+    {
+     "record_id": "hotel-property-management|q1|Google AI Overviews|1",
+     "quote": "top cloud-based platforms like Cloudbeds and Mews lead the industry for lean teams and boutique properties."
+    },
+    {
+     "record_id": "hotel-property-management|q1|Google AI Overviews|3",
+     "quote": "It is cloud-based and built to simplify routine tasks like housekeeping."
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "Mews describes its platform as cloud-native and built to automate, connect, and modernize hotel operations"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Mode|1",
+     "quote": "Mews is cloud-native, incredibly sleek"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Mode|2",
+     "quote": "Mews is a cloud-native, highly innovative platform"
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Overviews|2",
+     "quote": "Mews is a modern, cloud-first platform"
+    },
+    {
+     "record_id": "hotel-property-management|q4|ChatGPT|1",
+     "quote": "Cloud-native PMS with integrated payments and centralized multi-property tools"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "brings revenue, operations, and the guest journey together in one cloud-native platform."
+    },
+    {
+     "record_id": "hotel-property-management|q5|Google AI Mode|1",
+     "quote": "Mews — Best modern cloud PMS for boutique and independent properties."
+    },
+    {
+     "record_id": "hotel-property-management|q5|Google AI Overviews|2",
+     "quote": "Mews offers a cloud-native operating system"
+    },
+    {
+     "record_id": "hotel-property-management|q6|ChatGPT|2",
+     "quote": "Offers a cloud-native PMS"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|1",
+     "quote": "Both Mews and Cloudbeds are among the most widely deployed cloud-based Property Management Systems (PMS) in the independent hotel market."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "It is a modern API-first cloud PMS"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "both are excellent cloud-based PMS platforms"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Google AI Mode|1",
+     "quote": "Both are top-tier, cloud-based property management systems (PMS)"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Google AI Mode|2",
+     "quote": "Both are top-tier cloud property management systems (PMS)"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Google AI Mode|3",
+     "quote": "Both are top-tier cloud property management systems (PMS)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "platforms",
+   "claim": "Mews provides mobile operational tools for staff.",
+   "class": "true",
+   "proof_url": "https://www.mews.com/en/products/property-management-system",
+   "proof_quote": "Real-time mobile housekeeping app",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PMS page lists a real-time mobile housekeeping app for staff.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q6|ChatGPT|1",
+     "quote": "Provides automated payments, mobile operational tools, scheduled reporting, and a marketplace of integrations."
+    },
+    {
+     "record_id": "hotel-property-management|q6|ChatGPT|3",
+     "quote": "Provides automated payments, mobile operations, scheduled reporting, and a marketplace of integrations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "discontinued",
+   "claim": "Mews' POS app is closed to new users.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers a Point of Sale add-on, the navigation lists both POS and ePOS and the Portfolio help article recommends Mews POS as an add-on, but no page read says which POS app, if any, is closed to new users.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "Its POS app is currently closed to new users"
+    }
+   ]
+  }
+ ],
+ "notes": "Seven www.mews.com pages read (pricing, home, PMS, channel manager, payments, guest check-in, Introducing Mews OS), all HTTP 200 and not thin. Two help.mews.com articles cited by the answers (Portfolio pricing plan, contract FAQs) rendered no text on the fetch (script-rendered, thin); in pass 2 they and the channel manager help article were each read once in a real browser. Plan naming is the main open issue: the pricing page read on 8 Oct lists Mews Core, Mews Pro and Enterprise, while the help center read the same day still documents Portfolio and Brand plans and links Essentials and Advanced plan articles by title. The Introducing Mews OS page carries no date in its text, so no dated plan change could be established and nothing is coded stale. C27 (335+ integrations) is true only as a lower bound of the published 1,000+. Awards (HotelTechAwards), ratings, market-position lines, the 35 percent RMS accuracy claim, feature names such as DataChat, Guest CRM and Native Email Marketing, and hedged cost lines were not coded. Pass 2 (8 Oct 2026): C05 (contract FAQ fees), C08 (Portfolio and Brand plans), C09 (Brand includes Open API and unlimited Marketplace), C10 (API access depends on plan) and C16 (Core covers three default OTAs) unverifiable to true from the browser snapshots; C11 stays unverifiable because the Portfolio feature lists did not render; C12 to C15 stay unverifiable. The gap lines and the tables and vendor sub-headings held no further in-scope statement about Mews (the ~190 versus 335+ table cells are already C27 instances; q5 Claude answers that price Mews are not in this vendor's deposit set). No claim is wrong or stale, so no cited page was read for causes.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "hotel-property-management|q1|Google AI Mode|2",
+  "hotel-property-management|q1|Google AI Overviews|1",
+  "hotel-property-management|q1|Google AI Overviews|3",
+  "hotel-property-management|q10|ChatGPT|1",
+  "hotel-property-management|q10|ChatGPT|2",
+  "hotel-property-management|q10|ChatGPT|3",
+  "hotel-property-management|q10|Claude|2",
+  "hotel-property-management|q2|ChatGPT|1",
+  "hotel-property-management|q2|ChatGPT|2",
+  "hotel-property-management|q2|ChatGPT|3",
+  "hotel-property-management|q2|Claude|2",
+  "hotel-property-management|q2|Google AI Mode|1",
+  "hotel-property-management|q2|Google AI Mode|2",
+  "hotel-property-management|q2|Google AI Overviews|1",
+  "hotel-property-management|q2|Google AI Overviews|2",
+  "hotel-property-management|q3|ChatGPT|1",
+  "hotel-property-management|q3|ChatGPT|2",
+  "hotel-property-management|q3|ChatGPT|3",
+  "hotel-property-management|q3|Google AI Overviews|2",
+  "hotel-property-management|q3|Perplexity|1",
+  "hotel-property-management|q4|ChatGPT|1",
+  "hotel-property-management|q4|ChatGPT|2",
+  "hotel-property-management|q4|ChatGPT|3",
+  "hotel-property-management|q4|Claude|2",
+  "hotel-property-management|q5|ChatGPT|1",
+  "hotel-property-management|q5|ChatGPT|2",
+  "hotel-property-management|q5|ChatGPT|3",
+  "hotel-property-management|q5|Google AI Mode|1",
+  "hotel-property-management|q5|Google AI Overviews|2",
+  "hotel-property-management|q6|ChatGPT|1",
+  "hotel-property-management|q6|ChatGPT|2",
+  "hotel-property-management|q6|ChatGPT|3",
+  "hotel-property-management|q6|Google AI Mode|3",
+  "hotel-property-management|q7|ChatGPT|1",
+  "hotel-property-management|q7|ChatGPT|2",
+  "hotel-property-management|q7|ChatGPT|3",
+  "hotel-property-management|q7|Claude|1",
+  "hotel-property-management|q7|Claude|2",
+  "hotel-property-management|q7|Claude|3",
+  "hotel-property-management|q7|Google AI Mode|1",
+  "hotel-property-management|q7|Google AI Mode|2",
+  "hotel-property-management|q7|Google AI Mode|3",
+  "hotel-property-management|q7|Google AI Overviews|1",
+  "hotel-property-management|q7|Google AI Overviews|2",
+  "hotel-property-management|q7|Google AI Overviews|3",
+  "hotel-property-management|q7|Perplexity|1",
+  "hotel-property-management|q7|Perplexity|2",
+  "hotel-property-management|q7|Perplexity|3"
+ ],
+ "named_count": 48
+}

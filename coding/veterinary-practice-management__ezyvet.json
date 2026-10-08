@@ -1,0 +1,1475 @@
+{
+ "vendor": "ezyVet",
+ "slug": "ezyvet",
+ "category": "veterinary-practice-management",
+ "coded_at": "2026-10-08T04:05:00Z",
+ "pages_read": [
+  {
+   "url": "https://ezyvet.com/",
+   "key": "030554391a724c32",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.ezyvet.com/pricing",
+   "key": "8f25c17ccb06fac0",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.ezyvet.com/integrations",
+   "key": "a5b8abbe951dceb6",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://www.ezyvet.com/idexx-ecosystem",
+   "key": "5daf8d01683e07ce",
+   "used_for": "ownership and IDEXX ecosystem"
+  },
+  {
+   "url": "https://www.ezyvet.com/overview",
+   "key": "6fbd358622617daa",
+   "used_for": "product"
+  },
+  {
+   "url": "https://www.ezyvet.com/cloud-based-software",
+   "key": "425696a3ddeff1a7",
+   "used_for": "platforms (redirects to /transitioning-from-server-to-cloud)"
+  },
+  {
+   "url": "https://www.idexx.com/en/about-idexx/news/newsroom-archive/idexx-acquires-ezyvet",
+   "key": "1448d106cd4fea58",
+   "used_for": "press (parent company newsroom; ezyVet's Company link points to IDEXX.com)"
+  },
+  {
+   "url": "https://www.ezyvet.com/integrations/antech-diagnostics",
+   "key": "b06bf88c07ee9f07",
+   "used_for": "integration detail (directory loads by script)"
+  },
+  {
+   "url": "https://software.idexx.com/top-veterinary-software-solutions-a-2025-comparison-guide",
+   "key": "cbd943636f761848",
+   "used_for": "naming (IDEXX product family site; read once under the IDEXX vendor, snapshot reused, not refetched)"
+  },
+  {
+   "url": "https://co.vet/post/veterinary-management-software/",
+   "key": "1c907ccf7abed1b3",
+   "used_for": "cause (cited page)"
+  },
+  {
+   "url": "https://www.vetsoftwarehub.com/product/ezyvet",
+   "key": "5bd220991b671887",
+   "used_for": "cause (cited page, HTTP 429)"
+  },
+  {
+   "url": "https://www.puppilot.co/resources/compare-pims/cornerstone-vs-ezyvet",
+   "key": "09979de3b99d9e82",
+   "used_for": "cause (cited page, not the cause)"
+  },
+  {
+   "url": "https://www.softwareadvice.com/veterinary/cornerstone-profile/vs/ezyvet/",
+   "key": "7bcb7153678f4870",
+   "used_for": "cause (cited page, HTTP 403)"
+  },
+  {
+   "url": "https://www.layer3labs.io/comparisons/best-veterinary-practice-management-software",
+   "key": "b9bb243754e0754a",
+   "used_for": "cause (cited page, not the cause)"
+  },
+  {
+   "url": "https://www.getapp.com/industries-software/a/ezyvet/compare/cornerstone-software/",
+   "key": "857c7e7ca26dc775",
+   "used_for": "cause (cited page, HTTP 403)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "ezyVet's starting price is $260.50 per month (no per-user basis stated).",
+   "class": "true",
+   "proof_url": "https://www.ezyvet.com/pricing",
+   "proof_quote": "Get started for as little as $260.50 per month.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page gives the same starting price on the same per-month basis.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|1",
+     "quote": "ezyVet currently advertises a starting price of **$260.50/month**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|1",
+     "quote": "Starts at ~$260.50/month (varies by configuration)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Pricing starts at $260.50 (about $260) per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states a starting price of $260.50 per month but no per-user basis, so the per-user claim cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "ezyVet starts at $260.50 per user per month"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|2",
+     "quote": "Starts at $260.50 per user per month."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|3",
+     "quote": "ezyVet starts at $260.50 per user per month."
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|2",
+     "quote": "ezyVet starts at $260.50 per user per month."
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|3",
+     "quote": "ezyVet starts at $260.50 per user per month."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "ezyVet starts at $260.50 per user per month."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "making it meaningfully cheaper than ezyVet's ~$260 per user, per month once you have multiple doctors."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "Starts at $260.50/month per user."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "Per-user pricing is near $260.50/user/month."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Overviews|1",
+     "quote": "A feature-rich, next-generation cloud system starting around $260.50 per user/month"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Overviews|2",
+     "quote": "powerful multi-location handling starting around $260.50/user/month."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Overviews|3",
+     "quote": "Pricing: Starts around $260.50 per user/month."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "(starting around $260/user)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The Basic plan costs $260.50 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names no plans and gives no per-user basis, so a Basic plan price per user cannot be checked.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|1",
+     "quote": "ezyVet starts at $260.50 per user/month for the Basic plan."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|2",
+     "quote": "$260.50 per user/month for the Basic plan."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "ezyVet is priced per user (per user per month).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page gives a per-month starting price and offers custom quotes but does not state the price basis (per user or otherwise).",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "the per-user pricing adds up fast"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "the per-user pricing adds up fast"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "the per-user pricing adds up fast"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "Typically charged per user/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Pricing starts at $245 per month.",
+   "class": "wrong",
+   "proof_url": "https://www.ezyvet.com/pricing",
+   "proof_quote": "Get started for as little as $260.50 per month.",
+   "stale_change": null,
+   "causing_url": "https://co.vet/post/veterinary-management-software/",
+   "causing_type": "other",
+   "causing_quote": "ezyVet lists pricing starting around $245 per month, with separate implementation fees.",
+   "rationale": "Compared on the same basis (starting price per month), the pricing page's lowest price is $260.50, not $245; a cited third-party comparison article carries the $245 figure.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "Starting at $245/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Pricing starts at about $245 to $260 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The claim is per user; the pricing page states no per-user basis, so it cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "~$245–260/user/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Pricing starts around $230 to $260+ per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The claim is per user; the pricing page states no per-user basis, so it cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|2",
+     "quote": "Higher cost (starts around $230–$260+ per user/month)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|1",
+     "quote": "ezyVet: Starts around $230–$260+ per user/month, scaling predictably as your team grows."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Pricing is about $245 to $260 per month per veterinarian, plus data migration fees.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page gives no per-veterinarian basis and does not state data conversion fees in its text, so the claim cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q10|Google AI Overviews|2",
+     "quote": "Pricing: Around $245–$260/month per veterinarian plus data migration fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "ownership",
+   "claim": "ezyVet is owned by IDEXX (an IDEXX product, part of IDEXX).",
+   "class": "true",
+   "proof_url": "https://www.idexx.com/en/about-idexx/news/newsroom-archive/idexx-acquires-ezyvet",
+   "proof_quote": "IDEXX Laboratories, Inc. (NASDAQ: IDXX), a global leader in veterinary diagnostics and software, announced today the acquisition of ezyVet",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "IDEXX's newsroom announces its acquisition of ezyVet (2 June 2021), and the current ezyVet site describes it as backed by IDEXX and practice software in the IDEXX family.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|2",
+     "quote": "ezyVet is an IDEXX-owned cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|3",
+     "quote": "ezyVet is an IDEXX-owned cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|2",
+     "quote": "A heavyweight in the cloud-native space (backed by IDEXX)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|1",
+     "quote": "as a division of IDEXX, it directly integrates with IDEXX VetConnect PLUS diagnostics"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|1",
+     "quote": "Owned by IDEXX, ezyVet features industry-leading two-way lab integrations"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|1",
+     "quote": "It is still part of IDEXX."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|2",
+     "quote": "ezyVet and Neo are also IDEXX products."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|3",
+     "quote": "Both ezyVet and Neo are IDEXX offerings."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|1",
+     "quote": "It is a powerful, native cloud-based platform owned by IDEXX"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|3",
+     "quote": "Owned by IDEXX, ezyVet is a cloud-native, enterprise-grade platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|1",
+     "quote": "Also owned by IDEXX"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|2",
+     "quote": "ezyVet (also owned by IDEXX)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|1",
+     "quote": "IDEXX-owned, cloud-native, and positioned as the enterprise alternative for Cornerstone users."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|2",
+     "quote": "start with **ezyVet** or **Neo** because both are IDEXX-owned."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|3",
+     "quote": "IDEXX-owned, cloud-native, and positioned as the natural upgrade path for larger practices."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|3",
+     "quote": "Both are IDEXX products, so this isn’t a change of vendor ecosystem."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|3",
+     "quote": "(since IDEXX owns both)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "even IDEXX is moving customers toward cloud solutions (ezyVet and Neo)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "As a division of IDEXX, ezyVet enjoys both the support of a large organization"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "As a division of IDEXX, ezyVet directly integrates with diagnostics solution IDEXX VetConnect PLUS."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|1",
+     "quote": "backed by IDEXX, ezyVet boasts an extensive integration ecosystem and 24/7 support"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|3",
+     "quote": "Both ezyVet and Cornerstone are IDEXX-backed veterinary practice management systems"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|1",
+     "quote": "Both platforms are owned by IDEXX"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "Both are powerful IDEXX products"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "product_names",
+   "claim": "The product is named ezyVet by IDEXX.",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/top-veterinary-software-solutions-a-2025-comparison-guide",
+   "proof_quote": "ezyVet (by IDEXX)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "IDEXX's own software site (the product family site, read for the IDEXX vendor in this study) lists the product as ezyVet (by IDEXX).",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|1",
+     "quote": "ezyVet (by IDEXX)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|1",
+     "quote": "**ezyVet** (by IDEXX)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "**ezyVet** (by IDEXX)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "platforms",
+   "claim": "ezyVet is cloud-based (cloud-native) software.",
+   "class": "true",
+   "proof_url": "https://www.ezyvet.com/pricing",
+   "proof_quote": "Cloud-based software Access ezyVet any time, anywhere, from any device.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists cloud-based software as part of ezyVet, and IDEXX's acquisition release calls it a cloud-native solution.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "ezyVet is a cloud-based veterinary PIMS for every practice type"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|2",
+     "quote": "ezyVet is an IDEXX-owned cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|3",
+     "quote": "ezyVet is an IDEXX-owned cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|2",
+     "quote": "A heavyweight in the cloud-native space (backed by IDEXX)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|1",
+     "quote": "| **ezyVet** | Large ER departments | ✅ |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|2",
+     "quote": "ezyVet is a cloud-based veterinary PIMS for every practice type"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|3",
+     "quote": "ezyVet is a cloud-based veterinary PIMS for every practice type"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Google AI Mode|1",
+     "quote": "Cloud-native options (ezyVet, Provet Cloud, Vetspire) ensure remote redundancy and multi-site accessibility."
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Google AI Mode|3",
+     "quote": "It is a cloud-native Practice Information Management System (PIMS) with powerful configurability."
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|ChatGPT|1",
+     "quote": "Cloud-based records, customizable templates, inventory, automated billing, reporting, permissions, and diagnostic integrations."
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Claude|1",
+     "quote": "| **ezyVet** | Cloud | Specialty & university hospitals |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Claude|2",
+     "quote": "| **ezyVet** | Cloud | Specialty & university hospitals in IDEXX ecosystem |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Claude|3",
+     "quote": "| **ezyVet** | Specialty & university hospitals | Cloud |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|3",
+     "quote": "It is a powerful, cloud-based platform featuring deep two-way diagnostics integrations (especially IDEXX)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Overviews|1",
+     "quote": "and a scalable cloud architecture"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Overviews|2",
+     "quote": "ezyVet: A comprehensive, cloud-based platform built to handle high-volume, multi-doctor workflows"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Overviews|3",
+     "quote": "ezyVet is widely considered the best cloud-based veterinary practice management software (PIMS)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Perplexity|2",
+     "quote": "especially if you need complex workflows, cloud access, and robust reporting"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|2",
+     "quote": "Cloud-based, with connected clinical records, billing, diagnostics, imaging, and inpatient-care tools."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|3",
+     "quote": "Cloud-based, with configurable workflows and a broad integration ecosystem."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|1",
+     "quote": "Differentiating features include cloud-based access"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|2",
+     "quote": "Differentiating features include cloud-based access"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "| **ezyVet** | Cloud | Specialty/multi-doctor practices |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|1",
+     "quote": "It is a powerful, native cloud-based platform owned by IDEXX"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|2",
+     "quote": "ezyVet | Cloud-Based | Large, emergency, & multi-location hospitals"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|3",
+     "quote": "Owned by IDEXX, ezyVet is a cloud-native, enterprise-grade platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|1",
+     "quote": "enterprise cloud platforms like ezyVet"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|2",
+     "quote": "A powerful, browser-based cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|3",
+     "quote": "Category: Cloud-based enterprise PIMS"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|1",
+     "quote": "IDEXX-owned, cloud-native, and positioned as the enterprise alternative for Cornerstone users."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|2",
+     "quote": "that want a cloud-native system and strong IDEXX integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|3",
+     "quote": "IDEXX-owned, cloud-native, and positioned as the natural upgrade path for larger practices."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|2",
+     "quote": "which is renowned for its heavy-duty cloud architecture"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|3",
+     "quote": "though they lack the native cloud agility of ezyVet"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "ezyVet is a cloud-based veterinary software"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "as a cloud-based solution, you can access it remotely from any device with an internet connection"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "| **ezyVet** | Large/specialty clinics | ~$245–260/user/mo | ✅ |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|1",
+     "quote": "A powerful, feature-rich cloud-based PIMS"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|2",
+     "quote": "A powerful, cloud-native practice management system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|3",
+     "quote": "It is a powerful, cloud-native platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Overviews|1",
+     "quote": "A feature-rich, next-generation cloud system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Overviews|3",
+     "quote": "Key features: Extensive third-party integrations, advanced workflow automation, and robust cloud capabilities."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Perplexity|1",
+     "quote": "**Best cloud-based practice management:** **ezyVet**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Perplexity|2",
+     "quote": "cloud-based and widely reviewed"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Perplexity|3",
+     "quote": "**Best cloud-based practice management options:** **ezyVet** and **DaySmart Vet**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|1",
+     "quote": "Cloud-based, with access across devices and automatic updates."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|3",
+     "quote": "Cloud-based, with browser access and centrally handled updates."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|1",
+     "quote": "| Deployment | Cloud-based | Primarily server-based |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|2",
+     "quote": "is next-generation cloud-based software that transforms, innovates, and automates the way vets run their practices."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|3",
+     "quote": "ezyVet is a comprehensive **cloud-based** practice management software"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|1",
+     "quote": "A true, modern cloud-native platform (hosted on AWS/GCP/Azure)."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|2",
+     "quote": "a modern, cloud-native platform (ezyVet)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|3",
+     "quote": "Architecture: 100% Cloud-based (accessible from anywhere, zero local server maintenance)."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|1",
+     "quote": "its native cloud architecture scales effortlessly across multiple locations"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "True cloud-based platform (built on AWS/GCP/Azure)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "This is a cloud-native platform built on major cloud services like AWS and Google Cloud"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Perplexity|1",
+     "quote": "because it is cloud-native, more flexible for integrations"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Perplexity|2",
+     "quote": "because it is cloud-native, scales more easily across locations and workflows"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Perplexity|3",
+     "quote": "because it is cloud-native, more flexible for scaling"
+    },
+    {
+     "record_id": "veterinary-practice-management|q9|Google AI Mode|1",
+     "quote": "Modern cloud systems (like ezyVet, DaySmart Vet, Digitail, or Vetspire)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "platforms",
+   "claim": "ezyVet can be accessed from anywhere and from any device, including mobile devices.",
+   "class": "true",
+   "proof_url": "https://www.ezyvet.com/pricing",
+   "proof_quote": "Access ezyVet any time, anywhere, from any device.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states access any time, anywhere, from any device.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|2",
+     "quote": "offering real-time multi-user editing and mobile access"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "you can access it remotely from any device with an internet connection"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|1",
+     "quote": "Cloud-based, with access across devices and automatic updates."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|2",
+     "quote": "Browser-based; remote access and centrally managed updates without maintaining a local PIMS server."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|1",
+     "quote": "ezyVet's cloud-based nature ensures that data is securely stored and accessible from anywhere"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|3",
+     "quote": "Its cloud-based nature ensures that data is securely stored and accessible from anywhere"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|1",
+     "quote": "Accessible via any web browser or device without a VPN"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|2",
+     "quote": "Accessible from any device with an internet browser."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|3",
+     "quote": "100% Cloud-based (accessible from anywhere, zero local server maintenance)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|1",
+     "quote": "allows staff to access records securely from anywhere without remote desktop setups"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "allowing secure access from anywhere at any time"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "You can access it via a web browser from any device without worrying about local servers."
+    },
+    {
+     "record_id": "veterinary-practice-management|q9|Google AI Mode|1",
+     "quote": "allow you to access records from any device"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "platforms",
+   "claim": "ezyVet is browser-based (used through a web browser).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read describe cloud access from any device but never say the software runs in a web browser.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|2",
+     "quote": "A powerful, browser-based cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|2",
+     "quote": "Its browser-based architecture and group-management capabilities"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|3",
+     "quote": "Cloud-based, with browser access and centrally handled updates."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|1",
+     "quote": "Accessible via any web browser or device without a VPN"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|2",
+     "quote": "Accessible from any device with an internet browser."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "You can access it via a web browser from any device without worrying about local servers."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "platforms",
+   "claim": "ezyVet is hosted on Amazon Web Services (AWS).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the pages read names a hosting provider.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|1",
+     "quote": "(hosted on AWS/GCP/Azure)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|2",
+     "quote": "Cloud-Native (AWS/GCP/Azure)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|1",
+     "quote": "True enterprise-grade cloud software (AWS/GCP/Azure)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "(built on AWS/GCP/Azure)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "built on major cloud services like AWS and Google Cloud"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "platforms",
+   "claim": "ezyVet is hosted on Google Cloud (GCP).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the pages read names a hosting provider.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|1",
+     "quote": "(hosted on AWS/GCP/Azure)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|2",
+     "quote": "Cloud-Native (AWS/GCP/Azure)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|1",
+     "quote": "True enterprise-grade cloud software (AWS/GCP/Azure)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "(built on AWS/GCP/Azure)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "built on major cloud services like AWS and Google Cloud"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "platforms",
+   "claim": "ezyVet is hosted on Microsoft Azure.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the pages read names a hosting provider.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|1",
+     "quote": "(hosted on AWS/GCP/Azure)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|2",
+     "quote": "Cloud-Native (AWS/GCP/Azure)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|1",
+     "quote": "True enterprise-grade cloud software (AWS/GCP/Azure)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "(built on AWS/GCP/Azure)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "integrations",
+   "claim": "ezyVet integrates with IDEXX diagnostics (in-house analyzers and reference labs).",
+   "class": "true",
+   "proof_url": "https://www.ezyvet.com/pricing",
+   "proof_quote": "For practices that use IDEXX diagnostics (in-house or reference lab), all results, ordering, and insights are available with the click of a button, directly within ezyVet.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists IDEXX diagnostic integrations covering in-house and reference lab ordering and results.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "ezyVet leads for all-in-one cloud PIMS with deep IDEXX diagnostics integration."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|2",
+     "quote": "connection to IDEXX diagnostics are consistently praised"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|3",
+     "quote": "ezyVet leads for all-in-one cloud PIMS with deep IDEXX diagnostics integration."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|1",
+     "quote": "Powered heavily by deep integration with diagnostic giants like IDEXX Laboratories"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|3",
+     "quote": "Powered and heavily backed by integrations like IDEXX"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|2",
+     "quote": "Key Features: Deep IDEXX diagnostic integration, advanced accounting hooks, and hyper-customizable layouts."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Perplexity|2",
+     "quote": "**Neo** or **ezyVet**: if **IDEXX integration** is a major requirement."
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|1",
+     "quote": "If you need maximum customization and IDEXX diagnostic integration, **ezyVet** is the best alternative."
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|2",
+     "quote": "If IDEXX diagnostics are a core part of your daily clinical workflow, Cornerstone and ezyVet have the deepest native integration."
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|3",
+     "quote": "If IDEXX diagnostics are a core part of your daily clinical workflow, Cornerstone and ezyVet have the deepest native integration."
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Google AI Mode|1",
+     "quote": "seamless two-way diagnostic integrations (especially powerful being IDEXX-powered)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Google AI Mode|2",
+     "quote": "features deep, native integrations with major diagnostics like IDEXX, Antech, and various PACS imaging systems"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Google AI Mode|3",
+     "quote": "world-class diagnostic integrations (especially IDEXX)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Google AI Overviews|2",
+     "quote": "deep integration with ICU whiteboards like Vet Radar and IDEXX diagnostics"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Google AI Overviews|3",
+     "quote": "offers robust IDEXX integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|2",
+     "quote": "deep IDEXX/accounting integrations"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|1",
+     "quote": "two-way lab integrations (IDEXX, Antech, Zoetis)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|2",
+     "quote": "bidirectional integrations (especially with IDEXX, Antech, and major-league PACS/inventory vendors)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|3",
+     "quote": "deep two-way diagnostics integrations (especially IDEXX)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Overviews|1",
+     "quote": "It offers deep IDEXX integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Overviews|2",
+     "quote": "robust integrations (including IDEXX diagnostics)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|1",
+     "quote": "connected IDEXX diagnostics and imaging"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|2",
+     "quote": "Its IDEXX integrations include test ordering and automatic results delivery."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "ezyVet integrates natively with the IDEXX diagnostics suite."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|1",
+     "quote": "it still features robust IDEXX lab integrations"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|2",
+     "quote": "It features robust, native bidirectional IDEXX integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|3",
+     "quote": "deeply integrated with IDEXX diagnostics"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|2",
+     "quote": "seamless IDEXX lab sync"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|1",
+     "quote": "**Stay with IDEXX integration**: choose **ezyVet** for larger or more complex clinics"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|2",
+     "quote": "that want a cloud-native system and strong IDEXX integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "tight IDEXX integration, ezyVet remains a top choice"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|2",
+     "quote": "deep IDEXX diagnostics integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "Multi-location practices, emergency hospitals, and corporate groups that need enterprise cloud with IDEXX diagnostics."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "Cornerstone and ezyVet have the strongest IDEXX connectivity among veterinary platforms."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|1",
+     "quote": "known for deep diagnostics integrations (like IDEXX)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|1",
+     "quote": "Integrated IDEXX ordering and results."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|2",
+     "quote": "IDEXX diagnostics plus third-party integrations and API options."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|3",
+     "quote": "Supports IDEXX diagnostics and numerous third-party services."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|1",
+     "quote": "ezyVet handles IDEXX diagnostics via API"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|2",
+     "quote": "ezyVet handles IDEXX diagnostics via API"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|3",
+     "quote": "ezyVet handles IDEXX diagnostics via API"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|1",
+     "quote": "Integrates smoothly with IDEXX reference labs and in-house equipment via API/partnerships"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|2",
+     "quote": "Integrates smoothly with IDEXX VetConnect PLUS and reference labs via API"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|1",
+     "quote": "Connects smoothly to IDEXX via API"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "Features deep API-based integration with IDEXX diagnostics (like VetConnect PLUS) and imaging."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "integrations",
+   "claim": "ezyVet integrates with IDEXX VetConnect PLUS.",
+   "class": "true",
+   "proof_url": "https://www.ezyvet.com/integrations",
+   "proof_quote": "IDEXX VetConnect PLUS Reference Labs",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory lists IDEXX VetConnect PLUS as a featured reference lab integration.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|1",
+     "quote": "it directly integrates with IDEXX VetConnect PLUS diagnostics"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|2",
+     "quote": "it keeps native lab integration with VetConnect PLUS"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "directly integrates with diagnostics solution IDEXX VetConnect PLUS"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "ezyVet directly integrates with diagnostics solution IDEXX VetConnect PLUS."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|2",
+     "quote": "Integrates smoothly with IDEXX VetConnect PLUS and reference labs via API"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "IDEXX diagnostics (like VetConnect PLUS)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "integrations",
+   "claim": "ezyVet integrates with Xero.",
+   "class": "true",
+   "proof_url": "https://www.ezyvet.com/integrations",
+   "proof_quote": "Xero Finance & Analytics",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory lists Xero under Finance & Analytics.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|3",
+     "quote": "(such as Xero integration)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|1",
+     "quote": "integrations with labs, imaging, SmartFlow, and Xero for clinical and financial workflows"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|2",
+     "quote": "integrations with labs, imaging, SmartFlow, and Xero for clinical and financial workflows"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|3",
+     "quote": "Xero integration AND it is continually updated and improved."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "connecting easily with tools like Smart Flow whiteboards and Xero accounting."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "integrations",
+   "claim": "ezyVet integrates with SmartFlow.",
+   "class": "true",
+   "proof_url": "https://www.ezyvet.com/integrations",
+   "proof_quote": "SmartFlow Patient Care",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory lists SmartFlow as a featured Patient Care integration.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q10|ChatGPT|2",
+     "quote": "SmartFlow connects treatment sheets, whiteboards, anesthesia records, and charge capture."
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|1",
+     "quote": "due to its integration with Smart Flow and robust feature set"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|1",
+     "quote": "integrations with labs, imaging, SmartFlow, and Xero for clinical and financial workflows"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|2",
+     "quote": "integrations with labs, imaging, SmartFlow, and Xero for clinical and financial workflows"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "connecting easily with tools like Smart Flow whiteboards and Xero accounting."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "integrations",
+   "claim": "ezyVet integrates with Vet Radar.",
+   "class": "true",
+   "proof_url": "https://www.ezyvet.com/integrations",
+   "proof_quote": "Vet Radar Patient Care",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory lists Vet Radar under Patient Care.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q10|ChatGPT|1",
+     "quote": "Vet Radar supplies the inpatient-care component: treatment sheets, patient whiteboards, anesthesia charting, and synchronization of medications and treatments to ezyVet invoices."
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|ChatGPT|3",
+     "quote": "Vet Radar adds inpatient whiteboards, treatment sheets, anesthesia charts, and syncing of treatment charges to ezyVet invoices."
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Google AI Overviews|2",
+     "quote": "deep integration with ICU whiteboards like Vet Radar and IDEXX diagnostics"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Google AI Overviews|3",
+     "quote": "uses Vet Radar for real-time digital treatment sheets, ICU management, and fluid therapy tracking"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "integrations",
+   "claim": "ezyVet integrates with Antech diagnostics.",
+   "class": "true",
+   "proof_url": "https://www.ezyvet.com/integrations/antech-diagnostics",
+   "proof_quote": "Integrate Antech Diagnostics with ezyVet for seamless lab result delivery.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "ezyVet's Antech integration page offers Antech Diagnostics lab result delivery into ezyVet.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q10|Google AI Mode|2",
+     "quote": "features deep, native integrations with major diagnostics like IDEXX, Antech, and various PACS imaging systems"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|1",
+     "quote": "two-way lab integrations (IDEXX, Antech, Zoetis)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|2",
+     "quote": "bidirectional integrations (especially with IDEXX, Antech, and major-league PACS/inventory vendors)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "integrations",
+   "claim": "ezyVet integrates with Zoetis labs.",
+   "class": "true",
+   "proof_url": "https://www.ezyvet.com/integrations",
+   "proof_quote": "Zoetis Reference Laboratories Reference Labs",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory lists Zoetis Reference Laboratories under Reference Labs.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|1",
+     "quote": "two-way lab integrations (IDEXX, Antech, Zoetis)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "integrations",
+   "claim": "ezyVet integrates with Weave.",
+   "class": "true",
+   "proof_url": "https://www.ezyvet.com/integrations",
+   "proof_quote": "Weave Marketing Client Engagement",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory lists Weave under Marketing and Client Engagement.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "Weave integrates with 18+ veterinary PIMS including AVImark, Cornerstone, ezyVet, Neo, Shepherd, and ImproMed."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "integrations",
+   "claim": "ezyVet has 100+ integrations (integration partners).",
+   "class": "true",
+   "proof_url": "https://ezyvet.com/",
+   "proof_quote": "Diagnostics, imaging, payments, inpatient care, and client communication run natively through ezyVet, plus 100+ certified integrations.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states 100+ certified integrations, the same count as the claim.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "is smaller than ezyVet's 100+ partnerships"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|2",
+     "quote": "ezyVet brings deep configuration and 100+ integrations for structured operations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "pricing",
+   "claim": "ezyVet does not publicly list pricing; it is custom-quoted only.",
+   "class": "wrong",
+   "proof_url": "https://www.ezyvet.com/pricing",
+   "proof_quote": "Get started for as little as $260.50 per month.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page publicly lists a starting price of $260.50 per month (custom quotes are offered only for additional details and enterprise pricing), which contradicts the claim of no publicly listed rates.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|1",
+     "quote": "Both platforms use custom pricing with no publicly listed rates."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|2",
+     "quote": "Neither system publicly lists pricing — you'll need to request a custom quote."
+    }
+   ]
+  }
+ ],
+ "notes": "Eight own pages read, all HTTP 200 and not thin: home, pricing, integrations directory, IDEXX ecosystem, overview, the cited cloud page (redirects to /transitioning-from-server-to-cloud), one integration detail page (Antech, read because the directory loads partner details by script), and IDEXX's newsroom release on the acquisition (IDEXX.com is ezyVet's own Company link; it dates the acquisition 2 June 2021). The pricing page gives only 'as little as $260.50 per month' with no plan names and no per-user basis, so every per-user, per-veterinarian or plan-named price claim is unverifiable; the $245 per month claim (C05, traced to a cited CoVet comparison article) and the 'no publicly listed rates, custom quote only' claim (C26, cause not found) are classed wrong against the published $260.50 starting price. C10 (ezyVet by IDEXX) is settled by IDEXX's own 2025 comparison guide on software.idexx.com, which was read once for the IDEXX vendor; its snapshot was reused here, not refetched (judgement call: the parent's product-family site treated as an own page). Hosting on AWS, Google Cloud or Azure and the browser-based description are not stated on the pages read. For the reviewer only: the raw HTML of the integrations page also lists Antech Reference Labs; not used to class. Cause pages read (six, the cap): co.vet (cause of C05), layer3labs.io (carries ~$260.50 per user, not $245), puppilot.co (no ezyVet price statement), getapp.com (HTTP 403), softwareadvice.com (HTTP 403), vetsoftwarehub.com (HTTP 429). Generic capability lines (API, webhooks, online booking, whiteboards, 24/7 support, sync lag timings) were treated as features, not statements. Out-of-scope lines (review ratings, setup time estimates) were not coded. Pass 2 (8 Oct 2026): the manifest has no browser reads for ezyVet and no claim was unverifiable because an own page was blocked or thin (the three blocked pages are third-party cause pages), so nothing was re-classed; the per-user, plan, browser and hosting claims stay unverifiable after re-checking all own snapshots. Gap and table review added two instances: C09 q6 Claude 1 ('even IDEXX is moving customers toward cloud solutions (ezyVet and Neo)') and C12 q7 ChatGPT 2 (the comparison-table cell on remote access). The other gap lines are features, fit opinions, statements about other vendors, or the same claim already listed for the same answer; '150+ endpoints' (q7 Claude 3) was treated as an API feature, not an integration count. Consistency check: C05 and C26 kept wrong; both compare against the pricing page's own published per-month starting price on the same basis.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "veterinary-practice-management|q1|ChatGPT|1",
+  "veterinary-practice-management|q1|ChatGPT|2",
+  "veterinary-practice-management|q1|ChatGPT|3",
+  "veterinary-practice-management|q1|Claude|1",
+  "veterinary-practice-management|q1|Claude|2",
+  "veterinary-practice-management|q1|Claude|3",
+  "veterinary-practice-management|q1|Google AI Mode|1",
+  "veterinary-practice-management|q1|Google AI Mode|2",
+  "veterinary-practice-management|q1|Google AI Mode|3",
+  "veterinary-practice-management|q1|Google AI Overviews|1",
+  "veterinary-practice-management|q1|Google AI Overviews|2",
+  "veterinary-practice-management|q1|Perplexity|1",
+  "veterinary-practice-management|q1|Perplexity|2",
+  "veterinary-practice-management|q1|Perplexity|3",
+  "veterinary-practice-management|q10|ChatGPT|1",
+  "veterinary-practice-management|q10|ChatGPT|2",
+  "veterinary-practice-management|q10|ChatGPT|3",
+  "veterinary-practice-management|q10|Claude|1",
+  "veterinary-practice-management|q10|Claude|2",
+  "veterinary-practice-management|q10|Claude|3",
+  "veterinary-practice-management|q10|Google AI Mode|1",
+  "veterinary-practice-management|q10|Google AI Mode|2",
+  "veterinary-practice-management|q10|Google AI Mode|3",
+  "veterinary-practice-management|q10|Google AI Overviews|1",
+  "veterinary-practice-management|q10|Google AI Overviews|2",
+  "veterinary-practice-management|q10|Google AI Overviews|3",
+  "veterinary-practice-management|q10|Perplexity|1",
+  "veterinary-practice-management|q10|Perplexity|2",
+  "veterinary-practice-management|q10|Perplexity|3",
+  "veterinary-practice-management|q2|ChatGPT|2",
+  "veterinary-practice-management|q2|Claude|1",
+  "veterinary-practice-management|q2|Claude|2",
+  "veterinary-practice-management|q2|Claude|3",
+  "veterinary-practice-management|q2|Google AI Mode|1",
+  "veterinary-practice-management|q2|Google AI Mode|2",
+  "veterinary-practice-management|q2|Google AI Overviews|1",
+  "veterinary-practice-management|q3|ChatGPT|1",
+  "veterinary-practice-management|q3|ChatGPT|2",
+  "veterinary-practice-management|q3|ChatGPT|3",
+  "veterinary-practice-management|q3|Claude|1",
+  "veterinary-practice-management|q3|Claude|2",
+  "veterinary-practice-management|q3|Claude|3",
+  "veterinary-practice-management|q3|Google AI Mode|1",
+  "veterinary-practice-management|q3|Google AI Mode|2",
+  "veterinary-practice-management|q3|Google AI Mode|3",
+  "veterinary-practice-management|q3|Google AI Overviews|1",
+  "veterinary-practice-management|q3|Google AI Overviews|2",
+  "veterinary-practice-management|q3|Google AI Overviews|3",
+  "veterinary-practice-management|q3|Perplexity|1",
+  "veterinary-practice-management|q3|Perplexity|2",
+  "veterinary-practice-management|q3|Perplexity|3",
+  "veterinary-practice-management|q4|ChatGPT|1",
+  "veterinary-practice-management|q4|ChatGPT|2",
+  "veterinary-practice-management|q4|ChatGPT|3",
+  "veterinary-practice-management|q4|Claude|1",
+  "veterinary-practice-management|q4|Claude|2",
+  "veterinary-practice-management|q4|Claude|3",
+  "veterinary-practice-management|q4|Google AI Mode|1",
+  "veterinary-practice-management|q4|Google AI Mode|2",
+  "veterinary-practice-management|q4|Google AI Mode|3",
+  "veterinary-practice-management|q4|Google AI Overviews|1",
+  "veterinary-practice-management|q4|Google AI Overviews|2",
+  "veterinary-practice-management|q4|Google AI Overviews|3",
+  "veterinary-practice-management|q4|Perplexity|1",
+  "veterinary-practice-management|q4|Perplexity|2",
+  "veterinary-practice-management|q4|Perplexity|3",
+  "veterinary-practice-management|q5|ChatGPT|1",
+  "veterinary-practice-management|q5|ChatGPT|2",
+  "veterinary-practice-management|q5|ChatGPT|3",
+  "veterinary-practice-management|q5|Claude|1",
+  "veterinary-practice-management|q5|Claude|2",
+  "veterinary-practice-management|q5|Claude|3",
+  "veterinary-practice-management|q5|Google AI Mode|1",
+  "veterinary-practice-management|q5|Google AI Mode|2",
+  "veterinary-practice-management|q5|Google AI Mode|3",
+  "veterinary-practice-management|q5|Google AI Overviews|1",
+  "veterinary-practice-management|q5|Google AI Overviews|2",
+  "veterinary-practice-management|q5|Google AI Overviews|3",
+  "veterinary-practice-management|q5|Perplexity|1",
+  "veterinary-practice-management|q5|Perplexity|2",
+  "veterinary-practice-management|q5|Perplexity|3",
+  "veterinary-practice-management|q6|ChatGPT|1",
+  "veterinary-practice-management|q6|ChatGPT|2",
+  "veterinary-practice-management|q6|ChatGPT|3",
+  "veterinary-practice-management|q6|Claude|1",
+  "veterinary-practice-management|q6|Claude|2",
+  "veterinary-practice-management|q6|Claude|3",
+  "veterinary-practice-management|q6|Google AI Mode|1",
+  "veterinary-practice-management|q6|Google AI Mode|2",
+  "veterinary-practice-management|q6|Google AI Mode|3",
+  "veterinary-practice-management|q6|Google AI Overviews|1",
+  "veterinary-practice-management|q6|Google AI Overviews|2",
+  "veterinary-practice-management|q6|Google AI Overviews|3",
+  "veterinary-practice-management|q6|Perplexity|1",
+  "veterinary-practice-management|q6|Perplexity|2",
+  "veterinary-practice-management|q6|Perplexity|3",
+  "veterinary-practice-management|q7|ChatGPT|1",
+  "veterinary-practice-management|q7|ChatGPT|2",
+  "veterinary-practice-management|q7|ChatGPT|3",
+  "veterinary-practice-management|q7|Claude|1",
+  "veterinary-practice-management|q7|Claude|2",
+  "veterinary-practice-management|q7|Claude|3",
+  "veterinary-practice-management|q7|Google AI Mode|1",
+  "veterinary-practice-management|q7|Google AI Mode|2",
+  "veterinary-practice-management|q7|Google AI Mode|3",
+  "veterinary-practice-management|q7|Google AI Overviews|1",
+  "veterinary-practice-management|q7|Google AI Overviews|2",
+  "veterinary-practice-management|q7|Google AI Overviews|3",
+  "veterinary-practice-management|q7|Perplexity|1",
+  "veterinary-practice-management|q7|Perplexity|2",
+  "veterinary-practice-management|q7|Perplexity|3",
+  "veterinary-practice-management|q9|ChatGPT|2",
+  "veterinary-practice-management|q9|Google AI Mode|1",
+  "veterinary-practice-management|q9|Google AI Overviews|1",
+  "veterinary-practice-management|q9|Google AI Overviews|3"
+ ],
+ "named_count": 115
+}

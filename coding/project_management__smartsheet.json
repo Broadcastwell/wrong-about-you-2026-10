@@ -1,0 +1,342 @@
+{
+ "vendor": "Smartsheet",
+ "slug": "smartsheet",
+ "category": "project_management",
+ "coded_at": "2026-10-08T03:59:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.smartsheet.com/pricing",
+   "key": "edbcd25a92706158",
+   "used_for": "pricing, plans, add-ons (HTTP 200)"
+  },
+  {
+   "url": "https://www.smartsheet.com/",
+   "key": "a82afb9ba2e5229c",
+   "used_for": "home (HTTP 200)"
+  },
+  {
+   "url": "https://www.smartsheet.com/platform/resource-planning",
+   "key": "15f89f383a02bfa2",
+   "used_for": "resource planning by plan: workload tracking, scenario planning, Resource Management add-on (HTTP 200)"
+  },
+  {
+   "url": "https://www.smartsheet.com/about",
+   "key": "c7cbd601cdd26fb5",
+   "used_for": "about: hosting model (HTTP 200)"
+  },
+  {
+   "url": "https://www.smartsheet.com/trust/security",
+   "key": "f76d0f4068a73632",
+   "used_for": "security (HTTP 200; settled nothing)"
+  },
+  {
+   "url": "https://monday.com/twist",
+   "key": "a82f02cb14207c03",
+   "used_for": "cause tracing for C06, the only page cited by the answer, not used to class (HTTP 200; does not mention Smartsheet)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Business plan costs $19 per member per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.smartsheet.com/pricing",
+   "proof_quote": "Most popular Business $ 24 19 per Member/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page shows Business at $24 (monthly pricing) and $19 (yearly pricing) per member per month, in the order of its Monthly pricing and Yearly pricing toggle (Pro shows $12 and $9 the same way), so $19 billed annually matches.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "Business starts at **$19/member/month billed annually**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "plans",
+   "claim": "Resource Management is a separately priced add-on, not part of the core plans.",
+   "class": "true",
+   "proof_url": "https://www.smartsheet.com/platform/resource-planning",
+   "proof_quote": "Scenario Planning is included in Enterprise plans. Workload tracking is included in Business plans, and Resource Management is a premium add-on.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The resource planning page states that Resource Management is a premium add-on, and the pricing table marks it Add-on on Business, Enterprise and Advanced Work Management.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|1",
+     "quote": "Distinguish basic workload tracking from the Resource Management add-on"
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Resource Management is an add-on"
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "Full Resource Management is an add-on"
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|1",
+     "quote": "Basic workload tracking plus a deeper Resource Management add-on covering staffing, skills, capacity, time, and budgets."
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|2",
+     "quote": "the **Resource Management add-on** extends this to skills-based staffing, capacity, time, and budgets."
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|3",
+     "quote": "The premium Resource Management add-on covers deeper staffing, skills, time, and budget management."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "plans",
+   "claim": "The Business plan includes workload tracking.",
+   "class": "true",
+   "proof_url": "https://www.smartsheet.com/pricing",
+   "proof_quote": "Includes Pro plan, plus: Unlimited free Guests Timeline view Workload tracking",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Business plan card lists workload tracking, and the resource planning page states that workload tracking is included in Business plans.",
+   "instances": [
+    {
+     "record_id": "project_management|7|ChatGPT|2",
+     "quote": "Business includes workload tracking"
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|3",
+     "quote": "Business includes workload tracking"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "plans",
+   "claim": "The Enterprise plan includes portfolios and scenario planning.",
+   "class": "true",
+   "proof_url": "https://www.smartsheet.com/pricing",
+   "proof_quote": "Includes Business plan, plus: Scenario Planning Portfolios SAML-based SSO",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Enterprise plan card lists Scenario Planning and Portfolios as what it adds over Business.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Enterprise includes portfolios and scenario planning"
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "Enterprise adds portfolios and scenario planning."
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|1",
+     "quote": "Enterprise scenario planning supports testing alternatives."
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|3",
+     "quote": "Enterprise includes scenario planning."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "plans",
+   "claim": "Control Center and tools for connecting data across systems come in a higher package, Advanced Work Management.",
+   "class": "true",
+   "proof_url": "https://www.smartsheet.com/pricing",
+   "proof_quote": "Includes Enterprise plan, plus: Control Center Dynamic View Data Shuttle Connectors DataMesh",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Advanced Work Management plan card adds Control Center and the data tools Data Shuttle, Connectors and DataMesh over Enterprise; on Business and Enterprise, Control Center is a paid add-on.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|1",
+     "quote": "advanced portfolio tooling such as Control Center sits in a higher package."
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Advanced Work Management adds Control Center and tools for connecting and managing data across systems."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "plans",
+   "claim": "Resource management features for skill-based allocation, utilization tracking and forecasting come built in on higher tiers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Re-classed from wrong in the pass 2 consistency check: the vendor's pages include workload tracking in Business and make Resource Management (skill-based assignments, capacity forecasting) a premium add-on on Business, Enterprise and Advanced Work Management, so the claim is contradicted only if 'built-in (on higher tiers)' means included in the plan price; read as native and available on higher tiers it matches, and no page states the contradiction explicitly.",
+   "instances": [
+    {
+     "record_id": "project_management|7|Google AI Mode|1",
+     "quote": "Resource Coordination: Powerful built-in resource management features (on higher tiers) allow precise allocation by skill set, tracking team utilization, and forecasting shortages across multiple projects."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "product_names",
+   "claim": "Smartsheet's resource management product is named Resource Management (Smartsheet Resource Management).",
+   "class": "true",
+   "proof_url": "https://www.smartsheet.com/pricing",
+   "proof_quote": "Resource Planning Resource Management Eligible: Business Enterprise Match people to the right work, balance workloads, and forecast demand to improve project delivery with Resource Management.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page sells a premium feature named Resource Management.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|1",
+     "quote": "Distinguish basic workload tracking from the Resource Management add-on"
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Resource Management is an add-on"
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "Full Resource Management is an add-on"
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|1",
+     "quote": "**Wrike and Smartsheet Resource Management**"
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|2",
+     "quote": "the **Resource Management add-on** extends this to skills-based staffing, capacity, time, and budgets."
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|3",
+     "quote": "The premium Resource Management add-on covers deeper staffing, skills, time, and budget management."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "product_names",
+   "claim": "Smartsheet's portfolio management product is named Control Center.",
+   "class": "true",
+   "proof_url": "https://www.smartsheet.com/pricing",
+   "proof_quote": "Control Center: Portfolio management",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Control Center as its portfolio management feature.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|1",
+     "quote": "advanced portfolio tooling such as Control Center sits in a higher package."
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Advanced Work Management adds Control Center and tools for connecting and managing data across systems."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "platforms",
+   "claim": "Smartsheet is cloud-based.",
+   "class": "true",
+   "proof_url": "https://www.smartsheet.com/about",
+   "proof_quote": "Smartsheet (NYSE:SMAR) is a leading cloud-based platform for work execution",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page describes Smartsheet as a cloud-based platform for work execution.",
+   "instances": [
+    {
+     "record_id": "project_management|3|Claude|2",
+     "quote": "Modern cloud-based platforms like Celoxis, Wrike, and Smartsheet offer all core Microsoft Project capabilities"
+    },
+    {
+     "record_id": "project_management|3|Claude|3",
+     "quote": "Modern cloud-based platforms like Celoxis, Wrike, and Smartsheet offer all core capabilities"
+    },
+    {
+     "record_id": "project_management|4|Claude|2",
+     "quote": "Smartsheet is a versatile cloud-based platform designed as an alternative to Excel for managing projects, tasks, and collaborative work."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Five own pages read, all HTTP 200 and not thin. The pricing snapshot shows each plan's monthly and yearly prices side by side ('$ 24 19' for Business); the saved HTML marks 24 as the monthly price and 19 as the annual price, which agrees with the text order. C06 was classed wrong in the first pass on the reading that 'built-in ... (on higher tiers)' means included in higher-tier plans; the pass 2 consistency check re-classed it unverifiable because the vendor's pages (Resource Management is a premium add-on on Business, Enterprise and Advanced Work Management; workload tracking is included in Business) contradict it only under that reading, not explicitly. The only page cited by that answer (monday.com/twist) does not mention Smartsheet. The about page still carries the boilerplate 'Smartsheet (NYSE:SMAR)'; no answer made an ownership or ticker claim, so it was used only for the cloud-based fact. Not coded: hedged lines ('advanced portfolio standardization may require a higher package', q3 ChatGPT run 3; 'some portfolio-scale capabilities require higher packages' in q3 ChatGPT run 2 is covered by C05), capability descriptions (grid, Gantt, card and calendar views, native capacity planning, allocation heatmaps, formulas), and the generic 'Most of these platforms offer free trials' line. Pass 2 (8 Oct 2026): no browser snapshots exist for Smartsheet and no claim was unverifiable for a blocked or thin page; the gaps file was empty; a scan of every table and Smartsheet sub-heading in the full answers (q1, q3, q4, q6 and q7 tables, the Google AI Mode and AI Overviews sub-headings) found only capability, rating and best-for cells, so no claim or instance was added.",
+ "answer_record_ids": [
+  "project_management|1|Claude|1",
+  "project_management|1|Claude|2",
+  "project_management|1|Claude|3",
+  "project_management|1|Google AI Mode|1",
+  "project_management|1|Google AI Mode|2",
+  "project_management|1|Google AI Mode|3",
+  "project_management|1|Google AI Overviews|1",
+  "project_management|2|Claude|2",
+  "project_management|2|Google AI Mode|1",
+  "project_management|3|ChatGPT|1",
+  "project_management|3|ChatGPT|2",
+  "project_management|3|ChatGPT|3",
+  "project_management|3|Claude|1",
+  "project_management|3|Claude|2",
+  "project_management|3|Claude|3",
+  "project_management|3|Google AI Mode|1",
+  "project_management|3|Google AI Mode|2",
+  "project_management|3|Google AI Mode|3",
+  "project_management|3|Google AI Overviews|1",
+  "project_management|3|Google AI Overviews|2",
+  "project_management|3|Google AI Overviews|3",
+  "project_management|3|Perplexity|1",
+  "project_management|3|Perplexity|2",
+  "project_management|3|Perplexity|3",
+  "project_management|4|Claude|1",
+  "project_management|4|Claude|2",
+  "project_management|4|Claude|3",
+  "project_management|4|Google AI Mode|1",
+  "project_management|4|Google AI Overviews|1",
+  "project_management|4|Google AI Overviews|2",
+  "project_management|4|Google AI Overviews|3",
+  "project_management|4|Perplexity|1",
+  "project_management|4|Perplexity|2",
+  "project_management|4|Perplexity|3",
+  "project_management|6|ChatGPT|3",
+  "project_management|6|Claude|1",
+  "project_management|6|Claude|2",
+  "project_management|6|Claude|3",
+  "project_management|6|Google AI Mode|1",
+  "project_management|6|Google AI Mode|3",
+  "project_management|6|Google AI Overviews|1",
+  "project_management|7|ChatGPT|1",
+  "project_management|7|ChatGPT|2",
+  "project_management|7|ChatGPT|3",
+  "project_management|7|Claude|1",
+  "project_management|7|Claude|2",
+  "project_management|7|Claude|3",
+  "project_management|7|Google AI Mode|1",
+  "project_management|7|Google AI Mode|3",
+  "project_management|7|Google AI Overviews|1",
+  "project_management|7|Google AI Overviews|2",
+  "project_management|7|Perplexity|1",
+  "project_management|7|Perplexity|2",
+  "project_management|7|Perplexity|3"
+ ],
+ "named_count": 54
+}

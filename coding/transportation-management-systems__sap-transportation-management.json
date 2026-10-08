@@ -1,0 +1,255 @@
+{
+ "vendor": "SAP Transportation Management",
+ "slug": "sap-transportation-management",
+ "category": "transportation-management-systems",
+ "coded_at": "2026-10-08T04:01:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.sap.com/products/scm/transportation-logistics.html",
+   "key": "0cae2ba93e238d78",
+   "used_for": "product page (not fetched: robots.txt of www.sap.com disallows all paths for our agent)"
+  },
+  {
+   "url": "https://learning.sap.com/products/supply-chain-management/transportation-management",
+   "key": "b97df7f1e87bcb3f",
+   "used_for": "product page on SAP Learning (not fetched: robots.txt of learning.sap.com disallows all paths for our agent)"
+  },
+  {
+   "url": "https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/e3dc5400c1cc41d1bc0ae0e7fd9aa5a2/04474a8485384e3fbfcb346d943b3217.html",
+   "key": "451d8e49957f81aa",
+   "used_for": "product documentation (not fetched: robots.txt of help.sap.com disallows all paths for our agent)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "product_names",
+   "claim": "SAP TM is delivered as part of SAP S/4HANA (embedded deployment).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "All three SAP hosts the answers cite (www.sap.com, learning.sap.com, help.sap.com) disallow our agent in robots.txt, so no own page was read; listed for a browser read.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q3|Claude|1",
+     "quote": "SAP TM, now most often deployed as part of SAP S/4HANA and the broader SAP Business Network"
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Claude|2",
+     "quote": "SAP TM, now most often deployed as part of SAP S/4HANA and the broader SAP Business Network"
+    },
+    {
+     "record_id": "transportation-management-systems|q3|ChatGPT|2",
+     "quote": "Embedded deployment and integration with orders, deliveries, and SAP Extended Warehouse Management."
+    },
+    {
+     "record_id": "transportation-management-systems|q3|ChatGPT|3",
+     "quote": "Transportation capabilities within the S/4HANA ecosystem"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "product_names",
+   "claim": "SAP TM is deployed as part of the SAP Business Network.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No SAP own page could be read (robots.txt disallows our agent on all three SAP hosts); listed for a browser read.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q3|Claude|1",
+     "quote": "SAP TM, now most often deployed as part of SAP S/4HANA and the broader SAP Business Network"
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Claude|2",
+     "quote": "SAP TM, now most often deployed as part of SAP S/4HANA and the broader SAP Business Network"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "plans",
+   "claim": "Embedded basic TM and advanced TM differ in scope (and licensing).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No SAP own page could be read (robots.txt disallows our agent on all three SAP hosts), so the editions and their scope are not settled; listed for a browser read.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q3|ChatGPT|1",
+     "quote": "embedded basic TM and advanced TM are not equivalent in scope."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "integrations",
+   "claim": "SAP TM integrates natively with SAP ERP (SAP S/4HANA or ECC), including order-to-cash and procure-to-pay processes.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No SAP own page could be read (robots.txt disallows our agent on all three SAP hosts); listed for a browser read.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q3|Claude|1",
+     "quote": "native ERP integration eliminates a class of complexity that third-party TMS bridges can't match."
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Claude|2",
+     "quote": "native ERP integration eliminates a class of complexity that third-party TMS bridges can't match."
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Claude|3",
+     "quote": "native ERP integration eliminates a class of complexity that third-party TMS bridges can't match."
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Google AI Mode|1",
+     "quote": "Enterprises already running SAP ECC or S/4HANA | Native, zero-gap ERP integration that avoids complex third-party middleware and synchronization lag."
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Google AI Mode|2",
+     "quote": "SAP TM delivers native data flows and shared master data models that eliminate the middleware friction of third-party tools."
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Google AI Mode|3",
+     "quote": "It acts as an operational backbone seamlessly tying logistics into S/4HANA, extended warehouse management (EWM), and global finance/billing."
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Google AI Overviews|1",
+     "quote": "Native, seamless integration with SAP order-to-cash and procure-to-pay processes"
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Google AI Overviews|3",
+     "quote": "natively tying logistics execution straight to core SAP ERP data."
+    },
+    {
+     "record_id": "transportation-management-systems|q4|ChatGPT|3",
+     "quote": "Links transportation planning, tendering, charges, and settlement with SAP processes, including warehouse and order-management integration."
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Claude|2",
+     "quote": "SAP EWM/TM is worth the cost for large organizations already running SAP S/4HANA where native ERP integration drives measurable efficiency gains."
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Google AI Mode|3",
+     "quote": "Seamless native integration with core SAP ERP ecosystems and end-to-end logistics control."
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Google AI Overviews|2",
+     "quote": "SAP TM (Transportation Management): Ideal for large organizations already running an SAP ERP infrastructure, offering tight end-to-end supply chain integration."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "integrations",
+   "claim": "SAP TM integrates with SAP Extended Warehouse Management (EWM).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No SAP own page could be read (robots.txt disallows our agent on all three SAP hosts); listed for a browser read.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q3|ChatGPT|2",
+     "quote": "Embedded deployment and integration with orders, deliveries, and SAP Extended Warehouse Management."
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Google AI Mode|3",
+     "quote": "It acts as an operational backbone seamlessly tying logistics into S/4HANA, extended warehouse management (EWM), and global finance/billing."
+    },
+    {
+     "record_id": "transportation-management-systems|q4|ChatGPT|3",
+     "quote": "Links transportation planning, tendering, charges, and settlement with SAP processes, including warehouse and order-management integration."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "integrations",
+   "claim": "SAP TM's carbon-optimized routing is tied to SAP Green Ledger.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No SAP own page could be read (robots.txt disallows our agent on all three SAP hosts); listed for a browser read.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q3|Google AI Mode|2",
+     "quote": "Recent iterations feature embedded AI agents for carbon-optimized routing (tied to SAP Green Ledger)"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [
+  "https://www.sap.com/products/scm/transportation-logistics.html",
+  "https://learning.sap.com/products/supply-chain-management/transportation-management",
+  "https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/e3dc5400c1cc41d1bc0ae0e7fd9aa5a2/04474a8485384e3fbfcb346d943b3217.html",
+  "https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/e3dc5400c1cc41d1bc0ae0e7fd9aa5a2/9c27c9535f267414e10000000a174cb4.html"
+ ],
+ "notes": "Read on the transportation product pages as the brief requires. The robots.txt files of www.sap.com, learning.sap.com and help.sap.com each disallow all paths for user-agent *, so the fetch tool did not request any SAP page (one attempt per host; no further SAP URL was tried). Every claim is unverifiable for now. needs_browser_read lists the product page and the SAP Learning and SAP Help pages the answers cite; they should settle the S/4HANA embedding, the basic versus advanced scope, and the S/4HANA, ECC, EWM, Business Network and Green Ledger links. Not coded: Gartner Magic Quadrant leadership and adoption rankings, implementation timelines and cost characterizations, capability lists, and conditional lines (when to favor SAP TM, worth prioritizing when, confirm licensing). Pass 2 (8 Oct 2026): no browser snapshot of an SAP page exists (SAP's robots.txt disallows automated agents, so no SAP page was read; steps 1 and 3 do not apply and no claim is wrong or stale). Completeness: added the q3 Google AI Overviews run 2 line on tight integration for SAP ERP users to C04, and the q4 ChatGPT run 3 table cell on warehouse integration to C05 (SAP's warehouse management; the cell does not name EWM). Gap and table lines left out: best-for, adoption and Magic Quadrant lines, the q4 Google AI Mode line on synchronization with central ERP frameworks (no named product), conditional lines and the advice to confirm the edition and licensing.",
+ "answer_record_ids": [
+  "transportation-management-systems|q10|Claude|1",
+  "transportation-management-systems|q10|Google AI Mode|1",
+  "transportation-management-systems|q10|Google AI Mode|2",
+  "transportation-management-systems|q10|Google AI Mode|3",
+  "transportation-management-systems|q10|Google AI Overviews|1",
+  "transportation-management-systems|q10|Google AI Overviews|2",
+  "transportation-management-systems|q10|Google AI Overviews|3",
+  "transportation-management-systems|q3|ChatGPT|1",
+  "transportation-management-systems|q3|ChatGPT|2",
+  "transportation-management-systems|q3|ChatGPT|3",
+  "transportation-management-systems|q3|Claude|1",
+  "transportation-management-systems|q3|Claude|2",
+  "transportation-management-systems|q3|Claude|3",
+  "transportation-management-systems|q3|Google AI Mode|1",
+  "transportation-management-systems|q3|Google AI Mode|2",
+  "transportation-management-systems|q3|Google AI Mode|3",
+  "transportation-management-systems|q3|Google AI Overviews|1",
+  "transportation-management-systems|q3|Google AI Overviews|2",
+  "transportation-management-systems|q3|Google AI Overviews|3",
+  "transportation-management-systems|q3|Perplexity|1",
+  "transportation-management-systems|q3|Perplexity|2",
+  "transportation-management-systems|q3|Perplexity|3",
+  "transportation-management-systems|q4|ChatGPT|1",
+  "transportation-management-systems|q4|ChatGPT|2",
+  "transportation-management-systems|q4|ChatGPT|3",
+  "transportation-management-systems|q4|Claude|1",
+  "transportation-management-systems|q4|Claude|2",
+  "transportation-management-systems|q4|Claude|3",
+  "transportation-management-systems|q4|Google AI Mode|1",
+  "transportation-management-systems|q4|Google AI Mode|2",
+  "transportation-management-systems|q4|Google AI Mode|3",
+  "transportation-management-systems|q4|Google AI Overviews|1",
+  "transportation-management-systems|q4|Google AI Overviews|3",
+  "transportation-management-systems|q4|Perplexity|1",
+  "transportation-management-systems|q4|Perplexity|2",
+  "transportation-management-systems|q4|Perplexity|3",
+  "transportation-management-systems|q5|Perplexity|1",
+  "transportation-management-systems|q5|Perplexity|2"
+ ],
+ "named_count": 38
+}

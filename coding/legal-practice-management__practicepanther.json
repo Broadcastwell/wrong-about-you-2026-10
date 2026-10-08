@@ -1,0 +1,1072 @@
+{
+ "vendor": "PracticePanther",
+ "slug": "practicepanther",
+ "category": "legal-practice-management",
+ "coded_at": "2026-10-08T04:26:00Z",
+ "pages_read": [
+  {
+   "url": "https://practicepanther.com/",
+   "key": "469f9732095b866a",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.practicepanther.com/pricing",
+   "key": "dde9486664aa659b",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.practicepanther.com/about-us/",
+   "key": "3b18af69aa53b38a",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.practicepanther.com/integrations/",
+   "key": "f4b979945996eb4b",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://www.practicepanther.com/blog/best-legal-practice-management-software/",
+   "key": "59ead44ab2e1f817",
+   "used_for": "own blog page (cited)"
+  },
+  {
+   "url": "https://www.practicepanther.com/blog/best-law-practice-management-software-for-solo-lawyers/",
+   "key": "f2aa7264dd42f9bb",
+   "used_for": "own blog page (cited)"
+  },
+  {
+   "url": "https://owlesq.com/buyer-guides/best-practice-management-software-solo-small-law-firms",
+   "key": "499f3e734fcb5d93",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://caeluslaw.net/resources/best/best-legal-software-solo-attorneys/",
+   "key": "732072905ac64b82",
+   "used_for": "cause check (cited): network failure, no snapshot"
+  },
+  {
+   "url": "https://www.rev.com/blog/solo-law-firm-software",
+   "key": "69112d388251d9d9",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://www.capterra.com/p/133656/Smokeball/alternatives/",
+   "key": "2a2464d451add8bb",
+   "used_for": "cause check (cited): HTTP 403, blocked"
+  },
+  {
+   "url": "https://kinja.com/software/best-practice-management-software-solo-attorneys-2026",
+   "key": "96a9a3213b6fffcc",
+   "used_for": "cause check (cited): HTTP 429, blocked. Pass 2: read once in a real browser on 8 Oct; checked for C19 (cited by q4 Claude 3) and does not carry it"
+  },
+  {
+   "url": "https://intellibill.io/blog/clio-alternatives",
+   "key": "da82343ce1c22bf1",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://www.quickbase.com/blog/best-legal-case-practice-management-software",
+   "key": "68b69fc252a14079",
+   "used_for": "cause check (cited; snapshot taken once under the cosmolex budget, reused)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Solo plan costs $49 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "MONTHLY ANNUALLY (Save $120/user/year) SOLO $59 per user/month $49 per user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Solo at $59 per user per month monthly and $49 on annual billing.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "Includes matter management, time and expense tracking, a client portal, document templates, and task workflows for $49/user/month billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "Solo: $49/user/month billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|3",
+     "quote": "Solo advertised at $49/user/month with annual billing"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "Solo starts at $49/user/month billed annually"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "Solo starts at $49/user/month with annual billing."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Solo starts at $49/user/month billed annually"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "The Business plan costs $89 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "BUSINESS $99 per user/month $89 per user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Business at $99 per user per month monthly and $89 on annual billing; the answers that give no billing basis state the same $89 figure.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "Business, listed at $89 with annual billing"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "Advertised at $89/user/month; confirm the billing term."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "Advertises $89/user/month on annual billing"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "Business is listed at $89 on the annual pricing view."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "Business is $89 on that basis"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Business is $89/user/month annually"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "PracticePanther's Essential and Business tiers run $69 and $89/user/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The Essential plan costs $69 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "ESSENTIAL $79 per user/month $69 per user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Essential at $69 per user per month on annual billing ($79 monthly); the answer gives no billing basis.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "PracticePanther's Essential and Business tiers run $69 and $89/user/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "PracticePanther Business for 3 to 5 users costs $267 to $445 per month on annual billing.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "BUSINESS $99 per user/month $89 per user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "At the published $89 per user per month on annual billing, 3 to 5 Business users come to $267 to $445 per month.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "making it $267–$445/month equivalent for 3–5 users."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "PracticePanther starts at $49 per user per month (billing basis not stated).",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "MONTHLY ANNUALLY (Save $120/user/year) SOLO $59 per user/month $49 per user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The lowest plan, Solo, is $49 per user per month on annual billing, which matches the stated starting price; the answers do not claim a monthly-billing price.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Google AI Overviews|2",
+     "quote": "Pricing starts near $49 per user per month."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "| **PracticePanther** | Automation, billing, budget | ~$49/user/mo |"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "solo-friendly pricing at $49/month"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "Starting at $49 per user per month"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "Starting at $49/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Google AI Overviews|2",
+     "quote": "Starting Price: Around $49/user/month (Solo plan)."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "Starting at ~$49/month"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "Starting at $49/month"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|1",
+     "quote": "Pricing: Starts at $49 per user/month."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|2",
+     "quote": "Starting at $49/mo"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|3",
+     "quote": "Starting at $49/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "| **PracticePanther** | Billing-focused firms | ~$49/user/mo | Billing + client tools |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "PracticePanther Solo costs about $49 to $59 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "MONTHLY ANNUALLY (Save $120/user/year) SOLO $59 per user/month $49 per user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Solo is $49 per user per month on annual billing and $59 on monthly billing, the two ends of the stated range.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Perplexity|2",
+     "quote": "About $49–$59/user/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "PracticePanther ranges from $49 to $89 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "BUSINESS PRO $124 per user/month $114 per user/month",
+   "stale_change": null,
+   "causing_url": "https://www.quickbase.com/blog/best-legal-case-practice-management-software",
+   "causing_type": "other",
+   "causing_quote": "PracticePanther ranges from $49 to $89 per user per month.",
+   "rationale": "The top plan, Business Pro, is $114 per user per month on annual billing ($124 monthly), above the stated $89 ceiling. Consistency check (pass 2): like with like (the range's $49 floor is the annual Solo price, and the annual top price is $114), so wrong stands.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "PracticePanther ranges from $49 to $89 per user per month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "PracticePanther's entry plan, Basic, costs $39 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "MONTHLY ANNUALLY (Save $120/user/year) SOLO $59 per user/month $49 per user/month",
+   "stale_change": null,
+   "causing_url": "https://owlesq.com/buyer-guides/best-practice-management-software-solo-small-law-firms",
+   "causing_type": "other",
+   "causing_quote": "Pricing: Basic $39 | Pro $69 | Advanced $89 (per user/month, annual billing); 10-day free trial",
+   "rationale": "The entry plan is Solo at $49 per user per month annually or $59 monthly, and the pricing FAQ names only four plans (Solo, Essential, Business, Business Pro), none called Basic or priced at $39; the cited buyer guide gives this exact line for MyCase, so the answers appear to have attached it to the wrong product. Consistency check (pass 2): explicit and like with like (annual against annual), wrong stands.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "Basic $39 | Pro $69 | Advanced $89 (per user/month, annual billing); 10-day free trial available."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "Starts at $39/user/month (Basic)"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "Basic starts at $39/user/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "PracticePanther's Pro plan costs $69 per user per month billed annually.",
+   "class": "wrong",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "BUSINESS PRO $124 per user/month $114 per user/month",
+   "stale_change": null,
+   "causing_url": "https://owlesq.com/buyer-guides/best-practice-management-software-solo-small-law-firms",
+   "causing_type": "other",
+   "causing_quote": "Pricing: Basic $39 | Pro $69 | Advanced $89 (per user/month, annual billing); 10-day free trial",
+   "rationale": "The only Pro plan on the pricing page, Business Pro, is $114 per user per month on annual billing; the $69 annual plan is named Essential, and the cited guide gives this line for MyCase. Consistency check (pass 2): annual against annual on the same plan name, wrong stands.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "Basic $39 | Pro $69 | Advanced $89 (per user/month, annual billing); 10-day free trial available."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "PracticePanther's Advanced plan costs $89 per user per month billed annually.",
+   "class": "wrong",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "PracticePanther offers four flexible plans: Solo, Essential, Business, and Business Pro.",
+   "stale_change": null,
+   "causing_url": "https://owlesq.com/buyer-guides/best-practice-management-software-solo-small-law-firms",
+   "causing_type": "other",
+   "causing_quote": "Pricing: Basic $39 | Pro $69 | Advanced $89 (per user/month, annual billing); 10-day free trial",
+   "rationale": "The pricing page's FAQ names exactly four plans (Solo, Essential, Business and Business Pro), with no Advanced plan; the $89 annual plan is Business, and the cited guide gives this line for MyCase. Consistency check (pass 2): the proof quote was changed to the FAQ plan list, which contradicts a plan named Advanced explicitly; wrong stands, though the $89 price itself exists under the Business name.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "Basic $39 | Pro $69 | Advanced $89 (per user/month, annual billing); 10-day free trial available."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "A 5-attorney firm pays about $5,500 to $7,500 per year for PracticePanther.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The claim names no plan or billing period, so the published per-plan prices cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "Approximately $5,500–$7,500/year for a 5-attorney firm."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "A 5-attorney firm will pay approximately $5,500–$7,500/year for PracticePanther."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "versus $5,500–$7,500/year for MyCase or PracticePanther"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "free_tier",
+   "claim": "PracticePanther offers a 10-day free trial.",
+   "class": "wrong",
+   "proof_url": "https://www.practicepanther.com/integrations/",
+   "proof_quote": "Test them out risk-free during our 7-day trial and take your firm to the next level.",
+   "stale_change": null,
+   "causing_url": "https://owlesq.com/buyer-guides/best-practice-management-software-solo-small-law-firms",
+   "causing_type": "other",
+   "causing_quote": "Pricing: Basic $39 | Pro $69 | Advanced $89 (per user/month, annual billing); 10-day free trial",
+   "rationale": "The vendor's pages offer a 7-day free trial, not 10 days; the cited guide gives the 10-day trial in its MyCase entry. Consistency check (pass 2): explicit (trial length against trial length), wrong stands.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "Basic $39 | Pro $69 | Advanced $89 (per user/month, annual billing); 10-day free trial available."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "free_tier",
+   "claim": "PracticePanther offers a free trial of 7 to 14 days.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/integrations/",
+   "proof_quote": "Test them out risk-free during our 7-day trial and take your firm to the next level.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor offers a 7-day free trial, within the stated 7 to 14 day range.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "All three top platforms offer free trials (7–14 days)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "free_tier",
+   "claim": "PracticePanther has a free plan.",
+   "class": "wrong",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "Choose the perfect plan Flexible plans to fit your firm, with no surprises Get Started MONTHLY ANNUALLY (Save $120/user/year) SOLO $59 per user/month $49 per user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page's plan lineup starts with Solo at $49 per user per month and offers no free plan, only a 7-day free trial; its FAQ names four plans (Solo, Essential, Business, Business Pro) and says that at the end of the trial the service continues by subscribing with a credit card. Consistency check (pass 2): explicit on the vendor's own pricing page, wrong stands; see notes for a contrary third-party page.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Perplexity|2",
+     "quote": "Best free-plan options: Clio, PracticePanther, and Filevine."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "plans",
+   "claim": "The Solo plan includes matter management, time and expense tracking, a client portal, document templates and task/event workflows.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "Always included, no matter what plan you choose Contact & Matter Management Billable Time & Expense Tracking World Class Support Secure Client Portal Unlimited Data Storage",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page includes matter management, time and expense tracking and the client portal in every plan, and lists Document Templates and Task & Event Workflows in the Solo column.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "Includes matter management, time and expense tracking, a client portal, document templates, and task workflows for $49/user/month billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|3",
+     "quote": "Its Solo plan includes matter management, time/expense tracking, a client portal, document templates, and task/event workflows."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "Solo includes matter management, time and expense tracking, document templates, task/event workflows, and a client portal."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "The Solo plan includes matter/contact management, time tracking, a client portal, document templates, and task/event workflows."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "including document templates and task/event workflows."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|1",
+     "quote": "Task/event workflows and document templates are included in Solo"
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|2",
+     "quote": "Offers matter management, time tracking, billing, a client portal, and task workflows; higher tiers add texting, intake forms, e-signatures, and accounting."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|3",
+     "quote": "Includes matter management, time tracking, a client portal, document templates, and task workflows; higher tiers add texting, intake, and e-signatures."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "plans",
+   "claim": "Intake forms, two-way texting and unlimited e-signatures (and LEDES billing) are not in Solo; they come with a higher tier (Business).",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "Everything in ESSENTIAL Native 2-Way Texting Intake Forms Native eSignature (Unlimited sends) Attorney Revenue Report LEDES Billing",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists texting, intake forms, unlimited eSignature and LEDES billing as what Business adds; none is in the Solo column.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "Intake forms, native e-signatures, and texting require the Business tier."
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "Intake forms, two-way texting, and unlimited e-signatures require Business"
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|3",
+     "quote": "Intake forms and e-signatures require a higher tier."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "You want core practice management plus texting, intake forms, unlimited e-signatures, and LEDES billing."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "if you want billing, intake, texting, and e-signatures in one package."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|3",
+     "quote": "Business includes those client-facing features"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "Intake forms, texting, and unlimited e-signatures require Business."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "adds intake forms, two-way texting, and unlimited e-signatures"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Intake and e-signatures require Business"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "unlock CRM tools, client portals, custom intake forms, and eSignatures"
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|1",
+     "quote": "Business adds intake forms, texting, unlimited e-signatures, and LEDES billing."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|2",
+     "quote": "higher tiers add texting, intake forms, e-signatures, and accounting."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|3",
+     "quote": "higher tiers add texting, intake, and e-signatures."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "plans",
+   "claim": "Business Pro adds operating (and trust) accounting and enhanced reconciliation through PantherAccounting Plus.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "BUSINESS PRO $124 per user/month $114 per user/month Everything in BUSINESS PantherAccounting Plus Trust Accounting Operating Accounting Enhanced Reconciliation Process",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Business Pro column lists PantherAccounting Plus, trust and operating accounting and the enhanced reconciliation process on top of Business.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "Business Pro adds integrated operating accounting and enhanced reconciliation."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "Full operating accounting and enhanced reconciliation are in the higher Business Pro tier."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|3",
+     "quote": "Business Pro adds operating accounting and enhanced reconciliation."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "the fuller accounting package is in Business Pro."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|1",
+     "quote": "Business Pro adds operating and trust accounting through PantherAccounting Plus."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|3",
+     "quote": "Business Pro adds the fuller accounting package."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "All plans include unlimited document storage.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "Always included, no matter what plan you choose Contact & Matter Management Billable Time & Expense Tracking World Class Support Secure Client Portal Unlimited Data Storage",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Unlimited Data Storage, which covers documents, as always included in every plan.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "All plans include unlimited document storage"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "plans",
+   "claim": "Client portals are unlocked at the Essential and Business tiers (not in Solo).",
+   "class": "wrong",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "Always included, no matter what plan you choose Contact & Matter Management Billable Time & Expense Tracking World Class Support Secure Client Portal",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page includes the secure client portal in every plan, Solo included. Consistency check (pass 2): explicit and same feature across the same tiers, wrong stands; the kinja.com page cited by the answer, now read in a browser, does not carry the statement, so the cause stays not found.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "unlock CRM tools, client portals, custom intake forms, and eSignatures"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "plans",
+   "claim": "CRM tools are unlocked at the Essential and Business tiers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names a Legal CRM in its menu but its plan columns do not say which tier includes it.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "unlock CRM tools, client portals, custom intake forms, and eSignatures"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "product_names",
+   "claim": "PantherAccounting Plus is a PracticePanther product.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "PantherAccounting Plus Built-in legal trust accounting, operating accounting, and financial reporting system",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names its built-in accounting system PantherAccounting Plus.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|1",
+     "quote": "Business Pro adds operating and trust accounting through PantherAccounting Plus."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "product_names",
+   "claim": "PantherPayments is PracticePanther's native payment processing.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "Native ePayments with PantherPayments Get paid instantly online by letting your clients pay via credit card or echeck.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names the native payments product PantherPayments.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Google AI Overviews|2",
+     "quote": "native payment processing (PantherPayments)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "integrations",
+   "claim": "PracticePanther integrates with Microsoft Outlook.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "Sync your emails to PracticePanther with our Outlook and Gmail plugins",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Outlook email and calendar sync.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "Features include e-signatures, online payments, mobile access, and Outlook integration."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "Features include e-signatures, online payments, mobile access, and Outlook integration."
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "integrations",
+   "claim": "PracticePanther integrates with QuickBooks (QuickBooks Online).",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "Quickbooks Online & PantherPayments Sync payments, invoices, and contacts to QuickBooks",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists a QuickBooks Online integration.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|Google AI Mode|2",
+     "quote": "Unlike PracticePanther (which relies on integrations like QuickBooks Online for advanced accounting)"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Google AI Mode|3",
+     "quote": "Unlike PracticePanther—which typically requires an integration with QuickBooks for full accounting"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "integrations",
+   "claim": "PracticePanther's billing integrates with LawPay.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read name PantherPayments as the native payment system and do not mention LawPay either way.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Google AI Mode|1",
+     "quote": "Its billing integration (via LawPay) is seamless"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "platforms",
+   "claim": "PracticePanther is cloud based.",
+   "class": "true",
+   "proof_url": "https://practicepanther.com/",
+   "proof_quote": "Yes, PracticePanther is a cloud-based legal practice management software.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page FAQ states that PracticePanther is cloud-based.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "PracticePanther is a well-established cloud-based legal practice management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "PracticePanther is a well-established cloud-based legal practice management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "PracticePanther is a well-established cloud-based legal practice management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "PracticePanther is a well-established cloud-based legal practice management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "PracticePanther is a well-established cloud-based legal practice management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "PracticePanther is a well-established cloud-based legal practice management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "PracticePanther is a well-established cloud-based legal practice management platform"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "platforms",
+   "claim": "PracticePanther offers mobile access.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/pricing",
+   "proof_quote": "iPhone, iPad & Android App Through our mobile app you can track time, bill clients, and access a real-time snapshot of the inner workings of your firm.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page includes an iPhone, iPad and Android app in every plan.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "Features include e-signatures, online payments, mobile access, and Outlook integration."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "Features include e-signatures, online payments, mobile access, and Outlook integration."
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "customer_counts",
+   "claim": "PracticePanther is used by 40,000+ legal professionals.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages say only tens of thousands of legal professionals, which neither confirms nor contradicts 40,000+.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "customer_counts",
+   "claim": "PracticePanther is used across 170+ countries.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read gives a country count.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "used by 40,000+ legal professionals across 170+ countries"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "founding",
+   "claim": "PracticePanther was founded in 2012.",
+   "class": "true",
+   "proof_url": "https://www.practicepanther.com/about-us/",
+   "proof_quote": "Our History 2012 PracticePanther was founded",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page history dates the founding to 2012.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "Founded in 2012 by a former attorney"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "Founded in 2012 by a former attorney"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "Founded in 2012 by a former attorney"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "Founded in 2012 by a former attorney"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Founded in 2012 by a former attorney"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "founding",
+   "claim": "PracticePanther was founded by a former attorney.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page dates the founding but does not name or describe the founders.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "Founded in 2012 by a former attorney"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "Founded in 2012 by a former attorney"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "Founded in 2012 by a former attorney"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "Founded in 2012 by a former attorney"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Founded in 2012 by a former attorney"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "Founded by a former attorney"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "Founded by a former attorney"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [
+  "https://www.capterra.com/p/133656/Smokeball/alternatives/",
+  "https://caeluslaw.net/resources/best/best-legal-software-solo-attorneys/"
+ ],
+ "notes": "Six own pages read (home, pricing, about, integrations and two own blog pages cited by the answers), all HTTP 200 and not thin. The pricing snapshot shows each plan as monthly then annual price under 'MONTHLY ANNUALLY (Save $120/user/year)': Solo $59/$49, Essential $79/$69, Business $99/$89, Business Pro $124/$114; its FAQ names exactly four plans. Cause checks: six cited pages requested, of which owlesq.com, rev.com and intellibill.io read (HTTP 200), capterra.com 403, kinja.com 429 and caeluslaw.net a network failure. Pass 2 (8 Oct): kinja.com was read once in a real browser and removed from needs_browser_read; it does not carry C19 (client portal tiers), so C19 stays cause not found; capterra.com and caeluslaw.net remain unread and listed for cause tracing only (no own-page claim depends on them). No PracticePanther own page was blocked, so step 1 re-classed nothing. Reviewer, look first at C14: the kinja.com page (third party, not cited by the q6 Perplexity 2 answer that makes the claim) says 'PracticePanther runs a permanent free tier capped at three active clients and three active matters' per Capterra, while the vendor's pricing page and FAQ list only four paid plans and a 7-day trial; C14 stays wrong under the own-page rule. Pass 2 consistency check: all seven wrong claims (C07 to C10, C12, C14, C19) are explicit, like-with-like contradictions on the vendor's pricing or integrations page and stay wrong; C10's proof quote was changed to the FAQ plan list because the $89 price exists under the Business name and only the plan name Advanced is contradicted. Pass 2 completeness: the gap lines and the comparison-table cells for PracticePanther ($39 and $49 starting prices, the $5,500 to $7,500 five-user estimate, $49 to $59) repeat claims already coded for the same answers; positioning, feature and support lines ('eSignature built in', '24/7 customer support', document assembly) were not coded. quickbase.com (cited by q2 Claude 2) was already read under the cosmolex budget and is the cause of C07. C08 to C10 and C12 (Basic $39, Pro $69, Advanced $89, 10-day trial) match word for word the MyCase entry of the cited owlesq.com guide, so the q1 Claude answers appear to have attached MyCase pricing to PracticePanther. C28 and C29 (40,000+ professionals, 170+ countries) and C31 (former attorney founder) appear verbatim on the cited quickbase.com page but not on the vendor's pages (which say tens of thousands), so they are unverifiable. q4 Claude 3's sentence was split three ways: client portal (C19, wrong), CRM (C20, unverifiable) and intake and e-signatures (instance of C16). Not coded: the q4 Perplexity 1 and 3 lines giving Solo at $49 to $59 'depending on tier and source' (attributed and conditional, so not statements), ratings, support quality, 'no hidden fees', 'longest free trial' (a comparison), user quotes from forums, and Rocket Matter's integration with PracticePanther (a statement about another vendor).",
+ "answer_record_ids": [
+  "legal-practice-management|q1|ChatGPT|1",
+  "legal-practice-management|q1|ChatGPT|2",
+  "legal-practice-management|q1|ChatGPT|3",
+  "legal-practice-management|q1|Claude|1",
+  "legal-practice-management|q1|Claude|2",
+  "legal-practice-management|q1|Claude|3",
+  "legal-practice-management|q1|Google AI Mode|2",
+  "legal-practice-management|q1|Google AI Mode|3",
+  "legal-practice-management|q1|Google AI Overviews|2",
+  "legal-practice-management|q1|Google AI Overviews|3",
+  "legal-practice-management|q1|Perplexity|1",
+  "legal-practice-management|q1|Perplexity|2",
+  "legal-practice-management|q1|Perplexity|3",
+  "legal-practice-management|q10|Claude|1",
+  "legal-practice-management|q10|Perplexity|1",
+  "legal-practice-management|q10|Perplexity|2",
+  "legal-practice-management|q10|Perplexity|3",
+  "legal-practice-management|q2|ChatGPT|1",
+  "legal-practice-management|q2|ChatGPT|2",
+  "legal-practice-management|q2|ChatGPT|3",
+  "legal-practice-management|q2|Claude|1",
+  "legal-practice-management|q2|Claude|2",
+  "legal-practice-management|q2|Claude|3",
+  "legal-practice-management|q2|Google AI Mode|3",
+  "legal-practice-management|q2|Google AI Overviews|1",
+  "legal-practice-management|q2|Google AI Overviews|2",
+  "legal-practice-management|q2|Google AI Overviews|3",
+  "legal-practice-management|q2|Perplexity|1",
+  "legal-practice-management|q2|Perplexity|2",
+  "legal-practice-management|q2|Perplexity|3",
+  "legal-practice-management|q3|Perplexity|1",
+  "legal-practice-management|q4|ChatGPT|1",
+  "legal-practice-management|q4|ChatGPT|2",
+  "legal-practice-management|q4|ChatGPT|3",
+  "legal-practice-management|q4|Claude|1",
+  "legal-practice-management|q4|Claude|2",
+  "legal-practice-management|q4|Claude|3",
+  "legal-practice-management|q4|Google AI Mode|1",
+  "legal-practice-management|q4|Google AI Mode|2",
+  "legal-practice-management|q4|Google AI Mode|3",
+  "legal-practice-management|q4|Google AI Overviews|1",
+  "legal-practice-management|q4|Google AI Overviews|2",
+  "legal-practice-management|q4|Perplexity|1",
+  "legal-practice-management|q4|Perplexity|2",
+  "legal-practice-management|q4|Perplexity|3",
+  "legal-practice-management|q5|ChatGPT|1",
+  "legal-practice-management|q5|ChatGPT|2",
+  "legal-practice-management|q5|ChatGPT|3",
+  "legal-practice-management|q5|Claude|1",
+  "legal-practice-management|q5|Claude|2",
+  "legal-practice-management|q5|Claude|3",
+  "legal-practice-management|q5|Google AI Mode|1",
+  "legal-practice-management|q5|Google AI Mode|2",
+  "legal-practice-management|q5|Google AI Mode|3",
+  "legal-practice-management|q5|Google AI Overviews|1",
+  "legal-practice-management|q5|Google AI Overviews|2",
+  "legal-practice-management|q5|Google AI Overviews|3",
+  "legal-practice-management|q5|Perplexity|1",
+  "legal-practice-management|q5|Perplexity|2",
+  "legal-practice-management|q5|Perplexity|3",
+  "legal-practice-management|q6|ChatGPT|1",
+  "legal-practice-management|q6|ChatGPT|2",
+  "legal-practice-management|q6|ChatGPT|3",
+  "legal-practice-management|q6|Claude|1",
+  "legal-practice-management|q6|Claude|2",
+  "legal-practice-management|q6|Claude|3",
+  "legal-practice-management|q6|Google AI Mode|1",
+  "legal-practice-management|q6|Google AI Mode|2",
+  "legal-practice-management|q6|Google AI Mode|3",
+  "legal-practice-management|q6|Google AI Overviews|1",
+  "legal-practice-management|q6|Google AI Overviews|2",
+  "legal-practice-management|q6|Google AI Overviews|3",
+  "legal-practice-management|q6|Perplexity|1",
+  "legal-practice-management|q6|Perplexity|2",
+  "legal-practice-management|q6|Perplexity|3",
+  "legal-practice-management|q8|Claude|1"
+ ],
+ "named_count": 76
+}

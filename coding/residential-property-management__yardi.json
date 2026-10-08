@@ -1,0 +1,1874 @@
+{
+ "vendor": "Yardi",
+ "slug": "yardi",
+ "category": "residential-property-management",
+ "coded_at": "2026-10-08T04:21:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.yardibreeze.com/pricing/",
+   "key": "91112b7fce26d39b",
+   "used_for": "pricing (redirected to the Yardi Breeze residential features and pricing page)"
+  },
+  {
+   "url": "https://www.yardibreeze.com/",
+   "key": "6f0de2e73710eda8",
+   "used_for": "home (Yardi Breeze product home)"
+  },
+  {
+   "url": "https://www.yardibreeze.com/faq/",
+   "key": "ff50c2b09db2005b",
+   "used_for": "FAQ (minimums, billing, support, property types, cloud)"
+  },
+  {
+   "url": "https://www.yardibreeze.com/blog/2024/11/yardi-breeze-pricing/",
+   "key": "5deb9b8c7d45b9a0",
+   "used_for": "pricing (vendor pricing explainer, Premier rates, ACH fees)"
+  },
+  {
+   "url": "https://www.yardibreeze.com/commercial-features/",
+   "key": "ee32dc66483a2637",
+   "used_for": "product (commercial pricing and CAM recovery)"
+  },
+  {
+   "url": "https://www.yardi.com/products/yardi-voyager/",
+   "key": "61bc8811a5ce9c22",
+   "used_for": "product (Yardi Voyager); HTTP 403, blocked at the edge, no text. Pass 2: read once in a real browser on 8 Oct (redirected to /suite/voyager-suite/, 6,391 characters); used to re-check C43 to C45"
+  },
+  {
+   "url": "https://www.buildium.com/blog/buildium-vs-yardi-breeze/",
+   "key": "764eee9c6cf1cf26",
+   "used_for": "cause tracing (cited competitor page)"
+  },
+  {
+   "url": "https://www.bcsolut.com/post/yardi-vs-buildium",
+   "key": "19ca8ee5d1ae3f3c",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://www.relayhumancloud.com/blog/yardi-pricing/",
+   "key": "46e499349533408d",
+   "used_for": "cause tracing (cited page, not own); thin, no usable text"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Yardi Breeze for residential costs $1 per unit per month.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/pricing/",
+   "proof_quote": "Starting at $1 per unit per month $100 / minimum per month Based on annual agreement",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The residential pricing page lists Breeze starting at $1 per unit per month.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "Yardi Breeze starts at $1 per unit per month (with a $100 monthly minimum) for residential portfolios."
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "Yardi Breeze starts at $1 per unit per month with a $100 monthly minimum for residential portfolios"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|1",
+     "quote": "typically starting around $1 per unit/month for residential"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|2",
+     "quote": "around $100/month or $1 per unit minimums"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Residential Breeze is $1/unit/month with a $100 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "Residential pricing starts at $1/unit/month, with a $100 monthly minimum and annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "Residential pricing starts at $1/unit/month, $100 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "For residential portfolios, pricing starts at $1/unit/month."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "For residential properties, the price starts at $1 per unit per month with a minimum of $100 per month."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "Yardi Breeze charges $1/unit/month with a $100 monthly minimum."
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|2",
+     "quote": "starting around $1/unit/month with a $100 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|3",
+     "quote": "around $1/unit/month with a $100 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Residential Breeze is $1/unit/month, $100 monthly minimum, on an annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "Residential Breeze starts at $1/unit/month with a $100 monthly minimum, on an annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "Residential starts at $1/unit/month, $100 minimum"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|2",
+     "quote": "Yardi Breeze starts at $1 per unit/month (minimums apply)."
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|3",
+     "quote": "Pricing: Starting at ~$1/unit/month"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|2",
+     "quote": "$1/unit ($100 min)"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|1",
+     "quote": "Breeze starts at $1/unit/month with a $100 residential minimum"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|2",
+     "quote": "Residential pricing starts at $1/unit/month, with a $100 monthly minimum and annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Mode|1",
+     "quote": "Starts around $1/unit/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Residential: $1/unit/month, $100 minimum. Annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Residential: $1/unit/month, $100 minimum, based on an annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Residential: $1/unit/month, $100 minimum, annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Breeze starts at $1/unit/month with a $100 minimum for residential"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Yardi Breeze starts at $1 per unit, per month, with a $100 minimum."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Breeze starts at $1/unit/month with a $100 minimum for residential"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "Starts at $1/month per unit for residential ($100 monthly minimum)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "Starts at $1/unit/month for standard residential, but carries a $100/month minimum."
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Starts at $1 per unit/month for residential ($100 monthly minimum)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|1",
+     "quote": "Starts at $1 per unit per month for residential (with a $100 monthly minimum)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|2",
+     "quote": "$1/unit/month for residential with a $100 minimum"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|3",
+     "quote": "starting at $1 per unit per month for residential, though bounded by a strict $100 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "Per-unit pricing, typically $1/unit/month for residential with a $100/month minimum"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|2",
+     "quote": "Yardi Breeze starts at $1/unit/month with a $100/month minimum and no free trial."
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|3",
+     "quote": "Yardi Breeze pricing starts at $1/unit/month for residential Breeze with a $100/month minimum, uses an annual agreement, and does not offer a free trial."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Residential Breeze has a $100 monthly minimum.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "However, there is a minimum monthly charge of $100 per month for residential portfolios and $200 per month minimum charge for commercial or mixed portfolios. The minimum for Breeze Premier is $400 per month.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ sets a $100 monthly minimum charge for residential portfolios.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "Yardi Breeze starts at $1 per unit per month (with a $100 monthly minimum) for residential portfolios."
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "Yardi Breeze starts at $1 per unit per month with a $100 monthly minimum for residential portfolios"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|2",
+     "quote": "around $100/month or $1 per unit minimums"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Residential Breeze is $1/unit/month with a $100 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "Residential pricing starts at $1/unit/month, with a $100 monthly minimum and annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "Residential pricing starts at $1/unit/month, $100 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "For residential properties, the price starts at $1 per unit per month with a minimum of $100 per month."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "Yardi Breeze charges $1/unit/month with a $100 monthly minimum."
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|2",
+     "quote": "starting around $1/unit/month with a $100 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|3",
+     "quote": "around $1/unit/month with a $100 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Residential Breeze is $1/unit/month, $100 monthly minimum, on an annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "Yardi Breeze has a monthly minimum of about $100"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "Residential Breeze starts at $1/unit/month with a $100 monthly minimum, on an annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "Residential starts at $1/unit/month, $100 minimum"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|2",
+     "quote": "$1/unit ($100 min)"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|1",
+     "quote": "Breeze starts at $1/unit/month with a $100 residential minimum"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|2",
+     "quote": "Residential pricing starts at $1/unit/month, with a $100 monthly minimum and annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|3",
+     "quote": "Breeze minimums are $100/month residential and $200/month commercial or mixed portfolios."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Residential: $1/unit/month, $100 minimum. Annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Residential: $1/unit/month, $100 minimum, based on an annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Residential: $1/unit/month, $100 minimum, annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Breeze starts at $1/unit/month with a $100 minimum for residential"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Yardi Breeze starts at $1 per unit, per month, with a $100 minimum."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Breeze starts at $1/unit/month with a $100 minimum for residential"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "Starts at $1/month per unit for residential ($100 monthly minimum)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "Starts at $1/unit/month for standard residential, but carries a $100/month minimum."
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Starts at $1 per unit/month for residential ($100 monthly minimum)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|1",
+     "quote": "Starts at $1 per unit per month for residential (with a $100 monthly minimum)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|2",
+     "quote": "$1/unit/month for residential with a $100 minimum"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|3",
+     "quote": "though bounded by a strict $100 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "Per-unit pricing, typically $1/unit/month for residential with a $100/month minimum"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|2",
+     "quote": "Yardi Breeze starts at $1/unit/month with a $100/month minimum and no free trial."
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|3",
+     "quote": "Yardi Breeze pricing starts at $1/unit/month for residential Breeze with a $100/month minimum, uses an annual agreement, and does not offer a free trial."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Breeze pricing is based on an annual agreement.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "Breeze is billed monthly and is based on an annual agreement. Breeze Premier is billed annually and based on an annual agreement.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ says both Breeze and Breeze Premier are based on an annual agreement.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "under an annual agreement"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "with a $100 monthly minimum and annual agreement"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "An annual agreement is required"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "with a minimum of $200 per month on an annual plan"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "on an annual agreement"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "on an annual agreement"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "Those prices require an annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|2",
+     "quote": "with a $100 monthly minimum and annual agreement"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Breeze is monthly-billed under an annual agreement; Premier is annually billed."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "based on an annual agreement"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Residential: $1/unit/month, $100 minimum, annual agreement."
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "No free trial; annual agreement is commonly noted"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|2",
+     "quote": "Per-unit, annual agreement"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|3",
+     "quote": "uses an annual agreement"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Breeze for commercial costs $2 per unit per month with a $200 monthly minimum.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/commercial-features/",
+   "proof_quote": "Starting at $2 per unit per month $200 / minimum per month Based on annual agreement",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The commercial pricing page lists Breeze at $2 per unit per month with a $200 monthly minimum.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "For commercial properties, the price is $2 per unit per month with a minimum of $200 per month on an annual plan."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "commercial at $2/unit/month, $200 minimum"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|1",
+     "quote": "or $2/unit/month with a $200 commercial minimum"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|3",
+     "quote": "Breeze minimums are $100/month residential and $200/month commercial or mixed portfolios."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "while the Commercial tier at $2/month suits small commercial operators"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "and $2/unit for commercial ($200 minimum)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "$2 per unit/month for commercial ($200 minimum)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|1",
+     "quote": "$2 per unit per month for commercial (with a $200 monthly minimum)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|2",
+     "quote": "managing commercial portfolios ($2/unit/month with a $200 minimum)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|3",
+     "quote": "commercial starts at $2/unit with a $200 minimum"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Breeze Premier has a $400 monthly minimum.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "However, there is a minimum monthly charge of $100 per month for residential portfolios and $200 per month minimum charge for commercial or mixed portfolios. The minimum for Breeze Premier is $400 per month.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ sets the Breeze Premier minimum at $400 per month.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Check whether your requirements need Premier, which has a $400 monthly minimum."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Premier has a $400 monthly minimum, with terms applying."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "Residential Premier has a $400 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|1",
+     "quote": "Premier has a $400 minimum."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|2",
+     "quote": "Premier features have a higher minimum."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|3",
+     "quote": "Premier's minimum is $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Premier has a $400 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Breeze Premier has a $400 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Premier has a $400/month minimum"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "requires Breeze Premier at $2/unit with a $400/month minimum and annual-only billing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "at which point the bill jumps 4x to $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "requires Breeze Premier at $2/unit with a $400/month minimum and annual-only billing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "Yardi Breeze Premier steps up to $2/unit for residential ($400 monthly minimum)."
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "starts at $2/unit/month with a $400/month minimum unless specific bundling applies"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Breeze Premier costs $2 per unit/month ($400 minimum)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Breeze Premier for residential costs $2 per unit per month (standard rate).",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/blog/2024/11/yardi-breeze-pricing/",
+   "proof_quote": "Otherwise, Breeze Premier stands at $2 per unit per month with a $400 monthly minimum.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pricing article sets residential Premier at $2 per unit per month unless it is bundled with screening and renters insurance, when it is $1.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "requires Breeze Premier at $2/unit with a $400/month minimum and annual-only billing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "requires Breeze Premier at $2/unit with a $400/month minimum and annual-only billing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "Yardi Breeze Premier steps up to $2/unit for residential ($400 monthly minimum)."
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "starts at $2/unit/month with a $400/month minimum unless specific bundling applies"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Breeze Premier costs $2 per unit/month ($400 minimum)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Residential pricing ranges from $1 to $2 per unit per month depending on the tier.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/blog/2024/11/yardi-breeze-pricing/",
+   "proof_quote": "Otherwise, Breeze Premier stands at $2 per unit per month with a $400 monthly minimum.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Residential Breeze is $1 per unit and residential Premier is $2 per unit (or $1 when bundled), so the $1 to $2 range matches.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|1",
+     "quote": "typically starting around $1 to $2 per unit per month with a monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "Residential pricing ranges from $1.00–$2.00 per unit per month, depending on features."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "with residential pricing ranging from $1.00–$2.00 per unit per month, depending on features"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Per-unit ($1–$2/unit, $100–$400 min)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "The lower residential Premier rate depends on bundling conditions.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/blog/2024/11/yardi-breeze-pricing/",
+   "proof_quote": "This deal only applies if you bundle Breeze Premier with our resident screening and renters insurance solutions with a 12-month contract.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pricing article ties the $1 residential Premier rate to bundling screening and renters insurance on a 12-month contract.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Its advertised residential Premier rate also has bundling conditions"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "unless specific bundling applies"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Breeze Premier is billed annually only.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "Breeze is billed monthly and is based on an annual agreement. Breeze Premier is billed annually and based on an annual agreement.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ says Breeze Premier is billed annually.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Premier is annually billed"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "and annual-only billing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Breeze Premier is also annual billing only (no monthly option)."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "and annual-only billing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Breeze is billed monthly.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "Breeze is billed monthly and is based on an annual agreement.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ says Breeze is billed monthly (on an annual agreement), in contrast to Premier's annual billing.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Breeze is monthly-billed under an annual agreement"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "with free implementation and training, and month-to-month billing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "with free implementation and training, and month-to-month billing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Yardi Breeze charges no onboarding, implementation, training or support fees.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/pricing/",
+   "proof_quote": "No onboarding fees No training fees No support fees",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists no onboarding, training or support fees, and the pricing article offers free implementation and training on both tiers.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "No onboarding, training, or support fees are advertised."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "bundles free implementation and training"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "No onboarding, training, or support fees; live chat available."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "No onboarding, training, or support fees advertised; live chat available."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Live chat; no onboarding, training, or support fees advertised."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "with free implementation and training"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "with zero setup fees and no training costs"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Yardi Breeze offers free implementation and training on both Breeze and Breeze Premier tiers"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "Implementation and training are generally free with no hidden onboarding onboarding fees"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Implementation, training, and standard support are free."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "Yardi Breeze has no hidden fees.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "we proudly offer a no-hidden-fees pricing model",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ describes a no-hidden-fees pricing model.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|Google AI Overviews|2",
+     "quote": "without hidden fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Yardi Breeze charges $0 ACH fees on rent payments (below a set payment amount).",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/blog/2024/11/yardi-breeze-pricing/",
+   "proof_quote": "For every market we support, there are $0 ACH fees for rent payments (under a designated payment amount).",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pricing article offers $0 ACH rent-payment fees under a designated amount on both Breeze and Premier; the tier qualifiers in two answers (select or many tiers) are looser than the page but do not contradict the fee waiver.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|1",
+     "quote": "with zero ACH payment fees passed down in many tiers"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|1",
+     "quote": "zero ACH fees for online payments on select tiers"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|2",
+     "quote": "waives certain ACH fees for online payments"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|3",
+     "quote": "offering low ACH fees"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Yardi advertises $0 ACH rent-payment fees below a designated payment amount"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Yardi advertises $0 ACH rent-payment fees below a designated payment amount"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "Offers $0 residential ACH processing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "plans",
+   "claim": "Tenant screening (ScreeningWorks Pro) is a separate add-on.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/pricing/",
+   "proof_quote": "Power your business with optional tools RentCafe Corporate websites ScreeningWorks Pro Bill Pay",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists ScreeningWorks Pro among optional add-ons, and the FAQ names resident screening as an optional per-transaction add-on.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Yardi Breeze offers it as a separate add-on."
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "some screening mechanisms rely on integrated add-ons like ScreeningWorks Pro"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Tenant screening (via ScreeningWorks Pro) is an add-on."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "plans",
+   "claim": "Breeze Premier adds advanced features such as custom reports and financial statements, invoice approval workflows, advanced and corporate general ledger, batch processing, job costing, state-based leases and CRM.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/pricing/",
+   "proof_quote": "Premier Features Get batch processing and advanced general ledger controls Customize financial statements Track job costs including budgets, supplier contracts, payments and retention",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The residential features page marks these as Premier Features (also corporate general ledgers, menu-level security, approval workflows, state-based lease documents and the CRM queue), and the FAQ says Premier adds custom reporting, invoice processing and job cost tracking.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|2",
+     "quote": "If you need advanced tracking (like corporate accounting or complex property operations), you can step up to Breeze Premier."
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|3",
+     "quote": "If you need advanced tracking, property-level accounting, or CRM tools, Breeze Premier steps up the capability cleanly."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Premier adds corporate general ledger and more granular permissions"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "Premier adds advanced accounting controls and approval workflows."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "Advanced accounting controls and customized financial statements require Premier."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Customized financial statements, invoice approvals, and advanced accounting controls sit in Breeze Premier."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Customized financial statements and invoice approval workflows require Breeze Premier."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Custom financial statements, invoice approvals, and certain leasing workflows require Premier."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Anything beyond basic residential management (custom reports, HOA/condo, affordable housing, invoice automation, job costing) requires Breeze Premier"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Breeze Premier adds batch processing, advanced general ledger controls, customizable financial statements, and job costing."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "such as custom reports, HOA/condo, affordable housing, invoice automation, or job costing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "Breeze Premier adds robust state-specific lease generation."
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "State-specific lease documents are reserved for Breeze Premier."
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|1",
+     "quote": "Advanced features require upgrading to Breeze Premier."
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|3",
+     "quote": "Advanced features (like state-specific custom leases or specialized portfolio types) require upgrading to Breeze Premier"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "plans",
+   "claim": "Affordable housing, HOA/condo, manufactured housing and self storage need Breeze Premier; Breeze covers residential and commercial.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "Breeze is available for residential and commercial properties in the U.S. Breeze Premier is available for residential and commercial properties as well as affordable, HOA/condo, manufactured housing and self storage property types.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ limits Breeze to residential and commercial and adds the other property types only in Premier.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|1",
+     "quote": "Covers residential and commercial management, with Premier adding support for associations, affordable housing, and other property types."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|3",
+     "quote": "Breeze covers residential and commercial; Premier adds support for associations, affordable housing, manufactured housing, and self-storage."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "HOA/Condo | Quoted separately | Breeze Premier only"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "custom reports, HOA/condo, affordable housing, automated invoice processing, job costing, and corporate accounting are Premier-only"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "HOA/Condo support | ✅ | Premier only"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "plans",
+   "claim": "Standard Breeze includes owner tools: report packets, portal sharing, fractional ownership, reserve-aware distributions and trust accounts.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/pricing/",
+   "proof_quote": "Customize report packets by owner or property Generate pro rata statements with a few clicks Share owner reports via email or secure portal Calculate owner payments while maintaining stipulated reserve amounts",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "These owner tools (and escrow and trust accounts) are listed as standard Breeze features, not Premier features, on the residential page.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Owner report packets, secure report sharing, fractional ownership, and distributions with reserves."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Owner report packets, secure report sharing, fractional ownership, and distributions that preserve reserves."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Standard Breeze includes trust accounts, owner report packets, owner portal sharing, and distributions with reserves."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "CAM reconciliation is automated in both Breeze and Breeze Premier.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/commercial-features/",
+   "proof_quote": "CAM Recovery Eliminate spreadsheets and let Breeze do the work Manage triple net (NNN), gross leases or combinations Create custom expense pools and allocate expenses to tenants Set up flexible common area maintenance (CAM) schedules and assign to tenants",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The commercial features page lists CAM recovery among standard Breeze features, with no Premier label.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Both Breeze and Premier automate CAM reconciliation"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "plans",
+   "claim": "CAM reconciliation is available only in Breeze Premier.",
+   "class": "wrong",
+   "proof_url": "https://www.yardibreeze.com/commercial-features/",
+   "proof_quote": "CAM Recovery Eliminate spreadsheets and let Breeze do the work Manage triple net (NNN), gross leases or combinations Create custom expense pools and allocate expenses to tenants Set up flexible common area maintenance (CAM) schedules and assign to tenants",
+   "stale_change": null,
+   "causing_url": "https://www.bcsolut.com/post/yardi-vs-buildium",
+   "causing_type": "other",
+   "causing_quote": "Breeze Premier adds CAM reconciliation, custom financial statements, and job cost tracking",
+   "rationale": "The commercial features page (priced at the standard Breeze $2 per unit rate) lists CAM recovery, including periodic reconciliation, as a standard Breeze feature and keeps Premier-only items under separate 'Premier Features' headings; the Breeze home page comparison table also checks 'Automated CAM reconciliation' for both Breeze and Breeze Premier. Consistency check (pass 2): explicit on the vendor's own page and like with like (the same feature, Breeze against Premier), so wrong stands.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "CAM reconciliation | ❌ | Breeze Premier only"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "upgrading to Yardi Breeze Premier unlocks advanced property accounting, CAM reconciliations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "plans",
+   "claim": "Commercial properties require Breeze Premier.",
+   "class": "wrong",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "Breeze is available for residential and commercial properties in the U.S.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The FAQ makes standard Breeze available for commercial properties, and the commercial page prices Breeze for commercial at $2 per unit. Consistency check (pass 2): the FAQ answers exactly which property types each tier supports, so the contradiction is explicit and like with like; wrong stands (the same answer's self-storage and affordable housing items are Premier-only and were not coded as wrong).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "tracking for specialized asset types (like commercial, self-storage, or affordable housing)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "plans",
+   "claim": "Owner portals require Breeze Premier.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Re-classed from wrong in the pass 2 consistency check: the residential page lists 'Share owner reports via email or secure portal' as a standard Breeze owner tool, but it names no 'owner portal' as such and lists investor portals in Investment Manager, an add-on 'made just for Breeze Premier', so the pages do not explicitly contradict a Premier requirement for owner portals.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "Upgrading to Breeze Premier (for advanced tracking, corporate accounting, or owner portals)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "plans",
+   "claim": "Support is by live chat, email and training resources, with limited phone support during setup.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "You also get up to 8 hours of free phone support during Breeze setup.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ provides live chat during business hours, email after hours, training resources and up to 8 hours of free phone support during setup.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "No onboarding, training, or support fees; live chat available."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "No onboarding, training, or support fees advertised; live chat available."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Live chat; no onboarding, training, or support fees advertised."
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "Live chat, email, tutorials; limited setup phone support"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|2",
+     "quote": "Live chat, email, training resources, limited setup phone support"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|3",
+     "quote": "Yardi Breeze offers live chat, email, training resources, and limited setup phone support."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "free_tier",
+   "claim": "Yardi Breeze offers no free trial.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages offer a demo and a 30-day cancellation option but say nothing either way about a free trial.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Free trial | ✅ 14 days | ❌"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Free Trial | ✅ | ❌"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Free trial | ✅ | ❌"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "No free trial; annual agreement is commonly noted"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|2",
+     "quote": "Yardi Breeze starts at $1/unit/month with a $100/month minimum and no free trial."
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|3",
+     "quote": "does not offer a free trial"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "free_tier",
+   "claim": "Yardi Breeze has no free plan.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "However, there is a minimum monthly charge of $100 per month for residential portfolios and $200 per month minimum charge for commercial or mixed portfolios. The minimum for Breeze Premier is $400 per month.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Every portfolio carries a minimum monthly charge, so no plan is free.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "~$100/mo | All-in-one simplicity | ❌"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "pricing",
+   "claim": "Yardi Breeze is priced per unit.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/pricing/",
+   "proof_quote": "Starting at $1 per unit per month $100 / minimum per month Based on annual agreement",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing pages quote every Breeze plan per unit per month.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|1",
+     "quote": "Highly competitive flat-rate per-unit pricing"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|1",
+     "quote": "Yardi Breeze operates on a clean per-unit model"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "Yardi Breeze uses per-unit pricing with required minimum spend amounts"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "Yardi Breeze uses per-unit pricing with required minimum spend amounts"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Mode|1",
+     "quote": "Yardi Breeze provides straightforward, per-unit pricing with a low monthly minimum."
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Mode|3",
+     "quote": "starting with low per-unit pricing and a modest monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|2",
+     "quote": "Lower per-unit entry pricing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Yardi Breeze works well if you want simple per-unit pricing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Yardi Breeze works well if you want simple per-unit pricing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Per-unit (minimums apply)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "Per-unit ($1/unit residential) with a $100/mo minimum"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Structure: Pure per-unit pricing."
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|1",
+     "quote": "teams wanting simple per-unit pricing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|2",
+     "quote": "Yardi Breeze charges a flat per-unit fee"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|3",
+     "quote": "straightforward per-unit pricing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "Per-unit pricing, typically $1/unit/month for residential with a $100/month minimum"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|2",
+     "quote": "Per-unit, annual agreement"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|3",
+     "quote": "pricing tied directly to unit count"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "pricing",
+   "claim": "Yardi Breeze has a monthly minimum charge (amount not stated).",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "However, there is a minimum monthly charge of $100 per month for residential portfolios and $200 per month minimum charge for commercial or mixed portfolios. The minimum for Breeze Premier is $400 per month.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ sets a minimum monthly charge for every portfolio type.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|1",
+     "quote": "typically starting around $1 to $2 per unit per month with a monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "Yardi Breeze uses per-unit pricing with required minimum spend amounts"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "Yardi Breeze uses per-unit pricing with required minimum spend amounts"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|2",
+     "quote": "Yardi Breeze starts at $1 per unit/month (minimums apply)."
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Mode|1",
+     "quote": "per-unit pricing with a low monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Mode|3",
+     "quote": "a modest monthly minimum"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "pricing",
+   "claim": "Yardi Breeze has no unit minimum.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "There is no minimum number of units that you must manage.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ states there is no minimum number of units (only a minimum monthly charge).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "$1/unit/mo ($100 min) | None"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "pricing",
+   "claim": "Yardi Breeze does not charge per user.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages price per unit but do not address user fees.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "Yardi Breeze does not charge per user."
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "pricing",
+   "claim": "Pricing differs by property type (asset type).",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/blog/2024/11/yardi-breeze-pricing/",
+   "proof_quote": "Breeze for commercial starts at $2 per unit per month with a $200 monthly minimum.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor prices residential, commercial, association and affordable portfolios differently.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "other property types have different pricing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "However, the cost increases depending on the asset type and whether you opt for the Breeze Premier package."
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "pricing",
+   "claim": "Pricing varies by tier.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/blog/2024/11/yardi-breeze-pricing/",
+   "proof_quote": "Otherwise, Breeze Premier stands at $2 per unit per month with a $400 monthly minimum.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Breeze and Breeze Premier carry different rates and minimums.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|1",
+     "quote": "Commercial & mixed portfolios | Varies by tier"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "pricing",
+   "claim": "Base residential cost follows $1 per unit with the $100 floor (about $100 a month at 50 to 100 units, $150 at 150 units).",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "Breeze is billed monthly for an amount based on the number of units you managed during the previous month OR the minimum monthly charge for your portfolio type, whichever is greater.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Billing is units times $1 or the $100 residential minimum, whichever is greater, which yields these figures (and $400 for Premier at 150 units at $2 per unit).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "For 50 units, that's about $100/month."
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "so at 50 units, you're looking at ~$100/month"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "100 units = $100/month base subscription"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "That puts 100 units at a $100/month starting subscription"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "approximately $100/month base at 100 units"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "A 100-unit portfolio hits the Breeze minimum almost exactly"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "A 100-unit portfolio hits the Breeze minimum almost exactly"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "This makes it one of the most cost-effective options at 100 units (~$100/month)."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "At published residential rates, 50 or 100 units would be $100/month; 150 units would be $150/month, before extras."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Its residential base subscription would be $100/month for either 40 or 100 units, before extras."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "except the floor is $100, so you pay $100"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "a 50-unit landlord pays $100/month until they need one Premier feature"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "At 150 units, Breeze is $150/month and Premier is $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "If you have fewer than 100 units, you'll still pay $100"
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "pricing",
+   "claim": "Estimated cost at about 100 units is $100 to $200 per month ($1 to $2 per unit plus minimums).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The range mixes tiers or property types without saying which, and residential Premier at 100 units would hit the $400 minimum, so the estimate is not settled.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|2",
+     "quote": "~$100–$200/mo ($1–$2/unit + minimums)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "platforms",
+   "claim": "Yardi Breeze is cloud-based.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "Yardi Breeze is cloud-based property management software.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ describes Yardi Breeze as cloud-based software.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "Yardi Breeze is a cloud-based property management software"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Overviews|2",
+     "quote": "a streamlined, user-friendly cloud interface"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|2",
+     "quote": "Yardi Breeze is cloud-based property management software"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|3",
+     "quote": "Yardi Breeze is a cloud-based property management software"
+    },
+    {
+     "record_id": "residential-property-management|q6|Claude|3",
+     "quote": "Yardi Breeze is a cloud-based platform"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "A cloud-based property management software designed for small to medium-sized property owners and managers."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Yardi Breeze is a cloud-based property management software"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "A cloud-based property management software designed for small to medium-sized property owners and managers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "platforms",
+   "claim": "Yardi Breeze can be used from mobile devices (mobile access).",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/pricing/",
+   "proof_quote": "Manage all your properties from any device",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The residential page and FAQ say Breeze is accessible from any device.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q4|Claude|2",
+     "quote": "mobile access for on-the-go management"
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "platforms",
+   "claim": "Yardi Breeze has a mobile app for managers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages describe access from any device and a tenant mobile app add-on for commercial Premier, but no manager mobile app.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "The mobile app is genuinely functional"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Mobile App | Weak | Stronger"
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "integrations",
+   "claim": "Yardi Breeze supports cash payments through PayNearMe.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/pricing/",
+   "proof_quote": "Allow walk-in payments at participating retailers with PayNearMe",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The residential page offers walk-in payments with PayNearMe.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Yardi Breeze offers a comparable core payment workflow with additional cash-payment support through PayNearMe"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Yardi Breeze offers a comparable core payment workflow with additional cash-payment support through PayNearMe"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Yardi Breeze offers a comparable core payment workflow with additional cash-payment support through PayNearMe"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "It also includes built-in cash payment support via PayNearMe."
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "product_names",
+   "claim": "Yardi Breeze uses Yardi's RentCafe for marketing and the tenant portal.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "RentCafe includes a resident portal that lets residents apply, make online rent payments* and submit maintenance requests.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ names RentCafe as the resident portal and listing service integrated with Breeze.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|3",
+     "quote": "Keeps everything in-house via RentCafe for marketing and tenant portals"
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "product_names",
+   "claim": "Yardi's screening add-on is named ScreeningWorks Pro.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/pricing/",
+   "proof_quote": "Power your business with optional tools RentCafe Corporate websites ScreeningWorks Pro Bill Pay",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names the screening add-on ScreeningWorks Pro.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "integrated add-ons like ScreeningWorks Pro"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Tenant screening (via ScreeningWorks Pro) is an add-on."
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "integrations",
+   "claim": "Yardi Breeze has no QuickBooks integration.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions QuickBooks.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Yardi Breeze has no open API and no QuickBooks integration at any tier"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "QuickBooks integration | ❌ | ❌"
+    }
+   ]
+  },
+  {
+   "claim_id": "C40",
+   "type": "plans",
+   "claim": "Yardi Breeze has no open API on any tier.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions an API either way.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Open API | Premium plan only | ❌"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Yardi Breeze has no open API"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Open API | Premium only | ❌"
+    }
+   ]
+  },
+  {
+   "claim_id": "C41",
+   "type": "plans",
+   "claim": "Yardi's line runs Breeze, Breeze Premier and Voyager (Breeze has two tiers).",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "View this infographic to quickly compare Breeze, Breeze Premier and Yardi Voyager features.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ compares Breeze, Breeze Premier and Yardi Voyager and describes an upgrade path from Breeze to Premier or Voyager.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "with two pricing tiers including Breeze and Breeze Premier"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Yardi's platform spans three tiers (Breeze, Breeze Premier, and Voyager)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Yardi's platform spans three tiers"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Yardi's platform spans three tiers (Breeze, Breeze Premier, and Voyager)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C42",
+   "type": "founding",
+   "claim": "Yardi has decades of industry experience.",
+   "class": "true",
+   "proof_url": "https://www.yardibreeze.com/faq/",
+   "proof_quote": "Drawing on Yardi’s 35+ years of providing leading property management software",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ cites Yardi's more than 35 years in property management software.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "backed by decades of industry experience"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "backed by decades of industry experience"
+    }
+   ]
+  },
+  {
+   "claim_id": "C43",
+   "type": "pricing",
+   "claim": "Yardi Voyager pricing is a custom quote based on portfolio size and modules.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Voyager page, read once in a real browser on 8 Oct (redirected to /suite/voyager-suite/), offers 'Book a demo' and 'Talk to sales' but states no price or pricing basis, and no Breeze page states Voyager pricing, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "Yardi Voyager pricing is custom and based on portfolio size, modules, and deployment needs"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "Yardi Voyager pricing is custom and based on portfolio size, modules, and deployment needs."
+    }
+   ]
+  },
+  {
+   "claim_id": "C44",
+   "type": "platforms",
+   "claim": "Yardi Voyager is web-based with mobile access.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Voyager Suite page read in a browser mentions mobility only for some editions (Voyager Commercial 'mobility', Voyager Condo, Co-op & HOA 'on a mobile platform', Voyager PHA 'cloud-based system'), lists the FAQ question 'Is Voyager accessible on mobile devices?' without its answer text, and never says web-based, so the claim as a whole is not settled.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "It's a web-based, fully integrated end-to-end platform with mobile access"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "It's a web-based, fully integrated end-to-end platform with mobile access"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "It is a web-based, fully integrated end-to-end platform with mobile access"
+    }
+   ]
+  },
+  {
+   "claim_id": "C45",
+   "type": "integrations",
+   "claim": "Yardi Voyager has a 450+ partner ecosystem.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Voyager Suite page read in a browser names Microsoft SharePoint and Power BI connections but gives no partner count, and no other page read does, so the 450+ figure is not settled.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "a 450+ partner ecosystem"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Yardi statements in this category are about Yardi Breeze, so Breeze was read on yardibreeze.com (the pricing URL redirects to the residential features and pricing page; the home read is the Breeze product home, not yardi.com). Five Breeze pages read, all HTTP 200 and not thin; the vendor's November 2024 pricing article settles Premier rates ($2 per unit standard, $1 only when bundled with screening and renters insurance on a 12-month contract) and the $0 ACH fee under a designated amount. The one yardi.com page tried (Yardi Voyager) returned HTTP 403 at the edge to the fetch tool; per the rules no other yardi.com URL was tried. Pass 2 (8 Oct): the Voyager page was read once in a real browser (redirected to /suite/voyager-suite/) and is no longer needed; it does not settle C43 (no pricing shown), C44 (mobility named only for some editions, FAQ answer collapsed, no web-based statement) or C45 (no partner count), so all three stay unverifiable. Pass 2 consistency check: C19 (CAM reconciliation Premier-only) and C20 (commercial needs Premier) stay wrong, each contradicted explicitly and like with like on the commercial features page and the FAQ (the Breeze home page comparison table, whose check icons are in the page HTML but not the text snapshot, also checks Automated CAM reconciliation and Owner payments and reports for both tiers); C21 (owner portals need Premier) is re-classed from wrong to unverifiable because the page shows a standard 'secure portal' for owner reports but no named owner portal, and Premier-only investor portals (Investment Manager add-on). Pass 2 completeness: the gap lines and the comparison-table cells for Yardi Breeze repeat claims already coded for the same answers (est. cost, $1 per unit, minimums, free trial, per-unit, support); not coded: the q3 Claude run 1 cell 'Unit Minimum | Varies' (non-specific; the FAQ says there is no unit minimum), 'Starting Price | Varies' (q5 Claude 2), 'eSignatures | Limited', the property-type support lists (capability lines), closed-platform characterisations and rating cells, and the q10 Google AI Overviews run 2 '$15/month' line, which is about another vendor. Cause tracing read three cited pages: bcsolut carries the Premier-only CAM statement; the relayhumancloud page rendered no text; the Buildium comparison blog did not carry the owner-portal or commercial statements. Mere name mentions of Yardi, Breeze, Premier and Voyager, positioning (best for, unit ranges), feature descriptions, ratings, market share and the closed-platform characterisations without a named product were not coded. The full answer text was read for Breeze-headed sections and the Yardi Breeze column of the q8 comparison tables, which the passages file omits.",
+ "answer_record_ids": [
+  "residential-property-management|q10|Claude|1",
+  "residential-property-management|q10|Claude|2",
+  "residential-property-management|q10|Google AI Mode|1",
+  "residential-property-management|q10|Google AI Overviews|1",
+  "residential-property-management|q10|Google AI Overviews|2",
+  "residential-property-management|q10|Google AI Overviews|3",
+  "residential-property-management|q10|Perplexity|3",
+  "residential-property-management|q2|ChatGPT|1",
+  "residential-property-management|q2|ChatGPT|2",
+  "residential-property-management|q2|ChatGPT|3",
+  "residential-property-management|q2|Claude|1",
+  "residential-property-management|q2|Claude|2",
+  "residential-property-management|q2|Claude|3",
+  "residential-property-management|q2|Google AI Mode|1",
+  "residential-property-management|q2|Google AI Mode|2",
+  "residential-property-management|q2|Google AI Mode|3",
+  "residential-property-management|q2|Google AI Overviews|2",
+  "residential-property-management|q2|Perplexity|1",
+  "residential-property-management|q2|Perplexity|2",
+  "residential-property-management|q2|Perplexity|3",
+  "residential-property-management|q3|ChatGPT|2",
+  "residential-property-management|q3|Claude|1",
+  "residential-property-management|q3|Claude|2",
+  "residential-property-management|q3|Claude|3",
+  "residential-property-management|q3|Google AI Overviews|2",
+  "residential-property-management|q4|ChatGPT|1",
+  "residential-property-management|q4|ChatGPT|3",
+  "residential-property-management|q4|Claude|1",
+  "residential-property-management|q4|Claude|2",
+  "residential-property-management|q4|Claude|3",
+  "residential-property-management|q4|Google AI Mode|1",
+  "residential-property-management|q4|Google AI Mode|2",
+  "residential-property-management|q4|Google AI Mode|3",
+  "residential-property-management|q4|Google AI Overviews|1",
+  "residential-property-management|q4|Google AI Overviews|2",
+  "residential-property-management|q4|Google AI Overviews|3",
+  "residential-property-management|q4|Perplexity|1",
+  "residential-property-management|q4|Perplexity|2",
+  "residential-property-management|q4|Perplexity|3",
+  "residential-property-management|q5|ChatGPT|1",
+  "residential-property-management|q5|ChatGPT|2",
+  "residential-property-management|q5|ChatGPT|3",
+  "residential-property-management|q5|Claude|1",
+  "residential-property-management|q5|Claude|2",
+  "residential-property-management|q5|Claude|3",
+  "residential-property-management|q5|Google AI Mode|1",
+  "residential-property-management|q5|Google AI Mode|2",
+  "residential-property-management|q5|Google AI Overviews|3",
+  "residential-property-management|q5|Perplexity|1",
+  "residential-property-management|q5|Perplexity|2",
+  "residential-property-management|q5|Perplexity|3",
+  "residential-property-management|q6|Claude|1",
+  "residential-property-management|q6|Claude|2",
+  "residential-property-management|q6|Claude|3",
+  "residential-property-management|q6|Perplexity|3",
+  "residential-property-management|q8|ChatGPT|1",
+  "residential-property-management|q8|ChatGPT|2",
+  "residential-property-management|q8|ChatGPT|3",
+  "residential-property-management|q8|Claude|1",
+  "residential-property-management|q8|Claude|2",
+  "residential-property-management|q8|Claude|3",
+  "residential-property-management|q8|Google AI Mode|1",
+  "residential-property-management|q8|Google AI Mode|2",
+  "residential-property-management|q8|Google AI Mode|3",
+  "residential-property-management|q8|Google AI Overviews|1",
+  "residential-property-management|q8|Google AI Overviews|2",
+  "residential-property-management|q8|Google AI Overviews|3",
+  "residential-property-management|q8|Perplexity|1",
+  "residential-property-management|q8|Perplexity|2",
+  "residential-property-management|q8|Perplexity|3",
+  "residential-property-management|q9|Google AI Overviews|3"
+ ],
+ "named_count": 71
+}

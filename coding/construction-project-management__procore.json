@@ -1,0 +1,1479 @@
+{
+ "vendor": "Procore",
+ "slug": "procore",
+ "category": "construction-project-management",
+ "coded_at": "2026-10-08T04:23:07Z",
+ "pages_read": [
+  {
+   "url": "https://www.procore.com/",
+   "key": "77b0cac63e8dd943",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.procore.com/pricing",
+   "key": "62ad1a021f6b9fc5",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.procore.com/about",
+   "key": "97347597f2bb1b9a",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.procore.com/platform",
+   "key": "1b028445b24c3d9b",
+   "used_for": "product (platform)"
+  },
+  {
+   "url": "https://www.procore.com/subcontractors",
+   "key": "a7dd1457e3ecddb9",
+   "used_for": "product (subcontractors)"
+  },
+  {
+   "url": "https://www.procore.com/accounting-integrations",
+   "key": "b3cf5491e11964be",
+   "used_for": "integrations (accounting)"
+  },
+  {
+   "url": "https://marketplace.procore.com/",
+   "key": "2bd1e3ca64b0c911",
+   "used_for": "integrations directory (thin)"
+  },
+  {
+   "url": "https://marketplace.procore.com/apps/procore-built-sage-300-cre-connector",
+   "key": "c26aa88ce9385ee2",
+   "used_for": "individual integration page (thin)"
+  },
+  {
+   "url": "https://projul.com/competitors/procore-vs-buildertrend/",
+   "key": "ff61b0349b521522",
+   "used_for": "cause check (C09)"
+  },
+  {
+   "url": "https://pmspace.ai/compare/procore-vs-buildertrend/",
+   "key": "373e98fdb456c0b7",
+   "used_for": "cause check (C10)"
+  },
+  {
+   "url": "https://fieldservicesoftware.io/comparisons/procore-vs-buildertrend/",
+   "key": "fdd118f22befbc18",
+   "used_for": "cause check (C10), does not carry the claim"
+  },
+  {
+   "url": "https://marketplace.procore.com/",
+   "key": "2bd1e3ca64b0c911.browser",
+   "used_for": "pass 2 browser read of the marketplace directory (spotlight apps only)"
+  },
+  {
+   "url": "https://marketplace.procore.com/apps/procore-built-sage-300-cre-connector",
+   "key": "c26aa88ce9385ee2.browser",
+   "used_for": "pass 2 browser read of the Sage 300 CRE connector listing"
+  },
+  {
+   "url": "https://marketplace.procore.com/apps/procore-built-viewpoint-vista-connector-c61526c9-7d8a-490c-9e8a-fdee68af02b2",
+   "key": "9736f16b29dae77c",
+   "used_for": "pass 2 second individual integration page (Viewpoint Vista connector; thin, title only)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Procore pricing is custom (quote based); no standard price is published.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/pricing",
+   "proof_quote": "Start here to get a custom quote.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no dollar figures and directs buyers to a custom quote.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "Custom annual quote, generally based on selected products and annual construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|2",
+     "quote": "| Procore | Full-featured PM, multi-project GCs | Custom (premium) |"
+    },
+    {
+     "record_id": "construction-project-management|q2|Google AI Mode|1",
+     "quote": "It is quote-based and priced on your annual construction volume (ACV)"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "Procore: Custom annual quote; its standard pricing model includes unlimited users"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|2",
+     "quote": "Custom annual pricing, generally based on products and annual construction volume"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Custom annual pricing depends on products and construction volume—not simply seats."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|1",
+     "quote": "Procore doesn't publish a flat price because its plans are customized"
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Procore does not publish fixed pricing"
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "Custom annual pricing based on products and annual construction volume; unlimited users are included."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "Custom annual pricing based on products and construction volume, with unlimited users for most products."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|3",
+     "quote": "Custom pricing, with contracts tied to selected products and construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|1",
+     "quote": "Enterprise platforms like Procore typically start at $10,000 per year with custom quotes."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|2",
+     "quote": "Enterprise platforms like Procore typically start at $10,000 per year with custom quotes."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|3",
+     "quote": "Pricing typically starts at $10,000 per year with custom quotes."
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|1",
+     "quote": "pricing is customized, with unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q6|Claude|2",
+     "quote": "| Procore | Large GCs, full project controls | Custom/Enterprise |"
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|2",
+     "quote": "Custom annual pricing based on the products you buy and annual construction volume, with unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|3",
+     "quote": "Neither currently publishes a simple standard dollar price on its official pricing page."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "then get a custom quote based on your annual construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "Procore does not publish standard pricing."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|2",
+     "quote": "Procore: Pricing is custom, opaque, and tied to your annual construction volume/revenue rather than a flat user seat rate."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|1",
+     "quote": "Pricing model: Custom, annual enterprise quotes that typically start at $20,000+ per year, often scaled by your annual construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|3",
+     "quote": "Pricing: Custom, quote-based enterprise pricing that typically starts at $20,000+ per year, scaling heavily based on your annual construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|3",
+     "quote": "you now have to get a custom quote, similar to Procore."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|1",
+     "quote": "You can request a tailored quote via Procore Pricing and Demo."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Procore pricing is based on annual construction volume (ACV).",
+   "class": "true",
+   "proof_url": "https://www.procore.com/pricing",
+   "proof_quote": "We charge an upfront annual fee by product and based upon your Annual Construction Volume (ACV) - the aggregate dollar value of the construction work across your projects.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ states that the fee is based on Annual Construction Volume.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|1",
+     "quote": "pricing depends on products and annual construction volume, rather than user count."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "Pricing depends on selected products and construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "Custom annual quote, generally based on selected products and annual construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "Procore is priced by annual construction volume with unlimited users"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Procore is priced by annual construction volume with unlimited users"
+    },
+    {
+     "record_id": "construction-project-management|q2|Google AI Mode|1",
+     "quote": "It is quote-based and priced on your annual construction volume (ACV)"
+    },
+    {
+     "record_id": "construction-project-management|q2|Google AI Mode|2",
+     "quote": "It is expensive and priced on annual construction volume (ACV)"
+    },
+    {
+     "record_id": "construction-project-management|q2|Google AI Overviews|2",
+     "quote": "it sits at a higher price point that scales based on your annual construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q2|Google AI Overviews|3",
+     "quote": "High cost model scaled on annual construction volume (ACV)"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "pricing depends on products and annual construction volume, rather than a simple monthly seat price."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|2",
+     "quote": "Custom annual pricing, generally based on products and annual construction volume"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Custom annual pricing depends on products and construction volume—not simply seats."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "industry reports place annual contracts between $10,000 and $50,000+ depending on volume."
+    },
+    {
+     "record_id": "construction-project-management|q4|Google AI Overviews|1",
+     "quote": "as Procore bases its pricing on annual construction volume rather than per-user counts"
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "Custom annual pricing based on products and annual construction volume; unlimited users are included."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "Custom annual pricing based on products and construction volume, with unlimited users for most products."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|3",
+     "quote": "Custom pricing, with contracts tied to selected products and construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|2",
+     "quote": "pricing is based on products and annual construction volume rather than a simple per-seat fee."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|1",
+     "quote": "Procore charges an upfront annual fee based on selected products and annual construction volume"
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|2",
+     "quote": "Custom annual pricing based on the products you buy and annual construction volume, with unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|3",
+     "quote": "An upfront annual fee based on selected products and annual construction volume; includes unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "then get a custom quote based on your annual construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "Your cost depends on your Annual Construction Volume — the total dollar value of construction work your company manages per year."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "You pay based on your annual construction volume, so as your revenue grows, your Procore bill grows with it."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|1",
+     "quote": "Procore: Priced on your annual construction volume (total revenue running through the software) rather than per user."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|2",
+     "quote": "Procore: Pricing is custom, opaque, and tied to your annual construction volume/revenue rather than a flat user seat rate."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|1",
+     "quote": "often scaled by your annual construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|3",
+     "quote": "scaling heavily based on your annual construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q10|Google AI Overviews|3",
+     "quote": "without Procore's enterprise complexity or volume-based pricing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Procore pricing depends on the products (modules) bought; modules such as preconstruction and financial management are paid for separately.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/pricing",
+   "proof_quote": "Pricing for Procore depends on the products you need and the amount of construction you do.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says price depends on the products bought and that the annual fee is charged by product, which buyers pick and choose; it does not list which product holds which tool, so the named module examples are read as examples of this by-product pricing.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|1",
+     "quote": "pricing depends on products and annual construction volume, rather than user count."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "Pricing depends on selected products and construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "Custom annual quote, generally based on selected products and annual construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "Mid-size GCs typically pay between $10,000 and $60,000+ per year depending on annual construction volume and modules selected."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Mid-size GCs typically pay between $10,000 and $60,000+ per year depending on annual construction volume and modules."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "pricing depends on products and annual construction volume, rather than a simple monthly seat price."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|2",
+     "quote": "Custom annual pricing, generally based on products and annual construction volume"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Custom annual pricing depends on products and construction volume—not simply seats."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "Custom annual pricing based on products and annual construction volume; unlimited users are included."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "Custom annual pricing based on products and construction volume, with unlimited users for most products."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|3",
+     "quote": "Custom pricing, with contracts tied to selected products and construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|2",
+     "quote": "pricing is based on products and annual construction volume rather than a simple per-seat fee."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|1",
+     "quote": "Procore charges an upfront annual fee based on selected products and annual construction volume"
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|2",
+     "quote": "Custom annual pricing based on the products you buy and annual construction volume, with unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|3",
+     "quote": "An upfront annual fee based on selected products and annual construction volume; includes unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "The core platform covers project management, but preconstruction (estimating, bid management) and financial management (job costing, budgets, invoicing) are separate paid modules"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "Procore uses a modular pricing structure where preconstruction and financial management are separate paid modules."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Procore is sold on an annual contract with an upfront annual fee.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/pricing",
+   "proof_quote": "We charge an upfront annual fee by product and based upon your Annual Construction Volume (ACV)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ states that Procore charges an upfront annual fee, and the page refers to every annual contract.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "Custom annual quote, generally based on selected products and annual construction volume."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "Procore: Custom annual quote; its standard pricing model includes unlimited users"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|2",
+     "quote": "Custom annual pricing, generally based on products and annual construction volume"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Custom annual pricing depends on products and construction volume—not simply seats."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "Custom annual pricing based on products and annual construction volume; unlimited users are included."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "Custom annual pricing based on products and construction volume, with unlimited users for most products."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|1",
+     "quote": "Procore charges an upfront annual fee based on selected products and annual construction volume"
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|2",
+     "quote": "Custom annual pricing based on the products you buy and annual construction volume, with unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|3",
+     "quote": "An upfront annual fee based on selected products and annual construction volume; includes unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|1",
+     "quote": "locking you into a hefty annual commitment."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|1",
+     "quote": "Pricing model: Custom, annual enterprise quotes that typically start at $20,000+ per year"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Procore does not price per user or per seat.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/",
+   "proof_quote": "Procore provides volume-based pricing tailored to your annual construction volume. This model gives your entire team unlimited user access to the platform without charging per-seat licensing fees.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page FAQ states that Procore does not charge per-seat licensing fees.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|1",
+     "quote": "pricing depends on products and annual construction volume, rather than user count."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "pricing depends on products and annual construction volume, rather than a simple monthly seat price."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Custom annual pricing depends on products and construction volume—not simply seats."
+    },
+    {
+     "record_id": "construction-project-management|q4|Google AI Overviews|1",
+     "quote": "as Procore bases its pricing on annual construction volume rather than per-user counts"
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|2",
+     "quote": "pricing is based on products and annual construction volume rather than a simple per-seat fee."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|1",
+     "quote": "Procore: Priced on your annual construction volume (total revenue running through the software) rather than per user."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|2",
+     "quote": "tied to your annual construction volume/revenue rather than a flat user seat rate."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "plans",
+   "claim": "Procore includes unlimited users.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/pricing",
+   "proof_quote": "Unlimited Users Grow your team and collaborate as much as you need. We'll never charge you for adding more users to Procore.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists unlimited users as included in every contract (the one exception, Field Productivity, is priced by FTE, which matches the answer that says most products).",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|1",
+     "quote": "Unlimited users are included."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "Broad project controls, mobile/offline field tools, accounting integrations, and unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "unlimited users supports broad project-team participation."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "Procore is priced by annual construction volume with unlimited users"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Procore is priced by annual construction volume with unlimited users"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "its standard pricing model includes unlimited users"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Offers selectable construction-management products and an unlimited-user model for collaboration."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "unlimited users are included."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "with unlimited users for most products."
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|1",
+     "quote": "pricing is customized, with unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|3",
+     "quote": "Its pricing includes unlimited users, but don’t assume that makes it cheaper for your business."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|1",
+     "quote": "with unlimited users included."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|2",
+     "quote": "Custom annual pricing based on the products you buy and annual construction volume, with unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|3",
+     "quote": "An upfront annual fee based on selected products and annual construction volume; includes unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|1",
+     "quote": "Procore: Offers unlimited users, which sounds great"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Field Productivity is priced separately, per FTE, outside the standard unlimited-user model.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/pricing",
+   "proof_quote": "*Excludes the Field Productivity product, which is priced based on FTE.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page footnote excludes Field Productivity from the standard model and says it is priced based on FTE.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "with a separate pricing basis for Field Productivity."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|2",
+     "quote": "Field Productivity has a separate FTE-based model."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Field Productivity has a separate FTE-based pricing exception."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Subcontractors can use Procore free of charge (free subcontractor access).",
+   "class": "true",
+   "proof_url": "https://www.procore.com/pricing",
+   "proof_quote": "With Procore, you have unlimited users, including not just your employees, but all other collaborators like clients, subcontractors, and vendors.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page includes subcontractors among the unlimited users a customer's contract covers at no extra charge.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "| Sub Portal (Free) | ✅ | ✅ |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Procore has no pricing page on its website.",
+   "class": "wrong",
+   "proof_url": "https://www.procore.com/pricing",
+   "proof_quote": "How much does Procore cost? Pricing for Procore depends on the products you need and the amount of construction you do.",
+   "stale_change": null,
+   "causing_url": "https://projul.com/competitors/procore-vs-buildertrend/",
+   "causing_type": "other",
+   "causing_quote": "Procore hides its pricing entirely. Its pricing page lists no prices. You fill out a form, wait for a sales rep to call, sit through a demo, and then get a custom quote based on your annual construction volume.",
+   "rationale": "Procore has a pricing page (procore.com/pricing, titled Plans and Pricing) that explains how it prices; it lists no dollar figures, which is true, but the page exists. The cited competitor comparison carries the same passage, saying the pricing page lists no prices, and the answer turned that into no pricing page. Pass 2 check: the contradiction is the vendor's own page itself, like with like (whether a pricing page exists).",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "Procore hides its pricing entirely — there is no pricing page on their website."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Procore is priced per user.",
+   "class": "wrong",
+   "proof_url": "https://www.procore.com/pricing",
+   "proof_quote": "We'll never charge you for adding more users to Procore.",
+   "stale_change": null,
+   "causing_url": "https://pmspace.ai/compare/procore-vs-buildertrend/",
+   "causing_type": "other",
+   "causing_quote": "Procore is designed for large commercial construction with enterprise features and per-user pricing ($375+/user/month).",
+   "rationale": "The pricing page states that Procore never charges for adding users and prices by product and construction volume; the cited comparison page states per-user pricing. Pass 2 check: like with like on the price basis; the only per-head exception the page names is Field Productivity (priced by FTE), which does not make Procore per-user priced.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|2",
+     "quote": "Per-user/percentage of revenue ($20,000+/year)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Procore pricing is revenue based (a share of the customer's revenue).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page bases the fee on Annual Construction Volume, the dollar value of construction work across projects; it does not say the fee is based on or a percentage of revenue, so the claim is neither confirmed nor contradicted.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q4|Google AI Overviews|3",
+     "quote": "Reviewers note it provides a more affordable pricing structure than Procore's revenue-based model."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|2",
+     "quote": "Per-user/percentage of revenue ($20,000+/year)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "Procore plans are customized on company size, number of projects and feature requirements.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names products and construction volume as the price drivers; it does not name company size or project count, so this basis is not settled.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|1",
+     "quote": "its plans are customized based on the size of your company, number of projects, and feature requirements"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Procore pricing starts at about $10,000 per year.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages publish no dollar prices.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "| Procore | Large commercial subcontractors | ~$10K+/year |"
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|1",
+     "quote": "Enterprise platforms like Procore typically start at $10,000 per year with custom quotes."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|2",
+     "quote": "Enterprise platforms like Procore typically start at $10,000 per year with custom quotes."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|3",
+     "quote": "Pricing typically starts at $10,000 per year with custom quotes."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Procore annual contracts run between $10,000 and $50,000+ depending on volume.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages publish no dollar prices.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "industry reports place annual contracts between $10,000 and $50,000+ depending on volume."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Mid-size general contractors pay between $10,000 and $60,000+ per year for Procore.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages publish no dollar prices.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "Mid-size GCs typically pay between $10,000 and $60,000+ per year depending on annual construction volume and modules selected."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Mid-size GCs typically pay between $10,000 and $60,000+ per year depending on annual construction volume and modules."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "Procore pricing typically starts at $20,000 or more per year.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages publish no dollar prices.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|1",
+     "quote": "Pricing model: Custom, annual enterprise quotes that typically start at $20,000+ per year"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|2",
+     "quote": "Procore is an enterprise-grade investment that usually starts upwards of $20,000 per year"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|3",
+     "quote": "Pricing: Custom, quote-based enterprise pricing that typically starts at $20,000+ per year"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "Procore's minimum annual cost often starts around $4,500 to $10,000+.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages publish no dollar prices or minimums.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|1",
+     "quote": "Procore usually has a high minimum annual floor (often starting around $4,500 to $10,000+ per year for small setups, scaling quickly past $20,000+)"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|2",
+     "quote": "Minimum annual costs for Procore often start around $4,500 to $10,000+"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "A small general contractor should budget roughly $600 to $1,200 per month for Procore.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages publish no dollar prices.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "Budget roughly $600–$1,200/month for a small GC."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "For a residential contractor doing $1M to $5M a year, a Procore quote starts around $375 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages publish no dollar prices.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "For a residential contractor doing $1M–$5M annually, the floor for a Procore quote typically starts around $375/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "pricing",
+   "claim": "Procore typically costs $15,000 to $30,000 per year for small general contractors ($10M to $50M ACV).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages publish no dollar prices.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "Procore's typical cost ranges from $15,000–$30,000/year for small GCs ($10–50M ACV)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "Procore typically costs $30,000 to $80,000 per year for mid-size general contractors.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages publish no dollar prices.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "and $30,000–$80,000/year for mid-size GCs"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "pricing",
+   "claim": "Procore implementation typically adds $50,000 to $150,000+ in the first year.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page mentions implementation services but gives no prices for them.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "with implementation typically adding $50,000–$150,000+ in the first year."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "pricing",
+   "claim": "Contractors report Procore renewal price increases of 5% to 14%.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages give no renewal rates (the pricing page offers renewal rate protection as a deal option but states no increase figures).",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q4|Claude|1",
+     "quote": "Contractors report renewal price hikes of 5% to 14%, with one long-term Procore customer documenting their effective rate doubling over several years."
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|2",
+     "quote": "Contractors also report renewal price hikes of 5% to 14%, with one long-term customer documenting their effective rate doubling over several years."
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "pricing",
+   "claim": "Contractors report Procore renewal increases of 10% to 20% a year.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages give no renewal rates.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "Procore renewal price increases are common — multiple contractors report 10–20% annual increases once they are locked into the platform."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "pricing",
+   "claim": "Procore moved to custom, volume-based pricing in 2026.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages confirm custom, volume-based pricing today but carry no date for when it was introduced, so the 2026 timing is not settled.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "Both platforms have moved to custom/volume-based pricing in 2026"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "plans",
+   "claim": "Procore offers a subcontractor tier (subcontractor-focused tiers).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The subcontractors page describes products for specialty contractors and use through a general contractor's account but names no subcontractor tier or plan; the pricing page lists no tiers.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Google AI Mode|2",
+     "quote": "Procore (Subcontractor-focused tiers) — Best for enterprise-level or heavy commercial subs."
+    },
+    {
+     "record_id": "construction-project-management|q3|Google AI Mode|3",
+     "quote": "Procore (Subcontractor Tier) — Best for heavy collaboration with major GCs."
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "product_names",
+   "claim": "Procore offers a product named Procore AI, with AI agents.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/",
+   "proof_quote": "Procore AI Scale team capacity with construction-native AI agents that automate the busywork",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page presents Procore AI as a named offering built on construction-native AI agents (it does not use the word Copilot, which is not needed to settle the name).",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "its Procore AI adds a Copilot and agents across the workflow."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "its Procore AI adds a Copilot and agents across the workflow."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Procore AI deploys AI agents that can plan and execute detailed construction workflows"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "integrations",
+   "claim": "Procore integrates with Sage 300 CRE.",
+   "class": "true",
+   "proof_url": "https://marketplace.procore.com/apps/procore-built-sage-300-cre-connector",
+   "proof_quote": "Procore is the only comprehensive cloud-based construction project management platform with an out-of-the-box integration with Sage 300 CRE.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of Procore's own marketplace listing for its Sage 300 CRE connector states an out-of-the-box Sage 300 CRE integration built and supported by Procore.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "Procore connects deeply to construction-specific accounting systems like Sage 300 CRE, Viewpoint Vista, and Acumatica."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|2",
+     "quote": "Procore connects deeply to construction-specific accounting systems like Sage 300 CRE, Viewpoint Vista, and Acumatica."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Procore connects deeply to construction-specific accounting systems like Sage 300 CRE, Viewpoint Vista, and Acumatica."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|2",
+     "quote": "it connects to construction-specific accounting systems like Sage 300 CRE, Viewpoint Vista, and Acumatica"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "integrations",
+   "claim": "Procore integrates with Viewpoint Vista.",
+   "class": "true",
+   "proof_url": "https://marketplace.procore.com/apps/procore-built-viewpoint-vista-connector-c61526c9-7d8a-490c-9e8a-fdee68af02b2",
+   "proof_quote": "Procore-built Viewpoint Vista™ connector",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Procore's own marketplace carries a live listing titled 'Procore-built Viewpoint Vista™ connector' (read once in pass 2 as the second individual integration page); the snapshot is thin and carries only that title, which names the integration.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "Procore connects deeply to construction-specific accounting systems like Sage 300 CRE, Viewpoint Vista, and Acumatica."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|2",
+     "quote": "Procore connects deeply to construction-specific accounting systems like Sage 300 CRE, Viewpoint Vista, and Acumatica."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Procore connects deeply to construction-specific accounting systems like Sage 300 CRE, Viewpoint Vista, and Acumatica."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|2",
+     "quote": "it connects to construction-specific accounting systems like Sage 300 CRE, Viewpoint Vista, and Acumatica"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "integrations",
+   "claim": "Procore integrates with Acumatica.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/accounting-integrations",
+   "proof_quote": "Oracle NetSuite Quickbooks Connector Sage Viewpoint® Spectrum® Workday Yardi MRI Acumatica",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The accounting integrations page lists Acumatica among its accounting integrations.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "Procore connects deeply to construction-specific accounting systems like Sage 300 CRE, Viewpoint Vista, and Acumatica."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|2",
+     "quote": "Procore connects deeply to construction-specific accounting systems like Sage 300 CRE, Viewpoint Vista, and Acumatica."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Procore connects deeply to construction-specific accounting systems like Sage 300 CRE, Viewpoint Vista, and Acumatica."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|2",
+     "quote": "it connects to construction-specific accounting systems like Sage 300 CRE, Viewpoint Vista, and Acumatica"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "integrations",
+   "claim": "Procore integrates with QuickBooks.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/accounting-integrations",
+   "proof_quote": "Quickbooks Connector",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The accounting integrations page lists a QuickBooks connector.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q6|Google AI Overviews|3",
+     "quote": "extensive third-party integrations (accounting tools like Sage and QuickBooks)"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "| QuickBooks/Xero Integration | ✅ | ✅ |"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "| QuickBooks Integration | ✅ | ✅ |"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "| QuickBooks/Xero Integration | ✅ | ⚠️ Requires add-ons |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "integrations",
+   "claim": "Procore integrates with Xero.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/accounting-integrations",
+   "proof_quote": "Xero with OneCore Generate invoices, update payments, and auto populate costs incurred into your project as and when they occur.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The accounting integrations page lists partner-built Xero integrations.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "| QuickBooks/Xero Integration | ✅ | ✅ |"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "| QuickBooks/Xero Integration | ✅ | ⚠️ Requires add-ons |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "integrations",
+   "claim": "Procore integrates with Sage.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/accounting-integrations",
+   "proof_quote": "Oracle NetSuite Quickbooks Connector Sage Viewpoint® Spectrum®",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The accounting integrations page lists Sage among its accounting integrations.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q6|Google AI Overviews|3",
+     "quote": "extensive third-party integrations (accounting tools like Sage and QuickBooks)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "integrations",
+   "claim": "Procore offers hundreds of integrations.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/platform",
+   "proof_quote": "Access 500+ integrations in Procore to manage tools and data seamlessly without disrupting workflows.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The platform page states 500+ integrations, which is hundreds.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q6|Claude|1",
+     "quote": "offers hundreds of integrations that connect it to your existing construction tech stack."
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "integrations",
+   "claim": "Procore's app marketplace has over 400 integrations.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/platform",
+   "proof_quote": "Tap into 500+ integrations and apps you love working with",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The platform page states 500+ integrations; over 400 is true as written as a lower bound.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q6|Google AI Overviews|2",
+     "quote": "a massive app marketplace with over 400 integrations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "platforms",
+   "claim": "Procore is cloud based.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/pricing",
+   "proof_quote": "Cloud-based Platform Ditch on-premise servers. Procore's cloud-based infrastructure will help you grow wherever you go.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page describes Procore as a cloud-based platform.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Google AI Overviews|2",
+     "quote": "It centralizes RFIs, submittals, daily logs, and real-time budget tracking in a single cloud platform."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|1",
+     "quote": "Procore is a cloud-based construction management platform"
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|2",
+     "quote": "Procore is a cloud-based construction management platform"
+    },
+    {
+     "record_id": "construction-project-management|q6|Claude|3",
+     "quote": "its cloud-based platform ensures real-time access to project data from anywhere."
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "platforms",
+   "claim": "Procore has mobile apps (mobile access for field teams).",
+   "class": "true",
+   "proof_url": "https://www.procore.com/subcontractors",
+   "proof_quote": "Procore has mobile apps for both Android and iOS that let you access and manage your projects from anywhere.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The subcontractors page FAQ states that Procore has mobile apps for Android and iOS.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "Broad project controls, mobile/offline field tools, accounting integrations, and unlimited users."
+    },
+    {
+     "record_id": "construction-project-management|q2|Google AI Mode|1",
+     "quote": "its mobile app allows superintendents to update site progress instantly."
+    },
+    {
+     "record_id": "construction-project-management|q2|Google AI Overviews|1",
+     "quote": "Key features: Real-time budget tracking, robust RFI/submittal tracking, blueprint/BIM mobile viewing, and subcontractor management."
+    },
+    {
+     "record_id": "construction-project-management|q2|Google AI Overviews|3",
+     "quote": "Strong mobile app for field crews."
+    },
+    {
+     "record_id": "construction-project-management|q6|Claude|1",
+     "quote": "features a mobile app that lets field teams capture data, submit reports, and pull project info in real time"
+    },
+    {
+     "record_id": "construction-project-management|q6|Google AI Overviews|1",
+     "quote": "financial tracking, and robust mobile access"
+    },
+    {
+     "record_id": "construction-project-management|q6|Google AI Overviews|3",
+     "quote": "and robust mobile functionality for field teams."
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "customer_counts",
+   "claim": "Procore's subcontractor network has over 1.6 million connected companies.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the vendor pages read states a count of connected companies (they give 3M users and 3M+ projects, which do not settle a company count).",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|1",
+     "quote": "Procore offers a large subcontractor network with over 1.6 million connected companies on its platform"
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|2",
+     "quote": "Procore also offers a large subcontractor network with over 1.6 million connected companies on its platform"
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Procore offers a large subcontractor network with over 1.6 million connected companies on its platform"
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "customer_counts",
+   "claim": "Procore's user community has more than 40,000 professionals.",
+   "class": "true",
+   "proof_url": "https://www.procore.com/pricing",
+   "proof_quote": "Procore Community Connect with an online community of 40k+ peers in your region or role and see how others are using Procore.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states an online community of 40k+ peers.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "Procore backs its platform with a user community of more than 40,000 professionals"
+    }
+   ]
+  }
+ ],
+ "notes": "Pass 1: eight own pages read, all HTTP 200; the App Marketplace directory renders by script and its fetch snapshot is thin, as was the one individual integration page tried (Sage 300 CRE). Three cited pages were read for causes: projul.com (C09) and pmspace.ai (C10) carry the statements; fieldservicesoftware.io does not carry C10. C03 merges plain products-based pricing with the 'separate paid modules' lines, because the pricing page charges by product. Hedged lines (for example 'can come with a heavy six-figure annual price tag', 'could easily hit $30,000 to $40,000/year') were not coded; name mentions such as 'Procore Platform' and review ratings were not coded. Pass 2 (8 Oct): both pages in needs_browser_read were read once in a real browser. The Sage 300 CRE listing settles C28 (now true). The marketplace directory browser snapshot shows only five spotlight apps, so it settles nothing. Under the clarification's two-integration-page allowance, the Procore-built Viewpoint Vista connector listing (its URL taken from the already-read marketplace HTML) was fetched once, the 13th of 14 reads; it is thin but carries the listing title, so C29 is now true. Consistency check: C09 (no pricing page) and C10 (per-user pricing) stay wrong; both contradictions are on procore.com/pricing and compare like with like. Added: the q7 Google AI Mode 1 'tailored quote' line to C01 and the q7 Claude 3 table cell 'QuickBooks/Xero Integration ... Requires add-ons' to C31 and C32; other gap and table lines are already covered from the same answers (C01, C02, C03, C13) or out of scope (fit, features, other vendors). Reviewer: look first at C29, which rests on a thin snapshot carrying only the listing title.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "construction-project-management|q1|Google AI Mode|1",
+  "construction-project-management|q1|Google AI Mode|2",
+  "construction-project-management|q1|Google AI Mode|3",
+  "construction-project-management|q10|ChatGPT|1",
+  "construction-project-management|q10|ChatGPT|2",
+  "construction-project-management|q10|Claude|1",
+  "construction-project-management|q10|Claude|2",
+  "construction-project-management|q10|Claude|3",
+  "construction-project-management|q10|Google AI Mode|1",
+  "construction-project-management|q10|Google AI Mode|2",
+  "construction-project-management|q10|Google AI Mode|3",
+  "construction-project-management|q10|Google AI Overviews|1",
+  "construction-project-management|q10|Google AI Overviews|2",
+  "construction-project-management|q10|Google AI Overviews|3",
+  "construction-project-management|q10|Perplexity|1",
+  "construction-project-management|q10|Perplexity|2",
+  "construction-project-management|q10|Perplexity|3",
+  "construction-project-management|q2|ChatGPT|1",
+  "construction-project-management|q2|ChatGPT|2",
+  "construction-project-management|q2|ChatGPT|3",
+  "construction-project-management|q2|Claude|1",
+  "construction-project-management|q2|Claude|2",
+  "construction-project-management|q2|Claude|3",
+  "construction-project-management|q2|Google AI Mode|1",
+  "construction-project-management|q2|Google AI Mode|2",
+  "construction-project-management|q2|Google AI Mode|3",
+  "construction-project-management|q2|Google AI Overviews|1",
+  "construction-project-management|q2|Google AI Overviews|2",
+  "construction-project-management|q2|Google AI Overviews|3",
+  "construction-project-management|q2|Perplexity|1",
+  "construction-project-management|q2|Perplexity|2",
+  "construction-project-management|q2|Perplexity|3",
+  "construction-project-management|q3|ChatGPT|1",
+  "construction-project-management|q3|ChatGPT|2",
+  "construction-project-management|q3|ChatGPT|3",
+  "construction-project-management|q3|Claude|1",
+  "construction-project-management|q3|Claude|2",
+  "construction-project-management|q3|Claude|3",
+  "construction-project-management|q3|Google AI Mode|1",
+  "construction-project-management|q3|Google AI Mode|2",
+  "construction-project-management|q3|Google AI Mode|3",
+  "construction-project-management|q3|Google AI Overviews|1",
+  "construction-project-management|q3|Google AI Overviews|3",
+  "construction-project-management|q3|Perplexity|1",
+  "construction-project-management|q3|Perplexity|2",
+  "construction-project-management|q3|Perplexity|3",
+  "construction-project-management|q4|ChatGPT|1",
+  "construction-project-management|q4|ChatGPT|2",
+  "construction-project-management|q4|ChatGPT|3",
+  "construction-project-management|q4|Claude|1",
+  "construction-project-management|q4|Claude|2",
+  "construction-project-management|q4|Claude|3",
+  "construction-project-management|q4|Google AI Mode|1",
+  "construction-project-management|q4|Google AI Mode|2",
+  "construction-project-management|q4|Google AI Mode|3",
+  "construction-project-management|q4|Google AI Overviews|1",
+  "construction-project-management|q4|Google AI Overviews|2",
+  "construction-project-management|q4|Google AI Overviews|3",
+  "construction-project-management|q4|Perplexity|1",
+  "construction-project-management|q4|Perplexity|2",
+  "construction-project-management|q4|Perplexity|3",
+  "construction-project-management|q5|ChatGPT|1",
+  "construction-project-management|q5|ChatGPT|2",
+  "construction-project-management|q5|ChatGPT|3",
+  "construction-project-management|q5|Claude|1",
+  "construction-project-management|q5|Claude|2",
+  "construction-project-management|q5|Claude|3",
+  "construction-project-management|q5|Google AI Mode|1",
+  "construction-project-management|q5|Google AI Mode|2",
+  "construction-project-management|q5|Google AI Mode|3",
+  "construction-project-management|q5|Google AI Overviews|1",
+  "construction-project-management|q5|Google AI Overviews|2",
+  "construction-project-management|q5|Google AI Overviews|3",
+  "construction-project-management|q5|Perplexity|1",
+  "construction-project-management|q5|Perplexity|2",
+  "construction-project-management|q5|Perplexity|3",
+  "construction-project-management|q6|ChatGPT|1",
+  "construction-project-management|q6|ChatGPT|2",
+  "construction-project-management|q6|ChatGPT|3",
+  "construction-project-management|q6|Claude|1",
+  "construction-project-management|q6|Claude|2",
+  "construction-project-management|q6|Claude|3",
+  "construction-project-management|q6|Google AI Mode|1",
+  "construction-project-management|q6|Google AI Mode|2",
+  "construction-project-management|q6|Google AI Mode|3",
+  "construction-project-management|q6|Google AI Overviews|1",
+  "construction-project-management|q6|Google AI Overviews|2",
+  "construction-project-management|q6|Google AI Overviews|3",
+  "construction-project-management|q6|Perplexity|1",
+  "construction-project-management|q6|Perplexity|2",
+  "construction-project-management|q6|Perplexity|3",
+  "construction-project-management|q7|ChatGPT|1",
+  "construction-project-management|q7|ChatGPT|2",
+  "construction-project-management|q7|ChatGPT|3",
+  "construction-project-management|q7|Claude|1",
+  "construction-project-management|q7|Claude|2",
+  "construction-project-management|q7|Claude|3",
+  "construction-project-management|q7|Google AI Mode|1",
+  "construction-project-management|q7|Google AI Mode|2",
+  "construction-project-management|q7|Google AI Overviews|1",
+  "construction-project-management|q7|Google AI Overviews|2",
+  "construction-project-management|q7|Google AI Overviews|3",
+  "construction-project-management|q7|Perplexity|1",
+  "construction-project-management|q7|Perplexity|2",
+  "construction-project-management|q7|Perplexity|3",
+  "construction-project-management|q9|ChatGPT|1",
+  "construction-project-management|q9|ChatGPT|2",
+  "construction-project-management|q9|ChatGPT|3",
+  "construction-project-management|q9|Google AI Overviews|3"
+ ],
+ "named_count": 109
+}

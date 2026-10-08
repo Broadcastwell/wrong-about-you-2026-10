@@ -1,0 +1,869 @@
+{
+ "vendor": "nCino",
+ "slug": "ncino",
+ "category": "loan-origination-software",
+ "coded_at": "2026-10-08T04:16:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.ncino.com/",
+   "key": "29977c1d0db3c4fc",
+   "used_for": "home (HTTP 429, Vercel Security Checkpoint, no page text). Pass 2: read once in a real browser on 8 Oct (platform overview, customer count, solution list)"
+  },
+  {
+   "url": "https://www.ncino.com/our-platform",
+   "key": "f22090ae52a646bd",
+   "used_for": "platform (HTTP 429, Vercel Security Checkpoint, no page text). Pass 2: read once in a real browser on 8 Oct; used for C07 (nCino Mortgage Suite)"
+  },
+  {
+   "url": "https://investor.ncino.com/news-releases/news-release-details/ncino-and-salesforce-expand-strategic-partnership-further",
+   "key": "da4dde3e11f38a86",
+   "used_for": "press, Salesforce partnership (network timeout, no response). Pass 2: read once in a real browser on 8 Oct; used for C02 and C03"
+  },
+  {
+   "url": "https://investor.ncino.com/node/13891/html",
+   "key": "8e9e51b7d6afd7b9",
+   "used_for": "investor filing, company facts (network timeout, no response). Pass 2: read once in a real browser on 8 Oct (Form 10-K for the fiscal year ended 31 Jan 2026, text truncated at 50,000 characters); used for C01, C04, C08 and C16"
+  },
+  {
+   "url": "https://www.ncino.com/solutions/commercial-lending",
+   "key": "738ee47fe7489de2",
+   "used_for": "commercial lending product page (pass 2: read once in a real browser on 8 Oct); used for C09"
+  },
+  {
+   "url": "https://www.ncino.com/essentials",
+   "key": "fe8c1c5799d85a00",
+   "used_for": "Essentials page (pass 2: read once in a real browser on 8 Oct; redirected to /credit-unions, which names no Essentials package)"
+  },
+  {
+   "url": "https://www.ncino.com/solutions/lending",
+   "key": "5f58359d8cb40ede",
+   "used_for": "lending solutions page (pass 2: read once in a real browser on 8 Oct; segments and integrations, no package names)"
+  }
+ ],
+ "needs_browser_read": [],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "platforms",
+   "claim": "nCino is built on the Salesforce platform (Salesforce-native).",
+   "class": "true",
+   "proof_url": "https://investor.ncino.com/node/13891/html",
+   "proof_quote": "Fundamental elements of the nCino Platform are built on Salesforce",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "nCino's Form 10-K (fiscal year ended 31 Jan 2026), read in a browser on its investor site, states that fundamental elements of the nCino Platform are built on the Salesforce Platform.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|Google AI Mode|1",
+     "quote": "Best for: Scalable, end-to-end commercial and retail workflow automation built on Salesforce."
+    },
+    {
+     "record_id": "loan-origination-software|q1|Google AI Mode|2",
+     "quote": "Built natively on the Salesforce platform, nCino is widely adopted by institutions looking to scale rapidly."
+    },
+    {
+     "record_id": "loan-origination-software|q1|Google AI Mode|3",
+     "quote": "robust Salesforce-based architecture"
+    },
+    {
+     "record_id": "loan-origination-software|q1|Google AI Overviews|3",
+     "quote": "nCino | Commercial & SMB | Salesforce-native | Extended | Relationship-driven commercial"
+    },
+    {
+     "record_id": "loan-origination-software|q10|Claude|1",
+     "quote": "nCino is a cloud-based banking platform built on Salesforce that supports commercial, small business, and mortgage lending workflows."
+    },
+    {
+     "record_id": "loan-origination-software|q10|Claude|2",
+     "quote": "nCino is a cloud-based banking platform built on Salesforce that supports commercial, small business, and mortgage lending workflows."
+    },
+    {
+     "record_id": "loan-origination-software|q10|Google AI Mode|1",
+     "quote": "nCino Commercial Lending: Built on the Salesforce platform, it unifies customer relationship management (CRM), document preparation, automated spreading, and workflow approvals."
+    },
+    {
+     "record_id": "loan-origination-software|q10|Google AI Mode|2",
+     "quote": "Built heavily on the Salesforce ecosystem, it provides deep pipeline transparency"
+    },
+    {
+     "record_id": "loan-origination-software|q10|Google AI Overviews|1",
+     "quote": "Built natively on Salesforce, it provides robust workflows for complex commercial transactions"
+    },
+    {
+     "record_id": "loan-origination-software|q10|Google AI Overviews|2",
+     "quote": "is built natively on Salesforce, making it a powerful tool for lenders"
+    },
+    {
+     "record_id": "loan-origination-software|q10|Google AI Overviews|3",
+     "quote": "Built natively on Salesforce, nCino excels at heavy-duty credit underwriting"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|2",
+     "quote": "Built natively on the Salesforce platform, nCino is the top choice for credit unions"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|3",
+     "quote": "nCino | Salesforce-centric CUs | Unified CRM and loan pipeline | Salesforce native"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Google AI Mode|1",
+     "quote": "Built directly on the Salesforce platform, nCino is ideal for banks and credit unions already deeply embedded in the Salesforce ecosystem."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Mode|1",
+     "quote": "nCino: Built on the Salesforce platform, nCino is a comprehensive, cloud-based bank operating system."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Mode|2",
+     "quote": "Built natively on the Salesforce platform, nCino is a comprehensive cloud banking operating system."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Mode|3",
+     "quote": "A comprehensive cloud banking operating system built on the Salesforce platform."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Overviews|1",
+     "quote": "nCino: A comprehensive, cloud-based banking operating system built on Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Overviews|2",
+     "quote": "nCino: A robust cloud banking operating system built on Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Overviews|3",
+     "quote": "nCino: Best for larger institutions needing a cloud banking operating system built on Salesforce."
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|1",
+     "quote": "(unlike nCino, which is built on Salesforce)"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Google AI Mode|2",
+     "quote": "commercial and retail loan origination/workflow automation (built on Salesforce)"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Google AI Mode|3",
+     "quote": "nCino is a dominant cloud-based commercial lending and loan origination system (LOS) built on Salesforce."
+    },
+    {
+     "record_id": "loan-origination-software|q6|Google AI Overviews|1",
+     "quote": "outside of nCino's Salesforce-based ecosystem"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Google AI Overviews|3",
+     "quote": "nCino | Mid-to-large banks on Salesforce | Salesforce Native"
+    },
+    {
+     "record_id": "loan-origination-software|q7|ChatGPT|1",
+     "quote": "fundamental elements of its platform are built on Salesforce."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|1",
+     "quote": "nCino is a commercial lending and loan origination platform built on Salesforce."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|2",
+     "quote": "nCino is a commercial lending and loan origination platform built on Salesforce, not a core banking system."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|3",
+     "quote": "nCino is a commercial lending and loan origination platform built on Salesforce, not a core banking system."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Mode|1",
+     "quote": "Built on the Salesforce platform, nCino is an end-to-end"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Mode|2",
+     "quote": "Platform Architecture | Proprietary, integrated financial tech stack | Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Mode|3",
+     "quote": "Platform Architecture | Proprietary cloud platform | Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|1",
+     "quote": "Cloud banking operating system built on Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|2",
+     "quote": "Platform Architecture | Proprietary cloud platform | Built natively on Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|3",
+     "quote": "Core architecture | Configurable proprietary multi-product cloud engine | Salesforce-native platform architecture"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Perplexity|1",
+     "quote": "a more comprehensive, Salesforce-native platform"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Perplexity|2",
+     "quote": "a more comprehensive, Salesforce-based platform"
+    },
+    {
+     "record_id": "loan-origination-software|q9|Google AI Mode|3",
+     "quote": "nCino | Commercial & Retail Banks / Credit Unions | Salesforce-native architecture with deep relationship management."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "integrations",
+   "claim": "nCino integrates with Salesforce (CRM integration).",
+   "class": "true",
+   "proof_url": "https://investor.ncino.com/news-releases/news-release-details/ncino-and-salesforce-expand-strategic-partnership-further",
+   "proof_quote": "nCino will deepen its connectivity to Salesforce platform tools including CRM, powered by AI and automation, and Financial Services Cloud.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "nCino's investor-site release on the expanded Salesforce partnership (21 Dec 2023, read in a browser) describes nCino's connectivity to Salesforce tools including CRM; the 10-K also lists Salesforce among technology partners integrated within the platform.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|Claude|2",
+     "quote": "It is a powerful option for community banks that already operate within the Salesforce ecosystem and want deep CRM-to-LOS integration."
+    },
+    {
+     "record_id": "loan-origination-software|q10|Claude|3",
+     "quote": "It is cloud-based with scalability and Salesforce integration"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|2",
+     "quote": "nCino | Commercial & Retail CUs | Salesforce ecosystem integration | CRM and relationship banking"
+    },
+    {
+     "record_id": "loan-origination-software|q9|Google AI Overviews|2",
+     "quote": "nCino | Commercial & Credit Unions | Salesforce integration & AI"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "integrations",
+   "claim": "nCino connects to Salesforce Financial Services Cloud.",
+   "class": "true",
+   "proof_url": "https://investor.ncino.com/news-releases/news-release-details/ncino-and-salesforce-expand-strategic-partnership-further",
+   "proof_quote": "nCino will deepen its connectivity to Salesforce platform tools including CRM, powered by AI and automation, and Financial Services Cloud.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The cited release on nCino's investor site (21 Dec 2023, read in a browser) names Financial Services Cloud among the Salesforce tools nCino connects to; no later page read retracts it.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|ChatGPT|3",
+     "quote": "Its Salesforce relationship and connectivity to CRM and Financial Services Cloud make it a natural candidate"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "platforms",
+   "claim": "nCino is a cloud-based (SaaS) platform.",
+   "class": "true",
+   "proof_url": "https://investor.ncino.com/node/13891/html",
+   "proof_quote": "We deliver our solutions as secure, highly scalable cloud computing application and platform services with a multi-tenant technology",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "nCino's 10-K (read in a browser) states that it delivers its solutions as cloud computing application and platform services; the Salesforce partnership release also calls it a single software-as-a-service (SaaS) platform.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|Claude|1",
+     "quote": "It is a cloud-based banking platform that offers strong commercial lending workflows and a modern user experience."
+    },
+    {
+     "record_id": "loan-origination-software|q1|Claude|3",
+     "quote": "It is a cloud-based platform well-suited for community banks"
+    },
+    {
+     "record_id": "loan-origination-software|q1|Google AI Mode|1",
+     "quote": "unify commercial, small business, and consumer lending into a single cloud-based platform."
+    },
+    {
+     "record_id": "loan-origination-software|q1|Google AI Overviews|1",
+     "quote": "Unifies the customer lifecycle in a single cloud platform with robust enterprise reporting and modern AI agent additions."
+    },
+    {
+     "record_id": "loan-origination-software|q10|Claude|1",
+     "quote": "nCino is a cloud-based banking platform built on Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q10|Claude|2",
+     "quote": "nCino is a cloud-based banking platform built on Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q10|Claude|3",
+     "quote": "It is cloud-based with scalability and Salesforce integration"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|2",
+     "quote": "an end-to-end cloud banking solution"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|3",
+     "quote": "providing a seamless, cloud-based single platform for consumer, small business, and commercial lending workflows."
+    },
+    {
+     "record_id": "loan-origination-software|q4|Claude|1",
+     "quote": "It is a widely recognized cloud banking platform"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Mode|1",
+     "quote": "nCino is a comprehensive, cloud-based bank operating system."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Mode|2",
+     "quote": "nCino is a comprehensive cloud banking operating system."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Mode|3",
+     "quote": "A comprehensive cloud banking operating system built on the Salesforce platform."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Overviews|1",
+     "quote": "A comprehensive, cloud-based banking operating system built on Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Overviews|2",
+     "quote": "A robust cloud banking operating system built on Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Overviews|3",
+     "quote": "needing a cloud banking operating system built on Salesforce."
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|1",
+     "quote": "nCino is a cloud-based Bank Operating System focused on transforming financial institutions' lending and banking operations."
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|2",
+     "quote": "nCino is a cloud-based Bank Operating System focused on transforming financial institutions' lending and banking operations."
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|3",
+     "quote": "nCino is a cloud-based Bank Operating System focused on transforming financial institutions' lending and banking operations."
+    },
+    {
+     "record_id": "loan-origination-software|q6|Google AI Mode|3",
+     "quote": "nCino is a dominant cloud-based commercial lending and loan origination system (LOS) built on Salesforce."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|2",
+     "quote": "nCino is a cloud-based commercial lending and loan origination platform."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|1",
+     "quote": "Cloud banking operating system built on Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Mode|1",
+     "quote": "While both are top-tier cloud banking and loan origination platforms, they were built with very different DNA."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "product_names",
+   "claim": "nCino's platform is named the nCino Bank Operating System.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The nCino pages now read in a browser (home, platform, lending, 10-K) name the product the nCino Platform and do not use 'Bank Operating System'; they neither state that name nor document a dated rename, so the claim is unverifiable rather than wrong or stale.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|Claude|2",
+     "quote": "nCino Bank Operating System is best for Salesforce-centric commercial banks."
+    },
+    {
+     "record_id": "loan-origination-software|q1|Claude|3",
+     "quote": "nCino Bank Operating System is best for Salesforce-centric commercial banks."
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|1",
+     "quote": "nCino is a cloud-based Bank Operating System"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|2",
+     "quote": "nCino is a cloud-based Bank Operating System"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|3",
+     "quote": "nCino is a cloud-based Bank Operating System"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "product_names",
+   "claim": "nCino's platform is named the nCino Cloud Banking Platform.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read in a browser call nCino 'a pioneer in cloud banking' and title the platform page 'An End-to-End Cloud Banking Experience', but name the product the nCino Platform, never 'Cloud Banking Platform', and document no rename; the name is not settled.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q6|Claude|1",
+     "quote": "TurnKey Lender is one of the best alternatives to nCino Cloud Banking Platform"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|2",
+     "quote": "is one of the best alternatives to nCino Cloud Banking Platform"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Mode|1",
+     "quote": "\"Cloud Banking Platform\" designed to unify commercial, small business, consumer, and treasury management"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|3",
+     "quote": "Feature | MeridianLink One | nCino Cloud Banking"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "product_names",
+   "claim": "nCino has a mortgage product named nCino Mortgage Suite.",
+   "class": "true",
+   "proof_url": "https://www.ncino.com/our-platform",
+   "proof_quote": "is the average pull-through rate for nCino Mortgage Suite customers",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "nCino's platform page, read in a browser, names nCino Mortgage Suite and its customers.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q4|Claude|2",
+     "quote": "**nCino Mortgage Suite**"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Claude|3",
+     "quote": "**nCino Mortgage Suite**"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Perplexity|1",
+     "quote": "**nCino Mortgage Suite / SimpleNexus** | Banks already using nCino"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Perplexity|2",
+     "quote": "BytePro Enterprise, nCino Mortgage Suite, Mortgage Cadence"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Perplexity|3",
+     "quote": "**Mortgage Cadence** or **nCino Mortgage Suite**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|1",
+     "quote": "nCino's Mortgage Suite is a leading provider of a fully customized, white-labeled platform"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|2",
+     "quote": "nCino's Mortgage Suite is a leading provider of a fully customized, white-labeled platform"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|3",
+     "quote": "nCino's Mortgage Suite is a leading provider of a fully customized, white-labeled platform"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|1",
+     "quote": "The best overall alternative to nCino's Mortgage Suite is Encompass Digital Mortgage Solution"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|2",
+     "quote": "The best overall alternative to nCino's Mortgage Suite is"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|3",
+     "quote": "The best overall alternative to nCino's Mortgage Suite is Encompass Digital Mortgage Solution"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "product_names",
+   "claim": "SimpleNexus is nCino's mortgage product, named together with nCino Mortgage Suite (nCino Mortgage Suite / SimpleNexus).",
+   "class": "true",
+   "proof_url": "https://investor.ncino.com/node/13891/html",
+   "proof_quote": "We have strategically built and acquired technology, including SimpleNexus, DocFox, FullCircl, ILT, Visible Equity, FinSuite, and Sandbox Banking, to significantly augment the nCino Platform’s capabilities for mortgage lending",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "nCino's 10-K (read in a browser) states that SimpleNexus is technology nCino acquired for the nCino Platform's mortgage lending capabilities, and the platform page names nCino Mortgage Suite as its mortgage product; the pages do not document a dated rename of SimpleNexus, so only the pairing as nCino's mortgage offering is classed.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q4|Perplexity|1",
+     "quote": "**nCino Mortgage Suite / SimpleNexus**"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Perplexity|2",
+     "quote": "**nCino Mortgage Suite / SimpleNexus**"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Perplexity|3",
+     "quote": "**nCino Mortgage Suite / SimpleNexus**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Perplexity|2",
+     "quote": "**nCino/SimpleNexus**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Perplexity|3",
+     "quote": "**nCino/SimpleNexus**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "product_names",
+   "claim": "nCino has a commercial lending product named nCino Commercial Lending.",
+   "class": "true",
+   "proof_url": "https://www.ncino.com/solutions/commercial-lending",
+   "proof_quote": "See it in action within nCino Commercial Lending.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The commercial lending page, read in a browser (title 'nCino Commercial Lending'), names the product nCino Commercial Lending.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q2|ChatGPT|2",
+     "quote": "**nCino Commercial Lending**"
+    },
+    {
+     "record_id": "loan-origination-software|q2|ChatGPT|3",
+     "quote": "**nCino Commercial Lending**"
+    },
+    {
+     "record_id": "loan-origination-software|q10|Google AI Mode|1",
+     "quote": "nCino Commercial Lending is the premier loan origination platform"
+    },
+    {
+     "record_id": "loan-origination-software|q10|Google AI Mode|3",
+     "quote": "nCino Commercial Lending:"
+    },
+    {
+     "record_id": "loan-origination-software|q10|Google AI Overviews|2",
+     "quote": "3. nCino Commercial Lending (Best for Bank-Grade Relationship Management)"
+    },
+    {
+     "record_id": "loan-origination-software|q10|Google AI Overviews|3",
+     "quote": "Best for Middle-Market & Deep Financial Spreading: nCino Commercial Lending"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "plans",
+   "claim": "nCino offers a preconfigured package named Commercial Lending Essentials for originating and managing small business and commercial loans.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Read in a browser on 8 Oct, the /essentials URL redirects to the credit unions page, which names no Essentials package; no page read states the package or dates its withdrawal, so it is unverifiable (not stale).",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|ChatGPT|1",
+     "quote": "nCino offers a Commercial Lending Essentials package positioned for quicker implementation."
+    },
+    {
+     "record_id": "loan-origination-software|q7|ChatGPT|2",
+     "quote": "It offers a preconfigured **Commercial Lending Essentials** solution aimed at originating and managing small-business and commercial loans"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|1",
+     "quote": "Commercial Lending Essentials contains the features and functionality bankers need to originate and manage small business and commercial loans."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "plans",
+   "claim": "nCino sells preconfigured packages under the name nCino Essentials.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Read in a browser on 8 Oct, the /essentials URL redirects to the credit unions page, and none of the nCino pages read uses the name Essentials or documents a dated retirement, so the name is not settled.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|Claude|1",
+     "quote": "nCino Essentials are quick to implement, cost-effective, and deliver the flexibility to scale with your institution as you grow."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|3",
+     "quote": "nCino Essentials are quick to implement, cost effective, and deliver the flexibility to scale with your institution as you grow."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "plans",
+   "claim": "nCino offers packages aimed at community and regional banks.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The lending page read in a browser has a 'Community & Regional Banks' segment section, but no page read names a package or plan for those banks, so the packages are not settled.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|Claude|2",
+     "quote": "nCino is built for mid-sized to enterprise-level banks, but new packages introduced in 2026 support community and regional banks with modular pricing."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|3",
+     "quote": "Mid-size to enterprise (with community packages)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "nCino's community bank packages have modular pricing.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The 10-K read in a browser describes an asset-based (value-based) pricing model aligned with the assets of the lines of business supported, introduced in fiscal 2025, but says nothing of community bank packages or modular pricing, so it neither confirms nor explicitly contradicts the claim; the launch year in the answer is out of scope and not coded.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|Claude|2",
+     "quote": "new packages introduced in 2026 support community and regional banks with modular pricing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "nCino does not publish its prices; pricing is enterprise-level and negotiated.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The nCino pages read in a browser show no prices and offer demos, and the 10-K describes asset-based subscription fees, but no page states whether prices are published or negotiated; the absence of a price on the pages read is not a published fact.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|Claude|1",
+     "quote": "Not publicly listed; enterprise-priced"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|2",
+     "quote": "Pricing is not publicly provided by the vendor and is enterprise-negotiated"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|3",
+     "quote": "Enterprise-priced; not publicly listed"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "nCino is sold on multi-year contracts.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The 10-K text read in a browser (truncated at 50,000 characters) mentions subscription revenues over the term of customer contracts but states no contract length, and no other page read does, so the contract term is not settled.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|Claude|1",
+     "quote": "nCino is enterprise-priced, with multi-year contracts that include Salesforce platform fees."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|3",
+     "quote": "nCino is enterprise-priced, with multi-year contracts that include Salesforce platform fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "nCino's cost includes Salesforce platform or licensing fees on top of nCino's own fees.",
+   "class": "true",
+   "proof_url": "https://investor.ncino.com/node/13891/html",
+   "proof_quote": "Pursuant to our agreement with Salesforce, when we sell certain solutions, we include a subscription to the underlying Salesforce Platform and remit a subscription fee to Salesforce.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "nCino's 10-K (read in a browser) states that when it sells certain solutions it includes a subscription to the underlying Salesforce Platform and remits a subscription fee to Salesforce, which matches contracts that include Salesforce platform fees.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|Claude|1",
+     "quote": "with multi-year contracts that include Salesforce platform fees."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|2",
+     "quote": "includes Salesforce platform fees on top of nCino's own costs."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|3",
+     "quote": "with multi-year contracts that include Salesforce platform fees."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Perplexity|1",
+     "quote": "Usually higher-cost enterprise-style pricing, plus Salesforce licensing"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|1",
+     "quote": "Requires managing Salesforce ecosystem, licensing, and config"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|3",
+     "quote": "Higher total cost of ownership and Salesforce licensing overhead"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Overviews|1",
+     "quote": "High dependency on Salesforce increases licensing overhead and complexity."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "product_names",
+   "claim": "nCino's document manager module is named Docman.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the nCino pages read in a browser (home, platform, commercial lending, lending, credit unions, 10-K, partnership release) names a Docman module, so the module name is not settled.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|Claude|1",
+     "quote": "For larger applications handling and storing a high volume of data, Docman becomes difficult."
+    }
+   ]
+  }
+ ],
+ "notes": "Pass 1: no nCino own page returned text to the fetch tool (www.ncino.com answered HTTP 429 with a Vercel Security Checkpoint on the home and /our-platform pages; investor.ncino.com timed out on the two cited investor pages), so all 17 claims were unverifiable. Pass 2 (8 Oct): all seven pages in needs_browser_read were read once in a real browser (manifest method browser) and the list is now empty. The browser reads settle eight claims as true: C01 (built on Salesforce), C04 (cloud services) and C16 (Salesforce Platform subscription included) from the Form 10-K for the fiscal year ended 31 Jan 2026 on investor.ncino.com; C02 and C03 (CRM and Financial Services Cloud connectivity) from the 21 Dec 2023 Salesforce partnership release; C07 (nCino Mortgage Suite) from the platform page; C08 (SimpleNexus as acquired mortgage technology) from the 10-K; C09 (nCino Commercial Lending) from the commercial lending page. Still unverifiable: C05 and C06 (the pages name the product the nCino Platform and document no rename), C10 and C11 (the /essentials URL now redirects to /credit-unions, which names no Essentials package; no dated retirement), C12 and C13 (a Community & Regional Banks segment, asset-based pricing introduced in fiscal 2025, but no community package or modular pricing), C14 and C15 (no page states price publication or contract length) and C17 (no Docman module named). The 10-K snapshot is truncated at 50,000 characters (Item 1 and the start of Item 1A only). Reviewer: C08 is classed true on the 10-K acquisition line plus the platform page naming nCino Mortgage Suite; the pages do not say SimpleNexus was renamed. C16 is classed true on the 10-K reseller clause; it applies to 'certain solutions'. Pass 2 completeness: the gap lines and the comparison tables carry no further in-scope statement about nCino (best-fit rows, implementation times, review ratings, capability and positioning lines such as 'Salesforce-integrated environment' or 'Salesforce ecosystem overhead' were not coded), and no answer states nCino's founding, headquarters, ownership, customer count or acquisitions. The cited Commercial Lending Essentials product sheet on assets.ctfassets.net is a PDF and was not read (the fetch tool does not extract PDF text); www.ncino.com and investor.ncino.com stay closed to the fetch tool after two blocked answers each. Not coded: name mentions of SimpleNexus as a stand-alone alternative (q4 Perplexity 2 and 3, q8 Google AI Overviews 3), implementation times, review ratings, capability lists, and lines labelled as proxy or estimated cost. No claim is wrong or stale, so the consistency check changed nothing and no cited page was read for causes.",
+ "answer_record_ids": [
+  "loan-origination-software|q1|ChatGPT|1",
+  "loan-origination-software|q1|ChatGPT|2",
+  "loan-origination-software|q1|ChatGPT|3",
+  "loan-origination-software|q1|Claude|1",
+  "loan-origination-software|q1|Claude|2",
+  "loan-origination-software|q1|Claude|3",
+  "loan-origination-software|q1|Google AI Mode|1",
+  "loan-origination-software|q1|Google AI Mode|2",
+  "loan-origination-software|q1|Google AI Mode|3",
+  "loan-origination-software|q1|Google AI Overviews|1",
+  "loan-origination-software|q1|Google AI Overviews|2",
+  "loan-origination-software|q1|Google AI Overviews|3",
+  "loan-origination-software|q1|Perplexity|1",
+  "loan-origination-software|q1|Perplexity|2",
+  "loan-origination-software|q1|Perplexity|3",
+  "loan-origination-software|q10|Claude|1",
+  "loan-origination-software|q10|Claude|2",
+  "loan-origination-software|q10|Claude|3",
+  "loan-origination-software|q10|Google AI Mode|1",
+  "loan-origination-software|q10|Google AI Mode|2",
+  "loan-origination-software|q10|Google AI Mode|3",
+  "loan-origination-software|q10|Google AI Overviews|1",
+  "loan-origination-software|q10|Google AI Overviews|2",
+  "loan-origination-software|q10|Google AI Overviews|3",
+  "loan-origination-software|q2|ChatGPT|1",
+  "loan-origination-software|q2|ChatGPT|2",
+  "loan-origination-software|q2|ChatGPT|3",
+  "loan-origination-software|q2|Claude|1",
+  "loan-origination-software|q2|Claude|2",
+  "loan-origination-software|q2|Claude|3",
+  "loan-origination-software|q2|Google AI Mode|2",
+  "loan-origination-software|q2|Google AI Mode|3",
+  "loan-origination-software|q2|Google AI Overviews|1",
+  "loan-origination-software|q2|Google AI Overviews|3",
+  "loan-origination-software|q2|Perplexity|2",
+  "loan-origination-software|q2|Perplexity|3",
+  "loan-origination-software|q4|Claude|1",
+  "loan-origination-software|q4|Claude|2",
+  "loan-origination-software|q4|Claude|3",
+  "loan-origination-software|q4|Google AI Mode|1",
+  "loan-origination-software|q4|Perplexity|1",
+  "loan-origination-software|q4|Perplexity|2",
+  "loan-origination-software|q4|Perplexity|3",
+  "loan-origination-software|q5|ChatGPT|1",
+  "loan-origination-software|q5|ChatGPT|2",
+  "loan-origination-software|q5|ChatGPT|3",
+  "loan-origination-software|q5|Claude|1",
+  "loan-origination-software|q5|Claude|2",
+  "loan-origination-software|q5|Claude|3",
+  "loan-origination-software|q5|Google AI Mode|1",
+  "loan-origination-software|q5|Google AI Mode|2",
+  "loan-origination-software|q5|Google AI Mode|3",
+  "loan-origination-software|q5|Google AI Overviews|1",
+  "loan-origination-software|q5|Google AI Overviews|2",
+  "loan-origination-software|q5|Google AI Overviews|3",
+  "loan-origination-software|q5|Perplexity|1",
+  "loan-origination-software|q5|Perplexity|2",
+  "loan-origination-software|q5|Perplexity|3",
+  "loan-origination-software|q6|ChatGPT|1",
+  "loan-origination-software|q6|ChatGPT|2",
+  "loan-origination-software|q6|ChatGPT|3",
+  "loan-origination-software|q6|Claude|1",
+  "loan-origination-software|q6|Claude|2",
+  "loan-origination-software|q6|Claude|3",
+  "loan-origination-software|q6|Google AI Mode|1",
+  "loan-origination-software|q6|Google AI Mode|2",
+  "loan-origination-software|q6|Google AI Mode|3",
+  "loan-origination-software|q6|Google AI Overviews|1",
+  "loan-origination-software|q6|Google AI Overviews|2",
+  "loan-origination-software|q6|Google AI Overviews|3",
+  "loan-origination-software|q6|Perplexity|1",
+  "loan-origination-software|q6|Perplexity|2",
+  "loan-origination-software|q6|Perplexity|3",
+  "loan-origination-software|q7|ChatGPT|1",
+  "loan-origination-software|q7|ChatGPT|2",
+  "loan-origination-software|q7|ChatGPT|3",
+  "loan-origination-software|q7|Claude|1",
+  "loan-origination-software|q7|Claude|2",
+  "loan-origination-software|q7|Claude|3",
+  "loan-origination-software|q7|Google AI Mode|1",
+  "loan-origination-software|q7|Google AI Mode|2",
+  "loan-origination-software|q7|Google AI Mode|3",
+  "loan-origination-software|q7|Google AI Overviews|1",
+  "loan-origination-software|q7|Google AI Overviews|2",
+  "loan-origination-software|q7|Google AI Overviews|3",
+  "loan-origination-software|q7|Perplexity|1",
+  "loan-origination-software|q7|Perplexity|2",
+  "loan-origination-software|q7|Perplexity|3",
+  "loan-origination-software|q8|Google AI Overviews|3",
+  "loan-origination-software|q9|Google AI Mode|3",
+  "loan-origination-software|q9|Google AI Overviews|2",
+  "loan-origination-software|q9|Google AI Overviews|3"
+ ],
+ "named_count": 92
+}

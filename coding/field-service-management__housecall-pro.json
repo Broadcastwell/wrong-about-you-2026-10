@@ -1,0 +1,1814 @@
+{
+ "vendor": "Housecall Pro",
+ "slug": "housecall-pro",
+ "category": "field-service-management",
+ "coded_at": "2026-10-08T04:09:14Z",
+ "pages_read": [
+  {
+   "url": "https://www.housecallpro.com/",
+   "key": "04d3b5bafbe768d6",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.housecallpro.com/pricing/",
+   "key": "33efcbe131828adc",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.housecallpro.com/industries/hvac-software/",
+   "key": "c0f0cbaa4dc43329",
+   "used_for": "product (HVAC package and pricing)"
+  },
+  {
+   "url": "https://www.housecallpro.com/industries/plumbing-software/",
+   "key": "ef1178ecc968cb2a",
+   "used_for": "product (plumbing package and pricing)"
+  },
+  {
+   "url": "https://www.housecallpro.com/integrations/",
+   "key": "c37bf24f395bc7ad",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://help.housecallpro.com/en/articles/15936858-plumbing-package-overview",
+   "key": "0472aaa4765e530b",
+   "used_for": "plumbing package inclusions (help center)"
+  },
+  {
+   "url": "https://www.housecallpro.com/llm-info/",
+   "key": "99ddf68a91b54792",
+   "used_for": "company facts and pricing (AI guidance page)"
+  },
+  {
+   "url": "https://fieldservicesoftware.io/best-field-service-software/best-software-for-hvac-field-service-companies/",
+   "key": "e7bf792200ed9e85",
+   "used_for": "cause trace for C13 (cited page, not own)"
+  },
+  {
+   "url": "https://www.bdrco.com/blog/hvac-business-software-guide/",
+   "key": "4d2703d7fd3e8634",
+   "used_for": "cause trace for C13 (cited page, not own; HTTP 403)"
+  },
+  {
+   "url": "https://founding.dev/blog/best-field-service-management-software",
+   "key": "d31db3d400dfb8a0",
+   "used_for": "cause trace for C13 (cited page, not own)"
+  },
+  {
+   "url": "https://www.reddit.com/r/HVAC/comments/10l9qm0/best_software_prices_for_new_hvac_company_6_techs/",
+   "key": "8aec1f2a84e75090",
+   "used_for": "cause trace for C13 (cited page, not own; robots.txt disallowed, not fetched)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Basic plan (the entry price) costs $59 per month billed annually, for one user.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/llm-info/",
+   "proof_quote": "Housecall Pro offers three plans: Basic at $79/mo ($59/mo billed annually) for one user",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI guidance page gives Basic at $59 per month billed annually for one user; four Claude instances state the $59 Basic or starting price without a billing basis, which matches this annual price.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|3",
+     "quote": "Basic at $59/month billed annually for one user"
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|1",
+     "quote": "Starts at $59/month billed annually for 1 user."
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|3",
+     "quote": "Housecall Pro: $59/month billed annually for one user"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|1",
+     "quote": "Basic starts at $59/month billed annually for one user."
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|2",
+     "quote": "Basic starts at $59/month billed annually for 1 user."
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|3",
+     "quote": "Basic is $79/month, or $59/month billed annually, for one user."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "$79/month, or $59/month billed annually"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "Basic's advertised price is $79/month, or $59/month billed annually, for one user."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "$79/month, or $59/month billed annually"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "| Housecall Pro Basic | $79 | $59 | 1 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "| Housecall Pro Basic | 1 | $79 | $59 |"
+    },
+    {
+     "record_id": "field-service-management|q7|Perplexity|3",
+     "quote": "Housecall Pro starting around $59/month annually"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|1",
+     "quote": "Housecall Pro Basic starts at $59/month"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|2",
+     "quote": "Housecall Pro starts at $59/month."
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "Housecall Pro Basic starts at $59/month"
+    },
+    {
+     "record_id": "field-service-management|q2|Claude|3",
+     "quote": "QuickBooks integration is not included on the Basic plan ($59/month)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "The Basic plan (the entry price) costs $79 per month on monthly billing, for one user.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/llm-info/",
+   "proof_quote": "Housecall Pro offers three plans: Basic at $79/mo ($59/mo billed annually) for one user",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI guidance page gives Basic at $79 per month (the month-to-month price) for one user; instances that give $79 as the starting price without a billing basis match this monthly price, and the HVAC page also lists Basic at $79 per month.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|2",
+     "quote": "Its HVAC page lists Basic at $79/month for one user"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|3",
+     "quote": "Basic is $79/month, or $59/month billed annually, for one user."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "$79/month, or $59/month billed annually"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "Basic's advertised price is $79/month, or $59/month billed annually, for one user."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "$79/month, or $59/month billed annually"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "| Housecall Pro Basic | $79 | $59 | 1 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "| Housecall Pro Basic | 1 | $79 | $59 |"
+    },
+    {
+     "record_id": "field-service-management|q7|Google AI Overviews|2",
+     "quote": "Starts higher with basic tiers around $79/month for 1 user"
+    },
+    {
+     "record_id": "field-service-management|q7|Google AI Overviews|3",
+     "quote": "Plans typically start around $79/month for Basic"
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|2",
+     "quote": "It starts from $79/month"
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|3",
+     "quote": "Starting from $79/month (flat rate)"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|2",
+     "quote": "| Housecall Pro | Small/mid residential teams | ~$79/mo |"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "| Housecall Pro | Small residential teams | ~$79/mo |"
+    },
+    {
+     "record_id": "field-service-management|q6|Google AI Mode|3",
+     "quote": "All-in-One / Marketing | Housecall Pro | ~$79/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The Essentials plan costs $149 per month billed annually, for five users.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/llm-info/",
+   "proof_quote": "Essentials at $189/mo ($149/mo annually) for up to five users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI guidance page gives Essentials at $149 per month billed annually for up to five users; two instances give $149 (one as $149+) for Essentials without a billing basis, which matches the annual price.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|3",
+     "quote": "Essentials at $149/month billed annually for five users"
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|3",
+     "quote": "Essentials is $149/month billed annually for five users."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "| Housecall Pro Essentials | $189 | $149 | 5 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "| Housecall Pro Essentials | 5 | $189 | $149 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Housecall Pro standard Essentials, five users: $189/month on monthly billing, or $149/month billed annually."
+    },
+    {
+     "record_id": "field-service-management|q2|Claude|3",
+     "quote": "which forces most serious plumbing operations to the Essentials tier ($149/month)."
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|2",
+     "quote": "budget your real cost at **$149+/month** for the Essential tier"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "The Essentials plan costs $189 per month on monthly billing, for five users.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/llm-info/",
+   "proof_quote": "Essentials at $189/mo ($149/mo annually) for up to five users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI guidance page gives Essentials at $189 per month (month-to-month) for up to five users.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "| Housecall Pro Essentials | $189 | $149 | 5 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "| Housecall Pro Essentials | 5 | $189 | $149 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Housecall Pro standard Essentials, five users: $189/month on monthly billing, or $149/month billed annually."
+    },
+    {
+     "record_id": "field-service-management|q7|Google AI Overviews|2",
+     "quote": "roughly $189/month for small teams"
+    },
+    {
+     "record_id": "field-service-management|q7|Google AI Overviews|3",
+     "quote": "going up to $189/month for Essentials"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "The MAX plan costs $299 per month billed annually, including eight users.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/llm-info/",
+   "proof_quote": "MAX at $329/mo ($299/mo annually) for up to eight users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI guidance page gives MAX at $299 per month billed annually for up to eight users.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|1",
+     "quote": "The standard MAX page lists $299/month billed annually, including eight users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "The MAX plan costs $329 per month, including eight users.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/llm-info/",
+   "proof_quote": "MAX at $329/mo ($299/mo annually) for up to eight users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI guidance page gives MAX at $329 per month (monthly billing) for up to eight users; the answer gives no billing basis and the figure matches the monthly price.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|3",
+     "quote": "standard MAX pricing currently lists $329/month, including eight users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Additional users on MAX cost $35 per month each.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "8 users included *$35/mo per additional user",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The standard pricing page lists MAX with 8 users included and $35 per month per additional user.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|1",
+     "quote": "plus $35/month per additional user"
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|3",
+     "quote": "plus $35/month per additional user"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "MAX for 12 users comes to $439 per month on annual billing.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "$299 /mo $329 /mo $XX /mo $XX /mo Book Demo Book Demo Book Demo Book Demo 8 users included *$35/mo per additional user",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page gives MAX at $299 per month billed annually with 8 users included and $35 per additional user, so 12 users come to $299 plus 4 times $35, which is $439, as the answer computes.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|1",
+     "quote": "That works out to $439/month for 12 users, before taxes and extras."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "The HVAC package's Essentials tier costs $299 per month for five users.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/industries/hvac-software/",
+   "proof_quote": "For teams, Basic is $79/mo for one user, Essentials is $299/mo with five users included, and MAX is $649/mo with eight users included.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The HVAC software page states that for teams Essentials is $299 per month with five users included.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|1",
+     "quote": "Its HVAC page currently lists Essentials at $299/month for five users."
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|2",
+     "quote": "team Essentials at $299/month for five users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "The plumbing package's Essentials tier costs $299 per month for five users.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/industries/plumbing-software/",
+   "proof_quote": "$229 /mo $299 /mo Get Started Get Started Get Started Get Started 1 user 5 users included",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plumbing software page's Essentials card shows $299 per month with 5 users included for teams ($229 for an individual user).",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "the plumbing page displays $299/month for five-user Essentials"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Pricing starts around $65 per month (range given as $65 to $189+ per month).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Re-classed from wrong in pass 2: the answer gives an approximate starting price (around $65) with no billing basis, and the published entry prices are $59 per month billed annually and $79 per month on monthly billing, so $65 falls between them and no like-for-like published figure explicitly contradicts it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Google AI Overviews|3",
+     "quote": "Pricing: Starts around $65 to $189+ per month depending on user tiers and add-ons."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "Approximate pricing is $149+ per month (for a team of about 10 techs).",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/llm-info/",
+   "proof_quote": "Essentials at $189/mo ($149/mo annually) for up to five users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "In a table for a roughly 10-tech plumbing company, $149+ matches the published Essentials price of $149 per month billed annually, the lowest multi-user plan, with higher tiers above it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Claude|2",
+     "quote": "| Housecall Pro | Residential volume, fast onboarding | $149+/mo | Paid tiers |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Pricing is a flat monthly (flat rate) plan price.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/llm-info/",
+   "proof_quote": "Essentials at $189/mo ($149/mo annually) for up to five users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Each published plan is a fixed monthly price that covers a set number of included users (for example Essentials for up to five users).",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Claude|3",
+     "quote": "| Housecall Pro | Residential, high call volume | Flat monthly |"
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|3",
+     "quote": "Starting from $79/month (flat rate)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Pricing is per user (per seat) per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages price each plan as a fixed monthly amount with a set number of users included and charge only additional users per user on MAX, which neither confirms nor explicitly contradicts a per-user pricing model.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|1",
+     "quote": "| Housecall Pro | Small-to-mid teams, all-in-one | Per user/month |"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|2",
+     "quote": "you're fine paying more per seat for it"
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Overviews|2",
+     "quote": "Per-user pricing can add up quickly at the 10-tech mark"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Additional users cost extra, so costs rise as users are added.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "8 users included *$35/mo per additional user",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page charges $35 per month for each user beyond the 8 included on MAX, and the plumbing page shows additional-user charges on its package tiers.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "it charges for extra users on higher tiers, so the cost climbs as you grow."
+    },
+    {
+     "record_id": "field-service-management|q7|Claude|2",
+     "quote": "Housecall Pro's per-user and payment processing fees are continuous drains"
+    },
+    {
+     "record_id": "field-service-management|q7|Claude|3",
+     "quote": "While extra user and payment fees exist"
+    },
+    {
+     "record_id": "field-service-management|q1|Google AI Overviews|3",
+     "quote": "Costs scale up quickly with added users"
+    },
+    {
+     "record_id": "field-service-management|q1|Google AI Mode|3",
+     "quote": "Costs scale up as you add more user seats or advanced add-ons."
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|2",
+     "quote": "The plumbing MAX package lists eight included users and additional-user charges"
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|3",
+     "quote": "As you add features or scale up to multiple users, the price jumps noticeably."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "Pricing is a set of tiered monthly plans.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/llm-info/",
+   "proof_quote": "Housecall Pro is subscription-based software with three tiered plans.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI guidance page describes three tiered subscription plans.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q4|Google AI Overviews|3",
+     "quote": "Housecall Pro | Home service trades | Tiered monthly plans |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "plans",
+   "claim": "The MAX plan includes eight users.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/llm-info/",
+   "proof_quote": "MAX at $329/mo ($299/mo annually) for up to eight users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI guidance page gives MAX for up to eight users, and the plumbing page's MAX card also shows 8 users included.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|1",
+     "quote": "MAX includes 8 users, so budget for additional tech and office logins."
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|2",
+     "quote": "The plumbing MAX package lists eight included users and additional-user charges"
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|3",
+     "quote": "standard MAX pricing currently lists $329/month, including eight users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "The Basic plan includes scheduling, estimates, invoicing, payments, a price book, job costing and review management.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "Price book Keep your services up to date and accurately priced. Job costing Track and report the costs associated with each job. Review management Build online reputation with tools that make it easy to collect and share reviews.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Basic card on the pricing page lists online booking, scheduling and dispatch, estimates and invoicing, payments, price book, job costing and review management.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "Its Basic plan includes scheduling, estimates, invoicing, payments, a price book, job costing, and review management."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "It includes scheduling, estimates, invoicing, payments, a price book, and job costing."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "You also want a price book, job costing, and review management included."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "Its standard pricing page lists job costing in Basic"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "plans",
+   "claim": "QuickBooks Online sync is not in Basic; it starts with the Essentials plan.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "Commissions Pay different rates by item, service, or job type. QuickBooks Online sync Import your existing QuickBooks data into Housecall Pro.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "On the pricing page QuickBooks Online sync appears in the Essentials list (All Basic features, plus) and not on the Basic card.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|3",
+     "quote": "QuickBooks Online sync and recurring maintenance plans are not included in every tier."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "QuickBooks Online sync is listed under Essentials, and recurring service plans under Max."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "QuickBooks Online sync is listed under Essentials."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "QuickBooks sync and flat-rate pricing are listed under Essentials"
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|3",
+     "quote": "QuickBooks Online sync starts with Essentials"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|3",
+     "quote": "QuickBooks Online sync requires Essentials or above"
+    },
+    {
+     "record_id": "field-service-management|q2|Claude|3",
+     "quote": "QuickBooks integration is not included on the Basic plan ($59/month)"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "Housecall Pro's entry Basic plan withholds QuickBooks sync and GPS tracking, which only arrive on higher tiers."
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|2",
+     "quote": "The $59/mo Basic tier is missing features like QuickBooks sync"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "plans",
+   "claim": "GPS tracking is not in Basic; it arrives on higher tiers.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "Employee GPS tracking Locates techs on the map using their mobile phone's GPS, no hardware required.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "On the pricing page employee GPS tracking is listed among the features Essentials adds to Basic.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "Housecall Pro's entry Basic plan withholds QuickBooks sync and GPS tracking, which only arrive on higher tiers."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "plans",
+   "claim": "The Essentials plan includes flat-rate pricing, employee phone GPS, routes and commissions.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "5 users included All Basic features, plus: Routes Group and sequence jobs to cut drive time for the day. Flat-rate pricing Include profit margins in your service prices.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Essentials card adds routes, flat-rate pricing, employee GPS tracking (phone based) and commissions to Basic.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "Essentials combines flat-rate pricing, employee phone GPS, routes, and commissions."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "QuickBooks sync and flat-rate pricing are listed under Essentials"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "plans",
+   "claim": "Recurring service plans (maintenance agreements) are included in MAX, not in every tier.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "Everything in Essentials, plus: Sales proposal tool ($40/mo value) Build visual sales proposals with customized images and side-by-side comparisons. Recurring Service Plans Secure a stable income through recurring maintenance agreements.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The standard pricing page lists Recurring Service Plans among the features MAX adds to Essentials.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "QuickBooks Online sync is listed under Essentials, and recurring service plans under Max."
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|3",
+     "quote": "recurring service plans and API access are included in Max"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "its general pricing page puts recurring service plans in MAX"
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|3",
+     "quote": "QuickBooks Online sync and recurring maintenance plans are not included in every tier."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "plans",
+   "claim": "Open API access is included in MAX.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "our MAX plan offers access to Zapier and our open API",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ and MAX card place open API access in MAX.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q4|ChatGPT|3",
+     "quote": "recurring service plans and API access are included in Max"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "plans",
+   "claim": "The MAX plan includes onboarding assistance and proposal tools.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "Dedicated onboarding specialist Get personalized setup guidance and coaching from a dedicated rep.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The MAX card on the pricing page lists a dedicated onboarding specialist and the sales proposal tool.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|3",
+     "quote": "Its MAX plan also includes onboarding assistance and proposal tools."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "plans",
+   "claim": "The MAX plan includes dispatching, flat-rate pricing, job costing, proposals, recurring service plans and QuickBooks Online integration.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "Everything in Essentials, plus: Sales proposal tool ($40/mo value) Build visual sales proposals with customized images and side-by-side comparisons. Recurring Service Plans Secure a stable income through recurring maintenance agreements.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "MAX adds the sales proposal tool and recurring service plans to everything in Essentials (flat-rate pricing, QuickBooks Online sync) and Basic (scheduling and dispatch, job costing).",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|1",
+     "quote": "You want dispatching, flat-rate pricing, job costing, proposals, recurring service plans, and QuickBooks Online integration in one platform."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "plans",
+   "claim": "There is a lower-priced entry tier for one user (solo operators).",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/industries/hvac-software/",
+   "proof_quote": "Basic For solo Pros managing jobs, parts, and the numbers.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The HVAC page describes Basic, the one-user plan, as for solo Pros.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|2",
+     "quote": "Lower tier available for solo users"
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|3",
+     "quote": "Their entry-level tier is reasonably priced for one user"
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Overviews|1",
+     "quote": "affordable solo tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "plans",
+   "claim": "The HVAC package's Essentials and MAX tiers include maintenance memberships, equipment tracking, flat-rate pricing and replacement (sales) proposals.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/industries/hvac-software/",
+   "proof_quote": "Essentials and MAX include the sales proposal tool, membership plans, equipment tracking, and flat-rate pricing that HVAC businesses rely on.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The HVAC software page states that Essentials and MAX include the sales proposal tool, membership plans, equipment tracking and flat-rate pricing.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|1",
+     "quote": "Its HVAC Essentials plan includes maintenance memberships, equipment tracking, flat-rate pricing, and replacement proposals."
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|2",
+     "quote": "Best starting point if you need HVAC equipment tracking, maintenance memberships, flat-rate pricing, and replacement proposals. Those features are included in its HVAC Essentials and MAX packages."
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "plans",
+   "claim": "Housecall Pro sells a plumbing-specific Plumbing Package, priced and packaged separately from the standard plans.",
+   "class": "true",
+   "proof_url": "https://help.housecallpro.com/en/articles/15936858-plumbing-package-overview",
+   "proof_quote": "The Plumbing Package is Housecall Pro built specifically for residential and light-commercial plumbing businesses.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The help center describes the Plumbing Package with its own tiers and inclusions, and the plumbing page prices it differently from the standard plans (Essentials $299 per month for five users against $189 standard).",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|1",
+     "quote": "Confirm pricing for its plumbing-specific package."
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|2",
+     "quote": "Its plumbing package brings those workflows together."
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|3",
+     "quote": "confirm whether the plumbing-specific package changes the price"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "its plumbing-specific offering has different pricing and inclusions from the standard plans above."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "I'd demo Housecall Pro's Plumbing Package first"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "its Plumbing package is priced differently"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "plans",
+   "claim": "Housecall Pro offers a Mechanical Package.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/llm-info/",
+   "proof_quote": "Housecall Pro also offers a Mechanical Package with different pricing for HVAC, plumbing, and electrical contractors.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI guidance page names a Mechanical Package with different pricing.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "because its Mechanical Package can have different pricing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "plans",
+   "claim": "Housecall Pro's trade-focused packages include flat-rate price books and automated review requests.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/industries/hvac-software/",
+   "proof_quote": "Essentials and MAX include the sales proposal tool, membership plans, equipment tracking, and flat-rate pricing that HVAC businesses rely on.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The HVAC package page lists flat-rate pricing in its Essentials and MAX tiers and automatic review requests among its CRM tools; the help center says each package includes everything in a standard plan, which includes review management.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|1",
+     "quote": "They offer specific trade-focused packages that include flat-rate price books, automated review requests, and easy postcard/email marketing tools."
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "plans",
+   "claim": "Housecall Pro's trade-focused packages include postcard and email marketing tools.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the package pages or the pricing page read in this study lists postcard or email marketing tools as a package inclusion.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|1",
+     "quote": "They offer specific trade-focused packages that include flat-rate price books, automated review requests, and easy postcard/email marketing tools."
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "plans",
+   "claim": "The Plumbing Package includes membership plans (selling memberships on jobs and estimates) at Essentials and above.",
+   "class": "true",
+   "proof_url": "https://help.housecallpro.com/en/articles/15936858-plumbing-package-overview",
+   "proof_quote": "Selling Membership Plans on Jobs and Estimates (Essentials) Sell a membership plan right on any job or estimate with one signature and one payment.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Plumbing Package help article lists selling membership plans on jobs and estimates at the Essentials tier (and MAX).",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "Its Plumbing Package supports selling memberships directly on estimates and jobs at Essentials and above."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "Its plumbing-specific package includes membership plans and a sales proposal tool at Essentials."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Its Plumbing package includes membership plans at Essentials, including selling a membership directly on a job or estimate."
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "plans",
+   "claim": "The Plumbing Package includes price-book commissions at Essentials and above.",
+   "class": "true",
+   "proof_url": "https://help.housecallpro.com/en/articles/15936858-plumbing-package-overview",
+   "proof_quote": "Price Book Commissions (Essentials) Set commissions on individual price book line items so your techs are paid accurately for what they sell.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Plumbing Package help article lists price book commissions at the Essentials tier (and MAX).",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "Its Plumbing Package includes plumbing dashboards, with price-book commissions at Essentials and above."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Its Plumbing Essentials package combines flat-rate pricing, equipment history, sales proposals, and price-book commissions."
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "plans",
+   "claim": "The Plumbing Package includes a sales proposal tool at Essentials.",
+   "class": "true",
+   "proof_url": "https://help.housecallpro.com/en/articles/15936858-plumbing-package-overview",
+   "proof_quote": "Sales Proposal Tool (Essentials) Membership Plans (Essentials) Pipeline (MAX)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Plumbing Package help article lists the Sales Proposal Tool as included from Essentials.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "Its plumbing-specific package includes membership plans and a sales proposal tool at Essentials."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Its Plumbing Essentials package combines flat-rate pricing, equipment history, sales proposals, and price-book commissions."
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "plans",
+   "claim": "The Plumbing Essentials package includes flat-rate pricing and equipment history.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/industries/plumbing-software/",
+   "proof_quote": "Equipment tracking Maintain a complete service and equipment history on each property. Flat-rate pricing Include profit margins in your service prices.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Essentials card on the plumbing page lists equipment tracking and flat-rate pricing.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Its Plumbing Essentials package combines flat-rate pricing, equipment history, sales proposals, and price-book commissions."
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "plans",
+   "claim": "The Plumbing Package includes plumbing dashboards.",
+   "class": "true",
+   "proof_url": "https://help.housecallpro.com/en/articles/15936858-plumbing-package-overview",
+   "proof_quote": "Plumbing KPI Dashboard (Basic) A KPI dashboard tailored to your business that shows revenue, jobs, team performance, and memberships at a glance.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Plumbing Package help article lists a Plumbing KPI Dashboard from the Basic tier.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "Its Plumbing Package includes plumbing dashboards, with price-book commissions at Essentials and above."
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "plans",
+   "claim": "The Essentials plan includes automated post-job review requests.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "Price book Keep your services up to date and accurately priced. Job costing Track and report the costs associated with each job. Review management Build online reputation with tools that make it easy to collect and share reviews.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Review management is on the Basic card and Essentials includes all Basic features.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Claude|1",
+     "quote": "Housecall Pro includes automated post-job review requests, email campaigns, and customer follow-up tools on the Essentials plan."
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "Housecall Pro includes automated post-job review requests, email campaigns, and customer follow-up tools on the Essentials plan."
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "plans",
+   "claim": "The Essentials plan includes email campaigns and customer follow-up tools.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page's Essentials card does not list email campaigns or follow-up tools, and no page read places them in a plan.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Claude|1",
+     "quote": "Housecall Pro includes automated post-job review requests, email campaigns, and customer follow-up tools on the Essentials plan."
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "Housecall Pro includes automated post-job review requests, email campaigns, and customer follow-up tools on the Essentials plan."
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "plans",
+   "claim": "Essentials and Max plans come with structured concierge onboarding taking about 3 to 5 business days.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists a dedicated onboarding specialist on MAX only and states no onboarding service or duration for Essentials.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Claude|1",
+     "quote": "Housecall Pro offers a structured 'concierge' onboarding for their 'Essentials' and 'Max' plans, which typically takes 3 to 5 business days to complete."
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "Housecall Pro offers a structured 'concierge' onboarding for their Essentials and Max plans"
+    }
+   ]
+  },
+  {
+   "claim_id": "C40",
+   "type": "plans",
+   "claim": "Every plan includes live chat and in-app support.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "Included in every Housecall Pro plan Live phone and chat support",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists live phone and chat support as included in every plan.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|Claude|1",
+     "quote": "Every Housecall Pro plan includes live chat and in-app support from real product experts who know the trades."
+    },
+    {
+     "record_id": "field-service-management|q7|Claude|2",
+     "quote": "Every Housecall Pro plan includes live chat and in-app support from real product experts who know the trades."
+    },
+    {
+     "record_id": "field-service-management|q7|Claude|3",
+     "quote": "Every Housecall Pro plan includes live chat and in-app support from real product experts who know the trades"
+    }
+   ]
+  },
+  {
+   "claim_id": "C41",
+   "type": "free_tier",
+   "claim": "Housecall Pro offers a free trial.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "Try 14 days free. No credit card required. Cancel anytime.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers a 14-day free trial.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|1",
+     "quote": "Pick two of the platforms above (like Jobber or Housecall Pro) and take advantage of their free trials."
+    }
+   ]
+  },
+  {
+   "claim_id": "C42",
+   "type": "integrations",
+   "claim": "Housecall Pro integrates with QuickBooks.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "integrates with popular business tools such as QuickBooks, Google, and Thumbtack",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ says Housecall Pro integrates with QuickBooks, and the integrations page lists QuickBooks.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|3",
+     "quote": "QuickBooks integration, and digital proposals/estimates"
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Overviews|3",
+     "quote": "QuickBooks integration to keep your accounting simple"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|2",
+     "quote": "tighter QuickBooks workflows"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "two-way QuickBooks sync and built-in marketing automation are core to how your business runs"
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|1",
+     "quote": "QuickBooks Online integration in one platform"
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|3",
+     "quote": "QuickBooks Online sync and recurring maintenance plans are not included in every tier."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "QuickBooks Online sync is listed under Essentials, and recurring service plans under Max."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "QuickBooks Online sync is listed under Essentials."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "QuickBooks sync and flat-rate pricing are listed under Essentials"
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|3",
+     "quote": "QuickBooks Online sync starts with Essentials"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|3",
+     "quote": "QuickBooks Online sync requires Essentials or above"
+    },
+    {
+     "record_id": "field-service-management|q2|Claude|3",
+     "quote": "QuickBooks integration is not included on the Basic plan ($59/month)"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "Housecall Pro's entry Basic plan withholds QuickBooks sync and GPS tracking, which only arrive on higher tiers."
+    },
+    {
+     "record_id": "field-service-management|q7|Google AI Mode|3",
+     "quote": "tight, reliable QuickBooks integration"
+    }
+   ]
+  },
+  {
+   "claim_id": "C43",
+   "type": "integrations",
+   "claim": "The QuickBooks sync is two-way.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages describe importing QuickBooks data into Housecall Pro and syncing invoice data to QuickBooks Desktop, but none states that the sync is two-way.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "two-way QuickBooks sync and built-in marketing automation are core to how your business runs"
+    }
+   ]
+  },
+  {
+   "claim_id": "C44",
+   "type": "integrations",
+   "claim": "Housecall Pro integrates with Profit Rhino (flat-rate price book).",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/integrations/",
+   "proof_quote": "Profit Rhino Quickly and easily create flat rate option boards for customers on the fly, in the field, or from the office.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists Profit Rhino.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Claude|2",
+     "quote": "offering a flat-rate price book powered by Profit Rhino, GPS fleet tracking, and service plan management."
+    },
+    {
+     "record_id": "field-service-management|q2|Claude|3",
+     "quote": "offering a flat-rate price book powered by Profit Rhino"
+    },
+    {
+     "record_id": "field-service-management|q7|Google AI Mode|1",
+     "quote": "integrations with plumbing-specific flat-rate pricing catalogs (like Profit Rhino)"
+    },
+    {
+     "record_id": "field-service-management|q7|Google AI Overviews|2",
+     "quote": "industry integrations like Profit Rhino"
+    },
+    {
+     "record_id": "field-service-management|q7|Google AI Overviews|3",
+     "quote": "built-in or add-on support for flat-rate pricing tools like Profit Rhino"
+    },
+    {
+     "record_id": "field-service-management|q7|Google AI Mode|2",
+     "quote": "Integrates smoothly with flat-rate pricing guides like Profit Rhino"
+    },
+    {
+     "record_id": "field-service-management|q7|Google AI Mode|3",
+     "quote": "Integrates smoothly with tools like Profit Rhino"
+    }
+   ]
+  },
+  {
+   "claim_id": "C45",
+   "type": "integrations",
+   "claim": "Housecall Pro integrates with Google Local Services Ads.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/integrations/",
+   "proof_quote": "Google Local Services Get booked directly from Google Business search results",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists Google Local Services.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Google AI Mode|2",
+     "quote": "direct integration with Google Local Services Ads"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|1",
+     "quote": "integrates with Google Local Service Ads for better customer engagement"
+    }
+   ]
+  },
+  {
+   "claim_id": "C46",
+   "type": "integrations",
+   "claim": "Housecall Pro integrates with Wisetack for consumer financing.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/integrations/",
+   "proof_quote": "Wisetack Close higher ticket deals by offering consumer financing",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists Wisetack for consumer financing.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|Google AI Overviews|1",
+     "quote": "Offers direct consumer financing integration via partners like Wisetack"
+    }
+   ]
+  },
+  {
+   "claim_id": "C47",
+   "type": "platforms",
+   "claim": "Housecall Pro has a mobile app (mobile-first, usable from a phone).",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "Free mobile app for iOS and Android",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists a free mobile app for iOS and Android in every plan.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Claude|1",
+     "quote": "The dispatch calendar and mobile app are what users rave about"
+    },
+    {
+     "record_id": "field-service-management|q1|Claude|2",
+     "quote": "with a simple mobile interface and automation features"
+    },
+    {
+     "record_id": "field-service-management|q1|Claude|3",
+     "quote": "The dispatch calendar and mobile app are what users rave about"
+    },
+    {
+     "record_id": "field-service-management|q1|Google AI Mode|1",
+     "quote": "your technicians will actually use the mobile app without complaining"
+    },
+    {
+     "record_id": "field-service-management|q1|Google AI Mode|2",
+     "quote": "a great mobile app for field invoicing and credit card processing"
+    },
+    {
+     "record_id": "field-service-management|q1|Google AI Overviews|3",
+     "quote": "offering intuitive mobile apps, fast setup, and solid scheduling tools tailored for smaller teams"
+    },
+    {
+     "record_id": "field-service-management|q1|Perplexity|3",
+     "quote": "Strong mobile app, scheduling, dispatching, payments, and service workflows for small businesses."
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|1",
+     "quote": "Housecall Pro Basic starts at $59/month and includes a polished mobile app and a large user community."
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|2",
+     "quote": "a more HVAC-polished experience with a top-rated mobile app"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "with a polished mobile app and a large user community"
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|2",
+     "quote": "because they offer low-cost entry tiers, mobile-first design, and simple booking tools"
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|3",
+     "quote": "it lets you do everything from the mobile app."
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Overviews|2",
+     "quote": "mobile apps that let a solo operator handle scheduling, invoicing, and customer texts from the truck"
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Overviews|3",
+     "quote": "because they offer fast setup, easy mobile apps, and affordable plans"
+    },
+    {
+     "record_id": "field-service-management|q2|Claude|1",
+     "quote": "The mobile-first design ensures technicians can easily access job information, capture photos, collect payments, and get customer signatures on their smartphones."
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Mode|1",
+     "quote": "Housecall Pro's mobile app has one of the lowest adoption barriers in the industry."
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Mode|3",
+     "quote": "It features an intuitive mobile app that your plumbers can pick up on day one."
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|1",
+     "quote": "Housecall Pro is a mobile-first platform built for residential service companies that want fast onboarding."
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|2",
+     "quote": "Housecall Pro is a mobile-first platform built for residential service companies that want fast onboarding."
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|3",
+     "quote": "It is known for its user-friendly interface and robust mobile app."
+    },
+    {
+     "record_id": "field-service-management|q4|Google AI Mode|3",
+     "quote": "a solid technician app"
+    },
+    {
+     "record_id": "field-service-management|q4|Google AI Overviews|2",
+     "quote": "Users love its simple design and mobile app"
+    },
+    {
+     "record_id": "field-service-management|q4|Google AI Overviews|3",
+     "quote": "looking for strong mobile apps, customer communication, and competitive pricing"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|1",
+     "quote": "It lets a service business run scheduling, dispatch, invoicing, and payments from a phone"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|2",
+     "quote": "it lets a service business run scheduling, dispatch, invoicing, and payments from a phone"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "it lets a service business run scheduling, dispatch, invoicing, and payments from a phone"
+    },
+    {
+     "record_id": "field-service-management|q6|Google AI Mode|1",
+     "quote": "It is widely praised for an intuitive mobile app"
+    },
+    {
+     "record_id": "field-service-management|q6|Google AI Mode|3",
+     "quote": "Housecall Pro offers a very clean mobile app"
+    },
+    {
+     "record_id": "field-service-management|q6|Perplexity|2",
+     "quote": "because of its strong mobile app"
+    },
+    {
+     "record_id": "field-service-management|q6|Perplexity|3",
+     "quote": "especially for ease of use and mobile app experience"
+    },
+    {
+     "record_id": "field-service-management|q7|Claude|1",
+     "quote": "its multi-language mobile app directly supports field teams"
+    },
+    {
+     "record_id": "field-service-management|q7|Claude|3",
+     "quote": "Housecall Pro's multi-language mobile app directly supports diverse field teams"
+    },
+    {
+     "record_id": "field-service-management|q7|Google AI Mode|1",
+     "quote": "Extremely intuitive mobile app UX"
+    }
+   ]
+  },
+  {
+   "claim_id": "C48",
+   "type": "product_names",
+   "claim": "Instapay is Housecall Pro's same-day payments product.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/",
+   "proof_quote": "Review Management Reporting Instapay Business Solutions",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page's feature list names Instapay as a Housecall Pro feature.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q4|Claude|3",
+     "quote": "It offers same-day payments through Instapay"
+    },
+    {
+     "record_id": "field-service-management|q7|Claude|1",
+     "quote": "Housecall Pro also offers same-day payments through Instapay"
+    },
+    {
+     "record_id": "field-service-management|q7|Claude|2",
+     "quote": "Housecall Pro offers same-day payments through Instapay"
+    },
+    {
+     "record_id": "field-service-management|q7|Claude|3",
+     "quote": "Housecall Pro offers same-day payments through Instapay"
+    }
+   ]
+  },
+  {
+   "claim_id": "C49",
+   "type": "product_names",
+   "claim": "Housecall Pro offers a module named AI Team.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "AI Team Custom AI support 24/7",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The site menu on the pricing page names AI Team as a Housecall Pro solution.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|Claude|1",
+     "quote": "It also includes access to an AI Team that books jobs, handles admin tasks, and surfaces insights."
+    },
+    {
+     "record_id": "field-service-management|q7|Claude|2",
+     "quote": "It also includes access to an AI Team that books jobs, handles admin tasks, and surfaces insights."
+    },
+    {
+     "record_id": "field-service-management|q7|Claude|3",
+     "quote": "It also includes access to an AI Team that books jobs, handles admin tasks, and surfaces insights."
+    }
+   ]
+  },
+  {
+   "claim_id": "C50",
+   "type": "plans",
+   "claim": "The Basic plan does not include marketing automation.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page's Basic card does not list marketing automation, but no plan card on the pages read lists it either (Pipeline and Campaigns appear only as separate products), so the pages do not state which plan includes it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Claude|2",
+     "quote": "missing features like QuickBooks sync and marketing automation"
+    }
+   ]
+  },
+  {
+   "claim_id": "C51",
+   "type": "pricing",
+   "claim": "Payment processing fees are charged in addition to the plan price.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "A 1% fee is applied to bank payments, and card processing fees start at 2.59%.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ states a 1% fee on bank payments and card processing fees starting at 2.59%.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|Claude|2",
+     "quote": "Housecall Pro's per-user and payment processing fees are continuous drains"
+    },
+    {
+     "record_id": "field-service-management|q7|Claude|3",
+     "quote": "While extra user and payment fees exist"
+    }
+   ]
+  },
+  {
+   "claim_id": "C52",
+   "type": "pricing",
+   "claim": "Card processing fees are 2.6% to 2.9%.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page gives card processing fees starting at 2.59% (as low as) but publishes no upper rate, so the stated 2.6 to 2.9% range is not settled.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Claude|2",
+     "quote": "plus 2.6–2.9% in card processing fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C53",
+   "type": "free_tier",
+   "claim": "Housecall Pro offers a 14-day free trial.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/pricing/",
+   "proof_quote": "Try 14 days free. No credit card required. Cancel anytime.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers a 14-day free trial.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|2",
+     "quote": "A 14-day free trial is available."
+    }
+   ]
+  },
+  {
+   "claim_id": "C54",
+   "type": "pricing",
+   "claim": "Some features are sold as paid add-ons on top of the plan price.",
+   "class": "true",
+   "proof_url": "https://www.housecallpro.com/llm-info/",
+   "proof_quote": "Some features are offered as paid add-ons depending on the plan, including Service Plans, Pipeline, and the Sales Proposal Tool.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI guidance page states that some features are paid add-ons depending on the plan, and the pricing page FAQ says add-ons are optional extras.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|Google AI Overviews|3",
+     "quote": "a mix-and-match add-on model that can get expensive quickly as you scale features"
+    },
+    {
+     "record_id": "field-service-management|q1|Google AI Mode|3",
+     "quote": "Costs scale up as you add more user seats or advanced add-ons."
+    },
+    {
+     "record_id": "field-service-management|q1|Google AI Overviews|3",
+     "quote": "Pricing: Starts around $65 to $189+ per month depending on user tiers and add-ons."
+    }
+   ]
+  },
+  {
+   "claim_id": "C55",
+   "type": "plans",
+   "claim": "The Plumbing Package brings together dispatching, flat-rate pricing, good/better/best proposals, memberships and job costing.",
+   "class": "true",
+   "proof_url": "https://help.housecallpro.com/en/articles/15936858-plumbing-package-overview",
+   "proof_quote": "Your package also bundles in tools that are normally paid add-ons: Sales Proposal Tool (Essentials) Membership Plans (Essentials)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Plumbing Package help article says the package includes everything in a standard plan (scheduling and dispatch and job costing from Basic, flat-rate pricing from Essentials) and bundles the Sales Proposal Tool and Membership Plans from Essentials.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|2",
+     "quote": "You need dispatching, flat-rate pricing, good/better/best proposals, memberships, and job costing. Its plumbing package brings those workflows together."
+    }
+   ]
+  },
+  {
+   "claim_id": "C56",
+   "type": "integrations",
+   "claim": "Housecall Pro integrates with Reece (supply house pricing).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Reece is not named on the integrations page or in the AI guidance page's integration list read in this study; both lists are partial, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|Google AI Mode|2",
+     "quote": "supply house pricing tools like Reece"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Seven own pages read, all HTTP 200 and not thin (home, pricing, HVAC and plumbing industry pages, integrations, the Plumbing Package help article on help.housecallpro.com, and the AI guidance page /llm-info/). The canonical home https://housecallpro.com/ resolves to www.housecallpro.com, which was read. Prices were classed against the pricing and AI guidance pages (Basic $79 monthly or $59 annual for 1 user; Essentials $189 or $149 for 5 users; MAX $329 or $299 for 8 users, $35 per additional user). The HVAC and plumbing packages carry their own prices (Essentials $299 for 5 users, MAX $649 for 8 users, $100 or $75 per additional user), which is why C09 and C10 are true alongside the standard prices. C11 ($65 starting price) is classed wrong: no published plan is $65 on either billing basis. Cause trace for C11 read three of the answer's cited pages: fieldservicesoftware.io (200; its $65 figure belongs to RazorSync and it gives Housecall Pro's Basic correctly), bdrco.com (HTTP 403, blocked) and founding.dev (200, no price); the cited Reddit thread is disallowed by robots.txt and was not fetched, so the cause is not found; a person could read the bdrco.com and Reddit pages in a browser. Starting prices without a billing basis were grouped with the matching Basic price ($59 annual or $79 monthly). Hedged lines (can require, may lack) and review ratings, review-sentiment percentages and capability claims (route optimization, marketing automation) were not coded. Generic mobile-app statements were coded under platforms (C47). Pass 2 (8 Oct 2026): no browser reads exist for this vendor and no claim was unverifiable because of a blocked own page. Consistency check: C11 ($65 starting price) moved from wrong to unverifiable, because the answer gives an approximate figure with no billing basis that falls between the published $59 annual and $79 monthly entry prices. Completeness: six instances added to existing claims (C03, C15, C19, C42, C44) and seven claims added (C50 to C56) from table cells and lines under vendor sub-headings, including the 14-day trial, payment processing fees, paid add-ons, the Plumbing Package bundle and a Reece integration (unverifiable).",
+ "answer_record_ids": [
+  "field-service-management|q1|ChatGPT|1",
+  "field-service-management|q1|ChatGPT|2",
+  "field-service-management|q1|ChatGPT|3",
+  "field-service-management|q1|Claude|1",
+  "field-service-management|q1|Claude|2",
+  "field-service-management|q1|Claude|3",
+  "field-service-management|q1|Google AI Mode|1",
+  "field-service-management|q1|Google AI Mode|2",
+  "field-service-management|q1|Google AI Mode|3",
+  "field-service-management|q1|Google AI Overviews|1",
+  "field-service-management|q1|Google AI Overviews|2",
+  "field-service-management|q1|Google AI Overviews|3",
+  "field-service-management|q1|Perplexity|1",
+  "field-service-management|q1|Perplexity|2",
+  "field-service-management|q1|Perplexity|3",
+  "field-service-management|q10|ChatGPT|1",
+  "field-service-management|q10|ChatGPT|2",
+  "field-service-management|q10|ChatGPT|3",
+  "field-service-management|q10|Claude|1",
+  "field-service-management|q10|Claude|2",
+  "field-service-management|q10|Claude|3",
+  "field-service-management|q10|Google AI Mode|1",
+  "field-service-management|q10|Google AI Mode|2",
+  "field-service-management|q10|Google AI Mode|3",
+  "field-service-management|q10|Google AI Overviews|1",
+  "field-service-management|q10|Google AI Overviews|2",
+  "field-service-management|q10|Google AI Overviews|3",
+  "field-service-management|q10|Perplexity|1",
+  "field-service-management|q10|Perplexity|2",
+  "field-service-management|q10|Perplexity|3",
+  "field-service-management|q2|ChatGPT|1",
+  "field-service-management|q2|ChatGPT|2",
+  "field-service-management|q2|ChatGPT|3",
+  "field-service-management|q2|Claude|1",
+  "field-service-management|q2|Claude|2",
+  "field-service-management|q2|Claude|3",
+  "field-service-management|q2|Google AI Mode|1",
+  "field-service-management|q2|Google AI Mode|2",
+  "field-service-management|q2|Google AI Mode|3",
+  "field-service-management|q2|Google AI Overviews|1",
+  "field-service-management|q2|Google AI Overviews|2",
+  "field-service-management|q2|Google AI Overviews|3",
+  "field-service-management|q2|Perplexity|1",
+  "field-service-management|q2|Perplexity|2",
+  "field-service-management|q2|Perplexity|3",
+  "field-service-management|q3|Google AI Mode|1",
+  "field-service-management|q3|Google AI Mode|3",
+  "field-service-management|q4|ChatGPT|1",
+  "field-service-management|q4|ChatGPT|2",
+  "field-service-management|q4|ChatGPT|3",
+  "field-service-management|q4|Claude|1",
+  "field-service-management|q4|Claude|2",
+  "field-service-management|q4|Claude|3",
+  "field-service-management|q4|Google AI Mode|1",
+  "field-service-management|q4|Google AI Mode|2",
+  "field-service-management|q4|Google AI Mode|3",
+  "field-service-management|q4|Google AI Overviews|1",
+  "field-service-management|q4|Google AI Overviews|2",
+  "field-service-management|q4|Google AI Overviews|3",
+  "field-service-management|q4|Perplexity|1",
+  "field-service-management|q4|Perplexity|2",
+  "field-service-management|q4|Perplexity|3",
+  "field-service-management|q5|ChatGPT|1",
+  "field-service-management|q5|ChatGPT|2",
+  "field-service-management|q5|ChatGPT|3",
+  "field-service-management|q5|Claude|1",
+  "field-service-management|q5|Claude|2",
+  "field-service-management|q5|Claude|3",
+  "field-service-management|q5|Google AI Mode|1",
+  "field-service-management|q5|Google AI Mode|2",
+  "field-service-management|q5|Google AI Mode|3",
+  "field-service-management|q5|Google AI Overviews|1",
+  "field-service-management|q5|Google AI Overviews|2",
+  "field-service-management|q5|Google AI Overviews|3",
+  "field-service-management|q5|Perplexity|1",
+  "field-service-management|q5|Perplexity|2",
+  "field-service-management|q5|Perplexity|3",
+  "field-service-management|q6|ChatGPT|1",
+  "field-service-management|q6|ChatGPT|2",
+  "field-service-management|q6|ChatGPT|3",
+  "field-service-management|q6|Claude|1",
+  "field-service-management|q6|Claude|2",
+  "field-service-management|q6|Claude|3",
+  "field-service-management|q6|Google AI Mode|1",
+  "field-service-management|q6|Google AI Mode|2",
+  "field-service-management|q6|Google AI Mode|3",
+  "field-service-management|q6|Google AI Overviews|1",
+  "field-service-management|q6|Google AI Overviews|2",
+  "field-service-management|q6|Google AI Overviews|3",
+  "field-service-management|q6|Perplexity|1",
+  "field-service-management|q6|Perplexity|2",
+  "field-service-management|q6|Perplexity|3",
+  "field-service-management|q7|ChatGPT|1",
+  "field-service-management|q7|ChatGPT|2",
+  "field-service-management|q7|ChatGPT|3",
+  "field-service-management|q7|Claude|1",
+  "field-service-management|q7|Claude|2",
+  "field-service-management|q7|Claude|3",
+  "field-service-management|q7|Google AI Mode|1",
+  "field-service-management|q7|Google AI Mode|2",
+  "field-service-management|q7|Google AI Mode|3",
+  "field-service-management|q7|Google AI Overviews|1",
+  "field-service-management|q7|Google AI Overviews|2",
+  "field-service-management|q7|Google AI Overviews|3",
+  "field-service-management|q7|Perplexity|1",
+  "field-service-management|q7|Perplexity|2",
+  "field-service-management|q7|Perplexity|3",
+  "field-service-management|q9|Google AI Overviews|2"
+ ],
+ "named_count": 108
+}

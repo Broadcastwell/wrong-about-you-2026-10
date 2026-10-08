@@ -1,0 +1,814 @@
+{
+ "vendor": "Zoho CRM",
+ "slug": "zoho-crm",
+ "category": "crm",
+ "coded_at": "2026-10-08T04:22:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.zoho.com/en-us/crm/zohocrm-pricing.html",
+   "key": "cce1f978b3f58384",
+   "used_for": "pricing and editions (prices rendered in INR only)"
+  },
+  {
+   "url": "https://www.zoho.com/crm/",
+   "key": "368ae0a654a6efc3",
+   "used_for": "product (redirects to /en-us/crm/; prices in INR)"
+  },
+  {
+   "url": "https://help.zoho.com/portal/en/kb/crm/getting-started/articles/choose-your-path-edition-and-role-guide",
+   "key": "9e34e21cbf227d71",
+   "used_for": "editions (thin: no text)"
+  },
+  {
+   "url": "https://zoho.com/",
+   "key": "537032d9c6c2c254",
+   "used_for": "home (product names)"
+  },
+  {
+   "url": "https://www.zoho.com/crm/a-complete-guide-to-zoho-crm.html",
+   "key": "479f305b4da4d9ea",
+   "used_for": "product guide (USD prices, free edition, Zia)"
+  },
+  {
+   "url": "https://www.zoho.com/en-us/crm/zohocrm-pricing.html",
+   "key": "cce1f978b3f58384.browser",
+   "used_for": "pass 2 browser read of the pricing page (USD edition prices)"
+  },
+  {
+   "url": "https://help.zoho.com/portal/en/kb/crm/getting-started/articles/choose-your-path-edition-and-role-guide",
+   "key": "9e34e21cbf227d71.browser",
+   "used_for": "pass 2 browser read of the edition guide (edition comparison table, bundles)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Enterprise edition costs $40 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/en-us/crm/zohocrm-pricing.html",
+   "proof_quote": "Enterprise US$40 US$40 /user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of the pricing page shows Enterprise at US$40 per user per month in the same view that shows Standard at US$14 and Professional at US$23, which Zoho's own guide gives as the paid-annually prices; answers that state no billing period give the same figure.",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|1",
+     "quote": "with published US pricing of $40/user/month billed annually"
+    },
+    {
+     "record_id": "crm|1|ChatGPT|2",
+     "quote": "Enterprise lists at **$40/user/month billed annually**"
+    },
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "**$40/user/month annually**, with capabilities including territory management, sandbox testing, and approval processes."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|1",
+     "quote": "Zoho lists Enterprise at $40/user/month with annual billing."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "**Zoho CRM:** Enterprise **$40**."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|3",
+     "quote": "**Zoho CRM Enterprise:** **$40**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "The Standard edition (entry paid price) costs $14 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/crm/a-complete-guide-to-zoho-crm.html",
+   "proof_quote": "The Standard edition start at $14 per user per month (paid annually) and goes up to $23 per user per month for the Professional edition.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Zoho's own CRM guide states the Standard edition starts at $14 per user per month paid annually; answers that give no billing period quote the same starting price.",
+   "instances": [
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "**Standard: $14; Professional: $23.**"
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "~$14/user/mo"
+    },
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "Free (up to 3 users); $14/user/mo"
+    },
+    {
+     "record_id": "crm|5|Google AI Overviews|1",
+     "quote": "Free tier (up to 3 users) / $14 standard"
+    },
+    {
+     "record_id": "crm|6|Claude|1",
+     "quote": "Free / $14+ per user/mo"
+    },
+    {
+     "record_id": "crm|6|Claude|3",
+     "quote": "At $14/user per month for the Standard plan"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The Professional edition costs $23 per user per month (billed annually).",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/crm/a-complete-guide-to-zoho-crm.html",
+   "proof_quote": "The Standard edition start at $14 per user per month (paid annually) and goes up to $23 per user per month for the Professional edition.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Zoho's own CRM guide gives $23 per user per month for the Professional edition in the same annual-billing sentence.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "The feature set at the Professional tier ($23/user/month) includes workflow automation, inventory management, scoring rules, and custom reports"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|1",
+     "quote": "**Zoho CRM Professional:** $23."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "**Standard: $14; Professional: $23.**"
+    },
+    {
+     "record_id": "crm|7|Claude|1",
+     "quote": "For 50–200 users, Zoho Professional ($23/user) provides meaningful reporting depth."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Paid editions (Standard through Enterprise/Ultimate) range from about $14 to $52 per user per month billed annually.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The guide and the browser read of the pricing page confirm Standard at $14 and Enterprise at $40, but no page read gives the USD price of the Ultimate edition, so the $52 top of the range is not settled.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "At $14–$52/user/month, it delivers features that overlap significantly with platforms costing three to five times more."
+    },
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "Zoho CRM (Standard through Enterprise/Ultimate) is priced roughly $14–$52/user/month billed annually as of August 2026."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Paid tiers cost $20 (per user per month, billing not stated).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The guide gives $14 paid annually for Standard and the browser read of the pricing page shows the same annual view; no page read gives monthly-billing USD prices for the CRM editions (the $20 starting price on that page is for the separate Zoho CRM Plus bundle), so a $20 figure with no billing period is neither confirmed nor contradicted like with like.",
+   "instances": [
+    {
+     "record_id": "crm|6|Google AI Mode|3",
+     "quote": "Free tier / $20 paid tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Paid plans start from about $12 to $14 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/crm/a-complete-guide-to-zoho-crm.html",
+   "proof_quote": "Paid tiers include additional automation and customization, such as setting up kiosks, customer journeys, workflows, and AI capabilities, and starts at $14 per user per month (billed annually).",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The guide states paid tiers start at $14 per user per month billed annually, which lies within the approximate range the answer gives.",
+   "instances": [
+    {
+     "record_id": "crm|5|Google AI Overviews|2",
+     "quote": "Free tier (3 users); Paid from ~$12-$14/user/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Zoho One bundles CRM at $37 per user per month (Flexible User pricing).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page describes Zoho One but its price renders blank in the snapshot (\"starting at /user/month\"); no Zoho One pricing page was read.",
+   "instances": [
+    {
+     "record_id": "crm|2|Claude|3",
+     "quote": "you're already in the Zoho One business suite, where CRM is bundled at $37 per user/month (Flexible User)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "free_tier",
+   "claim": "Zoho CRM has a free edition (free tier).",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/en-us/crm/zohocrm-pricing.html",
+   "proof_quote": "Yes, Zoho CRM does have free edition that supports upto 3 users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ confirms a free edition.",
+   "instances": [
+    {
+     "record_id": "crm|4|Claude|1",
+     "quote": "Zoho CRM provides Salesforce-comparable features at a fraction of the price, with a free tier and no per-module upselling."
+    },
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "CRM pricing in 2026 ranges from $0 (free tiers from HubSpot, Freshsales, and Zoho)"
+    },
+    {
+     "record_id": "crm|5|Google AI Mode|2",
+     "quote": "Free edition for basic use; low-cost paid tiers"
+    },
+    {
+     "record_id": "crm|6|Claude|1",
+     "quote": "Free / $14+ per user/mo"
+    },
+    {
+     "record_id": "crm|6|Google AI Mode|3",
+     "quote": "Free tier / $20 paid tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "free_tier",
+   "claim": "The free edition supports up to 3 users with no time limit.",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/en-us/crm/zohocrm-pricing.html",
+   "proof_quote": "Forever free, for 3 users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page describes the Free edition as forever free for 3 users.",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "There is also a free plan, with no time limit, capped at 3 users"
+    },
+    {
+     "record_id": "crm|5|Google AI Overviews|1",
+     "quote": "Free tier (up to 3 users) / $14 standard"
+    },
+    {
+     "record_id": "crm|5|Google AI Overviews|2",
+     "quote": "Free tier (3 users); Paid from ~$12-$14/user/mo"
+    },
+    {
+     "record_id": "crm|6|ChatGPT|2",
+     "quote": "A free edition supports up to three users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "free_tier",
+   "claim": "The free plan includes core contact and lead management, basic workflow automation and standard reporting.",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/en-us/crm/zohocrm-pricing.html",
+   "proof_quote": "Contact management Manage all contacts important to your business in one place. No more scattered business cards. Follow-up reminders Stay on track with timely reminders to follow-up on a lead. Workflow automation Automate repetitive tasks with workflows.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Free edition list on the pricing page includes contact management, follow-up reminders, workflow automation and, further down the same list, standard reports.",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "with core contact/lead management, basic workflow automation, and standard reporting"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "plans",
+   "claim": "The Enterprise edition includes territory management, approval processes, a sandbox and advanced customization.",
+   "class": "true",
+   "proof_url": "https://help.zoho.com/portal/en/kb/crm/getting-started/articles/choose-your-path-edition-and-role-guide",
+   "proof_quote": "Enterprise is where Zoho CRM's power features live: territory management, translations, Sandbox for testing changes safely, advanced customization (subforms, custom buttons, page layouts), and approval/review processes.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of Zoho's edition guide names territory management, Sandbox, advanced customization and approval processes for Enterprise; the pricing page Enterprise list also includes the approval process and developer sandbox.",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|1",
+     "quote": "Enterprise includes territory management, approvals, customization, and a sandbox"
+    },
+    {
+     "record_id": "crm|1|ChatGPT|2",
+     "quote": "with territory management, sandbox testing, and advanced customization"
+    },
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "with capabilities including territory management, sandbox testing, and approval processes"
+    },
+    {
+     "record_id": "crm|3|ChatGPT|1",
+     "quote": "Enterprise includes territory management, approval processes, sandboxes, and advanced customization."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "Enterprise includes territory management, approval processes, advanced customization, and a sandbox."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|3",
+     "quote": "Enterprise includes territory management, sandbox testing, advanced customization, and approval processes"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|1",
+     "quote": "Enterprise adds territory management, approvals, and deeper customization."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|3",
+     "quote": "Enterprise adds territories and advanced controls"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "plans",
+   "claim": "The Professional edition adds sales-process management (Blueprint), inventory management and quoting.",
+   "class": "true",
+   "proof_url": "https://help.zoho.com/portal/en/kb/crm/getting-started/articles/choose-your-path-edition-and-role-guide",
+   "proof_quote": "Move to Professional if you need inventory management (quotes, sales orders, invoices), CPQ (product configurator and price rules), customer portals, Signals (real-time customer activity notifications), or Blueprint for process enforcement.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of Zoho's edition guide places Blueprint, inventory management (quotes) and CPQ in Professional, not Standard; the CRM product page lists the same for Professional.",
+   "instances": [
+    {
+     "record_id": "crm|5|ChatGPT|1",
+     "quote": "Professional adds Blueprint for enforcing process steps"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "Professional adds structured sales-process controls, inventory, and quoting capabilities."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|3",
+     "quote": "Professional adds process enforcement and inventory/quoting features"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "plans",
+   "claim": "The Professional edition includes inventory management.",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/crm/",
+   "proof_quote": "Professional Growing team, needs automation ₹ 1,400 /user/month AI agents Process management Inventory management Predictive intelligence Unlimited reports Configure, Price, Quote (CPQ)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The CRM product page lists inventory management for the Professional edition.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "The feature set at the Professional tier ($23/user/month) includes workflow automation, inventory management, scoring rules, and custom reports"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "plans",
+   "claim": "The Professional edition includes scoring rules and custom reports.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Professional list names predictive intelligence and unlimited reports but not scoring rules or custom reports by those names, and the browser read of the edition guide marks Zia scoring only as Partial on Professional without naming scoring rules or custom reports.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "The feature set at the Professional tier ($23/user/month) includes workflow automation, inventory management, scoring rules, and custom reports"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "plans",
+   "claim": "The Standard edition includes multiple sales pipelines.",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/crm/",
+   "proof_quote": "Standard Small team, getting started ₹ 800 /user/month Email integration & mass emails Multiple sales pipelines",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The CRM product page lists multiple sales pipelines for the Standard edition.",
+   "instances": [
+    {
+     "record_id": "crm|5|ChatGPT|3",
+     "quote": "Standard includes workflows and multiple pipelines"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "plans",
+   "claim": "Paid editions from Standard up include workflows.",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/crm/a-complete-guide-to-zoho-crm.html",
+   "proof_quote": "Paid tiers include additional automation and customization, such as setting up kiosks, customer journeys, workflows, and AI capabilities, and starts at $14 per user per month (billed annually).",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Zoho's guide says the paid tiers, starting with the $14 Standard edition, include workflows.",
+   "instances": [
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "Standard includes workflows and follow-up cadences"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|3",
+     "quote": "Standard includes workflows and multiple pipelines"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "plans",
+   "claim": "The Standard edition includes follow-up cadences.",
+   "class": "true",
+   "proof_url": "https://help.zoho.com/portal/en/kb/crm/getting-started/articles/choose-your-path-edition-and-role-guide",
+   "proof_quote": "Cadences (followup flows) — ✓ ✓ ✓ ✓",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "In the browser read of Zoho's edition comparison table (columns Free, Standard, Professional, Enterprise, Ultimate), cadences are marked absent on Free and ticked from Standard up.",
+   "instances": [
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "Standard includes workflows and follow-up cadences"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "Zoho CRM has an Ultimate edition.",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/en-us/crm/zohocrm-pricing.html",
+   "proof_quote": "Yes, Zoho CRM has an Ultimate edition tailored for large-scale, bespoke deployments",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ names the Ultimate edition.",
+   "instances": [
+    {
+     "record_id": "crm|3|Google AI Mode|1",
+     "quote": "Zoho CRM (Enterprise / Ultimate)"
+    },
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "Zoho CRM (Standard through Enterprise/Ultimate) is priced roughly $14–$52/user/month billed annually as of August 2026."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "plans",
+   "claim": "There are multiple paid editions, plus broader application bundles.",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/crm/a-complete-guide-to-zoho-crm.html",
+   "proof_quote": "Zoho CRM offers four tiers besides the Free edition.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The guide states four tiers besides the Free edition, and the pricing page offers Zoho CRM Plus as a combined package.",
+   "instances": [
+    {
+     "record_id": "crm|6|ChatGPT|2",
+     "quote": "with multiple paid editions and broader application bundles available"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "product_names",
+   "claim": "Zoho CRM's AI assistant is named Zia.",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/crm/a-complete-guide-to-zoho-crm.html",
+   "proof_quote": "Zoho CRM's AI assistant , Zia, scores leads autonomously",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Zoho's guide names Zia as Zoho CRM's AI assistant (the pricing page also lists insights from Zia).",
+   "instances": [
+    {
+     "record_id": "crm|2|Google AI Mode|3",
+     "quote": "AI insights (via Zia)"
+    },
+    {
+     "record_id": "crm|2|Google AI Overviews|2",
+     "quote": "and the Zia AI assistant"
+    },
+    {
+     "record_id": "crm|2|Google AI Overviews|3",
+     "quote": "Zia AI predictive insights"
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "its AI assistant, Zia, handles lead and deal predictions"
+    },
+    {
+     "record_id": "crm|3|Google AI Mode|1",
+     "quote": "including built-in AI via Zia"
+    },
+    {
+     "record_id": "crm|5|Claude|1",
+     "quote": "Zoho's AI assistant, Zia, has moved beyond simple automation"
+    },
+    {
+     "record_id": "crm|5|Google AI Mode|2",
+     "quote": "It includes Zia, an AI assistant"
+    },
+    {
+     "record_id": "crm|5|Google AI Mode|3",
+     "quote": "AI forecasting insights (\"Zia\")"
+    },
+    {
+     "record_id": "crm|5|Google AI Overviews|1",
+     "quote": "Affordable tier scaling with AI assistant Zia."
+    },
+    {
+     "record_id": "crm|7|Claude|2",
+     "quote": "Natural language query is available in Zoho Zia."
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|1",
+     "quote": "Supported by \"Zia\" (Zoho’s AI assistant)"
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|2",
+     "quote": "Zia AI revenue forecasting, anomaly detection, and deal-stalling alerts."
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|3",
+     "quote": "Zoho CRM (Zia AI)"
+    },
+    {
+     "record_id": "crm|7|Google AI Overviews|1",
+     "quote": "AI-driven predictions and anomaly detection via Zia"
+    },
+    {
+     "record_id": "crm|7|Google AI Overviews|2",
+     "quote": "Forecasting: Powered by Zia AI for revenue prediction and anomaly detection."
+    },
+    {
+     "record_id": "crm|7|Google AI Overviews|3",
+     "quote": "Forecasting: Zia AI predicts revenue, flags stalling deals, and tracks velocity on lower tiers."
+    },
+    {
+     "record_id": "crm|7|Perplexity|1",
+     "quote": "AI-assisted report creation via Zia"
+    },
+    {
+     "record_id": "crm|7|Perplexity|2",
+     "quote": "AI-assisted insights (Zia)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "product_names",
+   "claim": "Zoho has a suite named Zoho One.",
+   "class": "true",
+   "proof_url": "https://zoho.com/",
+   "proof_quote": "Zoho One The operating system for business",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Zoho home page names Zoho One as its all-in-one suite.",
+   "instances": [
+    {
+     "record_id": "crm|2|Claude|3",
+     "quote": "you're already in the Zoho One business suite"
+    },
+    {
+     "record_id": "crm|3|Google AI Mode|3",
+     "quote": "Zoho CRM / Zoho One"
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "Zoho CRM is a broad, low-cost CRM that can grow into a full back-office suite through Zoho One."
+    },
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "Zoho CRM is a broad, low-cost CRM that can grow into a full back-office suite through Zoho One"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "product_names",
+   "claim": "Bigin is a Zoho product (Bigin by Zoho).",
+   "class": "true",
+   "proof_url": "https://zoho.com/",
+   "proof_quote": "Bigin Pipeline-centric CRM for small businesses",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Zoho home page lists Bigin among Zoho's featured apps as a pipeline-centric CRM for small businesses.",
+   "instances": [
+    {
+     "record_id": "crm|4|Google AI Mode|2",
+     "quote": "Bigin (by Zoho): A scaled-down, ultra-lightweight pipeline manager"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "product_names",
+   "claim": "Zoho has a bundle named Zoho CRM Plus.",
+   "class": "true",
+   "proof_url": "https://www.zoho.com/en-us/crm/zohocrm-pricing.html",
+   "proof_quote": "Zoho CRM Plus Sales, marketing, service in one unified package.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers Zoho CRM Plus as a combined sales, marketing and service package.",
+   "instances": [
+    {
+     "record_id": "crm|3|Perplexity|2",
+     "quote": "**Zoho CRM / Zoho CRM Plus**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "product_names",
+   "claim": "Zoho has an analytics product named Zoho Analytics.",
+   "class": "true",
+   "proof_url": "https://help.zoho.com/portal/en/kb/crm/getting-started/articles/choose-your-path-edition-and-role-guide",
+   "proof_quote": "bundles Zoho CRM with 10+ other apps: SalesIQ (live chat), Desk (support), Projects, Campaigns (email marketing), Social, Survey, Analytics, Marketing Automation, and more.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of Zoho's edition guide lists Analytics among the Zoho apps bundled with Zoho CRM in CRM Plus (the apps are named there without the Zoho prefix); no other page read names it.",
+   "instances": [
+    {
+     "record_id": "crm|7|ChatGPT|1",
+     "quote": "Zoho Analytics adds cross-application analysis."
+    },
+    {
+     "record_id": "crm|7|ChatGPT|2",
+     "quote": "Zoho Analytics extends this to cross-application analysis."
+    },
+    {
+     "record_id": "crm|7|ChatGPT|3",
+     "quote": "Zoho Analytics extends this to external data and deeper analysis."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "product_names",
+   "claim": "Zoho has a product named Zoho CRM Analytics.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names Zoho CRM Analytics.",
+   "instances": [
+    {
+     "record_id": "crm|7|Google AI Overviews|2",
+     "quote": "Review budget-friendly AI features via Zoho CRM Analytics."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Five own pages read, all HTTP 200. The pricing page (key cce1f978b3f58384) and the CRM product page served prices in Indian rupees only (the server appears to localize by location), so USD price claims could not be compared like with like from them; the pricing page is listed in needs_browser_read for a USD read even though it is not thin, and C01, C04, C05 and C07 stay unverifiable. USD prices for Standard ($14 annual) and Professional ($23) come from Zoho's own CRM guide page (key 479f305b4da4d9ea), which was cited by one answer. The help-center edition guide cited by six answers rendered no text (thin) and is listed in needs_browser_read. The fetch tool flagged the zoho.com home snapshot as a possible challenge page because its HTML loads a Cloudflare challenge-platform script, but the page rendered its normal content (3,710 characters), which was used. Names: Zoho and Zoho CRM are the vendor's names and were not coded; Blueprint was treated as a feature name (its plan placement is coded in C12). C06 is true because the published $14 starting price lies inside the approximate $12 to $14 range. Illustrative lines such as \"a $14 seat that your team actually uses beats a $150 seat\" (crm|2|Claude|1 and 2) and Gartner or review recognition were not coded. No claim is wrong or stale, so no cited page was read for causes. Pass 2 (8 Oct 2026): both pages in needs_browser_read were read once in a real browser (pricing page key cce1f978b3f58384.browser, USD prices Standard US$14, Professional US$23, Enterprise US$40 under a Monthly/Annually toggle; edition guide key 9e34e21cbf227d71.browser, last updated 5 May 2026, with an edition comparison table). Re-classed C01 (Enterprise $40) and C17 (cadences on Standard) from unverifiable to true, and C24 (Zoho Analytics) to true on the guide's list of Zoho apps bundled in CRM Plus; C11 and C12 now quote the guide. C04, C05, C07 and C14 stay unverifiable (no Ultimate USD price, no monthly-billing USD prices, no Zoho One price, no scoring-rules placement). Gap lines and comparison tables add no new in-scope statement about Zoho CRM: the uncovered table cells repeat C02 and C04 for records already listed, and the rest are opinions or illustrative figures.",
+ "answer_record_ids": [
+  "crm|1|ChatGPT|1",
+  "crm|1|ChatGPT|2",
+  "crm|1|ChatGPT|3",
+  "crm|1|Google AI Mode|1",
+  "crm|1|Google AI Mode|3",
+  "crm|1|Google AI Overviews|2",
+  "crm|1|Google AI Overviews|3",
+  "crm|1|Perplexity|1",
+  "crm|2|ChatGPT|3",
+  "crm|2|Claude|1",
+  "crm|2|Claude|2",
+  "crm|2|Claude|3",
+  "crm|2|Google AI Mode|3",
+  "crm|2|Google AI Overviews|2",
+  "crm|2|Google AI Overviews|3",
+  "crm|2|Perplexity|1",
+  "crm|3|ChatGPT|1",
+  "crm|3|ChatGPT|2",
+  "crm|3|ChatGPT|3",
+  "crm|3|Claude|1",
+  "crm|3|Claude|2",
+  "crm|3|Claude|3",
+  "crm|3|Google AI Mode|1",
+  "crm|3|Google AI Mode|2",
+  "crm|3|Google AI Mode|3",
+  "crm|3|Google AI Overviews|1",
+  "crm|3|Perplexity|1",
+  "crm|3|Perplexity|2",
+  "crm|3|Perplexity|3",
+  "crm|4|Claude|1",
+  "crm|4|Google AI Mode|2",
+  "crm|4|Perplexity|3",
+  "crm|5|ChatGPT|1",
+  "crm|5|ChatGPT|2",
+  "crm|5|ChatGPT|3",
+  "crm|5|Claude|1",
+  "crm|5|Claude|2",
+  "crm|5|Claude|3",
+  "crm|5|Google AI Mode|1",
+  "crm|5|Google AI Mode|2",
+  "crm|5|Google AI Mode|3",
+  "crm|5|Google AI Overviews|1",
+  "crm|5|Google AI Overviews|2",
+  "crm|5|Google AI Overviews|3",
+  "crm|5|Perplexity|1",
+  "crm|5|Perplexity|2",
+  "crm|5|Perplexity|3",
+  "crm|6|ChatGPT|2",
+  "crm|6|ChatGPT|3",
+  "crm|6|Claude|1",
+  "crm|6|Claude|2",
+  "crm|6|Claude|3",
+  "crm|6|Google AI Mode|2",
+  "crm|6|Google AI Mode|3",
+  "crm|6|Google AI Overviews|1",
+  "crm|6|Google AI Overviews|2",
+  "crm|7|ChatGPT|1",
+  "crm|7|ChatGPT|2",
+  "crm|7|ChatGPT|3",
+  "crm|7|Claude|1",
+  "crm|7|Claude|2",
+  "crm|7|Claude|3",
+  "crm|7|Google AI Mode|1",
+  "crm|7|Google AI Mode|2",
+  "crm|7|Google AI Mode|3",
+  "crm|7|Google AI Overviews|1",
+  "crm|7|Google AI Overviews|2",
+  "crm|7|Google AI Overviews|3",
+  "crm|7|Perplexity|1",
+  "crm|7|Perplexity|2",
+  "crm|7|Perplexity|3",
+  "crm|8|Claude|2",
+  "crm|8|Claude|3"
+ ],
+ "named_count": 73
+}

@@ -1,0 +1,381 @@
+{
+ "vendor": "Tai TMS",
+ "slug": "tai-tms",
+ "category": "transportation-management-systems",
+ "coded_at": "2026-10-08T04:02:00Z",
+ "pages_read": [
+  {
+   "url": "https://taisoftware.com/",
+   "key": "0eeaec8cae2f781f",
+   "used_for": "home (canonical domain, redirects to https://tai-software.com/)"
+  },
+  {
+   "url": "https://tai-software.com/about/",
+   "key": "41f7526f770cbc09",
+   "used_for": "about"
+  },
+  {
+   "url": "https://tai-software.com/pricing/",
+   "key": "19f1b365fafeeb5a",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://tai-software.com/components/integrations/",
+   "key": "f9bd67e149a76d55",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://sourceforge.net/software/product/AscendTMS-Logistics-Software/alternatives",
+   "key": "f4fa6b4fd50dcf5b",
+   "used_for": "cause trace for C05 and C06 (cited directory; does not carry either statement)"
+  },
+  {
+   "url": "https://www.softwareworld.co/competitors/ascendtms-logistics-software-alternatives/",
+   "key": "4188626da3ac6d0a",
+   "used_for": "cause trace for C05 and C06 (cited directory; blocked, HTTP 403)"
+  },
+  {
+   "url": "https://www.itqlick.com/ascendtms-logistics/competitors",
+   "key": "2f9e0059bbd0a439",
+   "used_for": "cause trace for C05 and C06 (cited directory; does not name Tai)"
+  },
+  {
+   "url": "https://checkthat.ai/brands/ascend-tms/alternatives",
+   "key": "86286ec60967634a",
+   "used_for": "cause trace for C05 and C06 (cited page; does not name Tai)"
+  },
+  {
+   "url": "https://gitnux.org/best/trucking-broker-software/",
+   "key": "49ba4bb738e1d915",
+   "used_for": "cause trace for C04 (cited page; does not carry the statement)"
+  },
+  {
+   "url": "https://www.brokerpro.com/compare/brokerpro-vs-mcleod-powerbroker/",
+   "key": "81ca41770ba267bb",
+   "used_for": "cause trace for C04 (cited page; does not carry the statement)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Tai publishes its pricing (transparent, published pricing).",
+   "class": "true",
+   "proof_url": "https://tai-software.com/pricing/",
+   "proof_quote": "Growth $ 995 Per Month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The public pricing page lists monthly prices for the Growth, Premium, Premium + and Pro tiers (Enterprise is by contact).",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q1|Claude|1",
+     "quote": "Tai TMS also publishes its pricing publicly"
+    },
+    {
+     "record_id": "transportation-management-systems|q1|Claude|2",
+     "quote": "making pricing relatively transparent."
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Claude|1",
+     "quote": "Its published, volume-based tiers make it easy to size the platform to your brokerage without a drawn-out sales process"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Claude|2",
+     "quote": "Its published, volume-based tiers make it easy to size the platform to your brokerage without a drawn-out sales process"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Claude|3",
+     "quote": "Modern UI, transparent pricing"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|1",
+     "quote": "Tai offers transparent, volume-based tiers that let you evaluate costs upfront."
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|2",
+     "quote": "featuring heavy automation and transparent pricing."
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|3",
+     "quote": "Transparent / Quote-based"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Overviews|1",
+     "quote": "It features transparent, published pricing unlike legacy enterprise options."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Pricing tiers are volume-based (sized by shipment volume).",
+   "class": "true",
+   "proof_url": "https://tai-software.com/pricing/",
+   "proof_quote": "2 Staff Logins 10 Client Logins 500 Carrier Profiles 0 Customer EDIs Included Get Started Core Tools 200 Included Shipments",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Each tier on the pricing page includes a set number of shipments (200, 600, 1,200, 2,500) with overage pricing beyond it.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q6|Claude|1",
+     "quote": "Its published, volume-based tiers make it easy to size the platform to your brokerage without a drawn-out sales process"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Claude|2",
+     "quote": "Its published, volume-based tiers make it easy to size the platform to your brokerage without a drawn-out sales process"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|1",
+     "quote": "Tai offers transparent, volume-based tiers that let you evaluate costs upfront."
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Claude|3",
+     "quote": "Pricing: Starts at ~$995/month (published by volume tier)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "plans",
+   "claim": "Each pricing tier states its shipment and staff-login allowances.",
+   "class": "true",
+   "proof_url": "https://tai-software.com/pricing/",
+   "proof_quote": "2 Staff Logins 10 Client Logins 500 Carrier Profiles 0 Customer EDIs Included Get Started Core Tools 200 Included Shipments",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists staff logins and included shipments for every tier.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q1|Claude|2",
+     "quote": "Tai publishes shipment and staff-login allowances by tier"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Tai pricing is quote-based (custom quote, no published price).",
+   "class": "wrong",
+   "proof_url": "https://tai-software.com/pricing/",
+   "proof_quote": "Growth $ 995 Per Month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes monthly prices for four tiers (Growth $995, Premium $2,465, Premium + $4,595, Pro $7,925), with only an Enterprise option by contact; the two cited pages read for a cause do not carry the statement. Pass 2 consistency check: the contradiction is explicit on Tai's own pricing page and compares the same thing (whether prices are published), so wrong stands.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q1|Claude|3",
+     "quote": "| **Tai TMS** | Automation & growth | Quote-based |"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Overviews|2",
+     "quote": "TAI TMS | LTL & Automation | Higher-end / Custom | Moderate"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Overviews|3",
+     "quote": "Weeks to months | Custom quote"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Tai TMS costs about $80 to $200 per month.",
+   "class": "wrong",
+   "proof_url": "https://tai-software.com/pricing/",
+   "proof_quote": "Growth $ 995 Per Month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The lowest published tier is Growth at $995 per month, the same monthly basis as the claim; none of the cited pages read carries the $80 to $200 figure. Pass 2 consistency check: even read per user (Growth includes 2 staff logins, about $498 each) every published tier is far above $200 a month, so wrong stands.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q5|Claude|1",
+     "quote": "| **Tai TMS** | Freight brokers | ~$80–$200/mo |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "founding",
+   "claim": "Tai has been helping freight brokers for 15 years.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Re-classed from wrong in pass 2: the home page tagline says 'Serving Freight Brokerage in the US for Over 20 Years', but the about page presents the 20+ years as the team's combined experience ('20+ yrs Combined experience in freight and logistics technology') and says the founders had 19+ years in logistics before founding Tai; no page read gives Tai's founding year, so how long Tai itself has served brokers is not stated like with like.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q5|Claude|1",
+     "quote": "Tai TMS has been helping freight brokers to grow their businesses for 15 years."
+    },
+    {
+     "record_id": "transportation-management-systems|q5|Claude|2",
+     "quote": "Tai TMS has been helping freight brokers grow their businesses for 15 years"
+    },
+    {
+     "record_id": "transportation-management-systems|q5|Claude|3",
+     "quote": "Tai TMS has been helping freight brokers grow their businesses for 15 years."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "product_names",
+   "claim": "The product is Tai TMS by (from) Teknowlogi.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names Teknowlogi; the pages name the company Tai Software, and the home page announces that Tai has joined forces with the Descartes Systems Group without a date.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q6|Claude|1",
+     "quote": "Tai TMS (by Teknowlogi)"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Claude|2",
+     "quote": "Tai TMS, from Teknowlogi, is a TMS built specifically for freight brokers focused on efficiency and growth."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "platforms",
+   "claim": "Tai TMS is a cloud-based platform.",
+   "class": "true",
+   "proof_url": "https://tai-software.com/about/",
+   "proof_quote": "Tai TMS is a cloud-based transportation management system built exclusively for freight brokers and 3PLs",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page describes Tai TMS as a cloud-based transportation management system.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q1|Claude|3",
+     "quote": "TAI TMS is a cloud-based platform"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "integrations",
+   "claim": "Tai has 500+ carrier and load board integrations.",
+   "class": "true",
+   "proof_url": "https://tai-software.com/components/integrations/",
+   "proof_quote": "Tai TMS provides 500+ direct API and EDI integrations for freight brokers, seamlessly connecting major load boards, LTL and FTL carriers, accounting software like QuickBooks, and visibility platforms into one centralized operational dashboard.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page states 500+ direct API and EDI integrations connecting load boards and carriers (other pages also say 100+, see notes).",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q1|Claude|3",
+     "quote": "500+ carrier and load board integrations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "integrations",
+   "claim": "Tai integrates with QuickBooks.",
+   "class": "true",
+   "proof_url": "https://tai-software.com/components/integrations/",
+   "proof_quote": "Tai TMS provides 500+ direct API and EDI integrations for freight brokers, seamlessly connecting major load boards, LTL and FTL carriers, accounting software like QuickBooks, and visibility platforms into one centralized operational dashboard.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page names QuickBooks among Tai's accounting integrations.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q1|ChatGPT|1",
+     "quote": "It supports both modes, direct LTL rating, customer portals, QuickBooks integration, and native LTL invoice auditing."
+    },
+    {
+     "record_id": "transportation-management-systems|q1|ChatGPT|3",
+     "quote": "It supports direct LTL carrier connections, load-board integrations, invoice auditing, and QuickBooks integration."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Tai TMS pricing starts at about $995 per month.",
+   "class": "true",
+   "proof_url": "https://tai-software.com/pricing/",
+   "proof_quote": "Growth $ 995 Per Month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The lowest published tier on the pricing page, Growth, costs $995 per month, the same starting price and monthly basis as the claim.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q6|Claude|3",
+     "quote": "Pricing: Starts at ~$995/month (published by volume tier)"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Four own pages read on tai-software.com (the canonical taisoftware.com home redirects there), all HTTP 200 and not thin. Prices were read on 8 Oct 2026; the page shows no dated price change, so C04 and C05 are classed against the current published tiers. The q6 Google AI Mode cells reading Transparent / Quote-based were coded only under C01, because published tiers plus an Enterprise tier by contact fit that mixed description; only flat quote-based or custom-quote statements are in C04. Tai's own pages give different integration counts (500+ on the integrations page and home page, 100+ elsewhere on the home and about pages); C09 is true on the 500+ statement. C06: the home page says over 20 years; the about page also mentions founders with 19+ years of experience before founding. Six cited pages were read for causes (the per-vendor maximum): none carries the 15-year line, the $80 to $200 range or quote-only pricing for Tai (SourceForge lists Tai at $995 per month), and softwareworld.co answered HTTP 403, so the claims classed wrong in the first pass (C04, C05, C06) are cause not found. The home page announces that Tai has joined forces with the Descartes Systems Group (linked to a descartes.com release, not read); no answer makes an ownership or acquisition claim about Tai. Not coded: results figures (66% faster billing, 1.4 million hours saved), positioning lines and generic load-board or rating-tool integrations. Pass 2 (8 Oct 2026): no browser snapshot exists for Tai and no claim was unverifiable because of a blocked page. Consistency check: C04 and C05 stay wrong; C06 moved from wrong to unverifiable because the about page frames the 20+ years as the team's combined experience and gives no founding year. Completeness: the gap lines are positioning or generic integration lines and were not coded; the q6 Claude run 3 sub-heading bullet 'Starts at ~$995/month (published by volume tier)' adds C11 (true) and a C02 instance. The q5 ChatGPT run 1 cell 'Request a quote' and the q6 ChatGPT run 2 advice to confirm what is separately priced were left out as advice, not statements.",
+ "answer_record_ids": [
+  "transportation-management-systems|q1|ChatGPT|1",
+  "transportation-management-systems|q1|ChatGPT|2",
+  "transportation-management-systems|q1|ChatGPT|3",
+  "transportation-management-systems|q1|Claude|1",
+  "transportation-management-systems|q1|Claude|2",
+  "transportation-management-systems|q1|Claude|3",
+  "transportation-management-systems|q1|Google AI Mode|1",
+  "transportation-management-systems|q1|Google AI Mode|2",
+  "transportation-management-systems|q1|Google AI Mode|3",
+  "transportation-management-systems|q1|Google AI Overviews|1",
+  "transportation-management-systems|q1|Google AI Overviews|2",
+  "transportation-management-systems|q1|Google AI Overviews|3",
+  "transportation-management-systems|q1|Perplexity|1",
+  "transportation-management-systems|q1|Perplexity|2",
+  "transportation-management-systems|q1|Perplexity|3",
+  "transportation-management-systems|q4|Google AI Overviews|2",
+  "transportation-management-systems|q4|Google AI Overviews|3",
+  "transportation-management-systems|q4|Perplexity|3",
+  "transportation-management-systems|q5|ChatGPT|1",
+  "transportation-management-systems|q5|ChatGPT|3",
+  "transportation-management-systems|q5|Claude|1",
+  "transportation-management-systems|q5|Claude|2",
+  "transportation-management-systems|q5|Claude|3",
+  "transportation-management-systems|q5|Google AI Mode|1",
+  "transportation-management-systems|q6|ChatGPT|1",
+  "transportation-management-systems|q6|ChatGPT|2",
+  "transportation-management-systems|q6|ChatGPT|3",
+  "transportation-management-systems|q6|Claude|1",
+  "transportation-management-systems|q6|Claude|2",
+  "transportation-management-systems|q6|Claude|3",
+  "transportation-management-systems|q6|Google AI Mode|1",
+  "transportation-management-systems|q6|Google AI Mode|2",
+  "transportation-management-systems|q6|Google AI Mode|3",
+  "transportation-management-systems|q6|Google AI Overviews|1",
+  "transportation-management-systems|q6|Google AI Overviews|2",
+  "transportation-management-systems|q6|Google AI Overviews|3",
+  "transportation-management-systems|q6|Perplexity|1",
+  "transportation-management-systems|q6|Perplexity|2",
+  "transportation-management-systems|q6|Perplexity|3"
+ ],
+ "named_count": 39
+}

@@ -1,0 +1,1500 @@
+{
+ "vendor": "AscendTMS",
+ "slug": "ascendtms",
+ "category": "transportation-management-systems",
+ "coded_at": "2026-10-08T04:07:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.thefreetms.com/pricing",
+   "key": "d2336e181cab0b65",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.thefreetms.com/",
+   "key": "887afdba458e41ab",
+   "used_for": "home (AscendTMS is served at thefreetms.com)"
+  },
+  {
+   "url": "https://www.thefreetms.com/our-partners",
+   "key": "fe39176c776880cd",
+   "used_for": "integrations (partner names shown as logos only, not in the text)"
+  },
+  {
+   "url": "https://www.thefreetms.com/broker-features",
+   "key": "4cf4613b8a84590e",
+   "used_for": "product page for brokers"
+  },
+  {
+   "url": "https://www.thefreetms.com/about-us",
+   "key": "4756bdaa0b9ff4c0",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.thefreetms.com/features-and-benefits",
+   "key": "2b797b576b214c02",
+   "used_for": "features"
+  },
+  {
+   "url": "https://www.thefreetms.com/press-releases",
+   "key": "45bac20ddcef3ccd",
+   "used_for": "press"
+  },
+  {
+   "url": "https://www.thefreetms.com/release-history",
+   "key": "00abb9c1cfbc80e0",
+   "used_for": "integrations (release notes name the integrated services)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Basic plan costs $69 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "Monthly Per User Cost: $69",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Basic at $69 per user per month on monthly billing, the basis the answers give.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|1",
+     "quote": "Publishes plans at **$69, $119, and $149 per user/month**"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|3",
+     "quote": "Published plans are **$69, $119, or $149 per user/month**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "Published pricing: **$69 Basic, $119 Premium, $149 Pro per user/month**."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Published pricing: **$69 Basic, $119 Premium, $149 Pro per user/month**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "**$69 Basic, $119 Premium, or $149 Pro per user/month.**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "Tiered per user/month ($69–$149) plus a free basic tier"
+    },
+    {
+     "record_id": "transportation-management-systems|q10|Google AI Overviews|3",
+     "quote": "Flat per-user subscription ($69 - $149/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "The Premium plan costs $119 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "Monthly Per User Cost: $119",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Premium at $119 per user per month on monthly billing.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|1",
+     "quote": "Publishes plans at **$69, $119, and $149 per user/month**"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|3",
+     "quote": "Published plans are **$69, $119, or $149 per user/month**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "Published pricing: **$69 Basic, $119 Premium, $149 Pro per user/month**."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Published pricing: **$69 Basic, $119 Premium, $149 Pro per user/month**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "**$69 Basic, $119 Premium, or $149 Pro per user/month.**"
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|1",
+     "quote": "Their Pro/Premium tiers run around $119 to $149/user/month with no contracts."
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|2",
+     "quote": "AscendTMS | Free basic or $119–$149/user/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The Pro plan, the most extensive plan, costs $149 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "Monthly Per User Cost: $149",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Pro, its top plan, at $149 per user per month on monthly billing.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|1",
+     "quote": "Publishes plans at **$69, $119, and $149 per user/month**"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|3",
+     "quote": "Published plans are **$69, $119, or $149 per user/month**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "Published pricing: **$69 Basic, $119 Premium, $149 Pro per user/month**."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Published pricing: **$69 Basic, $119 Premium, $149 Pro per user/month**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "**$69 Basic, $119 Premium, or $149 Pro per user/month.**"
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|1",
+     "quote": "Their Pro/Premium tiers run around $119 to $149/user/month with no contracts."
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|2",
+     "quote": "AscendTMS | Free basic or $119–$149/user/mo"
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|3",
+     "quote": "AscendTMS | Free tier available / Pro at $149/mo"
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Claude|3",
+     "quote": "while the most extensive plan costs $149 per user per month."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "paid tiers range from $49–$149 per user monthly"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "paid tiers range from $49–$149 per user monthly"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "Tiered per user/month ($69–$149) plus a free basic tier"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|3",
+     "quote": "Tiered per-user ($0 free to $149/mo)"
+    },
+    {
+     "record_id": "transportation-management-systems|q10|Google AI Overviews|3",
+     "quote": "Flat per-user subscription ($69 - $149/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Paid plans start at $49 per user per month (billing basis not stated).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page gives only monthly-billing prices (lowest $69 per user) and has a Yearly toggle whose prices are not in the snapshot, so a $49 entry price with no stated billing basis cannot be compared like with like. Pass 2: the release history (Dec 23, 2024) records 'Added a new paid tier of AscendTMS, the Basic Plan, which can be subscribed to for $49 per user, per month', but no page dates a change from $49 to the current $69, so the claim is not shown to be stale, and the missing Yearly prices still keep it from being wrong.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q2|Claude|3",
+     "quote": "Paid plans for AscendTMS start at $49 per user per month"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Overviews|2",
+     "quote": "Starts around $49 per user/month with no long-term contract requirement."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "paid tiers range from $49–$149 per user monthly"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "paid tiers range from $49–$149 per user monthly"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "The Premium plan costs $99 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Premium at $119 per user per month on monthly billing; the claim gives no billing basis and the page's yearly prices are not in the snapshot, so the comparison is not like with like.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "For more advanced options, AscendTMS offers a **Premium plan for $99/month**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Pricing is per user (not per truck or per load).",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "$69/month per user",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page prices every plan per user per month and states it never charges for drivers, trucks or loads.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|1",
+     "quote": "AscendTMS: Best if you want a system priced per user rather than per truck."
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|2",
+     "quote": "Because it prices by user rather than by truck"
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|3",
+     "quote": "Priced per user rather than flat fleet size"
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Perplexity|3",
+     "quote": "with transparent per-user pricing and no-contract risk."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Perplexity|1",
+     "quote": "Free tier and low, predictable per-user pricing"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Perplexity|2",
+     "quote": "Free/low-cost entry and predictable per-user pricing"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Perplexity|3",
+     "quote": "who want a **free plan** and simple per-user pricing."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "Tiered per user/month ($69–$149) plus a free basic tier"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|2",
+     "quote": "Features a free basic tier and low per-user monthly paid plans."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|3",
+     "quote": "Tiered per-user ($0 free to $149/mo)"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "No (per-user pricing)"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "Predictable for a few users; costs increase with seats."
+    },
+    {
+     "record_id": "transportation-management-systems|q10|Google AI Overviews|3",
+     "quote": "Flat per-user subscription ($69 - $149/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "There are no per-load charges.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "Never charges for drivers, trucks, or loads (ever)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states under every plan that it never charges for loads.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "No per-load charges."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "no per-load charges."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "No per-load charges."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "There are no contracts (no contract period; cancel any time).",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "No set-up fees. No contract periods ever.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states no contract periods ever and that customers can cancel at any time.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q10|Google AI Overviews|3",
+     "quote": "AscendTMS offers low-cost tiered subscription models with no contract lock-ins."
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|1",
+     "quote": "Their Pro/Premium tiers run around $119 to $149/user/month with no contracts."
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Perplexity|2",
+     "quote": "with transparent pricing and no contract risk."
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Perplexity|3",
+     "quote": "with transparent per-user pricing and no-contract risk."
+    },
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|1",
+     "quote": "with no base setup fees or contract periods"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|3",
+     "quote": "with no contract periods and free setup, support, and training."
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Overviews|2",
+     "quote": "Starts around $49 per user/month with no long-term contract requirement."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "30-day trial; no contracts or setup fees; free support and training."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Free 30-day trial; no contracts or setup fees; training and support included."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "30-day trial; no setup fees or contract periods; training and support included."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "AscendTMS is one of the few TMS vendors that publishes \"no contracts ever, cancel any time\" as a core promise"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "There is no contract — AscendTMS markets a \"no contracts ever\" policy with cancel-any-time terms."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|2",
+     "quote": "Offers a free basic version with no setup or long-term lock-ins"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "Free setup/training, no long-term contracts"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|3",
+     "quote": "Get started in minutes with zero long-term contracts."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "There are no setup fees (setup is free).",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "No set-up fees. No contract periods ever.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states no set-up fees and lists setup as free on every plan.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|1",
+     "quote": "with no base setup fees or contract periods"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|3",
+     "quote": "with no contract periods and free setup, support, and training."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "30-day trial; no contracts or setup fees; free support and training."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Free 30-day trial; no contracts or setup fees; training and support included."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "30-day trial; no setup fees or contract periods; training and support included."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "with no setup fees, no license fees, and no support fees."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "with no setup fees, no license fees, and no support fees."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|2",
+     "quote": "Offers a free basic version with no setup or long-term lock-ins"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "Fast Deployment: Features free setup and no long-term contracts."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "There are no license fees.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/",
+   "proof_quote": "No setup fees. No license fees. No support fees. No training fees.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states no license fees.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "with no setup fees, no license fees, and no support fees."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "with no setup fees, no license fees, and no support fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Support and training are free (no support or training fees).",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "Setup, Support & Training Free (Forever)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists setup, support and training as free on every plan.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|3",
+     "quote": "with no contract periods and free setup, support, and training."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "30-day trial; no contracts or setup fees; free support and training."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Free 30-day trial; no contracts or setup fees; training and support included."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "30-day trial; no setup fees or contract periods; training and support included."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "with no setup fees, no license fees, and no support fees."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "with no setup fees, no license fees, and no support fees."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|3",
+     "quote": "Designed to let you start booking loads almost immediately with a minimal learning curve and free ongoing training."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "Free setup/training, no long-term contracts"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|2",
+     "quote": "Pros: Rapid setup time, free training, and widespread industry adoption."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "Access to the DAT and Truckstop load boards from within AscendTMS requires separate paid DAT or Truckstop subscriptions.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "However, a DAT TruckersEdge, DAT Express, DAT Power and/or Truckstop.com paid subscription is required to seamlessly access the DAT and Truckstop.com load board services from within AscendTMS.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states a paid DAT or Truckstop.com subscription is required to use those load board services from within AscendTMS.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "DAT and Truckstop subscriptions are separate."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "AscendTMS also explicitly notes that integrated DAT and Truckstop access requires separate paid subscriptions"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "Ascend explicitly requires paid DAT/Truckstop subscriptions for those services"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "The DAT and Truckstop load board integrations are included rather than sold separately.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "There is no added charge for Basic, Premium or Pro AscendTMS account holders.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states the DAT and Truckstop.com load board access carries no added charge on Basic, Premium or Pro (the outside subscription is a separate matter, see C12).",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "Critical features like EDI tenders and integrations with major load boards (DAT, Truckstop, MCP, Triumph) are included rather than sold separately."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "Critical features like EDI tenders and integrations with major load boards (DAT, Truckstop, MCP, Triumph) are included rather than sold separately."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "The MCP and Triumph integrations are included rather than sold separately.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read confirm the MyCarrierPackets and Triumph integrations exist but do not state whether they carry a charge or which plans include them.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "Critical features like EDI tenders and integrations with major load boards (DAT, Truckstop, MCP, Triumph) are included rather than sold separately."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "Critical features like EDI tenders and integrations with major load boards (DAT, Truckstop, MCP, Triumph) are included rather than sold separately."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "EDI tenders are included rather than sold separately.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Outbound EDI as a Pro plan feature but also describes EDI connectivity with setup and transaction pricing per trading partner, so the pages do not settle whether EDI tenders are included without a separate charge.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "Critical features like EDI tenders and integrations with major load boards (DAT, Truckstop, MCP, Triumph) are included rather than sold separately."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "Critical features like EDI tenders and integrations with major load boards (DAT, Truckstop, MCP, Triumph) are included rather than sold separately."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "Pricing is tiered (several subscription tiers).",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "Three AMAZING plans that fit ANY company",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers three plans, Basic, Premium and Pro, at different per-user prices.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q10|Google AI Overviews|3",
+     "quote": "AscendTMS offers low-cost tiered subscription models with no contract lock-ins."
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|3",
+     "quote": "Published tiers / Freemium"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "Tiered per user/month ($69–$149) plus a free basic tier"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|3",
+     "quote": "Tiered per-user ($0 free to $149/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "AscendTMS publishes its prices (public, transparent pricing rather than quote only).",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "Simple, predictable, and honest pricing, billed conveniently to your credit card every month.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The public pricing page lists a per-user monthly price for every plan.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q2|Perplexity|1",
+     "quote": "noted for transparent pricing and low setup risk."
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Perplexity|2",
+     "quote": "with transparent pricing and no contract risk."
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Perplexity|3",
+     "quote": "with transparent per-user pricing and no-contract risk."
+    },
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|1",
+     "quote": "Publishes plans at **$69, $119, and $149 per user/month**"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|ChatGPT|3",
+     "quote": "Published plans are **$69, $119, or $149 per user/month**"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|2",
+     "quote": "Free tier & published pricing"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|3",
+     "quote": "accessible option that publishes pricing clearly"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Overviews|1",
+     "quote": "Published pricing available"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Perplexity|2",
+     "quote": "Commonly positioned as a low-cost or public-price option for smaller desks."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "Published pricing: **$69 Basic, $119 Premium, $149 Pro per user/month**."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Published pricing: **$69 Basic, $119 Premium, $149 Pro per user/month**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|2",
+     "quote": "Published per-user monthly rates & free tier"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "The Premium plan adds accounts receivable and accounts payable (accounting) tools.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "the Premium plan adds accounts receivable management, accounts payable management, advances, customer statements and financial exporting to Excel",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states the Premium plan adds accounts receivable and accounts payable management.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "Premium adds AR/AP tools."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Premium adds more accounting tools."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "Premium adds expanded receivables/payables tools."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "plans",
+   "claim": "A paid plan is needed to unlock all tools, including load management, dispatch, accounting, driver communication, real-time tracking and ELD integrations.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages say plans start at zero dollars but do not describe what a free plan includes, so they do not settle which tools need a paid plan.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q2|Claude|3",
+     "quote": "You'll need to upgrade to a paid plan if you want to unlock all tools, including load management, dispatch, accounting, driver communication, real-time tracking, and ELD integrations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "free_tier",
+   "claim": "AscendTMS has a free plan (free tier, freemium model).",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/",
+   "proof_quote": "Pricing plans start at zero dollars, so your risk is literally NOTHING!",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states pricing plans start at zero dollars, and the site invites visitors to create a free account; the pricing page itself lists only the three paid plans and a 30-day trial.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q2|Claude|1",
+     "quote": "offering basic dispatch capabilities for free."
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Claude|2",
+     "quote": "If budget is a top concern, start with **AscendTMS's free tier**."
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Claude|3",
+     "quote": "AscendTMS offers a free basic plan"
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|2",
+     "quote": "AscendTMS | Free basic or $119–$149/user/mo"
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|3",
+     "quote": "Highly scalable with a robust free version and clear upgrade paths."
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Overviews|2",
+     "quote": "AscendTMS: Best if you need a robust free tier for a tight budget."
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Google AI Mode|2",
+     "quote": "with a widely adopted, accessible free tier."
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Google AI Mode|3",
+     "quote": "Widely adopted, cost-effective, and quick to deploy with a free tier option."
+    },
+    {
+     "record_id": "transportation-management-systems|q5|Claude|1",
+     "quote": "offering load tracking, dispatch, and rate management through a freemium model"
+    },
+    {
+     "record_id": "transportation-management-systems|q5|Claude|2",
+     "quote": "offering load tracking, dispatch, and rate management through a freemium model"
+    },
+    {
+     "record_id": "transportation-management-systems|q5|Claude|3",
+     "quote": "offering load tracking, dispatch, and rate management through a freemium model"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|1",
+     "quote": "a freemium-to-subscription scaling model"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|2",
+     "quote": "offering transparent pricing (including a free tier option)"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|3",
+     "quote": "Published tiers / Freemium"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "It offers a freemium tier with fully functional free service for up to 2 users with no credit card requirement"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "AscendTMS offers a freemium tier with fully functional free service for up to 2 users with no credit card requirement"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "AscendTMS offers a **free plan with over 230 features**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|1",
+     "quote": "Free Entry Option: It offers a robust free tier (and low-cost premium tiers)"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|2",
+     "quote": "famously offers a robust free tier alongside affordable paid upgrades."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|3",
+     "quote": "Offers a freemium entry model (with surprisingly capable free tiers)"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "Tiered per user/month ($69–$149) plus a free basic tier"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|2",
+     "quote": "Features a free basic tier and low per-user monthly paid plans."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|3",
+     "quote": "Low Entry Cost: Offers a free basic tier and low per-user monthly costs."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Perplexity|1",
+     "quote": "Free tier and low, predictable per-user pricing"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Perplexity|2",
+     "quote": "Free/low-cost entry and predictable per-user pricing"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Perplexity|3",
+     "quote": "because it has a free entry tier"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Claude|3",
+     "quote": "It is available as a standard entry-level product with both free and paid tiers, making it a popular starting point for newer or smaller brokerages."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "free_tier",
+   "claim": "The free tier allows up to 3 users.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages state plans start at zero dollars but give no user limit for a free plan (the paid plans show no user limit). Pass 2: the release history mentions only a former 2-user limit on the Basic Plan (Dec 23, 2024), never a 3-user limit.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q2|Claude|1",
+     "quote": "It is genuinely free for up to 3 users with most core TMS modules"
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Claude|2",
+     "quote": "It is genuinely free for up to 3 users with most core TMS modules"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "free_tier",
+   "claim": "The free tier allows up to 2 users.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages state plans start at zero dollars but give no user limit for a free plan. Pass 2: the release history (Dec 23, 2024) records 'The Basic Plan is no longer limited to 2 users' alongside Basic becoming a paid tier, which suggests the 2-user limit belonged to an earlier free Basic plan; the page does not say so explicitly, and the home page still says plans start at zero dollars without a user limit, so the claim is not shown to be stale or wrong.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "Free (up to 2 users); $49+/user/mo"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "Free (up to 2 users) / $49–$149/user/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "free_tier",
+   "claim": "Signing up for free requires no credit card.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "No Contracts. No Setup Fees. No Credit Card Needed.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing and home pages state no credit card is needed to get started.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "It offers a freemium tier with fully functional free service for up to 2 users with no credit card requirement"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "AscendTMS offers a freemium tier with fully functional free service for up to 2 users with no credit card requirement"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "free_tier",
+   "claim": "AscendTMS offers a free 30-day trial.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "Free 30 Day Trial",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists a free 30-day trial on each plan.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "30-day trial; no contracts or setup fees; free support and training."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Free 30-day trial; no contracts or setup fees; training and support included."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "30-day trial; no setup fees or contract periods; training and support included."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "free_tier",
+   "claim": "The free plan includes over 230 features.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists over 230 standard features on the Basic, Premium and Pro plans but no page read describes the contents of a free plan.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "AscendTMS offers a **free plan with over 230 features**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "free_tier",
+   "claim": "Love's Financial offers AscendTMS free to its factoring customers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The press list and release notes show a Love's Financial factoring relationship but no page read says Love's offers AscendTMS free to its customers.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "Love's Financial offering AscendTMS free to factoring customers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "integrations",
+   "claim": "AscendTMS has more than 140 pre-installed third-party integrations.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "plus over 140 pre-installed 3rd party service integrations ready to go",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states over 140 pre-installed third-party service integrations.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "AscendTMS offers 230+ standard features and 140+ integrations, with no contracts."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "140+ pre-installed third-party integrations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "integrations",
+   "claim": "AscendTMS integrates with QuickBooks.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/release-history",
+   "proof_quote": "Resolved an issue with the QuickBooks Online integration not including the customer address.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's release history documents a QuickBooks Online integration (and QuickBooks Desktop exports).",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "integrates with third-party services like QuickBooks."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "QuickBooks synchronization can occasionally feel clunky with address or data matching."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|2",
+     "quote": "Reports of clunky QuickBooks data exports"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|3",
+     "quote": "Excellent for simple load building, dispatching, and QuickBooks integration."
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "integrations",
+   "claim": "AscendTMS integrates with the DAT load board.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "seamlessly access the DAT and Truckstop.com load board services from within AscendTMS",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states DAT load board services can be accessed from within AscendTMS.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "DAT, Truckstop, MCP, Triumph"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "integrations with major load boards (DAT, Truckstop, MCP, Triumph)"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "Deep load-board integrations include **DAT (Convoy Platform fully integrated Jan 2026), Truckstop, and Trucker Path.**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "AscendTMS also explicitly notes that integrated DAT and Truckstop access requires separate paid subscriptions"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "Ascend explicitly requires paid DAT/Truckstop subscriptions for those services"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "integrations",
+   "claim": "AscendTMS integrates with DAT's Convoy Platform.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/about-us",
+   "proof_quote": "AscendTMS is also the ONLY natively connected TMS software to the largest digital payments network (TriumphPay) and to DAT's new 100% digital freight transaction exchange (Convoy Platform).",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page states AscendTMS is natively connected to DAT's Convoy Platform; the answers' January 2026 date matches the 7 Jan 2026 press release, while the release notes date the integration release 12 Nov 2025 (a launch date, not classed).",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "Recent moves include the DAT Convoy Platform integration (January 2026)"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "**DAT (Convoy Platform fully integrated Jan 2026), Truckstop, and Trucker Path.**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "integrations",
+   "claim": "AscendTMS integrates with the Truckstop load board.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "seamlessly access the DAT and Truckstop.com load board services from within AscendTMS",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states Truckstop.com load board services can be accessed from within AscendTMS.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "DAT, Truckstop, MCP, Triumph"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "integrations with major load boards (DAT, Truckstop, MCP, Triumph)"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "DAT, Truckstop, Trucker Path"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "AscendTMS also explicitly notes that integrated DAT and Truckstop access requires separate paid subscriptions"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "Ascend explicitly requires paid DAT/Truckstop subscriptions for those services"
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "integrations",
+   "claim": "AscendTMS integrates with MyCarrierPackets (MCP).",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/release-history",
+   "proof_quote": "MyCarrierPackets - Bulk import carrier profile information and completed carrier packets.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's release history documents a MyCarrierPackets integration.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "DAT, Truckstop, MCP, Triumph"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "integrations with major load boards (DAT, Truckstop, MCP, Triumph)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "integrations",
+   "claim": "AscendTMS integrates with Triumph.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "AscendTMS is seamlessly integrated to Triumph Business Capital, the largest transportation factoring company in the world.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states AscendTMS is integrated with Triumph Business Capital.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "DAT, Truckstop, MCP, Triumph"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "integrations with major load boards (DAT, Truckstop, MCP, Triumph)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "integrations",
+   "claim": "AscendTMS integrates with the Trucker Path load board.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The only mention on the pages read is a 2016 press release title (Trucker Path and AscendTMS join forces to offer a TMS and capacity solution); no page states a current Trucker Path load board integration.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "DAT, Truckstop, Trucker Path"
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "integrations",
+   "claim": "AscendTMS has a carrier-vetting partnership and integration with Highway (October 2025).",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/release-history",
+   "proof_quote": "New integration with Highway Connect and Load Lock: Highway offers carrier onboarding and monitoring with Highway Connect, and fraud detection with Load Lock.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The release history documents the Highway carrier monitoring integration and the press list dates the partnership 7 Oct 2025 (Highway Taps AscendTMS To Move Into SMB Market).",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "the Highway carrier-vetting partnership (October 2025)"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "A **Highway carrier vetting partnership (Oct 2025)** gives small brokers fraud-prevention out of the box."
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "integrations",
+   "claim": "AscendTMS integrates with Carrier411.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names Carrier411; the partners page shows partner logos only, with no names in its text.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|1",
+     "quote": "carrier onboarding/lookup (Carrier411 integration)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "platforms",
+   "claim": "AscendTMS is cloud-based software.",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/about-us",
+   "proof_quote": "we've perfected cloud-based, instant-access TMS software",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page describes AscendTMS as cloud-based, instant-access TMS software usable from any web browser.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q10|Google AI Overviews|3",
+     "quote": "Known as one of the most accessible cloud platforms"
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Claude|1",
+     "quote": "AscendTMS is cloud transport management software for businesses of all sizes."
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Claude|2",
+     "quote": "AscendTMS is cloud transport management software for businesses of all sizes."
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Claude|3",
+     "quote": "AscendTMS is cloud transport management software for businesses of all sizes"
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Google AI Mode|2",
+     "quote": "AscendTMS: Best for a budget-friendly or scalable cloud TMS"
+    },
+    {
+     "record_id": "transportation-management-systems|q5|Claude|1",
+     "quote": "AscendTMS delivers cloud-based transportation management software for freight brokers and carriers"
+    },
+    {
+     "record_id": "transportation-management-systems|q5|Claude|2",
+     "quote": "AscendTMS delivers cloud-based transportation management software for freight brokers and carriers"
+    },
+    {
+     "record_id": "transportation-management-systems|q5|Claude|3",
+     "quote": "AscendTMS delivers cloud-based transportation management software for freight brokers and carriers"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|2",
+     "quote": "A highly scalable, user-friendly cloud platform"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Overviews|1",
+     "quote": "Highly adopted cloud platform known for fast deployment"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Overviews|2",
+     "quote": "It offers an affordable cloud-based alternative"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "AscendTMS is a cloud-based TMS"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|1",
+     "quote": "AscendTMS is one of the most widely used cloud-based systems on the market"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|3",
+     "quote": "Both are robust cloud systems"
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "platforms",
+   "claim": "AscendTMS has no native dedicated (driver) mobile app.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says driver tracking needs no app (it works by text message) but no page read states whether AscendTMS has or lacks its own mobile app.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q2|Claude|1",
+     "quote": "However, it has no native dedicated driver mobile app"
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Claude|2",
+     "quote": "Note: There is no native dedicated driver mobile app"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "the lack of a real driver app"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "No native dedicated driver mobile app"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "The **lack of a dedicated mobile app** and the limited functionality of the mobile web interface"
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "product_names",
+   "claim": "AscendTracker is AscendTMS's driver tracking module (tracking by text message).",
+   "class": "true",
+   "proof_url": "https://www.thefreetms.com/pricing",
+   "proof_quote": "Track any driver and any load in real-time with AscendTracker.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names AscendTracker as the driver track-and-trace feature that works by text message.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q2|Claude|1",
+     "quote": "tracking is browser-based or via SMS through \"AscendTracker.\""
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Claude|2",
+     "quote": "tracking is browser-based or via SMS through \"AscendTracker.\""
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "tracking is browser-based or SMS via \"AscendTracker.\""
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Eight own pages read on thefreetms.com, all HTTP 200 and not thin (the brief names thefreetms.com as an AscendTMS address; the canonical ascendtms.com root was not read because the eight-page limit was used on the product site). The partners page shows partner names as logos only, so its text names no partner; the release history page was read instead to settle named integrations (QuickBooks Online, MyCarrierPackets, Highway, Convoy Platform). The pricing page shows monthly prices only ($69, $119, $149 per user); its Yearly toggle carries no prices in the snapshot or the raw HTML, which is why $49 (C04) and $99 Premium (C05) are unverifiable rather than wrong. The free plan (C20) is classed true on the home page line that plans start at zero dollars; the pricing page itself lists only paid plans plus a 30-day trial, and the broker page offers Premium free for up to a year. A hedged line that EDI connections can carry separate charges (q6 ChatGPT runs 1 and 3) and the hedged caution not to assume a permanent free tier (q7 ChatGPT 1) were not coded. Review ratings, feature counts (230+ standard features as a product fact), onboarding times and launch dates were not coded. No claim is wrong or stale, so no cited page was read for causes. For the reviewer only: the press list shows AscendTMS acquired LoadPilot TMS on 20 Feb 2026; no answer states that acquisition. Pass 2 (8 Oct 2026): no browser snapshot exists for AscendTMS. Re-reading the vendor's own release history found two dated Basic Plan entries (Dec 23, 2024: Basic added as a paid tier at $49 per user per month, and no longer limited to 2 users); they bear on C04 and C22 (and C21) but do not date the move to today's $69 or say the 2-user plan was the free plan, so those claims stay unverifiable with the entries noted in their rationales. A reviewer may judge C04 or C22 stale on that evidence. No claim is wrong or stale, so step 3 changed nothing. Completeness: added the q6 Claude run 3 line on free and paid tiers to C20; every other gap line and table cell about AscendTMS was already an instance (Free to $149/user/mo, Free up to 3 users, ~$49/user/month, two Premium seats total $238/month, three seats at $207, $357 or $447, the q7 comparison table cells) or out of scope (best-for lines, ratings, Native EDI and AI cells, the hedged free-tier caution).",
+ "answer_record_ids": [
+  "transportation-management-systems|q1|Claude|2",
+  "transportation-management-systems|q10|Google AI Overviews|3",
+  "transportation-management-systems|q2|Claude|1",
+  "transportation-management-systems|q2|Claude|2",
+  "transportation-management-systems|q2|Claude|3",
+  "transportation-management-systems|q2|Google AI Mode|1",
+  "transportation-management-systems|q2|Google AI Mode|2",
+  "transportation-management-systems|q2|Google AI Mode|3",
+  "transportation-management-systems|q2|Google AI Overviews|2",
+  "transportation-management-systems|q2|Perplexity|1",
+  "transportation-management-systems|q2|Perplexity|2",
+  "transportation-management-systems|q2|Perplexity|3",
+  "transportation-management-systems|q4|Claude|1",
+  "transportation-management-systems|q4|Claude|2",
+  "transportation-management-systems|q4|Claude|3",
+  "transportation-management-systems|q4|Google AI Mode|2",
+  "transportation-management-systems|q4|Google AI Mode|3",
+  "transportation-management-systems|q4|Google AI Overviews|2",
+  "transportation-management-systems|q4|Perplexity|1",
+  "transportation-management-systems|q4|Perplexity|2",
+  "transportation-management-systems|q4|Perplexity|3",
+  "transportation-management-systems|q5|ChatGPT|1",
+  "transportation-management-systems|q5|ChatGPT|2",
+  "transportation-management-systems|q5|ChatGPT|3",
+  "transportation-management-systems|q5|Claude|1",
+  "transportation-management-systems|q5|Claude|2",
+  "transportation-management-systems|q5|Claude|3",
+  "transportation-management-systems|q5|Google AI Mode|1",
+  "transportation-management-systems|q5|Google AI Mode|2",
+  "transportation-management-systems|q5|Google AI Mode|3",
+  "transportation-management-systems|q5|Google AI Overviews|1",
+  "transportation-management-systems|q5|Google AI Overviews|2",
+  "transportation-management-systems|q5|Google AI Overviews|3",
+  "transportation-management-systems|q5|Perplexity|1",
+  "transportation-management-systems|q5|Perplexity|2",
+  "transportation-management-systems|q5|Perplexity|3",
+  "transportation-management-systems|q6|ChatGPT|1",
+  "transportation-management-systems|q6|ChatGPT|3",
+  "transportation-management-systems|q6|Claude|1",
+  "transportation-management-systems|q6|Claude|2",
+  "transportation-management-systems|q6|Claude|3",
+  "transportation-management-systems|q6|Google AI Mode|1",
+  "transportation-management-systems|q6|Google AI Mode|2",
+  "transportation-management-systems|q6|Google AI Mode|3",
+  "transportation-management-systems|q6|Google AI Overviews|1",
+  "transportation-management-systems|q6|Google AI Overviews|2",
+  "transportation-management-systems|q6|Perplexity|1",
+  "transportation-management-systems|q6|Perplexity|2",
+  "transportation-management-systems|q6|Perplexity|3",
+  "transportation-management-systems|q7|ChatGPT|1",
+  "transportation-management-systems|q7|ChatGPT|2",
+  "transportation-management-systems|q7|ChatGPT|3",
+  "transportation-management-systems|q7|Claude|1",
+  "transportation-management-systems|q7|Claude|2",
+  "transportation-management-systems|q7|Claude|3",
+  "transportation-management-systems|q7|Google AI Mode|1",
+  "transportation-management-systems|q7|Google AI Mode|2",
+  "transportation-management-systems|q7|Google AI Mode|3",
+  "transportation-management-systems|q7|Google AI Overviews|1",
+  "transportation-management-systems|q7|Google AI Overviews|2",
+  "transportation-management-systems|q7|Google AI Overviews|3",
+  "transportation-management-systems|q7|Perplexity|1",
+  "transportation-management-systems|q7|Perplexity|2",
+  "transportation-management-systems|q7|Perplexity|3"
+ ],
+ "named_count": 64
+}

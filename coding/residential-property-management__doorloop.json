@@ -1,0 +1,972 @@
+{
+ "vendor": "DoorLoop",
+ "slug": "doorloop",
+ "category": "residential-property-management",
+ "coded_at": "2026-10-08T04:07:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.doorloop.com/pricing",
+   "key": "fa4ccb34c51fca6e",
+   "used_for": "pricing (also FAQ: billing, mobile apps, cloud, integrations)"
+  },
+  {
+   "url": "https://doorloop.com/",
+   "key": "00de9312b273c8e7",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.doorloop.com/ai-assistant",
+   "key": "5994eebb5148a035",
+   "used_for": "product (AI Assistant)"
+  },
+  {
+   "url": "https://aitoolsbakery.com/blog/buildium-alternatives/",
+   "key": "983e22eea00edbd6",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://aitoolsbakery.com/blog/appfolio-alternatives/",
+   "key": "07809d47e21cd26b",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://ustechautomations.com/resources/blog/automate-doorloop-vs-buildium-for-property-managers-2026",
+   "key": "160ebc4ee7e4fc3c",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://www.re-leased.com/software/appfolio-alternatives-7-top-property-management-solutions-for-2026",
+   "key": "e7a88741006c577b",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://www.doorloop.com/blog/buildium-vs-yardi",
+   "key": "4362165e468eccd5",
+   "used_for": "cause tracing (cited own blog page)"
+  },
+  {
+   "url": "https://aitoolsbakery.com/blog/doorloop-alternatives/",
+   "key": "0af9c9f051ec38e8",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://www.re-leased.com/software/best-10-buildium-alternatives-for-property-management-in-2026",
+   "key": "604c0904f47bca0b",
+   "used_for": "cause tracing (cited page, not own; snapshot taken under the innago slug and reused)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Starter plan costs $69 per month billed annually, covering up to 10 units.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Only $3/unit STARTER Max 10 units $ 99 00 $ 69 00 Per month. Billed yearly .",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page shows Starter at $69 per month billed yearly for a maximum of 10 units (the $99 figure is the monthly-billing price in the page markup), and the FAQ says prices start at $69 per month for the first 10 units.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Advertises starting pricing of $69/month for the first 10 units, billed annually."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "The Starter plan runs $69/month billed annually, or $99 month-to-month, and caps at 10 units."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "Starter lists $69/month billed annually for up to 10 units, or $99 month-to-month."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|2",
+     "quote": "Its advertised entry price is $69/month, billed annually, for up to 10 units."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "Advertises a starting price of $69/month billed annually for the first 10 units."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|1",
+     "quote": "Advertised entry pricing starts at $69/month billed annually for up to 10 units."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|2",
+     "quote": "Advertises $69/month billed annually for up to 10 units."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|3",
+     "quote": "Advertises $69/month billed annually for the first 10 units."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Plans start at $69 per month (billing basis not stated).",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Prices start at only $69/month for your first 10 units.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ states that prices start at $69 per month; the answers do not claim a monthly-billing price.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "Plans start at $69/month with no free tier option."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "DoorLoop is a modern, accessible tool starting at $69/month"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "DoorLoop's starter plan starts at $69 per month for up to 20 units."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "Startups & small managers | $69/month"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "Pricing starts at $69/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Overviews|1",
+     "quote": "Starting Price: Around $69/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Overviews|3",
+     "quote": "plans starting at $69/month"
+    },
+    {
+     "record_id": "residential-property-management|q5|Claude|1",
+     "quote": "starting at $69 monthly"
+    },
+    {
+     "record_id": "residential-property-management|q5|Claude|2",
+     "quote": "starting at $69 monthly"
+    },
+    {
+     "record_id": "residential-property-management|q5|Claude|3",
+     "quote": "starting at $69 monthly"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The Starter plan costs $99 per month on month-to-month billing.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Only $3/unit STARTER Max 10 units $ 99 00 $ 69 00 Per month. Billed yearly .",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page shows $99 for Starter beside the $69 yearly price; the page markup labels $99 as the monthly-billing price and the FAQ confirms any plan can be paid monthly.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "or $99 month-to-month"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "Starter lists $69/month billed annually for up to 10 units, or $99 month-to-month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "plans",
+   "claim": "The Starter plan is capped at 10 units.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Only $3/unit STARTER Max 10 units",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page marks Starter as Max 10 units.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|1",
+     "quote": "Starter is capped at 10 units."
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|3",
+     "quote": "Starter is capped at 10 units"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "and caps at 10 units"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "The Pro plan costs $149 per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "PRO Book a Free Demo $ 189 00 $ 149 00 Per month. Billed yearly .",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page shows Pro at $149 per month billed yearly ($189 on monthly billing).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|1",
+     "quote": "Advertised from $149/month billed annually"
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|2",
+     "quote": "Advertised from $149/month billed annually"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "The Pro plan moves to $149/month billed annually"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "The Starter plan covers up to 20 units.",
+   "class": "wrong",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Only $3/unit STARTER Max 10 units",
+   "stale_change": null,
+   "causing_url": "https://ustechautomations.com/resources/blog/automate-doorloop-vs-buildium-for-property-managers-2026",
+   "causing_type": "other",
+   "causing_quote": "Pricing (base tier) | $59/mo (up to 20 units)",
+   "rationale": "The pricing page caps the Starter plan at 10 units, not 20.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "DoorLoop's starter plan starts at $69 per month for up to 20 units."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Plans start at $59 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Re-classed from wrong in the pass-2 consistency check: the pricing page says prices start at $69 per month, but its own annual-billing example prices 10 units on the basic plan at $708 for the year, which is $59 per month, so the vendor page is internally inconsistent and does not explicitly contradict a $59 starting price.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q4|Claude|2",
+     "quote": "DoorLoop offers comparable residential property management features starting at $59/month with no per-unit fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "DoorLoop charges no per-unit fees.",
+   "class": "wrong",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "If you remove any units in the middle of the month, they will automatically be removed from your next monthly bill.",
+   "stale_change": null,
+   "causing_url": "https://www.re-leased.com/software/best-10-buildium-alternatives-for-property-management-in-2026",
+   "causing_type": "other",
+   "causing_quote": "DoorLoop offers comparable residential property management features starting at $59/month with no per-unit fees.",
+   "rationale": "The pricing page bills by unit count (each plan card notes Only $3/unit and the FAQ says units are added to or removed from the bill).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q4|Claude|2",
+     "quote": "starting at $59/month with no per-unit fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Price depends on the number of units (and plan and billing term).",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "If you remove any units in the middle of the month, they will automatically be removed from your next monthly bill.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page asks for the number of units, notes Only $3/unit on each plan and bills by units, with separate monthly and yearly prices.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|2",
+     "quote": "Subscription pricing varies with unit count, and transaction fees apply."
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|3",
+     "quote": "advertised prices depend on unit count and billing term"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "the per-unit cost creep landlords report with DoorLoop"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "Pricing: Starts at $69/month for smaller tiers; scales up from there."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "Pricing depends on units, plan, and billing term."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Price depends on portfolio size and plan"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Pricing depends on units and billing terms"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "Pricing increases with portfolio size"
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Mode|1",
+     "quote": "Mid-tier per-unit pricing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Pricing varies by plan tier.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "PRO Book a Free Demo $ 189 00 $ 149 00 Per month. Billed yearly .",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists different prices for Starter, Pro and Premium.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|3",
+     "quote": "Varies by tier / custom quote"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|1",
+     "quote": "Modern, easy-to-use interface | Varies by tier"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Phone support, listings, API access and payment and eSignature fees differ by plan.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "eSignature Electronically sign any agreement. $3 per Document $1 per Document Free",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page charges eSignatures and ACH payments at different rates per plan and places phone support and listings in Pro and API access in Premium.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "Payment and e-signature fees differ by plan."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|2",
+     "quote": "Check plan restrictions: phone support, listings, API access, and payment fees differ by tier."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|2",
+     "quote": "Phone support, listings, integrations, and fee waivers depend on the plan"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "plans",
+   "claim": "Pro adds budgeting, listings, showings, workflows, bank reconciliation, user access roles and phone and Zoom support.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Email, chat, phone & Zoom support Get world-class support by email, chat, phone, and Zoom, as well as unlimited access to our Help Center. Listings List your vacant units on Zillow, Dwellsy, Trulia, HotPads, and more. User access roles",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Pro list on the pricing page (everything in Starter and) includes workflows, live bank connect, budgeting, phone and Zoom support, listings, user access roles and showings; Starter support is email and chat.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|1",
+     "quote": "Includes budgeting, listings, user roles, and phone/Zoom support."
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|2",
+     "quote": "Includes user access roles, budgeting, listings, and phone/Zoom support."
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|3",
+     "quote": "Includes accounting, maintenance, tenant communications, listings, user-access roles, and phone/Zoom support."
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Pro also includes workflows and phone/Zoom support."
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "Pro combines accounting, budgeting, listings, showings, user permissions, and phone/Zoom support."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "higher plans add budgeting and integrations"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Pro adds user access roles"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "adding bank reconciliation and role-based access"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "listings and phone/Zoom support start with Pro"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|1",
+     "quote": "phone support starts at Pro"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|3",
+     "quote": "Budgeting and listing tools require Pro"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "plans",
+   "claim": "Premium adds API access, audit logs, unlimited users, free incoming ACH and free eSignatures.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "API access Integrate with any app using our open API, or use Zapier to connect DoorLoop with thousands of programs. CAM Reconciliation Automatically calculates true-ups, generates tenant statements, and handles pro rata splits. Audit Logs",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Premium list on the pricing page (everything in Pro and) includes free incoming ACH payments, free eSignatures, unlimited additional users, API access and audit logs.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Premium includes free incoming ACH and e-signatures"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "API access, audit logs, and unlimited additional users are listed in Premium."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "API access and audit logs are Premium features."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Premium adds API access and audit logs."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "API access and several other features require Premium."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "API access and free incoming ACH are Premium features."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|1",
+     "quote": "while API access and free incoming ACH are Premium features."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|3",
+     "quote": "API access requires Premium."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "DoorLoop offers month-to-month billing without a long contract.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "You can select to pay monthly for any of our plans (pay as you go).",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ allows monthly payment on any plan and says customers are free to cancel at any time.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "DoorLoop offers month-to-month flexibility"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "DoorLoop publishes its prices.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Prices start at only $69/month for your first 10 units.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The public pricing page lists a price for each plan.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|2",
+     "quote": "It is transparently priced"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|3",
+     "quote": "with transparent pricing"
+    },
+    {
+     "record_id": "residential-property-management|q3|Perplexity|3",
+     "quote": "good all-in-one functionality at a transparent price point"
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Mode|3",
+     "quote": "It also publishes transparent pricing."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "DoorLoop — *Best for Ease of Use & Transparent Pricing*"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "DoorLoop balances ease of use, feature depth, and transparent pricing better than any other platform at its price point."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "DoorLoop's starting price is a custom quote.",
+   "class": "wrong",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Prices start at only $69/month for your first 10 units.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes a starting price of $69 per month; only portfolios over 300 units are sent to a demo.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q4|Claude|3",
+     "quote": "Growth-focused managers | Custom"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|2",
+     "quote": "Small portfolios under 50 doors | Custom quote"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "Plans start at about $49 per month.",
+   "class": "wrong",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Prices start at only $69/month for your first 10 units.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page gives $69 per month as the lowest plan price, so a $49 starting price contradicts it.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "Mixed portfolios, modern UI | ~$49+/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "Yearly-billed prices run $99 to $239 per month.",
+   "class": "wrong",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Only $3/unit STARTER Max 10 units $ 99 00 $ 69 00 Per month. Billed yearly .",
+   "stale_change": null,
+   "causing_url": "https://aitoolsbakery.com/blog/buildium-alternatives/",
+   "causing_type": "other",
+   "causing_quote": "DoorLoop, at a real yearly-billed $99 to $239 per month plus $3 per unit",
+   "rationale": "The pricing page gives yearly-billed prices of $69, $149 and $209 per month and its FAQ says prices start at $69 per month; $99, $189 and $239 are the monthly-billing prices in the page markup, so a yearly-billed range of $99 to $239 contradicts it (Premium billed yearly is $209, not $239).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "DoorLoop offers Buildium-comparable features at a real yearly-billed price of $99 to $239/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "free_tier",
+   "claim": "DoorLoop has no free plan (it is paid only).",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Prices start at only $69/month for your first 10 units.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ says prices start at $69 per month, and all three plans are priced.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q1|Claude|2",
+     "quote": "Customization | Paid"
+    },
+    {
+     "record_id": "residential-property-management|q1|Claude|3",
+     "quote": "Customization | Paid"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "Plans start at $69/month with no free tier option."
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "Varies | Paid, polished platform | ❌"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "pricing",
+   "claim": "DoorLoop has a 10-unit minimum.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The page prices the first 10 units and caps Starter at 10 units but does not state a unit minimum.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "Ease of use, transparent pricing | $69/mo | 10 units"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "DoorLoop has no unit minimum.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read do not state whether a unit minimum applies.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "$69/mo (up to 20 units) | None"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "pricing",
+   "claim": "Estimated cost at 100 units is about $69 to $179 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page requires a unit count and does not publish a price for 100 units.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "Accessibility, turnover-heavy | ~$69–$179/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "pricing",
+   "claim": "Estimated cost at 50 units is about $69 or more per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page requires a unit count and does not publish a price for 50 units.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "Mixed portfolios, ease of use | ~$69+/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "integrations",
+   "claim": "DoorLoop integrates with QuickBooks Online.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Quickbooks online sync Send your income and expense transactions to QuickBooks Online",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists QuickBooks Online sync (in Pro) and a QuickBooks Integration feature.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "DoorLoop's accounting suite, QuickBooks integration, maintenance workflows"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Worth prioritizing if you want QuickBooks Online sync"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|3",
+     "quote": "QuickBooks Online integration"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|1",
+     "quote": "Fast onboarding & QuickBooks sync"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "integrations",
+   "claim": "DoorLoop integrates with Zapier.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Zapier Integration Connect DoorLoop with thousands of programs using Zapier.com",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists a Zapier integration (in Premium).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|1",
+     "quote": "It also integrates smoothly via Zapier if you use outside tools."
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Mode|2",
+     "quote": "extensive integration capabilities (including Zapier)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "platforms",
+   "claim": "DoorLoop has a mobile app.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Yes, in fact, there is even an iPhone, iPad, and Android app available on the Apple App store and Google Play store .",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ states DoorLoop has iPhone, iPad and Android apps.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|1",
+     "quote": "a great mobile app"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|1",
+     "quote": "track work orders seamlessly from mobile devices"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "operations needing strong mobile functionality"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "product_names",
+   "claim": "DoorLoop has a module named AI Assistant.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Includes AI Inspections, AI Assistant and more",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names DoorLoop's AI Assistant (sold as an add-on).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "DoorLoop includes an AI Assistant and AI Inspections"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "product_names",
+   "claim": "DoorLoop has a module named AI Inspections.",
+   "class": "true",
+   "proof_url": "https://www.doorloop.com/pricing",
+   "proof_quote": "Includes AI Inspections, AI Assistant and more",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names AI Inspections within the AI add-on.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "DoorLoop includes an AI Assistant and AI Inspections"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "product_names",
+   "claim": "DoorLoop's AI assistant is named Gary.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing and AI Assistant pages call it AI Assistant and never use the name Gary.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q5|Claude|2",
+     "quote": "its AI assistant \"Gary\" enhancing the user experience"
+    },
+    {
+     "record_id": "residential-property-management|q5|Claude|3",
+     "quote": "its AI assistant 'Gary' enhances the user experience"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "pricing",
+   "claim": "DoorLoop's advertised headline prices are promotional.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page runs a welcome offer of 30% off for 3 months but does not label the plan prices it shows as promotional, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Get a written **100-unit quote** rather than relying on promotional headline prices."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Three own pages read (pricing, home, AI Assistant), all HTTP 200 and not thin; the pricing page FAQ settled billing, mobile apps and integrations, so no further own pages were needed. The pricing page text shows two prices per plan ($99 and $69, $189 and $149, $239 and $209) followed by Per month. Billed yearly; the page markup labels the higher figure monthly-price and the lower yearly-price, and the FAQ says prices start at $69 per month, so the lower figures were treated as yearly-billed prices. Cited third-party articles (aitoolsbakery) call $69, $149 and $209 promotional and $99, $189 and $239 the real yearly prices; the page also runs a 30% off for 3 months banner. A reviewer should check C01, C03, C05 and C18 against the live page in a browser. The FAQ's annual example ($708 for a year, written as $69 x 12) is internally inconsistent and was not used. Six cited pages were read for causes; the up-to-20-units figure traces to a USTech Automations comparison that prints $59/mo (up to 20 units), but that page is not cited by the answer stating $59. The $59 and no-per-unit-fees statements (C07, C08) trace to a Re-Leased Buildium-alternatives article cited by that answer; that page was read once in this study while tracing Innago causes and is reused here rather than refetched. Ratings, best-for positioning, support praise and hedged lines (onboarding fees can apply) were not coded. The full answer text was also read for DoorLoop-headed sections, which the passages file omits under bold sub-headings. Pass 2 (8 Oct 2026): no browser snapshot exists for DoorLoop, so nothing was re-classed on new reads. The three gap lines are covered already (two repeat the $69 starting price in answers that carry C02) or describe Buildium. All markdown tables, the Google-style pipe tables and every DoorLoop-headed section were read in full: two transparent-pricing statements were added to C15 (the q3 Claude 1 heading and a q3 Claude 2 line), and one new claim, C30 (headline prices are promotional, q2 ChatGPT 1), is unverifiable. Consistency check: C07 ($59 starting price) was re-classed from wrong to unverifiable, because the pricing FAQ's own annual example (10 units on the basic plan for $708 a year) equals $59 per month, so the vendor page is internally inconsistent on that figure; the Re-Leased article cited by the answer prints the $59 figure and was its recorded cause before the re-class. C06, C08, C16, C17 and C18 stay wrong: Max 10 units on Starter, the unit-based billing FAQ, the published $69 starting price and the yearly-billed plan prices contradict them like for like. C17 (~$49+ under a Starting Price column) was read as a starting price, not a lower bound. For C18 a reviewer should note that the Starter saving ($99 to $69, 30%) exceeds the page's own Save up to 25% on Yearly line and matches the 30% welcome offer, while Pro and Premium ($189 to $149, $239 to $209) fit it; Premium alone ($209 yearly, not $239) settles the claim.",
+ "answer_record_ids": [
+  "residential-property-management|q1|Claude|2",
+  "residential-property-management|q1|Claude|3",
+  "residential-property-management|q1|Perplexity|1",
+  "residential-property-management|q1|Perplexity|2",
+  "residential-property-management|q1|Perplexity|3",
+  "residential-property-management|q10|ChatGPT|1",
+  "residential-property-management|q10|ChatGPT|2",
+  "residential-property-management|q10|ChatGPT|3",
+  "residential-property-management|q10|Claude|1",
+  "residential-property-management|q10|Claude|2",
+  "residential-property-management|q10|Claude|3",
+  "residential-property-management|q10|Google AI Mode|1",
+  "residential-property-management|q10|Google AI Mode|2",
+  "residential-property-management|q10|Google AI Mode|3",
+  "residential-property-management|q10|Google AI Overviews|1",
+  "residential-property-management|q10|Perplexity|1",
+  "residential-property-management|q10|Perplexity|2",
+  "residential-property-management|q10|Perplexity|3",
+  "residential-property-management|q2|ChatGPT|1",
+  "residential-property-management|q2|ChatGPT|2",
+  "residential-property-management|q2|Claude|1",
+  "residential-property-management|q2|Claude|2",
+  "residential-property-management|q2|Claude|3",
+  "residential-property-management|q2|Google AI Mode|1",
+  "residential-property-management|q2|Google AI Mode|2",
+  "residential-property-management|q2|Google AI Mode|3",
+  "residential-property-management|q2|Google AI Overviews|1",
+  "residential-property-management|q2|Google AI Overviews|3",
+  "residential-property-management|q2|Perplexity|2",
+  "residential-property-management|q2|Perplexity|3",
+  "residential-property-management|q3|ChatGPT|1",
+  "residential-property-management|q3|ChatGPT|2",
+  "residential-property-management|q3|ChatGPT|3",
+  "residential-property-management|q3|Claude|1",
+  "residential-property-management|q3|Claude|2",
+  "residential-property-management|q3|Claude|3",
+  "residential-property-management|q3|Google AI Mode|1",
+  "residential-property-management|q3|Google AI Mode|2",
+  "residential-property-management|q3|Google AI Mode|3",
+  "residential-property-management|q3|Google AI Overviews|1",
+  "residential-property-management|q3|Google AI Overviews|3",
+  "residential-property-management|q3|Perplexity|1",
+  "residential-property-management|q3|Perplexity|2",
+  "residential-property-management|q3|Perplexity|3",
+  "residential-property-management|q4|ChatGPT|1",
+  "residential-property-management|q4|ChatGPT|2",
+  "residential-property-management|q4|ChatGPT|3",
+  "residential-property-management|q4|Claude|1",
+  "residential-property-management|q4|Claude|2",
+  "residential-property-management|q4|Claude|3",
+  "residential-property-management|q4|Google AI Mode|1",
+  "residential-property-management|q4|Google AI Mode|2",
+  "residential-property-management|q4|Google AI Mode|3",
+  "residential-property-management|q4|Google AI Overviews|1",
+  "residential-property-management|q4|Google AI Overviews|2",
+  "residential-property-management|q4|Google AI Overviews|3",
+  "residential-property-management|q4|Perplexity|1",
+  "residential-property-management|q4|Perplexity|2",
+  "residential-property-management|q4|Perplexity|3",
+  "residential-property-management|q5|ChatGPT|1",
+  "residential-property-management|q5|ChatGPT|2",
+  "residential-property-management|q5|ChatGPT|3",
+  "residential-property-management|q5|Claude|1",
+  "residential-property-management|q5|Claude|2",
+  "residential-property-management|q5|Claude|3",
+  "residential-property-management|q5|Google AI Mode|1",
+  "residential-property-management|q5|Google AI Mode|2",
+  "residential-property-management|q5|Google AI Mode|3",
+  "residential-property-management|q5|Google AI Overviews|1",
+  "residential-property-management|q5|Google AI Overviews|2",
+  "residential-property-management|q5|Google AI Overviews|3",
+  "residential-property-management|q5|Perplexity|1",
+  "residential-property-management|q5|Perplexity|2",
+  "residential-property-management|q5|Perplexity|3",
+  "residential-property-management|q6|Claude|1",
+  "residential-property-management|q6|Claude|2",
+  "residential-property-management|q6|Claude|3"
+ ],
+ "named_count": 77
+}

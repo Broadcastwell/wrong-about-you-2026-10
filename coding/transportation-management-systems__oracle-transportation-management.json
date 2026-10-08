@@ -1,0 +1,240 @@
+{
+ "vendor": "Oracle Transportation Management",
+ "slug": "oracle-transportation-management",
+ "category": "transportation-management-systems",
+ "coded_at": "2026-10-08T04:24:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.oracle.com/scm/logistics/transportation-management/",
+   "key": "e6aeb4a65d7e5580",
+   "used_for": "product page (blocked: HTTP 403 error page, no product text)"
+  },
+  {
+   "url": "https://www.oracle.com/scm/logistics/transportation-management/what-is-transportation-management-system/",
+   "key": "1baad474dfa852e0",
+   "used_for": "product explainer (blocked: HTTP 403 error page, no product text)"
+  },
+  {
+   "url": "https://www.oracle.com/scm/logistics/transportation-management/",
+   "key": "e6aeb4a65d7e5580.browser",
+   "used_for": "pass 2 browser read of the product page (product name, Oracle Transportation Management Cloud data sheet, demo and tour, no pricing)"
+  },
+  {
+   "url": "https://www.oracle.com/scm/logistics/transportation-management/what-is-transportation-management-system/",
+   "key": "1baad474dfa852e0.browser",
+   "used_for": "pass 2 browser read of the explainer page (general TMS text, no OTM pricing or integration facts)"
+  },
+  {
+   "url": "https://www.oracle.com/scm/transportation-management",
+   "key": "5da6c1cd428d5adf.browser",
+   "used_for": "pass 2 browser read of the third cited product URL (redirected to /scm/logistics/transportation-management/, same text as the product page)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Oracle Transportation Management is priced on request (custom pricing).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page and the explainer page (each read once in a browser) offer a free demo and a tour but state no price and no pricing basis, so 'priced on request' is not settled.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q10|Claude|3",
+     "quote": "OTM is built for global enterprise supply chains, priced on request, with implementations measured in months."
+    },
+    {
+     "record_id": "transportation-management-systems|q5|Claude|1",
+     "quote": "| **Oracle OTM** | Enterprise-level operations | Custom |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "integrations",
+   "claim": "OTM integrates natively with Oracle ERP.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page (read once in a browser) does not mention Oracle ERP, and the explainer's line that a standalone TMS can be integrated with existing ERP software is about TMS products in general, not OTM, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q3|Claude|1",
+     "quote": "covering all modes and geographies with deep Oracle ERP integration."
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Claude|2",
+     "quote": "covering all modes and geographies with deep Oracle ERP integration."
+    },
+    {
+     "record_id": "transportation-management-systems|q3|Claude|3",
+     "quote": "offering deep Oracle ERP integration for companies running Oracle as their backbone"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "integrations",
+   "claim": "OTM integrates natively with Oracle Fusion Cloud SCM.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page (read once in a browser) names Oracle Fusion Cloud Fleet Management and Oracle Digital Assistant for ERP and SCM but does not say OTM integrates natively with Oracle Fusion Cloud SCM, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q4|Google AI Mode|1",
+     "quote": "deep native integration with broader enterprise systems like Oracle Fusion Cloud SCM."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "product_names",
+   "claim": "OTM is part of Oracle's supply chain management suite.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page (read once in a browser) sits under Oracle's SCM navigation, but no sentence on it says OTM is part of Oracle's supply chain suite, and the explainer's 'often part of a larger supply chain management (SCM) system' is about TMS in general, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q3|Claude|3",
+     "quote": "It is part of Oracle's supply chain suite"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "product_names",
+   "claim": "The product is named Oracle Transportation Management Cloud (OTM Cloud).",
+   "class": "true",
+   "proof_url": "https://www.oracle.com/scm/logistics/transportation-management/",
+   "proof_quote": "Data sheet: Oracle Transportation Management Cloud (PDF)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page (read once in a browser) lists 'Data sheet: Oracle Transportation Management Cloud (PDF)', so Oracle uses the name Oracle Transportation Management Cloud for the product (alongside Oracle Transportation Management (OTM)).",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q4|Google AI Mode|2",
+     "quote": "Oracle Transportation Management Cloud (OTM): Best for large global enterprises"
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Google AI Mode|3",
+     "quote": "Oracle Transportation Management (OTM) Cloud | Large Enterprise Shippers"
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Google AI Overviews|2",
+     "quote": "Oracle Transportation Management Cloud: Best for complex global enterprise features"
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Google AI Overviews|3",
+     "quote": "Oracle Transportation Management Cloud (OTM): Best for massive global supply chains"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "platforms",
+   "claim": "OTM is a cloud-native platform.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page (read once in a browser) shows a cloud edition (Oracle Transportation Management Cloud data sheet), but no page read says OTM is cloud-native (built for the cloud), so the architecture claim is not settled.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q4|Google AI Mode|1",
+     "quote": "Oracle Transportation Management (OTM): A premier cloud-native platform tailored for large multinational enterprises"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "OTM annual platform fees run $300,000 to $800,000.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Neither the product page nor the explainer page (each read once in a browser) publishes a price or fee, so the annual platform fee range is not settled.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q3|Claude|1",
+     "quote": "Annual platform fees of $300,000 to $800,000"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Read on the transportation product pages as the brief requires. The first two www.oracle.com pages both returned HTTP 403 (an Oracle error page with no product text), so under the two-blocks rule no further www.oracle.com page was requested and no other Oracle host was tried as a way around the block. Every claim is unverifiable for now; the three URLs in needs_browser_read (the product page, the explainer page and the third product URL the answers cite) should settle pricing basis, naming (Oracle Transportation Management Cloud, part of Oracle Fusion Cloud SCM), deployment and the Oracle ERP and Fusion Cloud SCM integrations. Not coded: Gartner Magic Quadrant leadership and other rankings, implementation timelines and cost estimates (six-figure, multi-million), capability lists, and lines that only name Oracle ERP as a best-fit condition; one hedged line (Oracle TM usually wins on native integration) was left out. Pass 2 (8 Oct): the three URLs were each read once in a real browser (the third redirected to the product page and carries the same text), and needs_browser_read is now empty. C05 is now true (the product page lists an Oracle Transportation Management Cloud data sheet); C01, C02, C03, C04 and C06 stay unverifiable because neither page states a price or pricing basis, an Oracle ERP or Fusion Cloud SCM integration, membership of an SCM suite in a sentence, or a cloud-native architecture. Added C07 (pricing, unverifiable): the 'Cost' line under the OTM heading in q3 Claude run 1 gives annual platform fees of $300,000 to $800,000, a price for the software; the implementation cost estimate on the same line stays uncoded as in pass 1. The gaps file's other lines are rankings, capability descriptions, best-fit conditions or generic ERP-integration remarks (integration with Oracle systems, ERP connectivity) that name no product, and were not coded. Reviewer: C04 (the page is filed under Oracle's SCM navigation) and C06 (a cloud edition exists, cloud-native is not stated) were held at unverifiable as judgement calls.",
+ "answer_record_ids": [
+  "transportation-management-systems|q10|Claude|1",
+  "transportation-management-systems|q10|Claude|2",
+  "transportation-management-systems|q10|Claude|3",
+  "transportation-management-systems|q10|Google AI Mode|1",
+  "transportation-management-systems|q10|Google AI Mode|2",
+  "transportation-management-systems|q10|Google AI Overviews|1",
+  "transportation-management-systems|q10|Google AI Overviews|2",
+  "transportation-management-systems|q10|Google AI Overviews|3",
+  "transportation-management-systems|q3|ChatGPT|1",
+  "transportation-management-systems|q3|ChatGPT|2",
+  "transportation-management-systems|q3|ChatGPT|3",
+  "transportation-management-systems|q3|Claude|1",
+  "transportation-management-systems|q3|Claude|2",
+  "transportation-management-systems|q3|Claude|3",
+  "transportation-management-systems|q3|Google AI Mode|1",
+  "transportation-management-systems|q3|Google AI Mode|2",
+  "transportation-management-systems|q3|Google AI Overviews|1",
+  "transportation-management-systems|q3|Google AI Overviews|2",
+  "transportation-management-systems|q3|Google AI Overviews|3",
+  "transportation-management-systems|q3|Perplexity|1",
+  "transportation-management-systems|q3|Perplexity|2",
+  "transportation-management-systems|q3|Perplexity|3",
+  "transportation-management-systems|q4|ChatGPT|1",
+  "transportation-management-systems|q4|ChatGPT|2",
+  "transportation-management-systems|q4|ChatGPT|3",
+  "transportation-management-systems|q4|Claude|1",
+  "transportation-management-systems|q4|Claude|2",
+  "transportation-management-systems|q4|Claude|3",
+  "transportation-management-systems|q4|Google AI Mode|1",
+  "transportation-management-systems|q4|Google AI Mode|2",
+  "transportation-management-systems|q4|Google AI Mode|3",
+  "transportation-management-systems|q4|Google AI Overviews|1",
+  "transportation-management-systems|q4|Google AI Overviews|2",
+  "transportation-management-systems|q4|Google AI Overviews|3",
+  "transportation-management-systems|q4|Perplexity|1",
+  "transportation-management-systems|q4|Perplexity|2",
+  "transportation-management-systems|q4|Perplexity|3",
+  "transportation-management-systems|q5|Claude|1",
+  "transportation-management-systems|q5|Claude|2",
+  "transportation-management-systems|q5|Claude|3",
+  "transportation-management-systems|q5|Google AI Mode|3",
+  "transportation-management-systems|q5|Perplexity|1",
+  "transportation-management-systems|q5|Perplexity|2"
+ ],
+ "named_count": 43
+}

@@ -1,0 +1,2166 @@
+{
+ "vendor": "AppFolio",
+ "slug": "appfolio",
+ "category": "residential-property-management",
+ "coded_at": "2026-10-08T04:07:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.appfolio.com/pricing",
+   "key": "760dd76a6f0c2ee4",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.appfolio.com/",
+   "key": "9912110b49aec17d",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.appfolio.com/company/who-we-are",
+   "key": "ea45104116f6b68b",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.appfolio.com/stack",
+   "key": "f5645697969f86ee",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://www.appfolio.com/property-manager/marketing-leasing",
+   "key": "536e0c146b37077a",
+   "used_for": "product (marketing and leasing, syndication)"
+  },
+  {
+   "url": "https://www.appfolio.com/property-management-software",
+   "key": "349c0a285437e4d7",
+   "used_for": "product"
+  },
+  {
+   "url": "https://www.appfolio.com/ai",
+   "key": "702a5e642ce9fe4d",
+   "used_for": "product (Realm-X AI)"
+  },
+  {
+   "url": "https://www.appfolio.com/property-manager/resident-experience",
+   "key": "9dca2a614aa8b87e",
+   "used_for": "product (resident app, mobile)"
+  },
+  {
+   "url": "https://ustechautomations.com/resources/blog/buildium-vs-appfolio-property-management-2026",
+   "key": "551a1225563271d9",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://softwareconnect.com/comparisons/appfolio-vs-buildium/",
+   "key": "f9518417b3f1e4d4",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://aitoolsbakery.com/blog/appfolio-pricing-2026/",
+   "key": "41ea89d0da2eddd5",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://costloop.app/blog/appfolio-pricing/",
+   "key": "724607fa128016d0",
+   "used_for": "cause tracing (cited page, not own)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "AppFolio pricing is quote-based (no published prices).",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Purchase Orders & Inventory Tracking Standard Support Get a Quote *Minimum spend and 50 unit minimum apply. Contact us for details.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the Core, Plus and Max plans with a Get a Quote button each and no dollar prices.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|3",
+     "quote": "pricing is custom-quoted"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Quote-based, with a 50-unit minimum and minimum spend for Core."
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "Quote required. Core has a 50-unit minimum plus a minimum spend"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "Quote-based, with a 50-unit minimum and minimum spend for Core."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "Quote-based, with minimum spending requirements. Core has a 50-unit minimum."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Quote-based. Core has a 50-unit minimum plus minimum spend."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Quote-based pricing; Core has a 50-unit minimum and minimum spend."
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|1",
+     "quote": "AppFolio enforces a 50-unit minimum and opaque enterprise pricing"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|1",
+     "quote": "Quote-based pricing, minimum spend, and a 50-unit minimum apply to Core."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|2",
+     "quote": "Quote-based, with a 50-unit minimum and minimum spend on Core."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|3",
+     "quote": "Quote-based pricing. Core has a 50-unit minimum and minimum spend"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Core, Plus, and Max are quote-based on the current official page."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Quote-based Core, Plus, and Max plans."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Core, Plus, and Max are quote-based."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Note: AppFolio moved to quote-only pricing in 2026."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio pricing in 2026 is quote-based."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "AppFolio pricing in 2026 is quote-based on the vendor's public pricing page"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|1",
+     "quote": "Uses a quote-based pricing model across its Core, Plus, and Max tiers"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Structure: Quote-based pricing split into Core, Plus, and Max tiers."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "Quote-based pricing across Core, Plus, and Max tiers"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|1",
+     "quote": "Pricing: Quote-based pricing with a mandatory monthly minimum spend and unit requirements."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|2",
+     "quote": "Uses quote-based tier structures (Core, Plus, and Max)"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|1",
+     "quote": "AppFolio is generally quote-based"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|2",
+     "quote": "uses quote/per-unit pricing"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|3",
+     "quote": "AppFolio's pricing is typically quote-based"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "AppFolio has a minimum monthly spend.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Purchase Orders & Inventory Tracking Standard Support Get a Quote *Minimum spend and 50 unit minimum apply. Contact us for details.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states that a minimum spend applies to Core (and to Plus and Max).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q1|Google AI Overviews|2",
+     "quote": "Platforms like AppFolio and Buildium are built for large portfolios and charge high monthly minimums"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "Core starts at $1.40 per unit/month with a $280/month minimum"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "AppFolio Core starts at $1.40 per unit/month with a $280/month minimum"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "a $298 minimum monthly spend on its Core plan"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|2",
+     "quote": "the steep minimum monthly spends of enterprise giants like AppFolio"
+    },
+    {
+     "record_id": "residential-property-management|q10|Perplexity|3",
+     "quote": "One source notes AppFolio's pricing starts with a per-unit model and a monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Quote-based, with a 50-unit minimum and minimum spend for Core."
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "Quote required. Core has a 50-unit minimum plus a minimum spend"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "Quote-based, with a 50-unit minimum and minimum spend for Core."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "AppFolio starts at $1.40 per residential unit but requires a $280 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "AppFolio requires a $280 monthly minimum on Core."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "the minimum floor means you'll actually pay around $298/month"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|1",
+     "quote": "They have a minimum monthly fee"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|2",
+     "quote": "They do enforce monthly minimums"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|3",
+     "quote": "it does enforce strict minimum monthly fees"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|1",
+     "quote": "Higher minimum monthly fees"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|2",
+     "quote": "($1.49/unit base + minimums)"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|3",
+     "quote": "Higher minimum monthly fees"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "Quote-based, with minimum spending requirements."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Core has a 50-unit minimum plus minimum spend."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Core has a 50-unit minimum and minimum spend."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "AppFolio has a monthly minimum of about $298."
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Mode|1",
+     "quote": "AppFolio's strict unit minimums and higher monthly price floors"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Mode|2",
+     "quote": "bypassing AppFolio's steep monthly minimums"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|3",
+     "quote": "avoid AppFolio's high monthly minimums"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|1",
+     "quote": "Quote-based pricing, minimum spend, and a 50-unit minimum apply to Core."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|2",
+     "quote": "Quote-based, with a 50-unit minimum and minimum spend on Core."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|3",
+     "quote": "Quote-based pricing. Core has a 50-unit minimum and minimum spend"
+    },
+    {
+     "record_id": "residential-property-management|q5|Claude|1",
+     "quote": "AppFolio starts at a $280 monthly minimum."
+    },
+    {
+     "record_id": "residential-property-management|q5|Claude|2",
+     "quote": "pricing starting at a $280 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q5|Claude|3",
+     "quote": "AppFolio starts at a $280 monthly minimum."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Core has a 50-unit minimum and minimum spend; higher tiers also have minimums."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Core specifies a 50-unit minimum and minimum spend; higher tiers also have minimums."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Core lists a 50-unit minimum and minimum spend; higher tiers also have minimums."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "The real anchor is the monthly minimum, which sits in the $280–$298 range."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Core $1.40–$1.49/unit/month with a $280–$298/month minimum"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Core at $1.40–$1.49/unit/month with a $280–$298 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|1",
+     "quote": "enforces a strict monthly minimum spend"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Minimums: Enforces strict monthly minimum spending/unit requirements"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "with strict (and higher) monthly minimum spend/unit minimums"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|1",
+     "quote": "Pricing: Quote-based pricing with a mandatory monthly minimum spend and unit requirements."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|2",
+     "quote": "with a strict monthly minimum spend and unit minimum requirements"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|1",
+     "quote": "third-party reviews commonly report a per-unit model with a minimum monthly spend"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|2",
+     "quote": "Quote-based or per-unit pricing with minimum spend/minimum units noted by sources"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|3",
+     "quote": "described by third parties as having a monthly minimum"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The Core plan requires a minimum of 50 units.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Purchase Orders & Inventory Tracking Standard Support Get a Quote *Minimum spend and 50 unit minimum apply. Contact us for details.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Core plan on the pricing page carries the note that a 50 unit minimum applies.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "a 50-unit minimum to sign up"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "a 50-unit minimum to sign up"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "AppFolio requires a minimum of 50 units to start"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|1",
+     "quote": "which often enforces a 50-unit minimum with enterprise pricing"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|3",
+     "quote": "AppFolio has a 50-unit minimum requirement"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|3",
+     "quote": "strictly enforces a 50-unit minimum entry"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Quote-based, with a 50-unit minimum and minimum spend for Core."
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "Quote required. Core has a 50-unit minimum plus a minimum spend"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "Quote-based, with a 50-unit minimum and minimum spend for Core."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "AppFolio's Core plan requires 50 units to sign up"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "Core has a 50-unit minimum."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Core has a 50-unit minimum plus minimum spend."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Core has a 50-unit minimum and minimum spend."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "It requires a 50-unit minimum."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "AppFolio uses per-unit pricing with a 50-unit minimum and targets larger residential portfolios."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "AppFolio uses per-unit pricing with a 50-unit minimum."
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Overviews|2",
+     "quote": "a minimum portfolio requirement of 50 units"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|1",
+     "quote": "AppFolio's Core plan requires 50 units to sign up"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|3",
+     "quote": "a minimum unit requirement of 50 units"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Mode|3",
+     "quote": "like their 50-unit floor"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|1",
+     "quote": "AppFolio enforces a 50-unit minimum"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|2",
+     "quote": "Escaping AppFolio's 50-unit minimum requirement"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|1",
+     "quote": "Quote-based pricing, minimum spend, and a 50-unit minimum apply to Core."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|2",
+     "quote": "Quote-based, with a 50-unit minimum and minimum spend on Core."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|3",
+     "quote": "Core has a 50-unit minimum and minimum spend"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Core has a 50-unit minimum and minimum spend; higher tiers also have minimums."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Core specifies a 50-unit minimum and minimum spend; higher tiers also have minimums."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Core lists a 50-unit minimum and minimum spend; higher tiers also have minimums."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "AppFolio targets mid-to-large portfolios (50+ units required)"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Core Plan at $1.49/unit/month with a $298/month minimum and a 50-unit minimum."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "the 50-unit minimum creates a significant pricing penalty"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|2",
+     "quote": "commonly described as requiring a 50-unit minimum"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "AppFolio enforces unit minimums (number not stated).",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "*Minimum spend and units apply. Contact us for details.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states that unit minimums apply to every plan (50 units on Core).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|2",
+     "quote": "which enforces a high unit minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|3",
+     "quote": "~$280/month (plus unit minimums)"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Mode|2",
+     "quote": "requires minimum unit thresholds"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Mode|1",
+     "quote": "AppFolio's strict unit minimums"
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Mode|1",
+     "quote": "Higher unit minimums/pricing"
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Overviews|3",
+     "quote": "it requires larger minimum unit counts"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "given AppFolio's published minimum"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Minimums: Enforces strict monthly minimum spending/unit requirements"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "with strict (and higher) monthly minimum spend/unit minimums"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|1",
+     "quote": "a mandatory monthly minimum spend and unit requirements"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|2",
+     "quote": "with a strict monthly minimum spend and unit minimum requirements"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "The higher tiers (Plus and Max) also have minimums.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "*Minimum spend and units apply. Contact us for details.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Plus and Max plans on the pricing page each carry the note that a minimum spend and units apply.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "higher tiers also have minimums"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "higher tiers also have minimums"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "higher tiers also have minimums"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Pricing is charged per unit.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page is quote-based and mentions unit minimums but does not state a per-unit price basis.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "AppFolio's per-unit pricing becomes cost-competitive at scale"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "AppFolio Core starts at $1.40 per unit/month"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "pricing begins at $1.49 per unit per month"
+    },
+    {
+     "record_id": "residential-property-management|q10|Perplexity|3",
+     "quote": "One source notes AppFolio's pricing starts with a per-unit model and a monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "AppFolio starts at $1.40 per residential unit"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "Their basic residential plan starts at $1.40 per unit per month."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "AppFolio is a premium per-unit platform"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|2",
+     "quote": "($1.49/unit base + minimums)"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "AppFolio uses per-unit pricing with a 50-unit minimum and targets larger residential portfolios."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "AppFolio uses per-unit pricing with a 50-unit minimum."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Per-unit (quote-only in 2026)"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio is a premium, per-unit platform built for scale."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Flat monthly tiers | Per unit/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|1",
+     "quote": "third-party reviews commonly report a per-unit model with a minimum monthly spend"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|2",
+     "quote": "uses quote/per-unit pricing"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|3",
+     "quote": "comfortable with quote-based or per-unit pricing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "AppFolio's pricing scales with the size of the portfolio.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Flexible Plans That Scale With Your Business",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page headline presents the plans as scaling with the customer's business.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio states that pricing scales with the portfolio"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "with pricing that scales with the portfolio"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "AppFolio moved to quote-only pricing in 2026.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page is quote-based now but no page read dates a change from published prices.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Note: AppFolio moved to quote-only pricing in 2026."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Core costs $1.40 per unit per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no dollar prices.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "Core starts at $1.40 per unit/month with a $280/month minimum"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "AppFolio Core starts at $1.40 per unit/month with a $280/month minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "AppFolio starts at $1.40 per residential unit"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "Their basic residential plan starts at $1.40 per unit per month."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio's $1.40/door"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "AppFolio's ~$1.40/door"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Core costs $1.49 per unit per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no dollar prices.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "pricing begins at $1.49 per unit per month"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "Per-unit pricing ranges from $1.49 to $5.00/unit/month."
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|2",
+     "quote": "($1.49/unit base + minimums)"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "~$1.49/unit/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Core Plan at $1.49/unit/month with a $298/month minimum and a 50-unit minimum."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Core costs $1.40 to $1.49 per unit per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no dollar prices.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Core $1.40–$1.49/unit/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Core at $1.40–$1.49/unit/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "Core has a $280 monthly minimum.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says a minimum spend applies but gives no amount.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "Core starts at $1.40 per unit/month with a $280/month minimum"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "AppFolio Core starts at $1.40 per unit/month with a $280/month minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "requires a $280 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "AppFolio requires a $280 monthly minimum on Core."
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|3",
+     "quote": "~$280/month (plus unit minimums)"
+    },
+    {
+     "record_id": "residential-property-management|q5|Claude|1",
+     "quote": "AppFolio starts at a $280 monthly minimum."
+    },
+    {
+     "record_id": "residential-property-management|q5|Claude|2",
+     "quote": "pricing starting at a $280 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q5|Claude|3",
+     "quote": "AppFolio starts at a $280 monthly minimum."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Core has a $298 monthly minimum.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says a minimum spend applies but gives no amount.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "a $298 minimum monthly spend on its Core plan"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "the minimum floor means you'll actually pay around $298/month"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "AppFolio has a monthly minimum of about $298."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "on AppFolio Core they'd pay $298/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Core Plan at $1.49/unit/month with a $298/month minimum and a 50-unit minimum."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Core has a monthly minimum of $280 to $298.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says a minimum spend applies but gives no amount.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "The real anchor is the monthly minimum, which sits in the $280–$298 range."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "with a $280–$298/month minimum"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "with a $280–$298 monthly minimum"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Plus costs $3.20 per unit per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no dollar prices.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "the Plus plan starts at $3.20 per unit per month with a $960 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Plus Plan at $3.20/unit/month with a $960/month minimum."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "Plus costs $3.00 to $3.50 per unit per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no dollar prices.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Plus $3.00–$3.50/unit/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Plus at $3.00–$3.50/unit/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "Plus has a $960 monthly minimum.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says a minimum spend applies to Plus but gives no amount.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "the Plus plan starts at $3.20 per unit per month with a $960 monthly minimum"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Plus Plan at $3.20/unit/month with a $960/month minimum."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "Plus requires $900 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says a minimum spend applies to Plus but gives no amount.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "the Plus tier requires $900/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "Max costs about $5 per unit per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no dollar prices.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "Per-unit pricing ranges from $1.49 to $5.00/unit/month."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Max about $5+/unit/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Max at ~$5+/unit/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "pricing",
+   "claim": "Max has a $1,500 monthly minimum.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says a minimum spend applies to Max but gives no amount.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Max Plan at $5.00/unit/month with a $1,500/month minimum."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "AppFolio charges a $400 onboarding fee.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states an onboarding fee.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "and a $400 onboarding fee"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "and a $400 onboarding fee"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "pricing",
+   "claim": "AppFolio charges onboarding fees from $400 to over $1,000.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states an onboarding fee.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio also charges onboarding fees ranging from $400 to over $1,000."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "pricing",
+   "claim": "A 100-unit portfolio on Core would cost about $149 per month at the per-unit rate.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no price for any unit count.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "A 100-unit portfolio on AppFolio's Core tier would cost approximately $149/month."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "A 100-unit portfolio on AppFolio's Core tier would cost approximately $149/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "pricing",
+   "claim": "Estimated cost at about 100 units is $150 to $250 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no price for any unit count.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|2",
+     "quote": "~$150–$250/mo ($1.49/unit base + minimums)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "pricing",
+   "claim": "At exactly 50 units the minimum works out to about $5.60 per unit.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no minimum amount from which an effective per-unit cost could be checked.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "at exactly 50 units that $280 floor works out closer to $5.60 per unit"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "At exactly 50 units, that $280 floor works out to closer to $5.60 per unit."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "effective per-unit costs reaching $5.60–$5.96 at exactly 50 units"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "pricing",
+   "claim": "AppFolio for mid-market operators runs $3,500 to $8,000 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no dollar prices.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "AppFolio mid-market runs $3,500–$8,000/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "free_tier",
+   "claim": "AppFolio offers no free trial.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages offer a free demo but say nothing either way about a free trial.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Free trial | ✅ Yes | ❌ No"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "❌ No free trial"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "free_tier",
+   "claim": "AppFolio has no free plan.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Purchase Orders & Inventory Tracking Standard Support Get a Quote *Minimum spend and 50 unit minimum apply. Contact us for details.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Even the entry Core plan carries a minimum spend, and Plus and Max do too, so no AppFolio plan is free.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "~$280/mo min | Scaling to 100+ units | ❌"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "plans",
+   "claim": "AppFolio has three plans: Core, Plus and Max (out of the box, configurable, enterprise).",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Max An enterprise solution for large operators that are focused on customization, data insights, and driving revenue.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Core (out of the box), Plus (configurable) and Max (enterprise) as its property manager plans.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "AppFolio offers three tiers: Core (out-of-the-box), Plus (configurable), and Max (enterprise customization)."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "AppFolio offers three tiers: Core (out-of-the-box), Plus (configurable), and Max (enterprise customization)."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "AppFolio offers three tiers: Core (out-of-the-box), Plus (configurable), and Max (enterprise customization)."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Core, Plus, and Max are quote-based on the current official page."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Quote-based Core, Plus, and Max plans."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Core, Plus, and Max are quote-based."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio Property Manager has three current plans"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Core / Plus / Max"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|1",
+     "quote": "Uses a quote-based pricing model across its Core, Plus, and Max tiers"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Structure: Quote-based pricing split into Core, Plus, and Max tiers."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "Quote-based pricing across Core, Plus, and Max tiers"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|2",
+     "quote": "Uses quote-based tier structures (Core, Plus, and Max)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "plans",
+   "claim": "Core includes accounting, marketing and leasing, work orders, inspections and unit turns, and purchase orders and inventory.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Property Accounting & Reports End-to-End Marketing & Leasing Work Order Management Inspections & Unit Turns",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "These items are in the Core plan list on the pricing page, which also lists Purchase Orders & Inventory Tracking.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "Core includes accounting, leasing, inspections, unit turns, and work orders"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "Core includes accounting, leasing, inspections, unit turns, work orders, and inventory."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "Accounting, leasing, inspections, and unit turns; Plus adds advanced accounting, analysis, and workflow automation"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Core includes accounting, leasing, inspections, unit turns, and work orders."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Comparable core coverage, including inspections, unit turns, purchase orders, and inventory tracking."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "The Core plan includes essential features like property accounting, marketing, leasing, and work order management."
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "plans",
+   "claim": "Core includes the Realm-X Assistant and Messages.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Realm-X Assistant & Messages Purchase Orders & Inventory Tracking Standard Support Get a Quote *Minimum spend and 50 unit minimum apply.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Realm-X Assistant & Messages is in the Core plan list on the pricing page.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Core includes Realm-X Assistant and Messages"
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "plans",
+   "claim": "Realm-X Flows (workflow automation) comes with Plus and Max, not Core.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Everything in Core , and: Affordable Housing Capabilities Student Housing Capabilities Advanced Budgeting & Accounting Advanced Data Analysis Custom Fields Realm-X Flows",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Realm-X Flows appears in the Plus additions (and so in Max), not in the Core list.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Plus adds Realm-X Flows, advanced accounting and analysis, and maintenance scheduling/automated billing."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Plus adds advanced budgeting/accounting, data analysis, custom fields, and Realm-X Flows."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Plus adds Realm-X Flows for workflow automation."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "AppFolio's Realm-X assistant and its agentic Flows are gated to the Plus and Max tiers, not Core."
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "plans",
+   "claim": "Plus and higher tiers add advanced budgeting and accounting, data analysis, custom fields, workflow automation and maintenance scheduling.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Everything in Core , and: Affordable Housing Capabilities Student Housing Capabilities Advanced Budgeting & Accounting Advanced Data Analysis Custom Fields Realm-X Flows",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Plus additions on the pricing page include advanced budgeting and accounting, advanced data analysis, custom fields, Realm-X Flows, API access and maintenance scheduling and automated billing.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "For those who need more advanced features such as workflow automation, performance insights, and open API access, the Plus plan starts at $3.20 per unit per month"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "higher tiers add advanced accounting and automation"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "Higher plans add more advanced accounting, analysis, and automation."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "Plus adds advanced accounting, analysis, and workflow automation"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Higher tiers add workflow automation, advanced accounting, and data analysis"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Plus adds advanced accounting, workflow automation, and premium integrations."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|2",
+     "quote": "higher tiers add advanced accounting, workflow automation, and integrations"
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|3",
+     "quote": "higher tiers add advanced accounting and workflow automation"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Plus adds Realm-X Flows, advanced accounting and analysis, and maintenance scheduling/automated billing."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Plus adds advanced budgeting/accounting, data analysis, custom fields, and Realm-X Flows."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Property accounting and reporting, with advanced budgeting/accounting in Plus."
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "plans",
+   "claim": "Core includes standard integrations and Plus adds premium integrations.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Realm-X Flows AppFolio Stack™ Premium Integrations Scale & Control AppFolio API (read only)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists AppFolio Stack Standard Integrations in Core and AppFolio Stack Premium Integrations in Plus.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Plus adds advanced accounting, workflow automation, and premium integrations."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Standard integrations in Core; premium integrations and read-only API in Plus; read/write API in Max."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Standard and premium integration tiers also differ."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "The Plus plan adds advanced leasing metrics, corporate accounting, and premium software integrations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "plans",
+   "claim": "Plus adds advanced leasing metrics and corporate accounting.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Plus list on the pricing page names advanced budgeting and accounting and advanced data analysis but not leasing metrics or corporate accounting.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "The Plus plan adds advanced leasing metrics, corporate accounting, and premium software integrations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "plans",
+   "claim": "API access is read-only on Plus and read/write on Max.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Realm-X Flows AppFolio Stack™ Premium Integrations Scale & Control AppFolio API (read only)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists AppFolio API (read only) in Plus and AppFolio API (read/write) in Max.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "API access is read-only in Plus and read/write in Max"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Plus API access is read-only; Max adds read/write access."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "API access is read-only on Plus and read/write on Max."
+    },
+    {
+     "record_id": "residential-property-management|q5|ChatGPT|3",
+     "quote": "advanced integrations and API access depend on tier"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Read-only API on Plus; read/write API on Max."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Standard integrations in Core; premium integrations and read-only API in Plus; read/write API in Max."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Plus includes read-only API; Max includes read/write API."
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "plans",
+   "claim": "Max includes a leasing CRM, leasing signals, custom fields and read/write API access.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Everything in Plus , and: Leasing CRM Leasing Signals AppFolio API (read/write) Dedicated Customer Success Management",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Max list on the pricing page includes Leasing CRM, Leasing Signals and the read/write API on top of everything in Plus (which includes custom fields).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Evaluate Max if read/write API access and an integrated leasing CRM are essential."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "The Max plan includes a leasing CRM, leasing signals, custom fields, and database APIs."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "More sophisticated leasing CRM or read/write API access."
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "plans",
+   "claim": "Support is standard on Core, enhanced on Plus and dedicated customer success management on Max.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Everything in Plus , and: Leasing CRM Leasing Signals AppFolio API (read/write) Dedicated Customer Success Management",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Standard Support in Core, Enhanced Support in Plus and Dedicated Customer Success Management in Max.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Standard support on Core, enhanced support on Plus, dedicated customer success management on Max."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Standard support in Core, enhanced support in Plus, dedicated customer success management in Max."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Standard support in Core, enhanced in Plus, dedicated customer success management in Max."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|1",
+     "quote": "dedicated account options on higher plans"
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "plans",
+   "claim": "Realm-X (the AI assistant) is not in Core; it is limited to the Plus and Max tiers.",
+   "class": "wrong",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Realm-X Assistant & Messages Purchase Orders & Inventory Tracking Standard Support Get a Quote *Minimum spend and 50 unit minimum apply.",
+   "stale_change": null,
+   "causing_url": "https://aitoolsbakery.com/blog/appfolio-pricing-2026/",
+   "causing_type": "other",
+   "causing_quote": "the AI features that justify the platform’s premium got gated behind the quote-heavy tiers",
+   "rationale": "The Core plan list on the pricing page includes the Realm-X Assistant & Messages; only Realm-X Flows is reserved for Plus and Max.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "AppFolio's Realm-X assistant and its agentic Flows are gated to the Plus and Max tiers, not Core."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio's AI tool, Realm-X, is built onto the platform but is gated behind the Plus plan at a $960/month minimum."
+    }
+   ]
+  },
+  {
+   "claim_id": "C40",
+   "type": "product_names",
+   "claim": "AppFolio's AI is named Realm-X.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/ai",
+   "proof_quote": "Experience Real Performance with AppFolio Realm-X",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The AI page names AppFolio's AI Realm-X.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|3",
+     "quote": "like Realm-X for leasing"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Mode|1",
+     "quote": "powerful artificial intelligence features (like Realm-X)"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Mode|2",
+     "quote": "advanced Realm-X AI automation features"
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Mode|3",
+     "quote": "via their Realm-X suite"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "AppFolio's Realm-X assistant"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio's AI tool, Realm-X"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Features Realm-X (its proprietary AI assistant)"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "Features Realm-X AI for advanced conversational search"
+    }
+   ]
+  },
+  {
+   "claim_id": "C41",
+   "type": "product_names",
+   "claim": "AppFolio's workflow automation module is named Realm-X Flows.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/",
+   "proof_quote": "Realm-X Flows is a workflow automation engine that standardizes processes",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page names the workflow automation engine Realm-X Flows.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Plus adds Realm-X Flows"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "custom fields, and Realm-X Flows"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Plus adds Realm-X Flows for workflow automation."
+    }
+   ]
+  },
+  {
+   "claim_id": "C42",
+   "type": "product_names",
+   "claim": "AppFolio has a module named Realm-X Assistant (with Messages).",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Realm-X Assistant & Messages",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names Realm-X Assistant & Messages in the Core plan.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Core includes Realm-X Assistant and Messages"
+    }
+   ]
+  },
+  {
+   "claim_id": "C43",
+   "type": "integrations",
+   "claim": "AppFolio syndicates listings to Zillow.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/property-manager/marketing-leasing",
+   "proof_quote": "Yes. AppFolio automatically syndicates rental listings to major rental platforms including Zillow, Apartments.com, and Zumper directly from within the system",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The marketing and leasing page names Zillow among the platforms AppFolio syndicates to.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "Listings also syndicate instantly to Zillow, Apartments.com, and ILS networks."
+    }
+   ]
+  },
+  {
+   "claim_id": "C44",
+   "type": "integrations",
+   "claim": "AppFolio syndicates listings to Apartments.com.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/property-manager/marketing-leasing",
+   "proof_quote": "Yes. AppFolio automatically syndicates rental listings to major rental platforms including Zillow, Apartments.com, and Zumper directly from within the system",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The marketing and leasing page names Apartments.com among the platforms AppFolio syndicates to.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "Listings also syndicate instantly to Zillow, Apartments.com, and ILS networks."
+    }
+   ]
+  },
+  {
+   "claim_id": "C45",
+   "type": "integrations",
+   "claim": "AppFolio integrates with Homebase.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Stack page shows only five featured partners and none of the pages read names Homebase.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio seamlessly integrates with several third-party applications, including Homebase, Birdeye, Procurify, Stessa, and Butterfly MX."
+    }
+   ]
+  },
+  {
+   "claim_id": "C46",
+   "type": "integrations",
+   "claim": "AppFolio integrates with Birdeye.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Stack page shows only five featured partners and none of the pages read names Birdeye.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio seamlessly integrates with several third-party applications, including Homebase, Birdeye, Procurify, Stessa, and Butterfly MX."
+    }
+   ]
+  },
+  {
+   "claim_id": "C47",
+   "type": "integrations",
+   "claim": "AppFolio integrates with Procurify.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Stack page shows only five featured partners and none of the pages read names Procurify.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio seamlessly integrates with several third-party applications, including Homebase, Birdeye, Procurify, Stessa, and Butterfly MX."
+    }
+   ]
+  },
+  {
+   "claim_id": "C48",
+   "type": "integrations",
+   "claim": "AppFolio integrates with Stessa.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Stack page shows only five featured partners and none of the pages read names Stessa.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio seamlessly integrates with several third-party applications, including Homebase, Birdeye, Procurify, Stessa, and Butterfly MX."
+    }
+   ]
+  },
+  {
+   "claim_id": "C49",
+   "type": "integrations",
+   "claim": "AppFolio integrates with ButterflyMX.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Stack page shows only five featured partners and none of the pages read names ButterflyMX.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "AppFolio seamlessly integrates with several third-party applications, including Homebase, Birdeye, Procurify, Stessa, and Butterfly MX."
+    }
+   ]
+  },
+  {
+   "claim_id": "C50",
+   "type": "platforms",
+   "claim": "AppFolio has mobile apps.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/property-manager/resident-experience",
+   "proof_quote": "a single mobile application that manages the complete rental lifecycle, from application and screening through move-in, daily living, and lease renewal.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The resident experience page describes FolioSpace as AppFolio's mobile application; the pages read do not separately describe a manager app, so the class rests on the generic platform fact.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "Native iOS and Android apps for tenants, managers, and staff ensure full functionality on the go."
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|3",
+     "quote": "top-tier mobile apps"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|2",
+     "quote": "industry-leading mobile apps and AI-driven automation"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|3",
+     "quote": "It features an industry-leading mobile app"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Mode|3",
+     "quote": "clean mobile apps"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Overviews|1",
+     "quote": "seamless mobile app access for field teams"
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Mode|1",
+     "quote": "AI automation, robust mobile app, scalable workflows"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "AppFolio users like the universal search and mobile app"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Users like the universal search and the mobile app."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "streamlined mobile apps for managers and owners"
+    }
+   ]
+  },
+  {
+   "claim_id": "C51",
+   "type": "platforms",
+   "claim": "AppFolio offers a mobile-first experience with full mobile functionality.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/property-manager/marketing-leasing",
+   "proof_quote": "AppFolio stands out with its AI-driven leasing assistants, comprehensive mobile-first experience, and deep accounting features.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The marketing and leasing page describes AppFolio's comprehensive mobile-first experience.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|1",
+     "quote": "mobile-first workflows"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "a mobile-first experience"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "AppFolio scales further and includes advanced AI capabilities and full mobile functionality"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "a mobile-first experience"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Mode|1",
+     "quote": "modern, mobile-first design"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Mode|2",
+     "quote": "mobile-first design"
+    },
+    {
+     "record_id": "residential-property-management|q3|Perplexity|3",
+     "quote": "Strong automation, reporting, and mobile-first workflow for higher-volume operations."
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Mode|2",
+     "quote": "robust mobile functionality"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "a mobile-first experience for modern property management firms"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "a mobile-first experience for modern property management firms"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "robust mobile functionality for field teams"
+    }
+   ]
+  },
+  {
+   "claim_id": "C52",
+   "type": "platforms",
+   "claim": "AppFolio has native iOS and Android apps.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages describe a mobile app but none names iOS or Android.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "Native iOS and Android apps for tenants, managers, and staff ensure full functionality on the go."
+    }
+   ]
+  },
+  {
+   "claim_id": "C53",
+   "type": "platforms",
+   "claim": "AppFolio is a cloud platform.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read describe access from any device but never call AppFolio itself cloud based (the product page mentions cloud only generically).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "combining automation, intuitive UX, and cloud accessibility"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Overviews|2",
+     "quote": "a scalable, all-in-one cloud platform"
+    }
+   ]
+  },
+  {
+   "claim_id": "C54",
+   "type": "pricing",
+   "claim": "Estimated cost at 100 units is about $149 to $280 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no price for any unit count.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "| **AppFolio** | Growth & automation | ~$149–$280/mo |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C55",
+   "type": "pricing",
+   "claim": "Estimated cost at 100 units is about $298 or more per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no price for any unit count and no minimum spend amount.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "| **AppFolio** | Growth & automation | ~$298+/mo | Moderate |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C56",
+   "type": "plans",
+   "claim": "Affordable housing and student housing capabilities come with the Plus and Max plans.",
+   "class": "true",
+   "proof_url": "https://www.appfolio.com/pricing",
+   "proof_quote": "Everything in Core , and: Affordable Housing Capabilities Student Housing Capabilities",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Affordable Housing Capabilities and Student Housing Capabilities among the Plus additions to Core, and Max includes everything in Plus; the answer maps these needs to the Plus and Max offerings.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Affordable or student housing capabilities."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Eight own pages read, all HTTP 200 and not thin. The pricing page is quote-only: it lists Core, Plus and Max with their inclusions and the notes that a minimum spend and a 50 unit minimum (Core) or units (Plus, Max) apply, but no dollar figure, so every reported per-unit rate, monthly minimum and onboarding fee is unverifiable. The Stack page shows five featured partners only (the full marketplace sits behind See All Partners and was not read within the 8-page cap), so Homebase, Birdeye, Procurify, Stessa and ButterflyMX are unverifiable. The resident experience page says FolioSpace is built into AppFolio's Performance Platform, formerly known as AppFolio Property Manager, without a date; answers that merely use the name AppFolio Property Manager were treated as name mentions and not coded, and no dated rename was available to class against (the newsroom was not read within the cap). C39 splits the Claude sentence on Realm-X: the assistant part is wrong because Core lists Realm-X Assistant & Messages, while the Flows part is true and sits in C32. Cause tracing read four cited pages; the aitoolsbakery pricing article (cited by q7 Claude 2) says AppFolio's AI features were gated behind the quote-heavy tiers; it was not cited by q7 Claude 1. Mere name mentions, positioning (unit ranges served, best for), ratings, G2 rankings, AI performance statistics, support complaints and hedged lines were not coded. The full answer text was also read for AppFolio-headed sections and the AppFolio column of the q7 comparison tables, which the passages file omits. Pass 2 (8 Oct 2026): no browser snapshot exists for AppFolio and no page was blocked or thin; the other snapshots were searched again for iOS, Android, cloud, per-unit pricing, a free trial and the five named partners, and none settles a claim, so nothing was re-classed. Of the 26 gap lines, two add claims, both unverifiable table cells for cost at 100 units: C54 (q2 Claude 1, about $149 to $280 a month) and C55 (q2 Claude 3, about $298 or more a month); the rest repeat claims already listed for the same answer, are positioning or advice, or describe Avail, MRI, Re-Leased, Buildium or Rent Manager. The markdown tables, Google-style pipe tables and AppFolio-headed sections added C56 (affordable and student housing capabilities in Plus and Max, from the q7 ChatGPT 2 requirement list, true) and a q7 ChatGPT 2 instance for C37 (leasing CRM and read/write API). The q7 ChatGPT 2 and 3 rows on core residential work were read as feature descriptions, not plan claims. Consistency check: C39 stays wrong; the pricing page lists Realm-X Assistant & Messages inside Core, which explicitly contradicts both answers that gate the Realm-X assistant (or Realm-X as a whole) behind Plus, plan against plan on the same page.",
+ "answer_record_ids": [
+  "residential-property-management|q1|Google AI Mode|2",
+  "residential-property-management|q1|Google AI Mode|3",
+  "residential-property-management|q1|Google AI Overviews|2",
+  "residential-property-management|q10|Claude|1",
+  "residential-property-management|q10|Claude|2",
+  "residential-property-management|q10|Claude|3",
+  "residential-property-management|q10|Google AI Mode|1",
+  "residential-property-management|q10|Google AI Mode|2",
+  "residential-property-management|q10|Google AI Mode|3",
+  "residential-property-management|q10|Google AI Overviews|3",
+  "residential-property-management|q10|Perplexity|1",
+  "residential-property-management|q10|Perplexity|2",
+  "residential-property-management|q10|Perplexity|3",
+  "residential-property-management|q2|ChatGPT|1",
+  "residential-property-management|q2|ChatGPT|2",
+  "residential-property-management|q2|ChatGPT|3",
+  "residential-property-management|q2|Claude|1",
+  "residential-property-management|q2|Claude|2",
+  "residential-property-management|q2|Claude|3",
+  "residential-property-management|q2|Google AI Mode|1",
+  "residential-property-management|q2|Google AI Mode|2",
+  "residential-property-management|q2|Google AI Mode|3",
+  "residential-property-management|q2|Google AI Overviews|1",
+  "residential-property-management|q2|Google AI Overviews|2",
+  "residential-property-management|q2|Google AI Overviews|3",
+  "residential-property-management|q2|Perplexity|1",
+  "residential-property-management|q2|Perplexity|2",
+  "residential-property-management|q2|Perplexity|3",
+  "residential-property-management|q3|ChatGPT|1",
+  "residential-property-management|q3|ChatGPT|2",
+  "residential-property-management|q3|ChatGPT|3",
+  "residential-property-management|q3|Claude|1",
+  "residential-property-management|q3|Claude|2",
+  "residential-property-management|q3|Claude|3",
+  "residential-property-management|q3|Google AI Mode|1",
+  "residential-property-management|q3|Google AI Mode|2",
+  "residential-property-management|q3|Google AI Mode|3",
+  "residential-property-management|q3|Google AI Overviews|1",
+  "residential-property-management|q3|Google AI Overviews|2",
+  "residential-property-management|q3|Google AI Overviews|3",
+  "residential-property-management|q3|Perplexity|1",
+  "residential-property-management|q3|Perplexity|2",
+  "residential-property-management|q3|Perplexity|3",
+  "residential-property-management|q4|ChatGPT|1",
+  "residential-property-management|q4|ChatGPT|2",
+  "residential-property-management|q4|ChatGPT|3",
+  "residential-property-management|q4|Claude|1",
+  "residential-property-management|q4|Claude|2",
+  "residential-property-management|q4|Claude|3",
+  "residential-property-management|q4|Google AI Mode|1",
+  "residential-property-management|q4|Google AI Mode|2",
+  "residential-property-management|q4|Google AI Mode|3",
+  "residential-property-management|q4|Google AI Overviews|1",
+  "residential-property-management|q4|Google AI Overviews|2",
+  "residential-property-management|q4|Google AI Overviews|3",
+  "residential-property-management|q4|Perplexity|1",
+  "residential-property-management|q4|Perplexity|2",
+  "residential-property-management|q4|Perplexity|3",
+  "residential-property-management|q5|ChatGPT|1",
+  "residential-property-management|q5|ChatGPT|2",
+  "residential-property-management|q5|ChatGPT|3",
+  "residential-property-management|q5|Claude|1",
+  "residential-property-management|q5|Claude|2",
+  "residential-property-management|q5|Claude|3",
+  "residential-property-management|q5|Google AI Mode|1",
+  "residential-property-management|q5|Google AI Mode|2",
+  "residential-property-management|q5|Google AI Mode|3",
+  "residential-property-management|q5|Google AI Overviews|1",
+  "residential-property-management|q5|Google AI Overviews|2",
+  "residential-property-management|q5|Google AI Overviews|3",
+  "residential-property-management|q5|Perplexity|1",
+  "residential-property-management|q5|Perplexity|2",
+  "residential-property-management|q5|Perplexity|3",
+  "residential-property-management|q6|Claude|1",
+  "residential-property-management|q6|Claude|2",
+  "residential-property-management|q6|Claude|3",
+  "residential-property-management|q6|Perplexity|2",
+  "residential-property-management|q7|ChatGPT|1",
+  "residential-property-management|q7|ChatGPT|2",
+  "residential-property-management|q7|ChatGPT|3",
+  "residential-property-management|q7|Claude|1",
+  "residential-property-management|q7|Claude|2",
+  "residential-property-management|q7|Claude|3",
+  "residential-property-management|q7|Google AI Mode|1",
+  "residential-property-management|q7|Google AI Mode|2",
+  "residential-property-management|q7|Google AI Mode|3",
+  "residential-property-management|q7|Google AI Overviews|1",
+  "residential-property-management|q7|Google AI Overviews|2",
+  "residential-property-management|q7|Perplexity|1",
+  "residential-property-management|q7|Perplexity|2",
+  "residential-property-management|q7|Perplexity|3",
+  "residential-property-management|q9|ChatGPT|1",
+  "residential-property-management|q9|ChatGPT|2",
+  "residential-property-management|q9|ChatGPT|3",
+  "residential-property-management|q9|Google AI Overviews|3"
+ ],
+ "named_count": 95
+}

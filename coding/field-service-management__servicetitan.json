@@ -1,0 +1,1307 @@
+{
+ "vendor": "ServiceTitan",
+ "slug": "servicetitan",
+ "category": "field-service-management",
+ "coded_at": "2026-10-08T04:09:14Z",
+ "pages_read": [
+  {
+   "url": "https://www.servicetitan.com/",
+   "key": "16a4e3754ee3bce5",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.servicetitan.com/pricing",
+   "key": "3866677ca4f1600f",
+   "used_for": "pricing and packages"
+  },
+  {
+   "url": "https://investors.servicetitan.com/",
+   "key": "b5e28ec1af6114ae",
+   "used_for": "ownership (network failure, no snapshot)"
+  },
+  {
+   "url": "https://www.servicetitan.com/features/accounting/integrations",
+   "key": "ccdb325d44e124b5",
+   "used_for": "integrations (accounting)"
+  },
+  {
+   "url": "https://www.servicetitan.com/features/pro",
+   "key": "a339d854301e0cf7",
+   "used_for": "Pro products"
+  },
+  {
+   "url": "https://www.servicetitan.com/enterprise/hub",
+   "key": "c3f3086d4b023e63",
+   "used_for": "Enterprise Hub product page"
+  },
+  {
+   "url": "https://www.servicetitan.com/features/titan-intelligence",
+   "key": "769f37223edfca78",
+   "used_for": "Titan Intelligence product page"
+  },
+  {
+   "url": "https://www.servicetitan.com/press",
+   "key": "c6639d801c38a19b",
+   "used_for": "press and ownership"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Pricing is per technician.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/pricing",
+   "proof_quote": "Our per-technician pricing is designed to fit your business and goals, at any size.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states that ServiceTitan's package pricing is per technician.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|2",
+     "quote": "Pricing is custom and per technician."
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|3",
+     "quote": "Pricing is quote-based and per technician."
+    },
+    {
+     "record_id": "field-service-management|q1|Claude|1",
+     "quote": "ServiceTitan publishes package names and notes that pricing is per technician"
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|1",
+     "quote": "Pricing is custom, per technician, and features vary by package."
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|2",
+     "quote": "Pricing is per technician and quote-based."
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|3",
+     "quote": "Pricing is custom and per technician."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "Custom per-technician pricing."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|2",
+     "quote": "Pricing is custom and per technician."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|3",
+     "quote": "Pricing is quote-based and per technician."
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|1",
+     "quote": "Custom, per-technician pricing."
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|2",
+     "quote": "Custom, per-technician pricing."
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|3",
+     "quote": "Custom, per-technician pricing."
+    },
+    {
+     "record_id": "field-service-management|q8|ChatGPT|1",
+     "quote": "ServiceTitan advertises per-technician pricing."
+    },
+    {
+     "record_id": "field-service-management|q8|ChatGPT|2",
+     "quote": "ServiceTitan advertises per-technician pricing"
+    },
+    {
+     "record_id": "field-service-management|q8|ChatGPT|3",
+     "quote": "ServiceTitan advertises per-technician pricing."
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|2",
+     "quote": "Beyond the per-technician base rate"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|1",
+     "quote": "pricing scales per technician with implementation fees"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "pricing scales per technician with implementation fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Pricing is custom and quote-based; no dollar price is published.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/pricing",
+   "proof_quote": "Customizable Memberships Request Pricing Essentials Streamline your operations with industry-leading features.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the three packages with Request Pricing in place of any price and publishes no dollar amounts.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|2",
+     "quote": "Pricing is custom and per technician."
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|3",
+     "quote": "Pricing is quote-based and per technician."
+    },
+    {
+     "record_id": "field-service-management|q1|Claude|1",
+     "quote": "Pricing is not publicly listed"
+    },
+    {
+     "record_id": "field-service-management|q1|Claude|3",
+     "quote": "Its pricing is not publicly listed and requires a demo and custom quote"
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|1",
+     "quote": "ServiceTitan and FieldEdge: Both require quotes"
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|2",
+     "quote": "Pricing is per technician and quote-based."
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|3",
+     "quote": "ServiceTitan and FieldEdge require custom quotes."
+    },
+    {
+     "record_id": "field-service-management|q3|Claude|1",
+     "quote": "| ServiceTitan | Large multi-trade ops | ✅ Yes | ✅ Yes | Custom |"
+    },
+    {
+     "record_id": "field-service-management|q3|Claude|2",
+     "quote": "| ServiceTitan | Large multi-trade operations | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Custom |"
+    },
+    {
+     "record_id": "field-service-management|q3|Claude|3",
+     "quote": "| ServiceTitan | Multi-trade / large ops | ✅ Yes | ✅ Yes | Custom |"
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "Custom per-technician pricing."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|2",
+     "quote": "Pricing is custom and per technician."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|3",
+     "quote": "Pricing is quote-based and per technician."
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|1",
+     "quote": "ServiceTitan offers custom pricing plans"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|2",
+     "quote": "| ServiceTitan | Large/enterprise operations | Custom (from ~$125/mo) |"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|1",
+     "quote": "Custom, per-technician pricing."
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|2",
+     "quote": "Custom, per-technician pricing."
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|3",
+     "quote": "Custom, per-technician pricing."
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|1",
+     "quote": "ServiceTitan uses custom, quote-based pricing tailored to your business size."
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|2",
+     "quote": "| ServiceTitan | Enterprise (25+ techs) | Custom |"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "ServiceTitan uses custom pricing and is typically geared toward larger businesses with bigger budgets."
+    },
+    {
+     "record_id": "field-service-management|q6|Google AI Mode|3",
+     "quote": "Enterprise / Multi-Tech | ServiceTitan | Custom (~$398+/mo)"
+    },
+    {
+     "record_id": "field-service-management|q8|ChatGPT|1",
+     "quote": "Neither publishes a standard dollar price on its official pricing page."
+    },
+    {
+     "record_id": "field-service-management|q8|ChatGPT|2",
+     "quote": "Neither publishes a standard dollar price on its official pricing page"
+    },
+    {
+     "record_id": "field-service-management|q8|ChatGPT|3",
+     "quote": "Neither publishes a standard dollar price"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|1",
+     "quote": "Both require a sales demo"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "Neither platform publishes pricing publicly"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Mode|1",
+     "quote": "request a custom quote directly on the ServiceTitan Platform"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Mode|2",
+     "quote": "ServiceTitan: Quote-based and much heavier on the wallet."
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Overviews|1",
+     "quote": "Neither platform publishes transparent public pricing; both require a custom quote via a sales demo."
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Overviews|2",
+     "quote": "Both platforms require custom quotes through a sales demo"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Overviews|3",
+     "quote": "Operates at an enterprise price point per seat with custom quotes only"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Pricing is about $259 per technician per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes no dollar price for any package, so no figure can be checked against its pages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Claude|2",
+     "quote": "| ServiceTitan | 10+ techs, high volume | ~$259/tech/mo |"
+    },
+    {
+     "record_id": "field-service-management|q2|Claude|3",
+     "quote": "| ServiceTitan | 15+ techs, enterprise ops | ~$259/tech/mo |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Pricing ranges from $245 to $398 per technician per month depending on plan tier.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes no dollar price for any package, so no figure can be checked against its pages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Claude|1",
+     "quote": "ServiceTitan pricing ranges from $245 to $398 per technician per month"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|2",
+     "quote": "ServiceTitan pricing ranges from $245 to $398 per technician per month"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "ServiceTitan pricing ranges from $245 to $398 per technician per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Pricing is $245 to $500+ per technician per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes no dollar price for any package, so no figure can be checked against its pages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q4|Google AI Overviews|3",
+     "quote": "high price tag ($245–$500+ per technician monthly)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Pricing is about $250 to $500 per technician per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes no dollar price for any package, so no figure can be checked against its pages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|1",
+     "quote": "estimated at ~$250–$500 per technician/month based on reviews"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Plans start from about $125 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes no dollar price for any package, so no starting price can be checked against its pages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|Claude|1",
+     "quote": "with plans starting from approximately $125/month for basic features"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|2",
+     "quote": "| ServiceTitan | Large/enterprise operations | Custom (from ~$125/mo) |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Pricing starts at about $398 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes no dollar price for any package, so no starting price can be checked against its pages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|Claude|3",
+     "quote": "Pricing starts at $398/month"
+    },
+    {
+     "record_id": "field-service-management|q6|Google AI Mode|3",
+     "quote": "Enterprise / Multi-Tech | ServiceTitan | Custom (~$398+/mo)"
+    },
+    {
+     "record_id": "field-service-management|q8|Perplexity|2",
+     "quote": "ServiceTitan starting around $398/month"
+    },
+    {
+     "record_id": "field-service-management|q8|Perplexity|3",
+     "quote": "SelectHub reports ServiceTitan pricing starts at $398/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Pricing is around $200 to $250+ per technician per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes no dollar price for any package, so no figure can be checked against its pages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Google AI Mode|1",
+     "quote": "Generally scales around $200 - $250+ per month per technician"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Pricing is around $200 to $300+ per user or technician per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes no dollar price for any package, so no figure can be checked against its pages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Google AI Overviews|1",
+     "quote": "ServiceTitan scales higher into enterprise tiers ($200–$300+ per user monthly)"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Overviews|2",
+     "quote": "ServiceTitan generally exceeds $200–$300+ per user monthly"
+    },
+    {
+     "record_id": "field-service-management|q8|Perplexity|1",
+     "quote": "ServiceTitan around $200–$300+ per tech/user per month"
+    },
+    {
+     "record_id": "field-service-management|q8|Perplexity|3",
+     "quote": "ServiceTitan is often estimated around $200–$300+ per tech/user per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Mid-market and advanced tiers cost $1,200+ per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes no dollar price for any package, so no figure can be checked against its pages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Google AI Mode|2",
+     "quote": "mid-market and advanced tiers quickly climb to $1,200+/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "ServiceTitan costs hundreds of dollars per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes no dollar price for any package, so no figure can be checked against its pages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|3",
+     "quote": "which costs hundreds per month"
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Overviews|2",
+     "quote": "which cost hundreds of dollars per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "ServiceTitan charges implementation fees.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the vendor's pages read in this study states whether implementation or onboarding is charged.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Claude|1",
+     "quote": "pricing scales per technician with implementation fees"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "pricing scales per technician with implementation fees"
+    },
+    {
+     "record_id": "field-service-management|q4|Google AI Mode|2",
+     "quote": "its steep implementation fees, per-user pricing, and complex enterprise bloat"
+    },
+    {
+     "record_id": "field-service-management|q4|Google AI Overviews|3",
+     "quote": "costly implementation fees"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Mode|1",
+     "quote": "plus significant implementation fees and minimum user requirements"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Overviews|1",
+     "quote": "once you factor in onboarding, implementation fees, and per-user contracts"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Mode|2",
+     "quote": "hefty onboarding fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "The one-time implementation fee is $5,000 to $50,000.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages read in this study publish no implementation fee.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Claude|2",
+     "quote": "watch for the one-time implementation fee ($5,000–$50,000)"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "watch for the one-time implementation fee ($5,000–$50,000)"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|1",
+     "quote": "user reports and review platforms put implementation fees at roughly **$5,000–$50,000** one-time"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Extended training costs $2,000 to $5,000.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages read in this study publish no training price.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Claude|2",
+     "quote": "extended training costs of $2,000–$5,000"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "extended training costs of $2,000–$5,000"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "Marketing Pro costs about $2,000+ per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Pro products page names Marketing Pro but publishes no price for it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Claude|2",
+     "quote": "Marketing Pro reportedly ~$2,000+/month in some reports"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "Marketing Pro reportedly ~$2,000+/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "Pricing is per user (per seat).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states per-technician pricing; whether other users or seats are charged is not stated, so a per-user basis is neither confirmed nor contradicted.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Google AI Overviews|1",
+     "quote": "the high monthly per-user costs and steep setup requirements"
+    },
+    {
+     "record_id": "field-service-management|q4|Google AI Mode|2",
+     "quote": "its steep implementation fees, per-user pricing, and complex enterprise bloat"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|1",
+     "quote": "per-seat platforms like ServiceTitan or Housecall Pro"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Mode|3",
+     "quote": "monthly per-user/tiered subscriptions"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Overviews|1",
+     "quote": "once you factor in onboarding, implementation fees, and per-user contracts"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Overviews|3",
+     "quote": "Operates at an enterprise price point per seat with custom quotes only"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "ServiceTitan has minimum user requirements.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the vendor's pages read in this study states a minimum number of users or technicians.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Google AI Mode|1",
+     "quote": "plus significant implementation fees and minimum user requirements"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "plans",
+   "claim": "ServiceTitan sells tiered packages (it publishes package names).",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/pricing",
+   "proof_quote": "ServiceTitan Packages Our per-technician pricing is designed to fit your business and goals, at any size. Starter Get started with the must-have tools for your business.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes three named packages: Starter, Essentials and The Works.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Claude|1",
+     "quote": "ServiceTitan publishes package names and notes that pricing is per technician"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Mode|3",
+     "quote": "monthly per-user/tiered subscriptions"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|1",
+     "quote": "depending on your plan tier and company size"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|2",
+     "quote": "depending on plan tier and company size"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "depending on your plan tier and company size"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "plans",
+   "claim": "There are no public tiers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publicly names three packages but publishes no price for any of them, so the line is right if tiers means price points and wrong if it means packages; the answer's own context (custom, quote-based pricing) does not settle which.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|1",
+     "quote": "There are no public tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "plans",
+   "claim": "The upper package (The Works) includes advanced reporting, configurable payroll, commission tracking and customizable memberships.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/pricing",
+   "proof_quote": "The Works Accelerate your growth with the full ServiceTitan suite. Dispatching Scheduling Call Booking Invoicing Pricebook Mobile Estimates Configurable Payroll Advanced Reporting Commission Tracking Customizable Memberships",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists The Works, the full suite, with configurable payroll, advanced reporting, commission tracking and customizable memberships; the text snapshot does not show which of these the lower packages omit.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "higher packages include commission tracking and memberships."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|3",
+     "quote": "Its upper package includes advanced reporting, configurable payroll, commission tracking, and customizable memberships alongside dispatching and pricebooks."
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|1",
+     "quote": "Dispatching and pricebooks, with higher packages adding advanced reporting, configurable payroll, commission tracking, and memberships."
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|3",
+     "quote": "Packages extend from dispatch and pricebooks to payroll management, advanced reporting, commission tracking, and memberships."
+    },
+    {
+     "record_id": "field-service-management|q8|ChatGPT|1",
+     "quote": "Its upper package combines advanced reporting, configurable payroll, commission tracking, and customizable memberships."
+    },
+    {
+     "record_id": "field-service-management|q8|ChatGPT|2",
+     "quote": "Its top advertised package includes advanced reporting, commission tracking, and configurable payroll."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "plans",
+   "claim": "Features vary by package.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/pricing",
+   "proof_quote": "The Works Accelerate your growth with the full ServiceTitan suite. Dispatching Scheduling Call Booking Invoicing Pricebook Mobile Estimates Configurable Payroll Advanced Reporting Commission Tracking Customizable Memberships",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The packages are described differently (Starter with the must-have tools, The Works with the full suite and configurable payroll in place of payroll management).",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|1",
+     "quote": "Pricing is custom, per technician, and features vary by package."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "plans",
+   "claim": "Pro products are add-ons bought beyond the base package, not part of it.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/pricing",
+   "proof_quote": "Upgrade to Pro Products",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The site presents Pro Products as an upgrade beyond the packages (Upgrade to Pro Products, Get more with Pro); the pages publish no Pro price, and Phones Pro itself is not named on the pages read.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|ChatGPT|2",
+     "quote": "Marketing Pro, Phones Pro, and Pricebook Pro are add-on products."
+    },
+    {
+     "record_id": "field-service-management|q8|ChatGPT|3",
+     "quote": "Pro products are additional subscriptions, not automatically part of the base package."
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|2",
+     "quote": "paid Pro add-ons"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "paid Pro add-ons"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|1",
+     "quote": "Add-on modules like Marketing Pro and Dispatch Pro"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Mode|2",
+     "quote": "expensive add-ons"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "ownership",
+   "claim": "ServiceTitan is publicly traded on Nasdaq under the ticker TTAN.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/press",
+   "proof_quote": "ServiceTitan (Nasdaq: TTAN), the software platform that powers the trades",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's press page identifies ServiceTitan as Nasdaq: TTAN in its releases.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Claude|2",
+     "quote": "ServiceTitan is a publicly traded field service platform (NASDAQ: TTAN)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "integrations",
+   "claim": "ServiceTitan integrates with QuickBooks.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/features/accounting/integrations",
+   "proof_quote": "integration with QuickBooks Online automatically syncs transactions over in near-real time",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The accounting integrations page lists QuickBooks Online and QuickBooks Desktop integrations.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Claude|2",
+     "quote": "| ServiceTitan | 10+ techs, high volume | ~$259/tech/mo | ✅ Yes |"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Overviews|1",
+     "quote": "ServiceTitan also connects to accounting software like QuickBooks and Sage Intacct"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|1",
+     "quote": "| QuickBooks Integration | ✅ Best-in-class | ⚠️ Limited |"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|2",
+     "quote": "| QuickBooks Integration | ✅ Best-in-class | ⚠️ Limited |"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "| QuickBooks Integration | ✅ Best-in-class | ⚠️ Limited |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "integrations",
+   "claim": "ServiceTitan integrates with Sage Intacct.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/features/accounting/integrations",
+   "proof_quote": "every franchise location in your Sage Intacct system",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The accounting integrations page lists a Sage Intacct integration.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Google AI Overviews|1",
+     "quote": "ServiceTitan also connects to accounting software like QuickBooks and Sage Intacct"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Overviews|3",
+     "quote": "ServiceTitan also connects with major financial software and Intacct"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "platforms",
+   "claim": "ServiceTitan has a mobile app for technicians.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/",
+   "proof_quote": "Mobile App An app dedicated to technician success",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists a mobile app dedicated to technicians (Field Mobile App in the site menu).",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Claude|1",
+     "quote": "the mobile app equips techs with job details, a pricebook, and customer history on every call"
+    },
+    {
+     "record_id": "field-service-management|q3|Google AI Mode|3",
+     "quote": "dynamic mobile apps"
+    },
+    {
+     "record_id": "field-service-management|q3|Google AI Overviews|2",
+     "quote": "robust mobile technician apps"
+    },
+    {
+     "record_id": "field-service-management|q2|Perplexity|1",
+     "quote": "Advanced scheduling, real-time dispatch, mobile tools, invoicing, and customer management"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "product_names",
+   "claim": "Titan Intelligence is ServiceTitan's AI product.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/features/titan-intelligence",
+   "proof_quote": "Titan Intelligence (ti) is AI for the Trades",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's Titan Intelligence page names it as ServiceTitan's AI for the trades.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|Google AI Mode|2",
+     "quote": "specialized \"Titan Intelligence\" AI tools"
+    },
+    {
+     "record_id": "field-service-management|q8|Google AI Overviews|1",
+     "quote": "AI-driven forecasting (Titan Intelligence)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "product_names",
+   "claim": "Enterprise Hub is ServiceTitan's multi-location management product.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/enterprise/hub",
+   "proof_quote": "ENTERPRISE HUB The ultimate solution for scaling & centrally managing multiple locations",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's Enterprise Hub page names the product for managing multiple locations.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|ChatGPT|2",
+     "quote": "Enterprise Hub offers cross-location reporting, centralized booking, and multi-location user management."
+    },
+    {
+     "record_id": "field-service-management|q8|ChatGPT|3",
+     "quote": "Enterprise Hub provides rollup reporting, centralized pricebooks, and cross-location management tools."
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "product_names",
+   "claim": "Marketing Pro is a ServiceTitan Pro product.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/pricing",
+   "proof_quote": "Get more with Pro AI Virtual Agent Marketing Pro Contact Center Pro Pricebook Pro Fleet Pro Scheduling Pro Dispatch Pro Field Pro",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The site's product menu lists Marketing Pro among the Pro products.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|ChatGPT|2",
+     "quote": "Marketing Pro, Phones Pro, and Pricebook Pro are add-on products."
+    },
+    {
+     "record_id": "field-service-management|q8|ChatGPT|3",
+     "quote": "Consider ServiceTitan with Marketing Pro"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|2",
+     "quote": "Marketing Pro reportedly ~$2,000+/month in some reports"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "Marketing Pro reportedly ~$2,000+/month"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|1",
+     "quote": "Add-on modules like Marketing Pro and Dispatch Pro"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "product_names",
+   "claim": "Pricebook Pro is a ServiceTitan Pro product.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/pricing",
+   "proof_quote": "Get more with Pro AI Virtual Agent Marketing Pro Contact Center Pro Pricebook Pro Fleet Pro Scheduling Pro Dispatch Pro Field Pro",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The site's product menu lists Pricebook Pro among the Pro products.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|ChatGPT|2",
+     "quote": "Marketing Pro, Phones Pro, and Pricebook Pro are add-on products."
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "plus Phones Pro, Pricebook Pro, Dispatch Pro, and Fleet Pro quoted separately"
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "product_names",
+   "claim": "Dispatch Pro is a ServiceTitan Pro product.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/pricing",
+   "proof_quote": "Get more with Pro AI Virtual Agent Marketing Pro Contact Center Pro Pricebook Pro Fleet Pro Scheduling Pro Dispatch Pro Field Pro",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The site's product menu lists Dispatch Pro among the Pro products.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "plus Phones Pro, Pricebook Pro, Dispatch Pro, and Fleet Pro quoted separately"
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|1",
+     "quote": "Add-on modules like Marketing Pro and Dispatch Pro"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "product_names",
+   "claim": "Fleet Pro is a ServiceTitan Pro product.",
+   "class": "true",
+   "proof_url": "https://www.servicetitan.com/pricing",
+   "proof_quote": "Get more with Pro AI Virtual Agent Marketing Pro Contact Center Pro Pricebook Pro Fleet Pro Scheduling Pro Dispatch Pro Field Pro",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The site's product menu lists Fleet Pro among the Pro products.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "plus Phones Pro, Pricebook Pro, Dispatch Pro, and Fleet Pro quoted separately"
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "product_names",
+   "claim": "Phones Pro is a ServiceTitan Pro product.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Pro products listed on the pages read (Marketing, Contact Center, Scheduling, Dispatch, Fleet, Field and Pricebook Pro) do not include Phones Pro, and no page read documents a rename, so the name is neither confirmed nor shown to be retired.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|ChatGPT|2",
+     "quote": "Marketing Pro, Phones Pro, and Pricebook Pro are add-on products."
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "plus Phones Pro, Pricebook Pro, Dispatch Pro, and Fleet Pro quoted separately"
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "product_names",
+   "claim": "Titan Score is ServiceTitan's real-time KPI tracking feature.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read in this study names Titan Score.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Google AI Mode|1",
+     "quote": "real-time KPI tracking (via their Titan Score)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "pricing",
+   "claim": "For five technicians the software fees come to about $1,225 to $1,990 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes no dollar price for any package, so the computed monthly cost cannot be checked against its pages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Claude|1",
+     "quote": "For a company with 5 technicians, that works out to roughly $1,225 to $1,990 per month in software fees alone."
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|2",
+     "quote": "For a company with 5 technicians, that works out to roughly **$1,225 to $1,990 per month** in software fees alone."
+    },
+    {
+     "record_id": "field-service-management|q8|Claude|3",
+     "quote": "For a company with 5 technicians, that works out to roughly $1,225 to $1,990 per month in software fees alone."
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "pricing",
+   "claim": "ServiceTitan requires a 12-month minimum contract.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the vendor's pages read in this study states a contract term or minimum commitment.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Claude|1",
+     "quote": "on a 12-month minimum contract"
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "plans",
+   "claim": "Inventory management is an add-on.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The site lists Purchasing & Inventory among its features, but no page read states whether it is part of a package or sold as an add-on.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q8|Claude|1",
+     "quote": "| Inventory Management | ✅ | ⚠️ Add-on |"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Eight own pages attempted. investors.servicetitan.com failed with a network timeout (no snapshot) and was not retried; the ownership claim (C24) was settled from the press page instead, so no claim depends on it. The other seven pages answered HTTP 200 and are not thin. The pricing page names three packages (Starter, Essentials, The Works) with Request Pricing and no dollar amounts, so every dollar figure (C03 to C16) is unverifiable. Its text snapshot lists the same feature names under every package (inclusion is shown by icons that the text does not carry), so only claims about the top package (The Works) were classed from it. C20 (no public tiers) is left unverifiable because the line is ambiguous between packages (public) and price points (not public). C23 (Pro products are add-ons) rests on the site's own wording Upgrade to Pro Products and Get more with Pro. Phones Pro (C34) is not on the current Pro list, which shows Contact Center Pro; no rename is documented on a page read, so it is unverifiable rather than stale. Hedged lines (pricing may range from $259, base packages can start around $398, fees that can range) were not coded. NFPA compliance check marks in Claude's fire-protection tables were treated as feature support, not certification claims. Capterra ratings, sentiment scores and data-export complaints are out of scope. No claim is wrong or stale, so no cited page was read for causes. Pass 2 (8 Oct 2026): no browser reads exist for this vendor; investors.servicetitan.com still has no snapshot, but no claim depends on it. No claim is wrong or stale, so the consistency check changed nothing. Completeness: nine instances added to existing claims (C13, C14, C23, C25, C30, C32), mostly from the FieldEdge comparison sections and feature tables, and three unverifiable claims added (C36 the five-technician monthly cost, C37 a 12-month minimum contract, C38 inventory management as an add-on). The QuickBooks rows that mark ServiceTitan as Limited or Average were taken as stating that the integration exists (C25); the quality judgement itself is out of scope.",
+ "answer_record_ids": [
+  "field-service-management|q1|ChatGPT|2",
+  "field-service-management|q1|ChatGPT|3",
+  "field-service-management|q1|Claude|1",
+  "field-service-management|q1|Claude|2",
+  "field-service-management|q1|Claude|3",
+  "field-service-management|q1|Google AI Mode|1",
+  "field-service-management|q1|Google AI Mode|2",
+  "field-service-management|q1|Google AI Mode|3",
+  "field-service-management|q1|Google AI Overviews|1",
+  "field-service-management|q1|Perplexity|2",
+  "field-service-management|q10|Claude|1",
+  "field-service-management|q10|Claude|2",
+  "field-service-management|q10|Claude|3",
+  "field-service-management|q10|Google AI Mode|1",
+  "field-service-management|q10|Google AI Mode|2",
+  "field-service-management|q10|Google AI Mode|3",
+  "field-service-management|q10|Google AI Overviews|1",
+  "field-service-management|q10|Google AI Overviews|2",
+  "field-service-management|q2|ChatGPT|1",
+  "field-service-management|q2|ChatGPT|2",
+  "field-service-management|q2|ChatGPT|3",
+  "field-service-management|q2|Claude|1",
+  "field-service-management|q2|Claude|2",
+  "field-service-management|q2|Claude|3",
+  "field-service-management|q2|Google AI Mode|1",
+  "field-service-management|q2|Google AI Mode|2",
+  "field-service-management|q2|Google AI Mode|3",
+  "field-service-management|q2|Google AI Overviews|1",
+  "field-service-management|q2|Google AI Overviews|2",
+  "field-service-management|q2|Google AI Overviews|3",
+  "field-service-management|q2|Perplexity|1",
+  "field-service-management|q2|Perplexity|2",
+  "field-service-management|q2|Perplexity|3",
+  "field-service-management|q3|ChatGPT|1",
+  "field-service-management|q3|ChatGPT|2",
+  "field-service-management|q3|ChatGPT|3",
+  "field-service-management|q3|Claude|1",
+  "field-service-management|q3|Claude|2",
+  "field-service-management|q3|Claude|3",
+  "field-service-management|q3|Google AI Mode|1",
+  "field-service-management|q3|Google AI Mode|2",
+  "field-service-management|q3|Google AI Mode|3",
+  "field-service-management|q3|Google AI Overviews|2",
+  "field-service-management|q3|Google AI Overviews|3",
+  "field-service-management|q4|ChatGPT|1",
+  "field-service-management|q4|ChatGPT|3",
+  "field-service-management|q4|Claude|1",
+  "field-service-management|q4|Claude|2",
+  "field-service-management|q4|Claude|3",
+  "field-service-management|q4|Google AI Mode|1",
+  "field-service-management|q4|Google AI Mode|2",
+  "field-service-management|q4|Google AI Mode|3",
+  "field-service-management|q4|Google AI Overviews|1",
+  "field-service-management|q4|Google AI Overviews|2",
+  "field-service-management|q4|Google AI Overviews|3",
+  "field-service-management|q4|Perplexity|1",
+  "field-service-management|q4|Perplexity|2",
+  "field-service-management|q4|Perplexity|3",
+  "field-service-management|q5|ChatGPT|1",
+  "field-service-management|q5|ChatGPT|2",
+  "field-service-management|q5|ChatGPT|3",
+  "field-service-management|q5|Claude|1",
+  "field-service-management|q5|Claude|2",
+  "field-service-management|q5|Claude|3",
+  "field-service-management|q5|Google AI Mode|1",
+  "field-service-management|q5|Google AI Mode|2",
+  "field-service-management|q5|Google AI Mode|3",
+  "field-service-management|q5|Google AI Overviews|1",
+  "field-service-management|q5|Perplexity|1",
+  "field-service-management|q5|Perplexity|2",
+  "field-service-management|q5|Perplexity|3",
+  "field-service-management|q6|ChatGPT|1",
+  "field-service-management|q6|ChatGPT|2",
+  "field-service-management|q6|ChatGPT|3",
+  "field-service-management|q6|Claude|1",
+  "field-service-management|q6|Claude|2",
+  "field-service-management|q6|Claude|3",
+  "field-service-management|q6|Google AI Mode|1",
+  "field-service-management|q6|Google AI Mode|2",
+  "field-service-management|q6|Google AI Mode|3",
+  "field-service-management|q6|Google AI Overviews|1",
+  "field-service-management|q6|Google AI Overviews|2",
+  "field-service-management|q6|Google AI Overviews|3",
+  "field-service-management|q6|Perplexity|1",
+  "field-service-management|q6|Perplexity|2",
+  "field-service-management|q6|Perplexity|3",
+  "field-service-management|q8|ChatGPT|1",
+  "field-service-management|q8|ChatGPT|2",
+  "field-service-management|q8|ChatGPT|3",
+  "field-service-management|q8|Claude|1",
+  "field-service-management|q8|Claude|2",
+  "field-service-management|q8|Claude|3",
+  "field-service-management|q8|Google AI Mode|1",
+  "field-service-management|q8|Google AI Mode|2",
+  "field-service-management|q8|Google AI Mode|3",
+  "field-service-management|q8|Google AI Overviews|1",
+  "field-service-management|q8|Google AI Overviews|2",
+  "field-service-management|q8|Google AI Overviews|3",
+  "field-service-management|q8|Perplexity|1",
+  "field-service-management|q8|Perplexity|2",
+  "field-service-management|q8|Perplexity|3",
+  "field-service-management|q9|Google AI Overviews|2"
+ ],
+ "named_count": 102
+}

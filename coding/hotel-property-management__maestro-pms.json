@@ -1,0 +1,709 @@
+{
+ "vendor": "Maestro PMS",
+ "slug": "maestro-pms",
+ "category": "hotel-property-management",
+ "coded_at": "2026-10-08T03:57:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.maestropms.com/",
+   "key": "23a2104c860390c8",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.maestropms.com/hotel-pms-property-management-software-systems.html",
+   "key": "f6529fe53fdc4637",
+   "used_for": "product: hotel PMS and modules"
+  },
+  {
+   "url": "https://www.maestropms.com/cloud-hosted-on-premise-saas-hospitality-software.html",
+   "key": "d00cf9cb83666670",
+   "used_for": "hosting and deployment"
+  },
+  {
+   "url": "https://www.maestropms.com/mobile-contact-free-staff-operations.html",
+   "key": "bdc935dc616535ff",
+   "used_for": "product: mobile staff operations"
+  },
+  {
+   "url": "https://www.maestropms.com/pci-gdpr-hotel-management-software.html",
+   "key": "1ac30b89442921d2",
+   "used_for": "security page (renders the Deployment Options text)"
+  },
+  {
+   "url": "https://www.maestropms.com/press-releases-hospitality-technology-best-hotel-pms-software.html",
+   "key": "7410bdac87399184",
+   "used_for": "press"
+  },
+  {
+   "url": "https://www.maestropms.com/Maestro-All-In-One-PMS-Solution.html",
+   "key": "fe4c6a71e691e29c",
+   "used_for": "product: all-in-one overview"
+  },
+  {
+   "url": "https://www.maestropms.com/interfaces-open-apis-integration-pms-partners.html",
+   "key": "8a4df37769984db3",
+   "used_for": "integrations"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Maestro PMS has custom pricing.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read publishes pricing or describes how it is set; the site offers demos only, and the press page's mention of flexible implementation plans and pricing does not state custom pricing.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "| Maestro PMS | Feature-rich multi-module needs | Custom pricing |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Maestro PMS has a $25,000 entry-level license fee.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states a license fee or any price.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q8|Claude|1",
+     "quote": "The $25,000 entry-level license fee comes up repeatedly as a barrier"
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|2",
+     "quote": "The $25,000 entry-level license fee comes up repeatedly as a barrier"
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|3",
+     "quote": "The $25,000 entry-level license fee comes up repeatedly as a barrier"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "free_tier",
+   "claim": "Maestro PMS offers no free trial or freemium option.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read offer a free, no-commitment demo but say nothing about a trial or a free plan, so the absence is not settled.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q8|Claude|1",
+     "quote": "that upfront commitment without a trial period or freemium option is a genuine obstacle."
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|2",
+     "quote": "that upfront commitment without a trial period or freemium option is a genuine obstacle."
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|3",
+     "quote": "that upfront commitment without a trial period or freemium option is a genuine obstacle."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "founding",
+   "claim": "Maestro has over 40 years of experience (in business more than 40 years).",
+   "class": "true",
+   "proof_url": "https://www.maestropms.com/press-releases-hospitality-technology-best-hotel-pms-software.html",
+   "proof_quote": "From Green Screens to The Cloud: Maestro PMS' Continued Commitment to Innovation Powers Success for Independents for More Than 40 Years",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The press page states more than 40 years, and the product page says over 43 years.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q10|Claude|1",
+     "quote": "Maestro PMS has over 40 years of experience delivering comprehensive hotel management solutions"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "founding",
+   "claim": "Maestro has been in the industry for over 43 years.",
+   "class": "true",
+   "proof_url": "https://www.maestropms.com/hotel-pms-property-management-software-systems.html",
+   "proof_quote": "For over 43 years Maestro's Diamond Plus Service has provided unparalleled 24/7 North American-based support and education services",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page states over 43 years of Maestro service.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q8|Claude|1",
+     "quote": "Maestro has been in the industry for over 43 years."
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|3",
+     "quote": "Maestro has been the answer for over 43 years."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "product_names",
+   "claim": "Maestro's hosted offering is named the Maestro Cloud Platform.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The deployment page names Maestro Windows, Maestro Web and Maestro's Cloud Services, not a Maestro Cloud Platform; no page read uses or rules out that name, so it is unsettled.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "with the option to host its Maestro Cloud Platform on-premises, in a private cloud, or cloud hosted."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "with the option to host its Maestro Cloud Platform on-premises, in a private cloud, or cloud hosted."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "with the option to host its Maestro Cloud Platform on-premises, in a private cloud, or cloud hosted."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "product_names",
+   "claim": "Maestro's tablet front-desk module is named Maestro Touch.",
+   "class": "true",
+   "proof_url": "https://www.maestropms.com/mobile-contact-free-staff-operations.html",
+   "proof_quote": "FEATURES Maestro Touch Digital Registration Card Mobile Housekeeping",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The mobile staff operations page, which describes smartphone and tablet friendly apps, lists Maestro Touch as a feature.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q8|Claude|1",
+     "quote": "Maestro Touch brings tablet functionality to the front desk"
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|2",
+     "quote": "Maestro Touch brings tablet functionality to the front desk"
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|3",
+     "quote": "Maestro Touch also brings tablet functionality to the front desk"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "certifications",
+   "claim": "Maestro PMS is PCI certified.",
+   "class": "true",
+   "proof_url": "https://www.maestropms.com/hotel-pms-property-management-software-systems.html",
+   "proof_quote": "Maestro's PCI certified and EMV ready enterprise system offers a Web browser version (or Windows)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page calls the system PCI certified.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "Maestro's PCI-certified and EMV-ready enterprise system comes complete with 20+ integrated modules on a single database"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "Its PCI-certified and EMV-ready enterprise system offers 20+ integrated modules on a single database"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "Its PCI-certified and EMV-ready enterprise system comes complete with 20+ integrated modules on a single database"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "certifications",
+   "claim": "Maestro PMS is EMV ready.",
+   "class": "true",
+   "proof_url": "https://www.maestropms.com/hotel-pms-property-management-software-systems.html",
+   "proof_quote": "Maestro's PCI certified and EMV ready enterprise system offers a Web browser version (or Windows)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page calls the system EMV ready.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "Maestro's PCI-certified and EMV-ready enterprise system comes complete with 20+ integrated modules on a single database"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "Its PCI-certified and EMV-ready enterprise system offers 20+ integrated modules on a single database"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "Its PCI-certified and EMV-ready enterprise system comes complete with 20+ integrated modules on a single database"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "integrations",
+   "claim": "Maestro PMS has about 89 verified integrations.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes over 800 vendor integrations, while the answer reports a count of verified integrations, a third-party measure the vendor does not publish; not like with like, so unsettled.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q8|Google AI Overviews|1",
+     "quote": "~89 verified integrations | ~56 verified integrations | Maestro PMS"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "platforms",
+   "claim": "Maestro PMS can be deployed in the cloud (cloud hosted).",
+   "class": "true",
+   "proof_url": "https://www.maestropms.com/hotel-pms-property-management-software-systems.html",
+   "proof_quote": "The Maestro Property Management System delivers flexible and scalable deployment options with an identical full-featured web browser or windows solution available hosted in the cloud, on premise, self hosted or in your own private cloud.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page lists cloud hosting among the deployment options, and the deployment page names Maestro's Cloud Services.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "available on-premise or cloud"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "with the option to host its Maestro Cloud Platform on-premises, in a private cloud, or cloud hosted."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "Maestro is the preferred web browser-based cloud and on-premises PMS solution"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "with the option to host its Maestro Cloud Platform on-premises, in a private cloud, or cloud hosted."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|1",
+     "quote": "A robust alternative available in cloud-hosted or on-premise deployments."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|2",
+     "quote": "Offers flexible cloud-hosted or on-premise deployment."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|3",
+     "quote": "It is available as a secure cloud-hosted or on-premise deployment."
+    },
+    {
+     "record_id": "hotel-property-management|q6|ChatGPT|2",
+     "quote": "and cloud or on-premises deployment."
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Mode|1",
+     "quote": "offering flexible cloud or on-premise deployment"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Mode|2",
+     "quote": "Maestro is well-liked for its comprehensive on-premise and cloud flexibility"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Mode|3",
+     "quote": "which is traditionally known for robust, comprehensive on-premise and hosted enterprise features"
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|1",
+     "quote": "cloud-hosted, self-hosted, or on-premises."
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|2",
+     "quote": "Cloud-hosted, private-cloud, and on-premises options; browser and Windows interfaces."
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|3",
+     "quote": "Explicit choice of cloud-hosted, self-hosted, or on-premises; browser and Windows options."
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|1",
+     "quote": "It offers strong flexibility with both cloud and on-premise deployment options"
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|2",
+     "quote": "offers strong flexibility with both cloud and on-premise deployment options"
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|3",
+     "quote": "It offers strong flexibility with both cloud and on-premise deployment options"
+    },
+    {
+     "record_id": "hotel-property-management|q8|Google AI Mode|1",
+     "quote": "available in the cloud, private cloud, or on-premise installation."
+    },
+    {
+     "record_id": "hotel-property-management|q8|Google AI Overviews|2",
+     "quote": "Supports cloud, private cloud, or on-premise setups"
+    },
+    {
+     "record_id": "hotel-property-management|q8|Perplexity|2",
+     "quote": "on-premise or cloud flexibility"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "platforms",
+   "claim": "Maestro PMS can be deployed on-premise.",
+   "class": "true",
+   "proof_url": "https://www.maestropms.com/hotel-pms-property-management-software-systems.html",
+   "proof_quote": "The Maestro Property Management System delivers flexible and scalable deployment options with an identical full-featured web browser or windows solution available hosted in the cloud, on premise, self hosted or in your own private cloud.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page lists on premise among the deployment options, and the deployment page details on-premise installs.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "available on-premise or cloud"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "with the option to host its Maestro Cloud Platform on-premises, in a private cloud, or cloud hosted."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "Maestro is the preferred web browser-based cloud and on-premises PMS solution"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "with the option to host its Maestro Cloud Platform on-premises, in a private cloud, or cloud hosted."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|1",
+     "quote": "A robust alternative available in cloud-hosted or on-premise deployments."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|2",
+     "quote": "Offers flexible cloud-hosted or on-premise deployment."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|3",
+     "quote": "It is available as a secure cloud-hosted or on-premise deployment."
+    },
+    {
+     "record_id": "hotel-property-management|q6|ChatGPT|2",
+     "quote": "and cloud or on-premises deployment."
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Mode|1",
+     "quote": "offering flexible cloud or on-premise deployment"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Mode|2",
+     "quote": "Maestro is well-liked for its comprehensive on-premise and cloud flexibility"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Mode|3",
+     "quote": "which is traditionally known for robust, comprehensive on-premise and hosted enterprise features"
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|1",
+     "quote": "cloud-hosted, self-hosted, or on-premises."
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|2",
+     "quote": "Cloud-hosted, private-cloud, and on-premises options; browser and Windows interfaces."
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|3",
+     "quote": "Explicit choice of cloud-hosted, self-hosted, or on-premises; browser and Windows options."
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|1",
+     "quote": "It offers strong flexibility with both cloud and on-premise deployment options"
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|2",
+     "quote": "offers strong flexibility with both cloud and on-premise deployment options"
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|3",
+     "quote": "It offers strong flexibility with both cloud and on-premise deployment options"
+    },
+    {
+     "record_id": "hotel-property-management|q8|Google AI Mode|1",
+     "quote": "available in the cloud, private cloud, or on-premise installation."
+    },
+    {
+     "record_id": "hotel-property-management|q8|Google AI Overviews|2",
+     "quote": "Supports cloud, private cloud, or on-premise setups"
+    },
+    {
+     "record_id": "hotel-property-management|q8|Perplexity|2",
+     "quote": "on-premise or cloud flexibility"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "platforms",
+   "claim": "Maestro PMS can be hosted in a private cloud.",
+   "class": "true",
+   "proof_url": "https://www.maestropms.com/hotel-pms-property-management-software-systems.html",
+   "proof_quote": "The Maestro Property Management System delivers flexible and scalable deployment options with an identical full-featured web browser or windows solution available hosted in the cloud, on premise, self hosted or in your own private cloud.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page lists your own private cloud among the deployment options.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "with the option to host its Maestro Cloud Platform on-premises, in a private cloud, or cloud hosted."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "with the option to host its Maestro Cloud Platform on-premises, in a private cloud, or cloud hosted."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "with the option to host its Maestro Cloud Platform on-premises, in a private cloud, or cloud hosted."
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|2",
+     "quote": "Cloud-hosted, private-cloud, and on-premises options; browser and Windows interfaces."
+    },
+    {
+     "record_id": "hotel-property-management|q8|Google AI Mode|1",
+     "quote": "available in the cloud, private cloud, or on-premise installation."
+    },
+    {
+     "record_id": "hotel-property-management|q8|Google AI Overviews|2",
+     "quote": "Supports cloud, private cloud, or on-premise setups"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "platforms",
+   "claim": "Maestro PMS runs in a web browser.",
+   "class": "true",
+   "proof_url": "https://www.maestropms.com/hotel-pms-property-management-software-systems.html",
+   "proof_quote": "Maestro's PCI certified and EMV ready enterprise system offers a Web browser version (or Windows)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page states a web browser version is offered.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "offers an all-in-one, comprehensive web browser or Windows solution"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "offers an all-in-one, comprehensive web browser or Windows solution"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "offers an all-in-one, comprehensive web browser or Windows solution"
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|2",
+     "quote": "browser and Windows interfaces."
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|3",
+     "quote": "Explicit choice of cloud-hosted, self-hosted, or on-premises; browser and Windows options."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "platforms",
+   "claim": "Maestro PMS runs as a Windows application.",
+   "class": "true",
+   "proof_url": "https://www.maestropms.com/hotel-pms-property-management-software-systems.html",
+   "proof_quote": "Maestro's PCI certified and EMV ready enterprise system offers a Web browser version (or Windows)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page offers a Windows version, and the deployment page names Maestro Windows client/server installs.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "offers an all-in-one, comprehensive web browser or Windows solution"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "offers an all-in-one, comprehensive web browser or Windows solution"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "offers an all-in-one, comprehensive web browser or Windows solution"
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|2",
+     "quote": "browser and Windows interfaces."
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|3",
+     "quote": "Explicit choice of cloud-hosted, self-hosted, or on-premises; browser and Windows options."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "platforms",
+   "claim": "Maestro PMS includes mobile (and contactless) apps.",
+   "class": "true",
+   "proof_url": "https://www.maestropms.com/hotel-pms-property-management-software-systems.html",
+   "proof_quote": "complete with 20+ integrated modules on a single database including mobile and contactless apps to support staff operations",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page states the system includes mobile and contactless apps.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "with mobile and touchless capabilities."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "including mobile and contactless apps to support staff operations"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "including mobile and contactless apps."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "including mobile and contactless apps to support staff operations"
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|2",
+     "quote": "Mobile/contactless guest engagement and operational tools."
+    },
+    {
+     "record_id": "hotel-property-management|q8|ChatGPT|3",
+     "quote": "Offers mobile and contactless guest tools."
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|2",
+     "quote": "| Mobile Access | ✅ Yes | ✅ Yes |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "platforms",
+   "claim": "Maestro PMS runs on tablets (staff check-in and check-out on mobile devices).",
+   "class": "true",
+   "proof_url": "https://www.maestropms.com/mobile-contact-free-staff-operations.html",
+   "proof_quote": "Smartphone and tablet friendly apps designed to improve guest service and efficiencies for the operations team on the go.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The mobile staff operations page describes smartphone and tablet friendly apps for staff.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q8|Claude|1",
+     "quote": "letting staff complete check-ins, check-outs, and digital signatures on mobile devices."
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|2",
+     "quote": "letting staff complete check-ins, check-outs, and digital signatures on mobile devices."
+    },
+    {
+     "record_id": "hotel-property-management|q8|Claude|3",
+     "quote": "letting staff complete check-ins, check-outs, and digital signatures on mobile devices."
+    }
+   ]
+  }
+ ],
+ "notes": "Eight own pages read, all HTTP 200 and not thin; the URL pci-gdpr-hotel-management-software.html renders the Deployment Options text, not a security page. No claim is wrong or stale, so no cited page was read for causes. Maestro publishes no prices, so the custom pricing, $25,000 license and no-trial claims are unverifiable. C10 (about 89 verified integrations) is unverifiable rather than wrong: the vendor publishes over 800 vendor integrations (and a press headline cites 600+ supported interfaces), while the answer reports a third-party verified-integrations count; a reviewer may prefer wrong. C04 (over 40 years) is true as a lower bound of the published over 43 years. The claim that Maestro is the only PMS company with this deployment choice is a comparison and was not coded; module lists (sales and catering, spa, condo owner) and the 20+ module count are feature descriptions and were not coded. Platform deployment options were coded one claim per option (cloud, on-premise, private cloud, web browser, Windows, mobile apps, tablet). Pass 2 (8 Oct 2026): no browser reads exist for this vendor and no claim was blocked by an unreadable page, so nothing was re-classed. Gap lines were all feature descriptions, positioning or about other vendors; open API mentions name no third-party product and were not coded. Comparison tables with Maestro as a column header added instances: q8 ChatGPT run 3 deployment row to C11, C12, C14 and C15; mobile guest tools and the Mobile Access row to C16. No claim is wrong or stale, so the consistency check changed nothing.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "hotel-property-management|q10|Claude|1",
+  "hotel-property-management|q2|Claude|2",
+  "hotel-property-management|q3|Google AI Overviews|2",
+  "hotel-property-management|q4|Claude|1",
+  "hotel-property-management|q4|Claude|2",
+  "hotel-property-management|q4|Claude|3",
+  "hotel-property-management|q4|Google AI Mode|1",
+  "hotel-property-management|q4|Google AI Mode|2",
+  "hotel-property-management|q4|Google AI Mode|3",
+  "hotel-property-management|q4|Perplexity|2",
+  "hotel-property-management|q4|Perplexity|3",
+  "hotel-property-management|q5|Claude|1",
+  "hotel-property-management|q5|Claude|3",
+  "hotel-property-management|q6|ChatGPT|1",
+  "hotel-property-management|q6|ChatGPT|2",
+  "hotel-property-management|q6|ChatGPT|3",
+  "hotel-property-management|q6|Claude|1",
+  "hotel-property-management|q6|Claude|2",
+  "hotel-property-management|q6|Claude|3",
+  "hotel-property-management|q6|Google AI Mode|1",
+  "hotel-property-management|q6|Google AI Mode|2",
+  "hotel-property-management|q6|Google AI Mode|3",
+  "hotel-property-management|q6|Google AI Overviews|1",
+  "hotel-property-management|q6|Google AI Overviews|2",
+  "hotel-property-management|q6|Google AI Overviews|3",
+  "hotel-property-management|q6|Perplexity|1",
+  "hotel-property-management|q6|Perplexity|2",
+  "hotel-property-management|q6|Perplexity|3",
+  "hotel-property-management|q8|ChatGPT|1",
+  "hotel-property-management|q8|ChatGPT|2",
+  "hotel-property-management|q8|ChatGPT|3",
+  "hotel-property-management|q8|Claude|1",
+  "hotel-property-management|q8|Claude|2",
+  "hotel-property-management|q8|Claude|3",
+  "hotel-property-management|q8|Google AI Mode|1",
+  "hotel-property-management|q8|Google AI Mode|2",
+  "hotel-property-management|q8|Google AI Mode|3",
+  "hotel-property-management|q8|Google AI Overviews|1",
+  "hotel-property-management|q8|Google AI Overviews|2",
+  "hotel-property-management|q8|Google AI Overviews|3",
+  "hotel-property-management|q8|Perplexity|1",
+  "hotel-property-management|q8|Perplexity|2",
+  "hotel-property-management|q8|Perplexity|3"
+ ],
+ "named_count": 43
+}

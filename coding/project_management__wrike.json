@@ -1,0 +1,276 @@
+{
+ "vendor": "Wrike",
+ "slug": "wrike",
+ "category": "project_management",
+ "coded_at": "2026-10-08T03:59:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.wrike.com/price/",
+   "key": "c534abae30a4df64",
+   "used_for": "pricing, plans, hosting (HTTP 200, redirected to /price-vag/)"
+  },
+  {
+   "url": "https://www.wrike.com/",
+   "key": "834f032fbba2e8b3",
+   "used_for": "home, integrations (HTTP 200)"
+  },
+  {
+   "url": "https://www.wrike.com/use-cases/resource-management/",
+   "key": "5192a2ae04bb8521",
+   "used_for": "resource management, plan tiers for bookings (cited, HTTP 200)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Business plan costs $25 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.wrike.com/price/",
+   "proof_quote": "Business Customizable platform to manage your workflows $25 user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Business at $25 per user per month and states that the amount shown is priced per month and billed on an annual per-user basis, the same basis as the claim.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "Business is **$25/user/month billed annually**, for 5–200 users."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "The Pinnacle plan has custom pricing.",
+   "class": "true",
+   "proof_url": "https://www.wrike.com/price/",
+   "proof_quote": "Pinnacle Built for complex workflows Contact us Connect with us for pricing",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page shows no list price for Pinnacle and asks buyers to contact Wrike for pricing.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Pinnacle adds advanced resource planning and budgeting at custom pricing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "plans",
+   "claim": "The Business plan supports 5 to 200 users.",
+   "class": "true",
+   "proof_url": "https://www.wrike.com/price/",
+   "proof_quote": "$25 user/month Try for free No credit card required All of Team, plus: 5 to 200 users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Business plan card on the pricing page states 5 to 200 users.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|1",
+     "quote": "Business supports 5–200 users"
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Business supports 5–200 users"
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "Business is **$25/user/month billed annually**, for 5–200 users."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "plans",
+   "claim": "Advanced capacity and resource planning, budgeting (financial tracking), role management, time tracking and advanced reporting come with Pinnacle and higher tiers (Apex), not Business.",
+   "class": "true",
+   "proof_url": "https://www.wrike.com/price/",
+   "proof_quote": "All of Business, plus: AI Elite features 3 times more AI Elite actions per month to automate targeted workflows with AI agents. Advanced resource and capacity planning Enable extensive role management, user custom fields and time-tracking capabilities. Budgeting (track financials)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Pinnacle plan card adds advanced resource and capacity planning (with role management and time-tracking capabilities), budgeting and advanced reporting and BI over Business, and the Apex plan includes all of Pinnacle.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|1",
+     "quote": "advanced capacity planning and financial tracking are in Pinnacle."
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Pinnacle adds advanced resource planning and budgeting at custom pricing."
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "Pinnacle adds advanced capacity planning, budgeting, and reporting."
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|1",
+     "quote": "Advanced capacity planning, bookings, and budgeting require higher tiers such as Pinnacle or Apex."
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|3",
+     "quote": "advanced capacity, role management, time tracking, and budgeting are offered in Pinnacle."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "plans",
+   "claim": "Bookings require a higher tier such as Pinnacle or Apex.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Neither the pricing page nor the resource management page read in this study says which plan includes bookings.",
+   "instances": [
+    {
+     "record_id": "project_management|7|ChatGPT|1",
+     "quote": "Advanced capacity planning, bookings, and budgeting require higher tiers such as Pinnacle or Apex."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "integrations",
+   "claim": "Wrike integrates with Microsoft Teams.",
+   "class": "true",
+   "proof_url": "https://www.wrike.com/",
+   "proof_quote": "Connect the tools you love with 400+ integrations Wrike Integrate easily syncs Wrike with almost any app your business uses and automates processes both outside and inside our platform. Slack Microsoft Google Adobe Salesforce Zoom Tableau MS Teams",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists MS Teams among the apps Wrike connects with.",
+   "instances": [
+    {
+     "record_id": "project_management|1|Google AI Overviews|1",
+     "quote": "Wrike: Best for combining project and non-project work, offering robust resource allocation and deep integration with communication apps like Microsoft Teams."
+    },
+    {
+     "record_id": "project_management|1|Google AI Overviews|2",
+     "quote": "offers deep integration into workspace environments like Microsoft Teams."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "integrations",
+   "claim": "Wrike offers 400+ integrations.",
+   "class": "true",
+   "proof_url": "https://www.wrike.com/",
+   "proof_quote": "Connect the tools you love with 400+ integrations",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states 400+ integrations, the same count as the claim.",
+   "instances": [
+    {
+     "record_id": "project_management|5|Claude|1",
+     "quote": "Wrike also offers 400+ pre-built native integrations that make remote project management possible."
+    },
+    {
+     "record_id": "project_management|5|Claude|2",
+     "quote": "Wrike also offers 400+ pre-built native integrations that make remote project management possible."
+    },
+    {
+     "record_id": "project_management|5|Claude|3",
+     "quote": "Wrike offers 400+ pre-built native integrations that make remote project management possible."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "platforms",
+   "claim": "Wrike is cloud-based.",
+   "class": "true",
+   "proof_url": "https://www.wrike.com/price/",
+   "proof_quote": "Wrike is entirely cloud-based, meaning there is no need for site visits and our software can be used instantly by remote workers.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ states that Wrike is entirely cloud-based.",
+   "instances": [
+    {
+     "record_id": "project_management|3|Claude|2",
+     "quote": "Modern cloud-based platforms like Celoxis, Wrike, and Smartsheet offer all core Microsoft Project capabilities"
+    },
+    {
+     "record_id": "project_management|3|Claude|3",
+     "quote": "Modern cloud-based platforms like Celoxis, Wrike, and Smartsheet offer all core capabilities"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Three own pages read, all HTTP 200 and not thin. The pricing URL https://www.wrike.com/price/ redirected to /price-vag/; the page carries the full plan cards (Free, Team, Business, Pinnacle, Apex) and a note that its pricing is valid for purchases on or after January 21, 2026, before the capture date. The 7|ChatGPT|1 line is split: capacity planning and budgeting on Pinnacle or Apex are settled (C04), bookings are not stated by plan on any page read (C05, unverifiable). No claim is wrong or stale, so no cited page was read for causes. Not coded: 'best for teams of five to an unlimited number of users' (q5 Claude runs 1 to 3), framed as a best-for fit line; 'extensive integrations' and 'enterprise-grade security' with no named product or certification; hedged 'often requires higher-tier plans' (q7 Google AI Overviews run 2); feature descriptions (workload charts, bookings as a capability, risk forecasting, cross-tagging). Pass 2 (8 Oct 2026): no browser read exists for Wrike and no page was blocked or thin, so nothing was re-classed; C05 stays unverifiable after re-checking all three snapshots. The seven gap lines are best-for lines, unnamed integrations and security, or AI capability descriptions, all out of scope. The comparison tables (q1 to q7) give Wrike only best-for, view and feature cells (Kanban, Gantt, Table; ticks and stars), so no claim or instance was added. No claim is wrong or stale, so the consistency check changed nothing.",
+ "answer_record_ids": [
+  "project_management|1|Claude|1",
+  "project_management|1|Claude|2",
+  "project_management|1|Claude|3",
+  "project_management|1|Google AI Overviews|1",
+  "project_management|1|Google AI Overviews|2",
+  "project_management|1|Perplexity|1",
+  "project_management|1|Perplexity|2",
+  "project_management|1|Perplexity|3",
+  "project_management|2|Claude|1",
+  "project_management|2|Claude|2",
+  "project_management|2|Claude|3",
+  "project_management|2|Google AI Mode|3",
+  "project_management|3|ChatGPT|1",
+  "project_management|3|ChatGPT|2",
+  "project_management|3|ChatGPT|3",
+  "project_management|3|Claude|1",
+  "project_management|3|Claude|2",
+  "project_management|3|Claude|3",
+  "project_management|3|Google AI Mode|1",
+  "project_management|3|Google AI Mode|2",
+  "project_management|3|Google AI Mode|3",
+  "project_management|3|Google AI Overviews|1",
+  "project_management|3|Google AI Overviews|2",
+  "project_management|3|Google AI Overviews|3",
+  "project_management|3|Perplexity|1",
+  "project_management|3|Perplexity|2",
+  "project_management|3|Perplexity|3",
+  "project_management|4|Claude|1",
+  "project_management|4|Perplexity|1",
+  "project_management|4|Perplexity|3",
+  "project_management|5|Claude|1",
+  "project_management|5|Claude|2",
+  "project_management|5|Claude|3",
+  "project_management|6|Claude|2",
+  "project_management|6|Claude|3",
+  "project_management|6|Google AI Mode|1",
+  "project_management|6|Google AI Mode|3",
+  "project_management|6|Google AI Overviews|1",
+  "project_management|6|Google AI Overviews|2",
+  "project_management|6|Perplexity|1",
+  "project_management|6|Perplexity|2",
+  "project_management|6|Perplexity|3",
+  "project_management|7|ChatGPT|1",
+  "project_management|7|ChatGPT|2",
+  "project_management|7|ChatGPT|3",
+  "project_management|7|Claude|1",
+  "project_management|7|Claude|2",
+  "project_management|7|Claude|3",
+  "project_management|7|Google AI Mode|3",
+  "project_management|7|Google AI Overviews|2",
+  "project_management|7|Google AI Overviews|3",
+  "project_management|7|Perplexity|1",
+  "project_management|7|Perplexity|2",
+  "project_management|7|Perplexity|3"
+ ],
+ "named_count": 54
+}

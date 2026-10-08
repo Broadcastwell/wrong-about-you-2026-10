@@ -1,0 +1,1037 @@
+{
+ "vendor": "Curve Dental",
+ "slug": "curve-dental",
+ "category": "dental-practice-management",
+ "coded_at": "2026-10-08T04:09:14Z",
+ "pages_read": [
+  {
+   "url": "https://www.curvedental.com/",
+   "key": "93ecf1a77f312148",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.curvedental.com/pricing",
+   "key": "35fc036b99705f05",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.curvedental.com/about",
+   "key": "6a5e99d9d742dcef",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.curvedental.com/data-conversion",
+   "key": "81e96b1248536363",
+   "used_for": "customer counts (conversions)"
+  },
+  {
+   "url": "https://www.curvedental.com/dental-blog/best-dental-practice-management-software-2026",
+   "key": "4e42bc652ef977b2",
+   "used_for": "own blog page cited by 18 answers (platforms)"
+  },
+  {
+   "url": "https://conferences.dental/best-dental-practice-management-software-2026/",
+   "key": "a6f29006d67681db",
+   "used_for": "cause tracing (cited page, not an own page)"
+  },
+  {
+   "url": "https://www.overjet.com/blog/best-dental-practice-software",
+   "key": "189f6c2281828f3c",
+   "used_for": "cause tracing (cited page, not an own page)"
+  },
+  {
+   "url": "https://www.certifyhealth.com/blog/top-10-dental-practice-management-software-2026/",
+   "key": "632fbeaf358efa21",
+   "used_for": "cause tracing (cited page, not an own page)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Curve Dental does not publish prices; pricing is by personalized quote.",
+   "class": "true",
+   "proof_url": "https://www.curvedental.com/",
+   "proof_quote": "Pricing depends on practice size and the features you need. Request a quote and our team will walk you through the plan that fits your practice.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page FAQ says pricing depends on practice size and features and is given by quote, and the pricing page shows no dollar prices, only personalized quote requests.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|1",
+     "quote": "Quote-based, with special startup implementation and license pricing."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "Custom quote, with special startup pricing on implementation and licensing."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "Curve does not publish a standard dollar price on its pricing page"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|2",
+     "quote": "Curve Dental does not publish pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|1",
+     "quote": "Quote-based, with startup discounts advertised."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|2",
+     "quote": "Quote-based—its pricing page does not publish a dollar amount."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|3",
+     "quote": "Curve offers a cloud-native platform with quote-based pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|1",
+     "quote": "Pricing is quote-based."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|3",
+     "quote": "Quote-based subscription."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "Pricing is personalized rather than a published flat rate."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|2",
+     "quote": "Varies (Quote-based)"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "Curve Dental does not publish pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "Dentrix, Eaglesoft, and Curve Dental do not publish pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Dentrix, Eaglesoft, and Curve Dental do not publish pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Does not publish pricing publicly"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Curve offers special startup pricing on implementation and license fees.",
+   "class": "true",
+   "proof_url": "https://www.curvedental.com/pricing",
+   "proof_quote": "Curve provides special pricing on implementation and license fees for startups to help you hit the ground running.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states special pricing on implementation and license fees for startups.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|1",
+     "quote": "Quote-based, with special startup implementation and license pricing."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "Custom quote, with special startup pricing on implementation and licensing."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "but it advertises startup-specific implementation and license pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|1",
+     "quote": "Quote-based, with startup discounts advertised."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|2",
+     "quote": "It advertises special implementation and license pricing for startups"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Curve Dental costs about $350 to $1,200 per month (third-party estimate).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Curve publishes no dollar prices on the pages read.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Claude|2",
+     "quote": "expect $350–$1,200/month based on third-party estimates, depending on practice size and features"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "expect $350–$1,200/month based on third-party estimates, depending on practice size"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "~$350–$1,200/mo (est.)"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "expect $350–$1,200/month based on third-party estimates depending on practice size"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "expect $350–$1,200/month based on third-party estimates"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Curve Dental pricing starts around $500 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Curve publishes no dollar prices on the pages read.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|1",
+     "quote": "Pricing starts around $500 per month"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|3",
+     "quote": "Pricing typically starts around $500 monthly."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Curve Dental costs about $299 to $500 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Curve publishes no dollar prices on the pages read.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "~$299–$500/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Curve Dental is sold as a (monthly) subscription.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages mention license fees and predictable monthly costs but never state a subscription basis.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Claude|1",
+     "quote": "Curve Dental's subscription model and cloud-based infrastructure make it easier for growing practices to add locations and scale operations."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|2",
+     "quote": "though it comes at a higher monthly subscription cost than Open Dental"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "Tiered subscription model."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|1",
+     "quote": "Pricing: Subscription-based"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|3",
+     "quote": "Quote-based subscription."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|2",
+     "quote": "though monthly subscription costs can scale up quickly"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "Curve Dental pricing follows a per-provider, per-month subscription model with no large upfront cost"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|3",
+     "quote": "Subscription-based pricing model."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "Curve Dental pricing follows a per-provider, per-month subscription model with no large upfront cost"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Curve Dental is priced per provider (per provider per month, per-provider pricing tiers).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page says pricing depends on practice size and the features needed but does not state a per-provider basis.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Claude|1",
+     "quote": "with transparent per-provider pricing tiers"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|3",
+     "quote": "with transparent per-provider pricing tiers"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "Curve Dental pricing follows a per-provider, per-month subscription model with no large upfront cost"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "Curve Dental pricing follows a per-provider, per-month subscription model with no large upfront cost"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Curve Dental has no large upfront cost.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages mention implementation and license fees (discounted for startups) without amounts and do not state the upfront cost.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "Curve Dental pricing follows a per-provider, per-month subscription model with no large upfront cost"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "Curve Dental pricing follows a per-provider, per-month subscription model with no large upfront cost"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "plans",
+   "claim": "Curve's features vary by package (tiers).",
+   "class": "true",
+   "proof_url": "https://www.curvedental.com/",
+   "proof_quote": "Capabilities and services vary by package and availability.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states that capabilities and services vary by package.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "Features vary by package, so verify exactly what your quote includes."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "Tiered subscription model."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|3",
+     "quote": "availability varies by package"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "platforms",
+   "claim": "Curve Dental is cloud-based (cloud-native), runs in a web browser and needs no local server.",
+   "class": "true",
+   "proof_url": "https://www.curvedental.com/",
+   "proof_quote": "Yes — Curve runs entirely in the cloud through your browser, so it works on Mac, PC, and Chromebooks with no local server to maintain.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page FAQ states Curve runs entirely in the cloud through the browser with no local server to maintain.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|1",
+     "quote": "You want a cloud-first alternative without managing an on-site application server."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "You want cloud-based software without managing an on-site PMS server."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "You want a cloud-first practice with scheduling, charting, imaging, billing, and patient communication in one platform."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|1",
+     "quote": "Curve Dental's subscription model and cloud-based infrastructure make it easier for growing practices to add locations and scale operations."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|2",
+     "quote": "It is cloud-first with centralized records and straightforward multi-provider workflows"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|3",
+     "quote": "Curve Dental is cloud-based dental practice management software focused on usability."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|1",
+     "quote": "It requires zero local server infrastructure (lowering initial IT setup costs) and lets you access charts, billing, and scheduling from any web browser."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|2",
+     "quote": "Curve requires no local server hardware, backing up automatically and allowing you to access patient charts, schedules, and billing from any web browser or mobile device."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|3",
+     "quote": "Because it runs entirely in your web browser, you save thousands on local server hardware installation and maintenance."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|1",
+     "quote": "It requires no local server hardware, features a modern interface, and bundles management, imaging, and billing in the cloud."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "Fast setup with no on-premise IT requirements"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|3",
+     "quote": "Curve Dental is a fully cloud-native, all-in-one platform with built-in imaging, patient communication, and analytics dashboards."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Perplexity|1",
+     "quote": "cloud-based, startup-friendly, and designed to reduce infrastructure overhead"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Perplexity|2",
+     "quote": "Browser-based, built for independent practices and small-to-mid groups, with strong automation and no server burden."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Perplexity|3",
+     "quote": "while keeping the system browser-based and easy to use"
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|1",
+     "quote": "You want scheduling, charting, billing, and patient communication in a cloud system without maintaining a local application server."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|2",
+     "quote": "You prefer a cloud-based system rather than managing a local software server."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|3",
+     "quote": "Curve offers a cloud-native platform with quote-based pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|1",
+     "quote": "For browser-based access with less IT overhead, Dentrix Ascend and Curve Dental are strong options."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|2",
+     "quote": "For browser-based access with less IT, Dentrix Ascend and Curve Dental are strong options."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|3",
+     "quote": "Cloud-native, no server needed, great integrations"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|1",
+     "quote": "It requires no local server, includes built-in imaging and charting, and runs right in your web browser."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|2",
+     "quote": "Because it is entirely browser-based, you don’t need an expensive on-site server or local IT support to manage backups."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|3",
+     "quote": "It is entirely web-based (no local server required)"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|1",
+     "quote": "A fully cloud-native system requiring no local server hardware."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|3",
+     "quote": "True cloud-native platform meaning no local server hardware to buy or maintain"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Perplexity|1",
+     "quote": "best if you want a browser-based cloud system that is easier to run without in-house IT"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Perplexity|2",
+     "quote": "frequently recommended for small practices and start-ups that want browser-based access and built-in patient engagement tools"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Perplexity|3",
+     "quote": "best if you want a browser-based system with built-in patient engagement and no server maintenance"
+    },
+    {
+     "record_id": "dental-practice-management|q3|ChatGPT|2",
+     "quote": "It offers cloud-based practice management with scheduling, charting, billing, and imaging"
+    },
+    {
+     "record_id": "dental-practice-management|q3|ChatGPT|3",
+     "quote": "A cloud-based option with 4.4/5 from 285 Capterra reviews."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|1",
+     "quote": "Tech-forward practices: Curve Dental or Dentrix Ascend for cloud-native design."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|2",
+     "quote": "Curve Dental was built cloud-native from day one, rather than migrated from a legacy desktop system."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|3",
+     "quote": "Curve is a cloud-native platform gaining popularity."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|1",
+     "quote": "A fully cloud-native platform frequently recommended for modern practices."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|2",
+     "quote": "They allow remote access without maintaining an in-office server room"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|3",
+     "quote": "Frequently recommended if a practice wants a truly modern, cloud-native system without maintaining a local server."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|1",
+     "quote": "Recommended for offices wanting a 100% cloud-based browser system that avoids local server maintenance and hardware costs."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|2",
+     "quote": "Popular cloud-native alternatives often recommended for modern offices"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|3",
+     "quote": "Cloud-only | Modern UI, fast solo/mid onboarding"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Perplexity|1",
+     "quote": "Curve Dental is repeatedly described as the best overall cloud-based option for most practices"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Perplexity|2",
+     "quote": "because of its browser-based workflow, automation, and built-in patient engagement tools"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Perplexity|3",
+     "quote": "because it combines practice management, patient engagement, scheduling, and charting in one browser-based system"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|1",
+     "quote": "An integrated cloud-based workflow"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "Practices wanting an integrated cloud system"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|3",
+     "quote": "Cloud-based workflows with remote access, automatic updates and backups"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|1",
+     "quote": "Curve Dental is a cloud-native, all-in-one dental practice management platform."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "Curve Dental provides a true cloud-native experience without compromises."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "Cloud-native simplicity | Curve Dental"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|1",
+     "quote": "A fully web-based practice management system that eliminates local server maintenance."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|2",
+     "quote": "One of the most established zero-server, cloud-native platforms available."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|3",
+     "quote": "A popular web-based option that requires zero local server infrastructure or backups."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|1",
+     "quote": "Cloud UI & built-in imaging | Cloud-native"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|2",
+     "quote": "Curve Dental | Modern cloud interface"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|3",
+     "quote": "Zero server hardware overhead with a clean interface."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Perplexity|1",
+     "quote": "frequently ranked the best overall or best cloud-native alternative"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Perplexity|2",
+     "quote": "commonly cited as the best overall or best cloud-native alternative, especially if you want to avoid servers and IT overhead"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Perplexity|3",
+     "quote": "often ranked the best overall or best cloud-native alternative; it is a common pick for practices that want to reduce server and IT overhead"
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|1",
+     "quote": "Practices wanting an integrated cloud system"
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|2",
+     "quote": "Practices wanting an integrated cloud system"
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|3",
+     "quote": "Cloud-based practice management with scheduling, charting, billing, and imaging."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "runs in the browser with nothing to install or maintain"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "it's a fully cloud-based platform that eliminates the server maintenance and IT overhead that comes with Eaglesoft"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "Curve Dental is a fully cloud-based platform that eliminates the server maintenance and IT overhead that comes with Eaglesoft"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|1",
+     "quote": "Curve Dental is a fully cloud-based practice management system known for a modern, intuitive interface and zero local server hardware requirements."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|2",
+     "quote": "A premier cloud-native (browser-based) platform."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|3",
+     "quote": "Curve is a web-based platform (eliminating local server hardware, costly IT backups, and manual updates)"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|1",
+     "quote": "A fully cloud-based platform with a 4.4/5 rating on Capterra, eliminating local server maintenance and IT overhead"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|2",
+     "quote": "A fully cloud-based practice management system."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|3",
+     "quote": "A fully cloud-based platform that eliminates on-site server hardware, manual backups, and local IT maintenance"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Perplexity|1",
+     "quote": "if you want a true cloud-based replacement with fewer server and IT headaches"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Perplexity|2",
+     "quote": "it replaces Eaglesoft’s on-premise model with a true cloud platform"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Perplexity|3",
+     "quote": "Fully cloud-based, reduces server maintenance and IT overhead"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|1",
+     "quote": "Independent practices wanting an integrated cloud system"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|2",
+     "quote": "Independent practices wanting an integrated cloud system"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|3",
+     "quote": "Independent practices wanting an integrated cloud system"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "Curve Dental provides a cloud-based alternative"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Curve Dental is a cloud-native, all-in-one dental practice management platform"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Curve Dental is a cloud-native, all-in-one dental practice management platform"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|1",
+     "quote": "A fully web-based practice management system that eliminates the need for an on-site server."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|2",
+     "quote": "A market-leading, browser-based cloud system with a modern user interface and built-in imaging."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|3",
+     "quote": "It features a modern, browser-based interface with zero local server requirements"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Overviews|1",
+     "quote": "A browser-based platform that eliminates local server hardware and IT maintenance"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Overviews|2",
+     "quote": "A top all-in-one, browser-based option that eliminates local server maintenance"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Overviews|3",
+     "quote": "Fully web-based, modern user interface, built-in imaging, and remote data access."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|1",
+     "quote": "a strong cloud-first option"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|2",
+     "quote": "a strong choice if you want a cloud-first practice management platform"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|3",
+     "quote": "Choose Curve Dental if you want the strongest cloud-native alternative."
+    },
+    {
+     "record_id": "dental-practice-management|q9|Google AI Mode|1",
+     "quote": "Choose a cloud platform (like Curve Dental or CareStack) to eliminate local server upkeep"
+    },
+    {
+     "record_id": "dental-practice-management|q9|Google AI Overviews|3",
+     "quote": "Vendors like Curve Dental and Oryx Dental emphasize all-in-one cloud consolidation"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "platforms",
+   "claim": "Curve Dental was built cloud-native from the start rather than migrated from a desktop system.",
+   "class": "true",
+   "proof_url": "https://www.curvedental.com/dental-blog/best-dental-practice-management-software-2026",
+   "proof_quote": "Curve Dental was built in the cloud from the beginning — not adapted into it later.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's own blog states Curve was built in the cloud from the beginning, and the about page dates its cloud vision to its 2004 founding.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Claude|2",
+     "quote": "Curve Dental was built cloud-native from day one, rather than migrated from a legacy desktop system."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "platforms",
+   "claim": "Curve Dental can be accessed from mobile devices and any device.",
+   "class": "true",
+   "proof_url": "https://www.curvedental.com/dental-blog/best-dental-practice-management-software-2026",
+   "proof_quote": "Teams can access the system securely from anywhere, on any device.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's blog states access from any device, and the home and about pages describe the Curve Mobile app for phones.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|2",
+     "quote": "allowing you to access patient charts, schedules, and billing from any web browser or mobile device"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "Modern, mobile-friendly cloud access."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|1",
+     "quote": "automatic updates accessible from any device"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|1",
+     "quote": "accessibility from any internet-connected device"
+    },
+    {
+     "record_id": "dental-practice-management|q9|Google AI Mode|1",
+     "quote": "allowing secure remote access from any device"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "customer_counts",
+   "claim": "Curve has completed 2,500+ migrations (data conversions).",
+   "class": "true",
+   "proof_url": "https://www.curvedental.com/data-conversion",
+   "proof_quote": "To date, we have completed 7,500+ conversions",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The data conversion page states 7,500+ completed conversions, which satisfies the lower bound of 2,500+ as written.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q4|Claude|1",
+     "quote": "With 2,500+ completed migrations (many from Dentrix and Eaglesoft)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "With 2,500+ completed migrations (many from Dentrix and Eaglesoft)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "With 2,500+ completed migrations (many from Dentrix and Eaglesoft)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "ownership",
+   "claim": "Curve Dental is an independent (privately held) company.",
+   "class": "true",
+   "proof_url": "https://www.curvedental.com/about",
+   "proof_quote": "the company is privately held",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page states the company is privately held.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Claude|1",
+     "quote": "Curve Dental is an independent, self-funded platform founded by a practicing dentist"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|3",
+     "quote": "It is an independent, self-funded platform founded by a practicing dentist"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "ownership",
+   "claim": "Curve Dental is self-funded.",
+   "class": "wrong",
+   "proof_url": "https://www.curvedental.com/about",
+   "proof_quote": "Battery Ventures Invests in Curve Dental",
+   "stale_change": null,
+   "causing_url": "https://conferences.dental/best-dental-practice-management-software-2026/",
+   "causing_type": "other",
+   "causing_quote": "An independent, self-funded platform founded by a practicing dentist, built around the clinical workflow rather than bolted onto a billing system.",
+   "rationale": "The about page records an outside investment by Battery Ventures (2018), which contradicts self-funded; the cited conferences.dental page carries this exact sentence but writes it about Oryx Dental, so the answer attached another vendor's description to Curve.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Claude|1",
+     "quote": "Curve Dental is an independent, self-funded platform founded by a practicing dentist"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|3",
+     "quote": "It is an independent, self-funded platform founded by a practicing dentist"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "founding",
+   "claim": "Curve Dental was founded by a practicing dentist.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page gives the founding year (2004) but does not name the founders; the cited conferences.dental page makes this statement about Oryx Dental, not Curve.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Claude|1",
+     "quote": "Curve Dental is an independent, self-funded platform founded by a practicing dentist"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|3",
+     "quote": "It is an independent, self-funded platform founded by a practicing dentist"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "product_names",
+   "claim": "Curve Dental's product is named Curve Hero.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read refer to a Hero database and to the Curve SuperHero solution but never use the name Curve Hero or document a rename.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|ChatGPT|1",
+     "quote": "Curve Hero"
+    },
+    {
+     "record_id": "dental-practice-management|q3|ChatGPT|2",
+     "quote": "Curve Hero / Curve Dental"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Five own pages read (home, pricing, about, data conversion, and the vendor's own blog post cited by 18 answers), all HTTP 200 and not thin. The bundle's alias Curve also matched the phrase learning curve, so many passages (most of q7 and q8) are not about Curve Dental; they were not coded. Not coded: name-only mentions, rankings, review ratings, Townie vote shares, savings and ROI claims (for example $500/month IT savings), support availability, and the claim that Curve converts data from Eaglesoft (a conversion, not an integration; the data conversion page does list Eaglesoft). Three cited pages were read to trace C15: conferences.dental carries the exact independent, self-funded, founded-by-a-practicing-dentist sentence but about Oryx Dental, so it is recorded as the causing page with that caveat; overjet.com and certifyhealth.com do not carry it. Judgement calls: C14 classes independent as true on privately held although Battery Ventures invested in 2018; C13 is true as a lower bound of 7,500+ conversions. Pass 2 (8 Oct 2026): no browser reads exist for this vendor and no claim was unverifiable because of a blocked page. The gap lines and every table and sub-heading section were checked; each in-scope statement about Curve Dental found there (cloud, quote-based or subscription pricing, the $350 to $1,200 and $299 to $500 estimates) was already an instance of an existing claim, so no claim or instance was added. Consistency check: C15 (self-funded) stays wrong, because the about page records the 2018 Battery Ventures investment, an explicit outside investment.",
+ "answer_record_ids": [
+  "dental-practice-management|q1|ChatGPT|1",
+  "dental-practice-management|q1|ChatGPT|2",
+  "dental-practice-management|q1|ChatGPT|3",
+  "dental-practice-management|q1|Claude|1",
+  "dental-practice-management|q1|Claude|2",
+  "dental-practice-management|q1|Claude|3",
+  "dental-practice-management|q1|Google AI Mode|1",
+  "dental-practice-management|q1|Google AI Mode|2",
+  "dental-practice-management|q1|Google AI Mode|3",
+  "dental-practice-management|q1|Google AI Overviews|1",
+  "dental-practice-management|q1|Google AI Overviews|2",
+  "dental-practice-management|q1|Google AI Overviews|3",
+  "dental-practice-management|q1|Perplexity|1",
+  "dental-practice-management|q1|Perplexity|2",
+  "dental-practice-management|q1|Perplexity|3",
+  "dental-practice-management|q10|ChatGPT|3",
+  "dental-practice-management|q10|Claude|1",
+  "dental-practice-management|q10|Google AI Mode|1",
+  "dental-practice-management|q10|Google AI Overviews|3",
+  "dental-practice-management|q2|ChatGPT|1",
+  "dental-practice-management|q2|ChatGPT|2",
+  "dental-practice-management|q2|ChatGPT|3",
+  "dental-practice-management|q2|Claude|1",
+  "dental-practice-management|q2|Claude|2",
+  "dental-practice-management|q2|Claude|3",
+  "dental-practice-management|q2|Google AI Mode|1",
+  "dental-practice-management|q2|Google AI Mode|2",
+  "dental-practice-management|q2|Google AI Mode|3",
+  "dental-practice-management|q2|Google AI Overviews|1",
+  "dental-practice-management|q2|Google AI Overviews|3",
+  "dental-practice-management|q2|Perplexity|1",
+  "dental-practice-management|q2|Perplexity|2",
+  "dental-practice-management|q2|Perplexity|3",
+  "dental-practice-management|q3|ChatGPT|1",
+  "dental-practice-management|q3|ChatGPT|2",
+  "dental-practice-management|q3|ChatGPT|3",
+  "dental-practice-management|q3|Claude|1",
+  "dental-practice-management|q3|Claude|2",
+  "dental-practice-management|q3|Claude|3",
+  "dental-practice-management|q3|Google AI Mode|1",
+  "dental-practice-management|q3|Google AI Mode|2",
+  "dental-practice-management|q3|Google AI Mode|3",
+  "dental-practice-management|q3|Google AI Overviews|1",
+  "dental-practice-management|q3|Google AI Overviews|2",
+  "dental-practice-management|q3|Google AI Overviews|3",
+  "dental-practice-management|q3|Perplexity|1",
+  "dental-practice-management|q3|Perplexity|2",
+  "dental-practice-management|q3|Perplexity|3",
+  "dental-practice-management|q4|ChatGPT|1",
+  "dental-practice-management|q4|ChatGPT|2",
+  "dental-practice-management|q4|ChatGPT|3",
+  "dental-practice-management|q4|Claude|1",
+  "dental-practice-management|q4|Claude|2",
+  "dental-practice-management|q4|Claude|3",
+  "dental-practice-management|q4|Google AI Mode|1",
+  "dental-practice-management|q4|Google AI Mode|2",
+  "dental-practice-management|q4|Google AI Mode|3",
+  "dental-practice-management|q4|Google AI Overviews|1",
+  "dental-practice-management|q4|Google AI Overviews|2",
+  "dental-practice-management|q4|Google AI Overviews|3",
+  "dental-practice-management|q4|Perplexity|1",
+  "dental-practice-management|q4|Perplexity|2",
+  "dental-practice-management|q4|Perplexity|3",
+  "dental-practice-management|q5|ChatGPT|1",
+  "dental-practice-management|q5|ChatGPT|2",
+  "dental-practice-management|q5|ChatGPT|3",
+  "dental-practice-management|q5|Claude|1",
+  "dental-practice-management|q5|Claude|2",
+  "dental-practice-management|q5|Claude|3",
+  "dental-practice-management|q5|Google AI Mode|1",
+  "dental-practice-management|q5|Google AI Mode|2",
+  "dental-practice-management|q5|Google AI Mode|3",
+  "dental-practice-management|q5|Google AI Overviews|1",
+  "dental-practice-management|q5|Google AI Overviews|2",
+  "dental-practice-management|q5|Google AI Overviews|3",
+  "dental-practice-management|q5|Perplexity|1",
+  "dental-practice-management|q5|Perplexity|2",
+  "dental-practice-management|q5|Perplexity|3",
+  "dental-practice-management|q6|ChatGPT|1",
+  "dental-practice-management|q6|ChatGPT|2",
+  "dental-practice-management|q6|ChatGPT|3",
+  "dental-practice-management|q6|Claude|1",
+  "dental-practice-management|q6|Claude|2",
+  "dental-practice-management|q6|Claude|3",
+  "dental-practice-management|q6|Google AI Mode|1",
+  "dental-practice-management|q6|Google AI Mode|2",
+  "dental-practice-management|q6|Google AI Mode|3",
+  "dental-practice-management|q6|Google AI Overviews|1",
+  "dental-practice-management|q6|Google AI Overviews|2",
+  "dental-practice-management|q6|Google AI Overviews|3",
+  "dental-practice-management|q6|Perplexity|1",
+  "dental-practice-management|q6|Perplexity|2",
+  "dental-practice-management|q6|Perplexity|3",
+  "dental-practice-management|q7|Claude|1",
+  "dental-practice-management|q7|Claude|2",
+  "dental-practice-management|q7|Claude|3",
+  "dental-practice-management|q7|Google AI Mode|1",
+  "dental-practice-management|q7|Google AI Mode|2",
+  "dental-practice-management|q7|Google AI Mode|3",
+  "dental-practice-management|q7|Google AI Overviews|1",
+  "dental-practice-management|q8|Claude|1",
+  "dental-practice-management|q8|Claude|2",
+  "dental-practice-management|q8|Claude|3",
+  "dental-practice-management|q8|Google AI Mode|1",
+  "dental-practice-management|q8|Google AI Mode|2",
+  "dental-practice-management|q8|Google AI Mode|3",
+  "dental-practice-management|q8|Google AI Overviews|1",
+  "dental-practice-management|q8|Google AI Overviews|2",
+  "dental-practice-management|q8|Perplexity|1",
+  "dental-practice-management|q8|Perplexity|2",
+  "dental-practice-management|q8|Perplexity|3",
+  "dental-practice-management|q9|Google AI Mode|1",
+  "dental-practice-management|q9|Google AI Mode|3",
+  "dental-practice-management|q9|Google AI Overviews|1",
+  "dental-practice-management|q9|Google AI Overviews|3"
+ ],
+ "named_count": 115
+}

@@ -1,0 +1,793 @@
+{
+ "vendor": "Applied Systems",
+ "slug": "applied-systems",
+ "category": "insurance-agency-management",
+ "coded_at": "2026-10-08T04:08:00Z",
+ "pages_read": [
+  {
+   "url": "https://appliedsystems.com/",
+   "key": "f6989f2770dea576",
+   "used_for": "home (redirects to https://www1.appliedsystems.com/en-us/)"
+  },
+  {
+   "url": "https://www1.appliedsystems.com/en-us/solutions/for-agents/agency-management-system/applied-epic",
+   "key": "8535765a316fdc86",
+   "used_for": "product (Applied Epic)"
+  },
+  {
+   "url": "https://www1.appliedsystems.com/en-us/about-us/about-applied/",
+   "key": "c147d83789b8050e",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www1.appliedsystems.com/en-us/solutions/for-agents/all-products/",
+   "key": "50d3d3f50b84d94d",
+   "used_for": "all products (redirects to https://www1.appliedsystems.com/en-us/solutions/for-agents/)"
+  },
+  {
+   "url": "https://www1.appliedsystems.com/en-us/news/press-releases/2021/",
+   "key": "7914ec1360855a65",
+   "used_for": "press (2021 press releases)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Applied Epic costs about $10,000 to $25,000 or more per year.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Applied page read in this study publishes a price for Applied Epic; the product page offers contact with sales and states no amount.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|1",
+     "quote": "| **Applied Epic** | Large commercial agencies (20+ producers) | $10,000–$25,000+ |"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|2",
+     "quote": "| **Applied Epic** | Mid-large commercial agencies | $10,000–$25,000+ |"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|3",
+     "quote": "It dominates large commercial agencies at $10,000 to $25,000+ per year."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "Applied Epic dominates large commercial agencies at $10,000–$25,000+ per year"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|3",
+     "quote": "| Applied Epic | Large commercial agencies | $10,000–$25,000+ |"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|3",
+     "quote": "Annual cost of $10,000–$25,000+."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Applied Epic costs about $200 or more per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Applied page read in this study publishes a per-user price for Applied Epic.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "| **Applied Epic** | Large, complex commercial books | $5M+ | $200+/user/mo |"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|2",
+     "quote": "| **Applied Epic** | Large, complex commercial | $5M+ | $200+/user/mo |"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|3",
+     "quote": "Custom — typically $200+/user/month with setup fees of $10,000–$25,000+."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|1",
+     "quote": "Applied Epic | Mid-to-Large Commercial | Custom ($200+/user/month + high setup fees)"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|2",
+     "quote": "Custom — typically $200+/user/month; $10k–$25k+ setup"
+    },
+    {
+     "record_id": "insurance-agency-management|q3|Google AI Overviews|2",
+     "quote": "Custom pricing ($200+/user/month)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Applied Epic costs about $200 to $400 or more per user per month, plus implementation costs.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Applied page read in this study publishes a per-user price or implementation cost for Applied Epic.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Google AI Overviews|2",
+     "quote": "Applied Epic is built primarily for mid-to-large enterprise agencies with a typical fully loaded cost of $200–$400+ per user/month plus implementation costs."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Google AI Overviews|3",
+     "quote": "Pricing: Applied Epic typically costs $200–$400+ per user monthly plus custom implementation costs"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Applied Epic starts at about $150 to $200 or more per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Applied page read in this study publishes a starting price for Applied Epic.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Overviews|3",
+     "quote": "Higher ($150–$200+/user/month)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Applied Epic starts at about $500 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Applied page read in this study publishes a starting price for Applied Epic.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "Applied Epic starts at $500 per month."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Perplexity|1",
+     "quote": "**Applied Epic is around $500/month or quote-based**"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Perplexity|3",
+     "quote": "One comparison puts EZLynx around **$350/month** versus Applied Epic around **$500/month**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Applied Epic pricing starts in the range of $500 to $1,000.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Applied page read in this study publishes a starting price for Applied Epic.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "Based on recent analysis, Applied Epic pricing starts in the range of $500–$1,000."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Applied Epic setup or implementation fees run about $10,000 to $25,000 or more.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Applied page read in this study states setup or implementation fees for Applied Epic.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|2",
+     "quote": "Custom — typically $200+/user/month; $10k–$25k+ setup"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|1",
+     "quote": "Enterprise setup and licensing applies to platforms like Applied Epic and AMS360, with setup fees ranging from $10,000 to $25,000 or more, with ongoing per-user costs on top."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|2",
+     "quote": "**Pricing:** Custom — typically $200+/user/month with setup fees of $10,000–$25,000+."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|1",
+     "quote": "Hidden cost: Steep implementation costs ($10,000–$25,000+) and long-term contracts."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "Custom — typically $200+/user/month with setup fees of $10,000–$25,000+."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|3",
+     "quote": "Custom — typically $200+/user/month with setup fees of $10,000–$25,000+."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Applied Epic requires an upfront setup cost of $10,000 or more.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Applied page read in this study states setup or implementation fees for Applied Epic.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|3",
+     "quote": "Enterprise solutions like Epic require higher upfront setup ($10k+) and recurring costs"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Applied Epic is priced by custom quote; Applied publishes no price for it.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Applied Epic page read in this study shows no price and offers contact with sales, but no page read states how Epic is priced, so the claim is not settled by a quotable fact.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|1",
+     "quote": "Applied Epic | Mid-to-Large Commercial | Custom ($200+/user/month + high setup fees)"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|2",
+     "quote": "Custom — typically $200+/user/month"
+    },
+    {
+     "record_id": "insurance-agency-management|q3|Google AI Overviews|2",
+     "quote": "Custom pricing ($200+/user/month)"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|2",
+     "quote": "Does not publish flat pricing; it is quote-based and varies with agency size and modules."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|ChatGPT|1",
+     "quote": "Epic’s official product page directs buyers to sales rather than displaying a rate."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|ChatGPT|2",
+     "quote": "Epic’s official product page directs buyers to sales rather than publishing a price schedule."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|ChatGPT|3",
+     "quote": "Epic’s product page directs buyers to contact sales rather than publishing rates."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|2",
+     "quote": "Pricing details are typically provided upon request."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "Pricing is customized based on the specific features selected, the size of the agency, and integration requirements."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Mode|1",
+     "quote": "Higher cost; quote-based with steeper implementation fees"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Mode|2",
+     "quote": "Neither vendor publishes transparent public pricing"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Mode|3",
+     "quote": "Pricing & Setup: Substantially higher. Quote-based pricing"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Perplexity|3",
+     "quote": "other sources note Applied Epic is often quote-only/custom-priced"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|2",
+     "quote": "**Pricing:** Custom — typically $200+/user/month with setup fees of $10,000–$25,000+."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "Custom — typically $200+/user/month with setup fees of $10,000–$25,000+."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|3",
+     "quote": "Custom — typically $200+/user/month with setup fees of $10,000–$25,000+."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Applied Epic is priced by subscription that varies with the number of users (agency size) and the modules selected.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Applied page read in this study states the price basis for Applied Epic.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|2",
+     "quote": "Utilizes a subscription-based pricing model structured by user count, additional modules, and implementation requirements."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "The value metric is based on a combination of factors, including the number of users and the specific modules selected"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|2",
+     "quote": "Does not publish flat pricing; it is quote-based and varies with agency size and modules."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Applied Epic charges extra fees for data or API access.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Applied pages read in this study mention APIs and integrations but state no fees for data or API access.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Google AI Overviews|3",
+     "quote": "Known for a free, open API for third-party integrations, contrasting with Applied Epic's costly fee model."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Mode|2",
+     "quote": "Premium price tag; extra fees often attached to data access"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "Applied Epic comes with long, multi-year contracts.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Applied page read in this study states contract terms for Applied Epic.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|2",
+     "quote": "They feature long contracts, steep learning curves, and massive implementation fees that kill cash flow before you even bind your first policy."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|3",
+     "quote": "These platforms carry high implementation costs, steep learning curves, and multi-year contracts that drain a startup's capital before revenue begins flowing."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|2",
+     "quote": "long-term contracts are common."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|3",
+     "quote": "long-term contracts common."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|1",
+     "quote": "Hidden cost: Steep implementation costs ($10,000–$25,000+) and long-term contracts."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "long-term contracts are common."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "ownership",
+   "claim": "Applied Systems owns EZLynx (EZLynx is an Applied Systems product).",
+   "class": "true",
+   "proof_url": "https://www1.appliedsystems.com/en-us/news/press-releases/2021/",
+   "proof_quote": "Applied Systems Completes Acquisition of EZLynx March 09, 2021",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Applied's 2021 press release list records that Applied Systems completed its acquisition of EZLynx, and Applied's all-products page presents EZLynx Management System as one of its two agency management systems.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "Applied Epic and EZLynx are both Applied Systems products."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|2",
+     "quote": "**Epic and EZLynx are both Applied Systems offerings**"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|3",
+     "quote": "Epic and EZLynx are both in Applied’s product portfolio"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Mode|3",
+     "quote": "(Note: Applied actually owns EZLynx, but keeps Epic separate as their heavy-duty flagship platform)."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Overviews|1",
+     "quote": "Overview: The flagship enterprise agency management system from Applied Systems (the parent company of EZLynx)."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|1",
+     "quote": "**EZLynx is owned by Applied Systems**"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|2",
+     "quote": "**It is also an Applied Systems product**"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|3",
+     "quote": "**It is also owned by Applied Systems**"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "EZLynx, owned by Applied Systems, leads with personal-lines quoting and an all-in-one cloud suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "EZLynx, owned by Applied Systems, leads with personal-lines quoting and an all-in-one cloud suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "EZLynx, owned by Applied Systems, leads with personal-lines quoting and an all-in-one cloud suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "both Applied Epic and EZLynx are owned by Applied Systems."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|2",
+     "quote": "**both Applied Epic and EZLynx are owned by Applied Systems**"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "both Applied Epic and EZLynx are owned by Applied Systems."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Mode|3",
+     "quote": "Both Applied Epic and EZLynx are owned by the same parent company (Applied Systems)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "product_names",
+   "claim": "Applied Epic is a product of Applied Systems (Applied Epic by Applied Systems).",
+   "class": "true",
+   "proof_url": "https://www1.appliedsystems.com/en-us/solutions/for-agents/all-products/",
+   "proof_quote": "We have two browser-based agency management system (AMS) options that fit the bill. Both platforms are built on open, scalable architecture that supports the integration of Applied and third-party solutions. Applied Epic",
+   "rationale": "Applied Systems' all-products page presents Applied Epic as the first of its own two agency management systems (the other is EZLynx Management System).",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Mode|2",
+     "quote": "Applied Epic (by Applied Systems): The gold standard for mid-to-large commercial brokerages."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Mode|3",
+     "quote": "Applied Epic (by Applied Systems)"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|3",
+     "quote": "Applied Epic (Applied Systems): The dominant enterprise platform built for complex commercial lines operations"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "Applied Epic and EZLynx are both Applied Systems products."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|2",
+     "quote": "**Epic and EZLynx are both Applied Systems offerings**"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|3",
+     "quote": "Epic and EZLynx are both in Applied’s product portfolio"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Mode|3",
+     "quote": "Applied Epic (by Applied Systems): The industry standard for mid-size to large enterprise independent agencies."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Overviews|1",
+     "quote": "Overview: The flagship enterprise agency management system from Applied Systems (the parent company of EZLynx)."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "both Applied Epic and EZLynx are owned by Applied Systems."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|2",
+     "quote": "**both Applied Epic and EZLynx are owned by Applied Systems**"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "both Applied Epic and EZLynx are owned by Applied Systems."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Mode|3",
+     "quote": "Both Applied Epic and EZLynx are owned by the same parent company (Applied Systems)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "acquisitions",
+   "claim": "Applied Systems acquired EZLynx in March 2021.",
+   "class": "true",
+   "proof_url": "https://www1.appliedsystems.com/en-us/news/press-releases/2021/",
+   "proof_quote": "Applied Systems Completes Acquisition of EZLynx March 09, 2021",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Applied's 2021 press release list dates the completed acquisition of EZLynx to 9 March 2021 (the deal was announced on 14 January 2021).",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "Applied acquired EZLynx in March 2021 and runs it as a sibling product to Epic."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|2",
+     "quote": "Applied acquired EZLynx in March 2021, and they run it as a sibling product to Epic"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "Applied acquired EZLynx in March 2021 and runs it as a sibling product."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "integrations",
+   "claim": "Applied Epic integrates with Indio (application and submission management).",
+   "class": "true",
+   "proof_url": "https://www1.appliedsystems.com/en-us/solutions/for-agents/all-products/",
+   "proof_quote": "Intelligent activity tracking keeps agents informed of any changes clients make and all data syncs back to Applied Epic to ensure information is accurate and up to date.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Applied's all-products page describes Indio as its application and submission platform whose data syncs back to Applied Epic.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|ChatGPT|1",
+     "quote": "It supports configurable permissions and hierarchies, insurance accounting, and integration with Indio for applications and submissions."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|ChatGPT|3",
+     "quote": "Epic offers commercial quoting and a bidirectional integration with Indio for application and submission management."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "integrations",
+   "claim": "Applied Epic connects with Employee Navigator.",
+   "class": "true",
+   "proof_url": "https://www1.appliedsystems.com/en-us/solutions/for-agents/all-products/",
+   "proof_quote": "Applied Benefits Designer and Applied Epic also integrate with Employee Navigator to fully digitize the quote-to-enrollment process.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Applied's all-products page states that Applied Epic integrates with Employee Navigator.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q3|ChatGPT|2",
+     "quote": "Applied now offers benefits-specific workflows and Employee Navigator connectivity"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "platforms",
+   "claim": "Applied Epic is cloud-based (hosted by Applied).",
+   "class": "true",
+   "proof_url": "https://www1.appliedsystems.com/en-us/solutions/for-agents/agency-management-system/applied-epic",
+   "proof_quote": "Let our easy-to-use, all-in-one cloud-based management system be the foundation on which you build your growing insurance agency.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Applied Epic page calls it a cloud-based, browser-native management system.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "As a cloud-based software, Applied Epic offers accessibility and scalability benefits."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|2",
+     "quote": "Because Applied Epic is heavily cloud-forward (Epic-hosted), it shifts the heavy lifting of server maintenance, software updates, and database security to Applied Systems"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|1",
+     "quote": "How it works: Cloud-native architecture unifies prospect pipelines, commercial submissions, and complex accounting."
+    }
+   ]
+  }
+ ],
+ "notes": "Scope: the Applied Systems bundle (127 answers) contains the 111 EZLynx answers because EZLynx is an alias in the release matching rule. Following the brief (a statement belongs to the vendor whose bundle is being coded and is classed against that vendor's own pages), this file codes statements about Applied Systems and its Applied-branded products (Applied Epic) plus the Applied to EZLynx ownership and acquisition statements; statements about the EZLynx product itself (its prices, plans, integrations, platforms) are coded in the EZLynx file against ezlynx.com and are not repeated here. Five own pages read on www1.appliedsystems.com, all HTTP 200 and not thin. Every price figure for Applied Epic is unverifiable: no page read publishes a price, and the product page only offers contact with sales. Not coded: review ratings and G2 reviewer counts, market share figures (an IIABA survey percentage), hedged or hypothetical cost lines (a 10-user setup could cost $30,000 a year; potential hidden implementation fees; hypothetical premium examples), fit opinions, and the Indio and TAM mentions in answers that do not present them as Applied products. No claim is wrong or stale, so no cited page was read for causes. Pass 2 (8 Oct 2026): no browser reads exist for this vendor and no claim was unverifiable because of a blocked or thin page (all unverifiable claims are prices Applied does not publish), so nothing was re-classed and no page was added. Gap lines naming Applied products were fit opinions, feature lists, generic criteria (IVANS or API carrier connectivity) or statements about other vendors (InsuredMine's integration list, NowCerts pricing); the remaining gap lines are about EZLynx and belong to the EZLynx file. Sub-heading pricing lines under Applied Epic in Claude q2 runs 1 and 3 added instances: q2 Claude run 3 to C02; q2 Claude runs 1 and 3 to C07 and C09; q2 Claude run 1 to C12. Comparison tables with Applied Epic as a column header (q8 Claude runs 1 to 3) carry only prices already coded for those answers (C05, C09), ratings and fit rows. No claim is wrong or stale, so the consistency check changed nothing.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "insurance-agency-management|q1|ChatGPT|1",
+  "insurance-agency-management|q1|ChatGPT|2",
+  "insurance-agency-management|q1|ChatGPT|3",
+  "insurance-agency-management|q1|Claude|1",
+  "insurance-agency-management|q1|Claude|2",
+  "insurance-agency-management|q1|Claude|3",
+  "insurance-agency-management|q1|Google AI Mode|1",
+  "insurance-agency-management|q1|Google AI Mode|2",
+  "insurance-agency-management|q1|Google AI Mode|3",
+  "insurance-agency-management|q1|Google AI Overviews|1",
+  "insurance-agency-management|q1|Google AI Overviews|2",
+  "insurance-agency-management|q1|Google AI Overviews|3",
+  "insurance-agency-management|q1|Perplexity|1",
+  "insurance-agency-management|q1|Perplexity|2",
+  "insurance-agency-management|q1|Perplexity|3",
+  "insurance-agency-management|q10|ChatGPT|1",
+  "insurance-agency-management|q10|ChatGPT|2",
+  "insurance-agency-management|q10|ChatGPT|3",
+  "insurance-agency-management|q10|Claude|1",
+  "insurance-agency-management|q10|Claude|2",
+  "insurance-agency-management|q10|Claude|3",
+  "insurance-agency-management|q10|Google AI Mode|1",
+  "insurance-agency-management|q10|Google AI Mode|2",
+  "insurance-agency-management|q10|Google AI Mode|3",
+  "insurance-agency-management|q10|Google AI Overviews|1",
+  "insurance-agency-management|q10|Google AI Overviews|2",
+  "insurance-agency-management|q10|Google AI Overviews|3",
+  "insurance-agency-management|q10|Perplexity|1",
+  "insurance-agency-management|q10|Perplexity|2",
+  "insurance-agency-management|q10|Perplexity|3",
+  "insurance-agency-management|q2|ChatGPT|1",
+  "insurance-agency-management|q2|ChatGPT|2",
+  "insurance-agency-management|q2|ChatGPT|3",
+  "insurance-agency-management|q2|Claude|1",
+  "insurance-agency-management|q2|Claude|2",
+  "insurance-agency-management|q2|Claude|3",
+  "insurance-agency-management|q2|Google AI Mode|1",
+  "insurance-agency-management|q2|Google AI Mode|2",
+  "insurance-agency-management|q2|Google AI Mode|3",
+  "insurance-agency-management|q2|Google AI Overviews|1",
+  "insurance-agency-management|q2|Google AI Overviews|2",
+  "insurance-agency-management|q2|Google AI Overviews|3",
+  "insurance-agency-management|q2|Perplexity|1",
+  "insurance-agency-management|q2|Perplexity|2",
+  "insurance-agency-management|q2|Perplexity|3",
+  "insurance-agency-management|q3|ChatGPT|1",
+  "insurance-agency-management|q3|ChatGPT|2",
+  "insurance-agency-management|q3|ChatGPT|3",
+  "insurance-agency-management|q3|Claude|1",
+  "insurance-agency-management|q3|Google AI Mode|2",
+  "insurance-agency-management|q3|Google AI Overviews|1",
+  "insurance-agency-management|q3|Google AI Overviews|2",
+  "insurance-agency-management|q4|ChatGPT|1",
+  "insurance-agency-management|q4|ChatGPT|2",
+  "insurance-agency-management|q4|ChatGPT|3",
+  "insurance-agency-management|q4|Claude|1",
+  "insurance-agency-management|q4|Claude|2",
+  "insurance-agency-management|q4|Claude|3",
+  "insurance-agency-management|q4|Google AI Mode|1",
+  "insurance-agency-management|q4|Google AI Mode|2",
+  "insurance-agency-management|q4|Google AI Mode|3",
+  "insurance-agency-management|q4|Google AI Overviews|1",
+  "insurance-agency-management|q4|Google AI Overviews|2",
+  "insurance-agency-management|q4|Google AI Overviews|3",
+  "insurance-agency-management|q4|Perplexity|1",
+  "insurance-agency-management|q4|Perplexity|2",
+  "insurance-agency-management|q4|Perplexity|3",
+  "insurance-agency-management|q5|ChatGPT|1",
+  "insurance-agency-management|q5|ChatGPT|2",
+  "insurance-agency-management|q5|ChatGPT|3",
+  "insurance-agency-management|q5|Claude|1",
+  "insurance-agency-management|q5|Claude|2",
+  "insurance-agency-management|q5|Claude|3",
+  "insurance-agency-management|q5|Google AI Mode|1",
+  "insurance-agency-management|q5|Google AI Mode|2",
+  "insurance-agency-management|q5|Google AI Mode|3",
+  "insurance-agency-management|q5|Google AI Overviews|1",
+  "insurance-agency-management|q5|Google AI Overviews|2",
+  "insurance-agency-management|q5|Google AI Overviews|3",
+  "insurance-agency-management|q5|Perplexity|1",
+  "insurance-agency-management|q5|Perplexity|2",
+  "insurance-agency-management|q5|Perplexity|3",
+  "insurance-agency-management|q6|ChatGPT|1",
+  "insurance-agency-management|q6|ChatGPT|2",
+  "insurance-agency-management|q6|ChatGPT|3",
+  "insurance-agency-management|q6|Claude|1",
+  "insurance-agency-management|q6|Claude|2",
+  "insurance-agency-management|q6|Claude|3",
+  "insurance-agency-management|q6|Google AI Mode|1",
+  "insurance-agency-management|q6|Google AI Mode|2",
+  "insurance-agency-management|q6|Google AI Mode|3",
+  "insurance-agency-management|q6|Google AI Overviews|1",
+  "insurance-agency-management|q6|Google AI Overviews|2",
+  "insurance-agency-management|q6|Google AI Overviews|3",
+  "insurance-agency-management|q6|Perplexity|1",
+  "insurance-agency-management|q6|Perplexity|2",
+  "insurance-agency-management|q6|Perplexity|3",
+  "insurance-agency-management|q7|ChatGPT|1",
+  "insurance-agency-management|q7|ChatGPT|2",
+  "insurance-agency-management|q7|ChatGPT|3",
+  "insurance-agency-management|q7|Claude|1",
+  "insurance-agency-management|q7|Claude|2",
+  "insurance-agency-management|q7|Claude|3",
+  "insurance-agency-management|q7|Google AI Mode|1",
+  "insurance-agency-management|q7|Google AI Mode|2",
+  "insurance-agency-management|q7|Google AI Mode|3",
+  "insurance-agency-management|q7|Google AI Overviews|1",
+  "insurance-agency-management|q7|Google AI Overviews|2",
+  "insurance-agency-management|q7|Google AI Overviews|3",
+  "insurance-agency-management|q7|Perplexity|1",
+  "insurance-agency-management|q7|Perplexity|2",
+  "insurance-agency-management|q7|Perplexity|3",
+  "insurance-agency-management|q8|ChatGPT|1",
+  "insurance-agency-management|q8|ChatGPT|2",
+  "insurance-agency-management|q8|ChatGPT|3",
+  "insurance-agency-management|q8|Claude|1",
+  "insurance-agency-management|q8|Claude|2",
+  "insurance-agency-management|q8|Claude|3",
+  "insurance-agency-management|q8|Google AI Mode|1",
+  "insurance-agency-management|q8|Google AI Mode|2",
+  "insurance-agency-management|q8|Google AI Mode|3",
+  "insurance-agency-management|q8|Google AI Overviews|1",
+  "insurance-agency-management|q8|Google AI Overviews|2",
+  "insurance-agency-management|q8|Google AI Overviews|3",
+  "insurance-agency-management|q8|Perplexity|1",
+  "insurance-agency-management|q8|Perplexity|2",
+  "insurance-agency-management|q8|Perplexity|3"
+ ],
+ "named_count": 127
+}

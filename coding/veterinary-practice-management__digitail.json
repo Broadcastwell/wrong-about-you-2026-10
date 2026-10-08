@@ -1,0 +1,1284 @@
+{
+ "vendor": "Digitail",
+ "slug": "digitail",
+ "category": "veterinary-practice-management",
+ "coded_at": "2026-10-08T04:05:00Z",
+ "pages_read": [
+  {
+   "url": "https://digitail.io/",
+   "key": "da082329f360e74a",
+   "used_for": "home (canonical domain; redirects to https://digitail.com/)"
+  },
+  {
+   "url": "https://digitail.com/plans/",
+   "key": "be43312b1293dc6b",
+   "used_for": "plans and pricing"
+  },
+  {
+   "url": "https://digitail.com/pet-parent-app/",
+   "key": "b7ccaaa44827099b",
+   "used_for": "client app"
+  },
+  {
+   "url": "https://digitail.com/integrations/",
+   "key": "9cf4ac780e46472c",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://digitail.com/about-us/",
+   "key": "0b2ae0c50c05dd63",
+   "used_for": "about and company"
+  },
+  {
+   "url": "https://digitail.com/tails-ai/",
+   "key": "9f3214260e12dbce",
+   "used_for": "AI product names"
+  },
+  {
+   "url": "https://digitail.com/features/tails-vip/",
+   "key": "8bae910a0108d82c",
+   "used_for": "staff mobile app"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "platforms",
+   "claim": "Digitail is cloud-based (cloud-native) software.",
+   "class": "true",
+   "proof_url": "https://digitail.io/",
+   "proof_quote": "Cloud-based, AI-native veterinary practice management software",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page describes Digitail as cloud-based veterinary practice management software.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "Digitail is a cloud-based, AI-native veterinary platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|2",
+     "quote": "Digitail is built as an all-in-one, cloud- and AI-native platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|3",
+     "quote": "using modern cloud and AI capabilities"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Perplexity|2",
+     "quote": "best if you want a **modern all-in-one cloud platform** with strong client-facing features."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Perplexity|3",
+     "quote": "| **All-in-one cloud system** | **Digitail** |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Perplexity|3",
+     "quote": "**Best if you want more accessible modern cloud features for a growing group:** **Digitail**."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "Digitail is a modern cloud-based platform with a focus on AI-enabled tools."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|2",
+     "quote": "Digitail is a cloud-based platform whose distinguishing feature"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|3",
+     "quote": "Digitail is heavily cloud- and AI-native"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Overviews|1",
+     "quote": "Digitail: A modern, AI-native cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|2",
+     "quote": "Digitail: A modern, cloud and AI-native platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|2",
+     "quote": "Combines cloud practice management with online booking"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|1",
+     "quote": "| **Digitail** | Cloud | AI-forward independent clinics |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|2",
+     "quote": "Digitail features AI-powered features and is cloud-based."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "Digitail is a cloud-based platform whose distinguishing feature"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|2",
+     "quote": "an intuitive, all-in-one cloud PIMS"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|2",
+     "quote": "another popular cloud alternative"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|3",
+     "quote": "Choose **DaySmart Vet** or **Digitail** if you want a **modern cloud PMS**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "Digitail is a modern, cloud-based veterinary software platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "Digitail is a cloud-based platform whose distinguishing feature"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "Digitail is a modern, cloud-based veterinary software platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Overviews|2",
+     "quote": "Digitail: Best independent cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Perplexity|1",
+     "quote": "**Best modern/cloud UX:** Digitail"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Perplexity|3",
+     "quote": "**Best modern cloud/AI option:** Digitail"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "Digitail is a modern cloud-based platform with a focus on AI-enabled tools."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "Digitail is a modern cloud-based platform with a focus on AI-enabled tools."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|3",
+     "quote": "Digitail — Best modern, AI-driven cloud-native platform."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "Digitail is the only all-in-one, cloud-based, AI-native practice management system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|2",
+     "quote": "Digitail unifies medical records, payments, and communications in one seamless cloud platform."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "Digitail unifies medical records, payments, and communications in one cloud platform."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|1",
+     "quote": "two modern, cloud-based Practice Information Management Systems (PIMS)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|2",
+     "quote": "an automation-heavy, AI-forward, all-in-one cloud platform (Digitail)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|3",
+     "quote": "Both Shepherd Veterinary Software and Digitail are modern, cloud-based Practice Information Management Systems (PIMS)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|1",
+     "quote": "Digitail and Shepherd Veterinary Software are both modern, cloud-based practice management systems (PIMS)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|2",
+     "quote": "Digitail and Shepherd Veterinary Software are both modern, cloud-based practice management systems (PIMS)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|1",
+     "quote": "Digitail is positioned more as a **modern, all-in-one cloud PIMS**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|2",
+     "quote": "All-in-one cloud PIMS with broader front-office/client tools"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|3",
+     "quote": "Digitail is repeatedly positioned as a **modern cloud-based all-in-one PIMS**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q9|Google AI Mode|1",
+     "quote": "Modern cloud systems (like ezyVet, DaySmart Vet, Digitail, or Vetspire)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|3",
+     "quote": "one of the simpler cloud systems to learn"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "platforms",
+   "claim": "Digitail has a mobile app for pet parents (clients).",
+   "class": "true",
+   "proof_url": "https://digitail.io/",
+   "proof_quote": "Pet owners can book appointments, view their pet’s records, and message the clinic from a pet parent mobile app.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page describes a pet parent mobile app for booking, records and messaging, and a dedicated Pet Parent App page exists.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|1",
+     "quote": "When online booking, a client app, and integrated AI documentation are priorities."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|2",
+     "quote": "Its plans combine medical records, scheduling/online booking, inventory, billing, and a pet-parent app."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|3",
+     "quote": "Its plans include inventory, billing, online booking, and a pet-parent app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "It stands out for its polished interface, client-facing mobile app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|2",
+     "quote": "a robust pet-parent mobile app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|2",
+     "quote": "native pet-parent mobile app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Perplexity|1",
+     "quote": "system with a client app and broad clinic workflow coverage"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Perplexity|3",
+     "quote": "Described as a modern all-in-one platform with strong AI features and client app support."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|1",
+     "quote": "Includes a pet-parent app, online booking, inventory, billing, and reporting."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|3",
+     "quote": "Offers online booking, a pet-parent app, inventory, billing, and unlimited staff users"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "including through its downloadable Pet Parent App"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|2",
+     "quote": "including through its downloadable Pet Parent App"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|1",
+     "quote": "Digitail is built natively with AI features and robust pet-parent mobile apps."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|2",
+     "quote": "includes a very polished pet-parent mobile app for client engagement"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|3",
+     "quote": "It also features a sleek pet-parent mobile app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Overviews|1",
+     "quote": "a client engagement app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|2",
+     "quote": "a pet-parent app for records and communication"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "including through its downloadable Pet Parent App"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|2",
+     "quote": "It includes strong built-in pet-parent apps"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|1",
+     "quote": "Combines practice management with a pet-parent app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|2",
+     "quote": "client communication, a pet-parent app, and AI tools in one platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|3",
+     "quote": "Combines online booking, a pet-parent app, messaging"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "clients get a separate Pet Parent App for booking, messaging, records, and payments"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "including through its downloadable Pet Parent App"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "The all-in-one system includes a client-facing mobile app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Perplexity|1",
+     "quote": "a modern all-in-one option with a client app and AI features"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Perplexity|2",
+     "quote": "a modern all-in-one system with a client app and AI features."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Perplexity|3",
+     "quote": "especially if you want a client app and newer AI features"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|1",
+     "quote": "Combines online booking, a pet-parent app, messaging"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|2",
+     "quote": "Combines online booking, a pet-parent app, inventory, billing, and clinical records."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|3",
+     "quote": "Combines medical records, scheduling, inventory, billing, and a pet-parent app."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "an engaging mobile app enhances client interaction and satisfaction"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "an engaging mobile app enhances client interaction and satisfaction"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|3",
+     "quote": "a sleek client-facing mobile app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|1",
+     "quote": "Includes a pet-parent app, booking, reminders, and in-app communication."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|2",
+     "quote": "Offers a pet-parent app, booking, in-app chat, and email."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|3",
+     "quote": "Pet-parent app, online booking, in-app chat, reminders, and email campaigns."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "a connected Pet Parent App"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|2",
+     "quote": "Includes telemedicine, a dedicated Pet Parent App, and more native AI workflows than Shepherd."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "Clients have access to records and can schedule appointments at their convenience via the app."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|1",
+     "quote": "Digitail also features a mature, fully native pet-parent mobile app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|2",
+     "quote": "Features a robust native pet parent app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|3",
+     "quote": "Digitail shines here with a built-in, native pet parent app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|1",
+     "quote": "Includes a native pet parent app with integrated online booking, wellness plans, and two-way chat out of the box."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|2",
+     "quote": "Features a built-in native mobile app for pet parents"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|3",
+     "quote": "Built-in native pet parent app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|1",
+     "quote": "| Client app | Less emphasized in the results | Native pet-parent app |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|2",
+     "quote": "Native pet parent app and client communication are emphasized"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|3",
+     "quote": "Native pet-parent app and broader client communication"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "platforms",
+   "claim": "Digitail has a native mobile app for clinic staff (clinical work).",
+   "class": "true",
+   "proof_url": "https://digitail.com/features/tails-vip/",
+   "proof_quote": "Record any visit and get a complete SOAP note right on your phone.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Digitail's Tails VIP clinical companion app runs on phones (iOS and Android) for SOAP charting by clinic staff.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "Your team gets a native staff app for clinical work"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "platforms",
+   "claim": "Digitail has a mobile-friendly interface that works on mobile devices.",
+   "class": "true",
+   "proof_url": "https://digitail.com/plans/",
+   "proof_quote": "Works on Any Device Desktop, Tablet, Mobile, etc.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page lists Works on Any Device (desktop, tablet, mobile) as a core feature.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "a clean, mobile-friendly interface focused on helping teams work efficiently"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "a clean, mobile-friendly interface focused on helping teams work efficiently"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|1",
+     "quote": "Modern, mobile-friendly design with a strong focus on the client and staff user journey."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Digitail offers a Kick Start program with first-year discounts for new (startup) clinics.",
+   "class": "true",
+   "proof_url": "https://digitail.com/plans/",
+   "proof_quote": "plus a Kick Start program with first-year discounts to help new clinics get up and running faster.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page FAQ describes the Kick Start program with first-year discounts for new clinics.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|1",
+     "quote": "it advertises a first-year startup discount program"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|2",
+     "quote": "Digitail advertises a first-year “Kick Start” discount program"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|3",
+     "quote": "a startup “Kick Start” program with first-year discounts"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Digitail's plans page publishes plan tiers but no dollar prices.",
+   "class": "true",
+   "proof_url": "https://digitail.com/plans/",
+   "proof_quote": "Flexible plans for every veterinary clinic Book a Free Demo Mobile Simple, essential tools to get your mobile clinic running quickly.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page presents the Mobile, Growth, Growth AI and Enterprise tiers with features and demo or sales calls to action; its text contains no dollar amount.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|1",
+     "quote": "Published plan tiers, but no dollar prices on the plans page."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|2",
+     "quote": "Publishes plan tiers but not dollar prices"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Digitail pricing is tiered (tiered plans).",
+   "class": "true",
+   "proof_url": "https://digitail.com/plans/",
+   "proof_quote": "Core Features Mobile Growth Growth AI Cloud-based",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page compares features across the Mobile, Growth and Growth AI tiers.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|3",
+     "quote": "Unlimited staff users; tiered plans."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|2",
+     "quote": "Uses transparent tiered pricing starting lower for smaller setups"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Digitail costs approximately $300 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states a Digitail price.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "Digitail is approximately $300 per month."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|3",
+     "quote": "Digitail is approximately $300 per month."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "Digitail is approximately $300 per month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "The Brick & Mortar plan costs $300 per month per veterinarian.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page shows no prices and lists the Mobile, Growth, Growth AI and Enterprise tiers; it neither prices nor mentions a Brick & Mortar plan, so the claim cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|2",
+     "quote": "the Brick & Mortar plan costs $300/month per veterinarian and is dedicated to PIMS for animal hospitals"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "or the Brick & Mortar plan at $300/month per veterinarian for animal hospitals"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "The Mobile plan costs $149 per month per veterinarian.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page lists a Mobile plan but shows no price.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|2",
+     "quote": "The Mobile plan costs $149/month per veterinarian (for mobile vets)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "You can choose the Mobile plan at $149/month per veterinarian"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Digitail is priced per veterinarian (per-DVM subscription).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page lists unlimited staff users and relief DVMs as an add-on but does not state the price basis.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "It operates on a subscription model based on the number of veterinarians using the system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "It operates on a subscription model based on the number of veterinarians using the system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "It operates on a subscription model based on the number of veterinarians using the system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|2",
+     "quote": "Per-DVM ($300/mo brick & mortar)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "Note: Digitail's pricing is per-DVM, which can add up for growing clinics."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "Digitail pricing is quote-based (contact for pricing, custom).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page shows no prices and offers demos, but does not state that prices are given by quote.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|2",
+     "quote": "| **Digitail** | Contact for pricing |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|3",
+     "quote": "| **Digitail** | AI-first documentation | Custom |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "| **Digitail** | Small practices, AI-focused | Quote-based |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "| **Digitail** | Small practices, AI-focused | Quote-based |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Digitail pricing is tiered, starting around $149 per month (up to about $289 to $299+).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states a Digitail price.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|1",
+     "quote": "Pricing ranges tier-based from roughly $149 to $299+ per month"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|2",
+     "quote": "Around $149–$289+/month (tiered pricing)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Digitail starts at about $289 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states a Digitail price.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|1",
+     "quote": "with Software Advice listing a starting base around $289 per month"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|3",
+     "quote": "289.00 / Per Month Capterra"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Digitail costs around $289 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states a Digitail price or a per-user basis.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Overviews|1",
+     "quote": "priced around $289 per user/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "plans",
+   "claim": "Digitail's plan tiers include Growth and Growth AI.",
+   "class": "true",
+   "proof_url": "https://digitail.com/plans/",
+   "proof_quote": "Growth AI Operate with AI workflows supercharging your entire practice. Standout features Everything in Growth",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page lists Growth and Growth AI among its plans (with Mobile and Enterprise).",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|3",
+     "quote": "its Growth and Growth AI tiers add clinical and AI tools"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|2",
+     "quote": "Its Growth and Growth AI plans add progressively broader documentation and automation tools."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|1",
+     "quote": "Ask for Growth and Growth AI quotes with all needed extras."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|3",
+     "quote": "compare Growth versus Growth AI"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "plans",
+   "claim": "The Growth plan includes an AI scribe, smart dental charts, a whiteboard and anesthesia/vitals monitoring.",
+   "class": "true",
+   "proof_url": "https://digitail.com/plans/",
+   "proof_quote": "Everything in Mobile Tails AI Scribe Smart Dental Charts Whiteboard Boarding Calendar Room Management Anesthesia & Vitals Monitoring",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page lists Tails AI Scribe, Smart Dental Charts, Whiteboard, Room Management and Anesthesia & Vitals Monitoring as Growth features.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|1",
+     "quote": "Its Growth plan adds AI scribing, dental charts, and anesthesia/vitals monitoring."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|3",
+     "quote": "its Growth plan includes an AI scribe"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|3",
+     "quote": "Its Growth plan includes an AI scribe"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|1",
+     "quote": "Growth explicitly lists smart dental charts and anesthesia/vitals monitoring."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|2",
+     "quote": "its Growth plan also lists a whiteboard, dental charts, and anesthesia/vitals monitoring"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|3",
+     "quote": "Growth explicitly lists smart dental charts, whiteboard, anesthesia/vitals monitoring, and room management."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "The Growth AI plan adds AI intake, record summaries, voice-to-invoice, discharge notes and further AI workflows.",
+   "class": "true",
+   "proof_url": "https://digitail.com/plans/",
+   "proof_quote": "Everything in Growth Tails AI Assistant Tails AI Intake Tails AI Scribe Tails AI Medical Record Summaries Tails AI Voice to Invoice Tails AI Practice Manager Tails AI Commission Calculator Tails AI Concierge Tails AI Discharge Notes",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page lists these Tails AI workflows as Growth AI features on top of everything in Growth.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|1",
+     "quote": "Growth AI expands into intake, summaries, voice-to-invoice, discharge notes, and administrative tools."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|2",
+     "quote": "Growth AI adds intake, record summaries, voice-to-invoice, discharge notes, and other automation."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|3",
+     "quote": "additional AI workflows are in higher tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "plans",
+   "claim": "Digitail plans include medical records, scheduling and online booking, inventory, billing and a pet-parent app.",
+   "class": "true",
+   "proof_url": "https://digitail.com/plans/",
+   "proof_quote": "Mobile Simple, essential tools to get your mobile clinic running quickly. Standout features Cloud-based SOAP Medical Records Scheduling & Online Booking Inventory Management Billing & Payments Wellness Plans Email Campaigns Pet Parent App",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The entry Mobile plan lists these features and the higher plans include everything in Mobile.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|2",
+     "quote": "Its plans combine medical records, scheduling/online booking, inventory, billing, and a pet-parent app."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|3",
+     "quote": "Its plans include inventory, billing, online booking, and a pet-parent app"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "plans",
+   "claim": "Digitail includes unlimited staff users at no additional cost.",
+   "class": "true",
+   "proof_url": "https://digitail.com/plans/",
+   "proof_quote": "Digitail supports unlimited staff roles at no additional cost.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page lists Unlimited Staff Users on every plan and its FAQ states unlimited staff roles at no additional cost.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|3",
+     "quote": "Offers online booking, a pet-parent app, inventory, billing, and unlimited staff users"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|3",
+     "quote": "Unlimited staff users; tiered plans."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "Digitail supports unlimited staff roles at no additional cost"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "plans",
+   "claim": "On-demand SMS texting and the integrated phone system (VoIP) are add-ons (as is enterprise reporting), and some services carry usage fees.",
+   "class": "true",
+   "proof_url": "https://digitail.com/plans/",
+   "proof_quote": "Integrated Phone System ( VoIP ) Add-on Add-on Add-on Automated Confirmations Direct In-App Chat & Emails On-demand SMS Texting SMS, MMS, 2-way, and Mass Texting Add-on Add-on Add-on",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans table marks VoIP, on-demand SMS texting and enterprise reporting as add-ons on every plan, and notes usage fees for some payment services.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|1",
+     "quote": "on-demand SMS and some other capabilities are add-ons or carry usage fees"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|1",
+     "quote": "on-demand SMS and some other services are add-ons"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|3",
+     "quote": "SMS and integrated phone service are listed as add-ons"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|2",
+     "quote": "SMS, VoIP, enterprise reporting, and certain other capabilities are listed as add-ons."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|1",
+     "quote": "Its plan table lists on-demand SMS and integrated phones as add-ons."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|2",
+     "quote": "On-demand SMS and integrated phones are listed as add-ons."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|3",
+     "quote": "SMS/MMS and VoIP are listed as add-ons, and some services have usage fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "customer_counts",
+   "claim": "Digitail is used by 10,000+ teams.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages count 10,000+ veterinarians, not teams; the units differ, so the claim cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "helping 10,000+ teams work smarter"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "trusted by 10,000+ teams to work smarter"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "helping 10,000+ teams work smarter and get home on time"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "customer_counts",
+   "claim": "Digitail is trusted by over 10,000 veterinary professionals worldwide.",
+   "class": "true",
+   "proof_url": "https://digitail.io/",
+   "proof_quote": "Trusted by over 10,000 veterinarians",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states over 10,000 veterinarians, which meets the claimed lower bound of 10,000 veterinary professionals.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "It is trusted by over 10,000 veterinary professionals worldwide"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|2",
+     "quote": "trusted by over 10,000 veterinary professionals worldwide"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "It is trusted by over 10,000 veterinary professionals worldwide."
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "integrations",
+   "claim": "Digitail has 30+ integrations.",
+   "class": "true",
+   "proof_url": "https://digitail.io/",
+   "proof_quote": "Over 40 integration partners power the Digitail ecosystem",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states over 40 integration partners, so 30+ is true as a lower bound.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "with 15+ AI tools and 30+ integrations"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "Digitail boasts 15+ built-in AI workflows, 30+ integrations"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|2",
+     "quote": "With 15+ built-in AI workflows, 30+ integrations"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "With 15+ built-in AI workflows, 30+ integrations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "integrations",
+   "claim": "Digitail has over 40 integration partners.",
+   "class": "true",
+   "proof_url": "https://digitail.io/",
+   "proof_quote": "Over 40 integration partners power the Digitail ecosystem",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states over 40 integration partners.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "Over 40 integration partners power the Digitail ecosystem"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "integrations",
+   "claim": "Digitail integrates with IDEXX (described as partial).",
+   "class": "true",
+   "proof_url": "https://digitail.com/integrations/",
+   "proof_quote": "Send diagnostic requests to IDEXX Reference Labs , print requisition forms, track and receive results.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists IDEXX Reference Labs (and IDEXX VetLab Station) integrations; the depth qualifier 'partial' is not assessed.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|3",
+     "quote": "| **Digitail** | AI-first documentation | Custom | ✅ Strong | Partial |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "product_names",
+   "claim": "Digitail's AI assistant is named Tails AI.",
+   "class": "true",
+   "proof_url": "https://digitail.com/tails-ai/",
+   "proof_quote": "Tails AI automates routine work so you can focus on delivering high-value care",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Digitail's AI page names its AI assistants Tails AI.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|1",
+     "quote": "Tails AI tools"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "Digitail's AI-powered veterinary assistant, Tails AI, automatically creates SOAP notes and patient summaries"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "product_names",
+   "claim": "Digitail's AI scribe module is named Tails AI Scribe.",
+   "class": "true",
+   "proof_url": "https://digitail.com/plans/",
+   "proof_quote": "Everything in Mobile Tails AI Scribe Smart Dental Charts",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page lists Tails AI Scribe as a plan feature.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|3",
+     "quote": "Tails AI Scribe plus a broader advertised suite"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|3",
+     "quote": "Tails AI Scribe / Tails Suite"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "product_names",
+   "claim": "Digitail's AI product suite is named Tails Suite.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read name Tails AI, Tails Concierge, Tails PM, Tails Medical and Tails VIP, but no Tails Suite.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|3",
+     "quote": "Tails AI Scribe / Tails Suite"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "product_names",
+   "claim": "Digitail's pet parent app is named Pawly.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Digitail's pages call the client app the Pet Parent App and never mention Pawly; they do not state that no other name is used, so the claim is not explicitly contradicted.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|3",
+     "quote": "a built-in, native pet parent app (\"Pawly\")"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "product_names",
+   "claim": "Digitail's pet parent app is named Pawp.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Digitail's pages call the client app the Pet Parent App and never mention Pawp; they do not state that no other name is used, so the claim is not explicitly contradicted.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|2",
+     "quote": "Client App (Pawp/Native App)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "ownership",
+   "claim": "Digitail is independently owned.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page names the co-founders and venture investors but does not describe the ownership as independent.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|2",
+     "quote": "Independently owned, cloud-based, all-in-one platform"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "pricing",
+   "claim": "Digitail's pricing is transparent.",
+   "class": "true",
+   "proof_url": "https://digitail.com/tails-ai/",
+   "proof_quote": "pricing is transparent so you know exactly what’s included before you begin.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Judgement call: the Tails AI page FAQ ('what does it cost?') states that pricing is transparent, which matches the claim as worded; the plans page itself shows tiers but no dollar amounts (C06), so a reading of 'transparent' as 'prices published' would not be settled.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "Shepherd or Digitail are the top recommendations due to their ease of use, transparent pricing, and fast onboarding."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|2",
+     "quote": "Uses transparent tiered pricing starting lower for smaller setups"
+    }
+   ]
+  }
+ ],
+ "notes": "Home read on the canonical domain https://digitail.io/ (redirects to digitail.com, the domain the answers cite). Seven own pages read, all HTTP 200 and not thin. The plans page names the Mobile, Growth, Growth AI and Enterprise tiers and shows no dollar amount anywhere, so all dollar figures, the per-DVM basis and 'quote-based' are unverifiable; C06 (plans page shows tiers but no prices) is classed true on the page itself (judgement call). The 'Brick & Mortar' plan (C09) is not on the current plans page, but with no prices and no dated change it is unverifiable, not wrong or stale. '10,000+ teams' (C22) is unverifiable because the site counts veterinarians, not teams; '10,000 veterinary professionals' (C23) and '30+ integrations' (C24) are true as lower bounds of the published 10,000+ veterinarians and 40+ integrations. App names Pawly and Pawp (C30, C31) are unverifiable rather than wrong (judgement call). No claim is wrong or stale, so no cited page was read for causes. Feature counts (15+ or 20+ AI workflows), uptime figures, telemedicine, data migration and support descriptions were treated as features or quality, not statements. Hedged pricing lines in Perplexity answers ('per-vet or quote-based pricing depending on source') were not coded. 'Pet Parent App' as a name was coded only within the platform claim C02, not as a separate naming claim. Pass 2 (8 Oct 2026): no browser snapshot exists for Digitail and no claim was unverifiable because of a blocked page; the other snapshots settle none of the unverifiable claims, and no claim is wrong or stale, so nothing was re-classed. Completeness: added C33 (pricing is transparent; true on the Tails AI page FAQ, judgement call) from the q1 Claude run 1 bottom line, with the q8 Google AI Overviews run 2 line split so it is also a C07 instance; added the q2 Claude run 3 line 'one of the simpler cloud systems to learn' to C01. Table cells (~$300/mo, Per-vet subscription, Contact for pricing, Custom, Quote-based, Cloud, 40+ partners, 30+, Per-DVM) were already instances. Left out: the 'Built-in tools: Everything + VoIP' cell in q8 Claude run 1 (a feature list; VoIP is an add-on per C21), hedged lines ('may require additional costs', 'appears to position itself in the mid-range', 'more accessible entry point'), migration from Avimark and Cornerstone (data migration, not an integration), ratings and best-for lines. For the reviewer: the q6 Google AI Overviews run 2 answer (in the DaySmart Vet bundle, not this one) has an unnamed 'Best AI-Native Platform' section with 'plans start around $289/month'; it does not name Digitail, so it was not coded here.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "veterinary-practice-management|q1|ChatGPT|1",
+  "veterinary-practice-management|q1|ChatGPT|2",
+  "veterinary-practice-management|q1|ChatGPT|3",
+  "veterinary-practice-management|q1|Claude|1",
+  "veterinary-practice-management|q1|Claude|3",
+  "veterinary-practice-management|q1|Google AI Mode|1",
+  "veterinary-practice-management|q1|Google AI Mode|2",
+  "veterinary-practice-management|q1|Google AI Mode|3",
+  "veterinary-practice-management|q1|Google AI Overviews|2",
+  "veterinary-practice-management|q1|Perplexity|1",
+  "veterinary-practice-management|q1|Perplexity|2",
+  "veterinary-practice-management|q1|Perplexity|3",
+  "veterinary-practice-management|q10|Perplexity|3",
+  "veterinary-practice-management|q2|ChatGPT|1",
+  "veterinary-practice-management|q2|ChatGPT|3",
+  "veterinary-practice-management|q2|Claude|1",
+  "veterinary-practice-management|q2|Claude|2",
+  "veterinary-practice-management|q2|Claude|3",
+  "veterinary-practice-management|q2|Google AI Mode|1",
+  "veterinary-practice-management|q2|Google AI Mode|2",
+  "veterinary-practice-management|q2|Google AI Mode|3",
+  "veterinary-practice-management|q2|Google AI Overviews|1",
+  "veterinary-practice-management|q3|Google AI Mode|2",
+  "veterinary-practice-management|q3|Perplexity|1",
+  "veterinary-practice-management|q3|Perplexity|2",
+  "veterinary-practice-management|q4|ChatGPT|2",
+  "veterinary-practice-management|q4|Claude|1",
+  "veterinary-practice-management|q4|Claude|2",
+  "veterinary-practice-management|q4|Claude|3",
+  "veterinary-practice-management|q4|Google AI Mode|2",
+  "veterinary-practice-management|q4|Google AI Overviews|1",
+  "veterinary-practice-management|q4|Perplexity|2",
+  "veterinary-practice-management|q4|Perplexity|3",
+  "veterinary-practice-management|q5|ChatGPT|1",
+  "veterinary-practice-management|q5|ChatGPT|2",
+  "veterinary-practice-management|q5|ChatGPT|3",
+  "veterinary-practice-management|q5|Claude|1",
+  "veterinary-practice-management|q5|Claude|2",
+  "veterinary-practice-management|q5|Claude|3",
+  "veterinary-practice-management|q5|Google AI Overviews|2",
+  "veterinary-practice-management|q5|Google AI Overviews|3",
+  "veterinary-practice-management|q5|Perplexity|1",
+  "veterinary-practice-management|q5|Perplexity|2",
+  "veterinary-practice-management|q5|Perplexity|3",
+  "veterinary-practice-management|q6|ChatGPT|1",
+  "veterinary-practice-management|q6|ChatGPT|2",
+  "veterinary-practice-management|q6|ChatGPT|3",
+  "veterinary-practice-management|q6|Claude|2",
+  "veterinary-practice-management|q6|Claude|3",
+  "veterinary-practice-management|q6|Google AI Mode|3",
+  "veterinary-practice-management|q6|Google AI Overviews|1",
+  "veterinary-practice-management|q8|ChatGPT|1",
+  "veterinary-practice-management|q8|ChatGPT|2",
+  "veterinary-practice-management|q8|ChatGPT|3",
+  "veterinary-practice-management|q8|Claude|1",
+  "veterinary-practice-management|q8|Claude|2",
+  "veterinary-practice-management|q8|Claude|3",
+  "veterinary-practice-management|q8|Google AI Mode|1",
+  "veterinary-practice-management|q8|Google AI Mode|2",
+  "veterinary-practice-management|q8|Google AI Mode|3",
+  "veterinary-practice-management|q8|Google AI Overviews|1",
+  "veterinary-practice-management|q8|Google AI Overviews|2",
+  "veterinary-practice-management|q8|Google AI Overviews|3",
+  "veterinary-practice-management|q8|Perplexity|1",
+  "veterinary-practice-management|q8|Perplexity|2",
+  "veterinary-practice-management|q8|Perplexity|3",
+  "veterinary-practice-management|q9|Google AI Mode|1"
+ ],
+ "named_count": 67
+}

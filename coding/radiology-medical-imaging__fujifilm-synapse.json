@@ -1,0 +1,446 @@
+{
+ "vendor": "Fujifilm (Synapse)",
+ "slug": "fujifilm-synapse",
+ "category": "radiology-medical-imaging",
+ "coded_at": "2026-10-08T04:00:00Z",
+ "pages_read": [
+  {
+   "url": "https://healthcaresolutions-us.fujifilm.com/",
+   "key": "38e82c8217f6b65c",
+   "used_for": "home (Fujifilm Healthcare US product site)"
+  },
+  {
+   "url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-eis-ris/",
+   "key": "df9e8dcf7f21b7a1",
+   "used_for": "product (Synapse EIS/RIS)"
+  },
+  {
+   "url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-enterprisepacs/",
+   "key": "f6e9fc971e15b213",
+   "used_for": "product (Synapse Enterprise PACS)"
+  },
+  {
+   "url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-cloud-services/",
+   "key": "004300b54f6ecc4f",
+   "used_for": "product (Synapse Cloud Services, hosting)"
+  },
+  {
+   "url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-radiology-pacs/",
+   "key": "c2c20361570e4f64",
+   "used_for": "product (Synapse Radiology PACS)"
+  },
+  {
+   "url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-ai-orchestrator/",
+   "key": "017ed4c3da7b9ecd",
+   "used_for": "product (Synapse AI Orchestrator)"
+  },
+  {
+   "url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-mobility-enterprise-viewer/",
+   "key": "6913e7a8f7e1606a",
+   "used_for": "product (Synapse Mobility viewer)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "product_names",
+   "claim": "Synapse RIS is Fujifilm's radiology information system.",
+   "class": "true",
+   "proof_url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-eis-ris/",
+   "proof_quote": "With Synapse Radiology Information System (RIS) as the foundation, Synapse ® Enterprise Information System (EIS) streamlines radiologist and staff workflows",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Fujifilm's Synapse EIS/RIS page names Synapse Radiology Information System (RIS).",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|1",
+     "quote": "| **Fujifilm Synapse RIS/EIS + Synapse PACS** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|2",
+     "quote": "Synapse RIS supports cross-location scheduling and digital patient intake and works with Synapse PACS."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|3",
+     "quote": "I’d start with Fujifilm Synapse EIS/RIS + Synapse PACS"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|ChatGPT|1",
+     "quote": "| **Fujifilm Synapse EIS/RIS** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Google AI Mode|1",
+     "quote": "Fujifilm Synapse RIS/PACS — Best for Reliability and Enterprise-Grade Support"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Perplexity|1",
+     "quote": "**Fujifilm Synapse EIS/RIS** is positioned as a workflow management solution for the **outpatient imaging market**"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Perplexity|2",
+     "quote": "**Fujifilm Synapse EIS / RIS** — a strong option if your priority is broader enterprise workflow"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Perplexity|3",
+     "quote": "**Fujifilm Synapse EIS / Synapse RIS**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "product_names",
+   "claim": "Synapse EIS (Enterprise Information System) is a Fujifilm product.",
+   "class": "true",
+   "proof_url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-eis-ris/",
+   "proof_quote": "With Synapse Radiology Information System (RIS) as the foundation, Synapse ® Enterprise Information System (EIS) streamlines radiologist and staff workflows",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Fujifilm's Synapse EIS/RIS page names Synapse Enterprise Information System (EIS).",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|1",
+     "quote": "| **Fujifilm Synapse RIS/EIS + Synapse PACS** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|3",
+     "quote": "I’d start with Fujifilm Synapse EIS/RIS + Synapse PACS"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|ChatGPT|1",
+     "quote": "| **Fujifilm Synapse EIS/RIS** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Perplexity|1",
+     "quote": "**Fujifilm Synapse EIS/RIS** is positioned as a workflow management solution for the **outpatient imaging market**"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Perplexity|2",
+     "quote": "Choose **Fujifilm Synapse EIS** if you are scaling across multiple sites and care most about enterprise workflow and communication."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Perplexity|3",
+     "quote": "**Fujifilm Synapse EIS / Synapse RIS**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "product_names",
+   "claim": "Synapse Enterprise PACS is a Fujifilm product.",
+   "class": "true",
+   "proof_url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-ai-orchestrator/",
+   "proof_quote": "Fujifilm’s Synapse Enterprise PACS provides clinicians with unrestricted cross-departmental image access",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Fujifilm's product pages name Synapse Enterprise PACS, with its own product page.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|1",
+     "quote": "| **Fujifilm Synapse Enterprise PACS** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|2",
+     "quote": "| **Fujifilm Synapse Enterprise PACS** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Claude|3",
+     "quote": "🟠 Fujifilm Synapse Enterprise PACS"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|1",
+     "quote": "| **Fujifilm Synapse Enterprise PACS** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|2",
+     "quote": "| **Fujifilm Synapse Enterprise PACS** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|3",
+     "quote": "| **Fujifilm Synapse Enterprise PACS** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|2",
+     "quote": "Fujifilm Synapse Enterprise PACS"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|3",
+     "quote": "Fujifilm Synapse Enterprise uses Synapse Universal Viewer with zero-footprint web access."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "product_names",
+   "claim": "Synapse 7x is Fujifilm's enterprise PACS release name.",
+   "class": "true",
+   "proof_url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-cloud-services/",
+   "proof_quote": "Fujifilm’s enterprise PACS Synapse 7x supports cloud-based and on-premise hosting",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Synapse Cloud Services page names Fujifilm's enterprise PACS Synapse 7x.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|3",
+     "quote": "Synapse 7x brings radiology, cardiology, 3D tools, and VNA together through a universal diagnostic viewer, with cloud and on-premises hosting."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "product_names",
+   "claim": "Synapse Universal Viewer is the name of the Synapse Enterprise viewer.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read describe 'one universal diagnostic viewer' and name Synapse Viewer eXtension and Synapse Mobility, but no product called Synapse Universal Viewer; that is not an explicit contradiction.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|3",
+     "quote": "Fujifilm Synapse Enterprise uses Synapse Universal Viewer with zero-footprint web access."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "product_names",
+   "claim": "REiLI is Fujifilm's AI initiative behind Synapse AI integration.",
+   "class": "true",
+   "proof_url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-ai-orchestrator/",
+   "proof_quote": "As part of Fujifilm’s global AI initiative, REiLI, the Synapse AI Orchestrator is laying the foundation for the future of imaging interpretation.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Synapse AI Orchestrator page names REiLI as Fujifilm's global AI initiative.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|2",
+     "quote": "Their workflow engine supports rule-based routing, worklist management, and integration with AI applications through their REiLI initiative."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "integrations",
+   "claim": "Synapse RIS integrates with ImagineSoftware for revenue-cycle and billing.",
+   "class": "true",
+   "proof_url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-eis-ris/",
+   "proof_quote": "Improve the payment lifecycle with integrated and intuitive financial tools from ImagineSoftware",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Synapse EIS/RIS page describes integrated revenue-cycle tools from ImagineSoftware through a strategic partnership.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|3",
+     "quote": "Fujifilm earns the first demo because its documented capabilities include cross-location scheduling, patient preregistration, and revenue-cycle integration through ImagineSoftware, alongside its PACS offering."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "platforms",
+   "claim": "Synapse can be deployed in the cloud (cloud hosting).",
+   "class": "true",
+   "proof_url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-cloud-services/",
+   "proof_quote": "Fujifilm’s enterprise PACS Synapse 7x supports cloud-based and on-premise hosting",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Synapse Cloud Services page states Synapse 7x supports cloud-based hosting, and the Enterprise PACS page calls it cloud-enabled.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|1",
+     "quote": "Offers a unified diagnostic viewer across departments, advanced visualization, and cloud or on-premises hosting options."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|2",
+     "quote": "Synapse supports a unified diagnostic viewer across these specialties, with cloud and on-premises hosting options."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|3",
+     "quote": "Synapse 7x brings radiology, cardiology, 3D tools, and VNA together through a universal diagnostic viewer, with cloud and on-premises hosting."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Claude|3",
+     "quote": "Synapse PACS delivers cloud-enabled enterprise imaging experiences tailored to each specialty and workflow"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|1",
+     "quote": "with advanced visualization and cloud deployment options"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|3",
+     "quote": "Supports radiology, mammography, cardiology, pathology, and other specialty imaging through a unified viewer, with cloud deployment options."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Overviews|2",
+     "quote": "cloud-native solutions like RamSoft PowerServer or Fujifilm Synapse PACS"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "platforms",
+   "claim": "Synapse can be hosted on premise.",
+   "class": "true",
+   "proof_url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-cloud-services/",
+   "proof_quote": "Fujifilm’s enterprise PACS Synapse 7x supports cloud-based and on-premise hosting",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Synapse Cloud Services page states Synapse 7x supports on-premise hosting.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|1",
+     "quote": "Offers a unified diagnostic viewer across departments, advanced visualization, and cloud or on-premises hosting options."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|2",
+     "quote": "Synapse supports a unified diagnostic viewer across these specialties, with cloud and on-premises hosting options."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|3",
+     "quote": "Synapse 7x brings radiology, cardiology, 3D tools, and VNA together through a universal diagnostic viewer, with cloud and on-premises hosting."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "platforms",
+   "claim": "Synapse offers hybrid deployment options.",
+   "class": "true",
+   "proof_url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-cloud-services/",
+   "proof_quote": "Dedicated informatics experts can work with you to identify the right private, public, or adaptable hybrid cloud-based delivery model for your enterprise based on your unique challenges, needs, goals, and budget.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Synapse Cloud Services page offers an adaptable hybrid delivery model alongside private and public cloud.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q6|Perplexity|2",
+     "quote": "Positioned as a top enterprise imaging platform with hybrid deployment options."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Perplexity|3",
+     "quote": "**Fujifilm Synapse** — a good choice for organizations that want a VNA-first or hybrid enterprise imaging strategy."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "platforms",
+   "claim": "Synapse offers web-based (zero-footprint) image viewing and distribution.",
+   "class": "true",
+   "proof_url": "https://healthcaresolutions-us.fujifilm.com/products/enterprise-imaging/synapse-mobility-enterprise-viewer/",
+   "proof_quote": "Extend image visibility through browser-neutral access, multi-monitor viewing, inherent DICOM and non-DICOM display, and more.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Synapse Mobility page lists a zero-footprint client with browser-neutral access, and the Radiology PACS page describes a zero-download viewer.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Mode|2",
+     "quote": "Fujifilm Synapse: Offers a mature, highly responsive web-based viewing platform that excels at fast image distribution and seamless integration with existing modalities."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|3",
+     "quote": "Fujifilm Synapse Enterprise uses Synapse Universal Viewer with zero-footprint web access."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Mode|1",
+     "quote": "Best for: Proven scalability, robust web-based diagnostic viewing, and deep enterprise integration."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Mode|3",
+     "quote": "Fujifilm Synapse PACS | Renowned reliability, robust web distribution, excellent VNA integration"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Overviews|1",
+     "quote": "Fujifilm Synapse PACS: Provides fast web-native image distribution, high reliability, and powerful enterprise imaging capabilities."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Overviews|2",
+     "quote": "Fujifilm Synapse PACS: Praised for rapid image rendering, web-enabled diagnostic viewing, and stable enterprise-wide scalability."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Overviews|3",
+     "quote": "Known for fast web-based viewing, high-speed image delivery, and solid enterprise integration capabilities."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Read on Fujifilm's US healthcare product site (healthcaresolutions-us.fujifilm.com) as instructed, not the corporate fujifilm.com home; the page-candidates home field pointed at a third-party page and was ignored. Seven pages read, all HTTP 200 and not thin. 'Synapse' and 'Fujifilm Healthcare' are the vendor's index aliases, so bare 'Synapse PACS' mentions were treated as name mentions; Synapse RIS, Synapse EIS, Synapse Enterprise PACS (including the shorthand 'Synapse Enterprise'), Synapse 7x and Synapse Universal Viewer were coded as module names. C08 groups 'cloud-enabled', 'cloud deployment options' and one 'cloud-native' line as cloud availability; Fujifilm's pages say cloud-enabled and cloud-based hosting, not cloud-native, which a reviewer may want split out. C11 rests on the Synapse Mobility zero-footprint, browser-neutral client and the zero-download PACS viewer; Fujifilm also describes Synapse VX as an elective native application. The 'Synapse 5 and newer versions added server-side rendering' line, data-portability and exit-cost lines, KLAS scores and module coverage lists were treated as capability descriptions, ratings or comparisons. No claim is wrong or stale, so no cited page was read for causes. Pass 2 (8 Oct 2026): no browser read exists for Fujifilm and no page was blocked or thin, so nothing was re-classed; C05 stays unverifiable after re-checking all seven snapshots (only 'one universal diagnostic viewer' appears). The 17 gap lines are best-for, reliability, KLAS or capability lines, or a general cloud-or-on-premise remark not about Fujifilm, all out of scope. The comparison tables carry only Synapse module names and cloud, on-premises, hybrid or web-viewing cells already coded under C01 to C04 and C08 to C11, plus KLAS scores, so no claim or instance was added. No claim is wrong or stale, so the consistency check changed nothing.",
+ "answer_record_ids": [
+  "radiology-medical-imaging|q1|Google AI Mode|2",
+  "radiology-medical-imaging|q10|ChatGPT|1",
+  "radiology-medical-imaging|q10|ChatGPT|2",
+  "radiology-medical-imaging|q10|ChatGPT|3",
+  "radiology-medical-imaging|q10|Claude|1",
+  "radiology-medical-imaging|q10|Claude|2",
+  "radiology-medical-imaging|q10|Claude|3",
+  "radiology-medical-imaging|q10|Google AI Mode|1",
+  "radiology-medical-imaging|q10|Google AI Mode|2",
+  "radiology-medical-imaging|q10|Google AI Overviews|1",
+  "radiology-medical-imaging|q10|Google AI Overviews|3",
+  "radiology-medical-imaging|q10|Perplexity|1",
+  "radiology-medical-imaging|q10|Perplexity|2",
+  "radiology-medical-imaging|q10|Perplexity|3",
+  "radiology-medical-imaging|q2|ChatGPT|1",
+  "radiology-medical-imaging|q2|Google AI Mode|1",
+  "radiology-medical-imaging|q2|Google AI Overviews|1",
+  "radiology-medical-imaging|q2|Perplexity|1",
+  "radiology-medical-imaging|q2|Perplexity|2",
+  "radiology-medical-imaging|q2|Perplexity|3",
+  "radiology-medical-imaging|q4|ChatGPT|1",
+  "radiology-medical-imaging|q4|ChatGPT|2",
+  "radiology-medical-imaging|q4|ChatGPT|3",
+  "radiology-medical-imaging|q4|Claude|1",
+  "radiology-medical-imaging|q4|Claude|2",
+  "radiology-medical-imaging|q4|Claude|3",
+  "radiology-medical-imaging|q4|Google AI Mode|1",
+  "radiology-medical-imaging|q4|Google AI Mode|2",
+  "radiology-medical-imaging|q4|Google AI Mode|3",
+  "radiology-medical-imaging|q4|Google AI Overviews|1",
+  "radiology-medical-imaging|q4|Google AI Overviews|2",
+  "radiology-medical-imaging|q4|Perplexity|1",
+  "radiology-medical-imaging|q4|Perplexity|2",
+  "radiology-medical-imaging|q4|Perplexity|3",
+  "radiology-medical-imaging|q5|Claude|1",
+  "radiology-medical-imaging|q5|Claude|2",
+  "radiology-medical-imaging|q6|ChatGPT|1",
+  "radiology-medical-imaging|q6|ChatGPT|2",
+  "radiology-medical-imaging|q6|ChatGPT|3",
+  "radiology-medical-imaging|q6|Claude|1",
+  "radiology-medical-imaging|q6|Claude|2",
+  "radiology-medical-imaging|q6|Claude|3",
+  "radiology-medical-imaging|q6|Google AI Mode|1",
+  "radiology-medical-imaging|q6|Google AI Mode|2",
+  "radiology-medical-imaging|q6|Google AI Mode|3",
+  "radiology-medical-imaging|q6|Google AI Overviews|1",
+  "radiology-medical-imaging|q6|Google AI Overviews|2",
+  "radiology-medical-imaging|q6|Google AI Overviews|3",
+  "radiology-medical-imaging|q6|Perplexity|1",
+  "radiology-medical-imaging|q6|Perplexity|2",
+  "radiology-medical-imaging|q6|Perplexity|3"
+ ],
+ "named_count": 51
+}

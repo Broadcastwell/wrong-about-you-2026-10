@@ -1,0 +1,36 @@
+{
+  "title": "Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages. October 2026.",
+  "upload_type": "dataset",
+  "description": "From the September 2026 Absence Index deposit (DOI 10.5281/zenodo.22907695; verbatim answers from ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, captured under method v1.1 on 22 to 23 Sep 2026, three runs per question), every valid target answer that names one of 70 vendors (the five most named in each of 14 categories) was read for factual statements about the vendor: pricing, plans, free tier, founding, ownership, headquarters, product names, integrations, platforms, certifications, customer counts, acquisitions and discontinued products. Each statement is classed true, wrong, stale or unverifiable against the vendor's own pages under the published Record rules, with its causing page traced from the answer's citations, how many of the three runs stated it, and its review state. Statements were first classified with AI assistance; two Broadcastwell analysts review every row after publication. Every named vendor may request one no-cost re-read at index@broadcastwell.com, both results published.",
+  "creators": [
+    {
+      "name": "Broadcastwell"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0",
+  "keywords": [
+    "AI search",
+    "B2B software",
+    "Absence Index",
+    "ChatGPT",
+    "Claude",
+    "Perplexity",
+    "Google AI Overviews",
+    "Google AI Mode"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.22907695",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.5281/zenodo.23197560",
+      "relation": "references",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    }
+  ]
+}

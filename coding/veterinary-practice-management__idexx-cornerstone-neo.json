@@ -1,0 +1,1534 @@
+{
+ "vendor": "IDEXX (Cornerstone, Neo)",
+ "slug": "idexx-cornerstone-neo",
+ "category": "veterinary-practice-management",
+ "coded_at": "2026-10-08T04:10:00Z",
+ "pages_read": [
+  {
+   "url": "https://software.idexx.com/",
+   "key": "9f9d21ee6f1ffaf5",
+   "used_for": "home (product-family site)"
+  },
+  {
+   "url": "https://software.idexx.com/products",
+   "key": "879059dbb6e87f50",
+   "used_for": "product comparison"
+  },
+  {
+   "url": "https://software.idexx.com/products/cornerstone",
+   "key": "82cbe1594a610b29",
+   "used_for": "Cornerstone product page"
+  },
+  {
+   "url": "https://software.idexx.com/products/neo",
+   "key": "f6e7812fa50af6cb",
+   "used_for": "Neo product page"
+  },
+  {
+   "url": "https://software.idexx.com/products/neo/features",
+   "key": "756c669019160568",
+   "used_for": "Neo features and price page"
+  },
+  {
+   "url": "https://software.idexx.com/cornerstone-integrations",
+   "key": "fea618a151a726ec",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://software.idexx.com/top-veterinary-software-solutions-a-2025-comparison-guide",
+   "key": "cbd943636f761848",
+   "used_for": "own comparison guide (cited)"
+  },
+  {
+   "url": "https://software.idexx.com/top-veterinary-software-solutions-a-2026-comparison-guide",
+   "key": "88cad035af5cc5dd",
+   "used_for": "own comparison guide (cited; HTTP 404)"
+  },
+  {
+   "url": "https://lupapets.com/us/blog/best-veterinary-practice-management-systems-in-2026/",
+   "key": "3bec1fda4780a96f",
+   "used_for": "cause (cited page, not the cause)"
+  },
+  {
+   "url": "https://waitwellsoftware.com/resources/articles/best-veterinary-practice-management-software/",
+   "key": "729f6356b86eae45",
+   "used_for": "cause (cited page, not the cause)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "platforms",
+   "claim": "Cornerstone is server-based (on-premise) software.",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/products/cornerstone",
+   "proof_quote": "Integrated, server-based veterinary software packed with features to streamline your workflows and save your team time.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "IDEXX describes Cornerstone as server-based software on its product page and on its product comparison page.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|3",
+     "quote": "Server-based systems (like Cornerstone and AVImark) offer offline operation and full data control"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|1",
+     "quote": "| **IDEXX Cornerstone** | High-volume hospitals | ❌ (on-premise) |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Google AI Mode|3",
+     "quote": "migrating from an on-premise system (like legacy Cornerstone or ImproMed)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|ChatGPT|1",
+     "quote": "A high-volume general practice that prefers a server-based system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|2",
+     "quote": "they are server-based or older architecture that often require heavier local IT maintenance"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|3",
+     "quote": "While traditionally server/on-premise based (though modern hybrid/cloud options exist)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Overviews|2",
+     "quote": "multi-doctor clinics that prefer robust, on-premise stability or traditional server setups"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Perplexity|1",
+     "quote": "| **Best legacy/on-prem hospital option** | **IDEXX Cornerstone** |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Perplexity|2",
+     "quote": "worth considering if you want a more traditional **server-based** system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Perplexity|3",
+     "quote": "**Best if your hospital is tied to legacy on-premise workflows and deep IDEXX integration:** **IDEXX Cornerstone**."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|3",
+     "quote": "My first demo choice if you want to retain depth while moving away from a server-based system."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|1",
+     "quote": "it is Cornerstone they want to replace because it runs on a server in the building"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|2",
+     "quote": "(since Cornerstone is server-based)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "it is Cornerstone they want to replace because it runs on a server in the building"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|1",
+     "quote": "because it is largely an on-premise, server-dependent system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|2",
+     "quote": "Because Cornerstone is a heavy, on-premise system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|3",
+     "quote": "a powerful but heavy, on-premise (server-based) practice management system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|1",
+     "quote": "IDEXX Cornerstone is a powerful, legacy on-premise system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|2",
+     "quote": "IDEXX Cornerstone is an aging, on-premise system."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|3",
+     "quote": "Cornerstone runs on local physical servers."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "Traditional on-premise systems like Avimark, Cornerstone, and ImproMed"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "The dominant legacy server-based systems in North America include Avimark and Impromed (both owned by Covetrus) and Cornerstone (owned by IDEXX)."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "legacy server-based systems like Avimark and Cornerstone"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|1",
+     "quote": "Traditional server-based or hybrid stalwarts."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|2",
+     "quote": "Legacy/On-Premise Giants (AVImark or Cornerstone)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "It is the only server-based option still widely used"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "It is a legacy server-based system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "| **Cornerstone** | Feature-rich, established practices | ~$420/mo | ❌ (On-premise) |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|2",
+     "quote": "these lean heavier on traditional server-based or hybrid setups"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|3",
+     "quote": "Best traditional on-premise/hybrid choice"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|1",
+     "quote": "Server-based; secure remote access is available"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|2",
+     "quote": "Currently marketed by IDEXX as server-based"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|3",
+     "quote": "Server-based, with server infrastructure to maintain"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|1",
+     "quote": "Cornerstone is not cloud-based and is instead server-based"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|2",
+     "quote": "Cornerstone (in its traditional form) is server-based, not cloud-based"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|3",
+     "quote": "Cornerstone, by contrast, has traditionally been server-based."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|1",
+     "quote": "Traditionally an on-premise, server-based system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|2",
+     "quote": "Cornerstone: On-Premise / Server-Dependent."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|3",
+     "quote": "Architecture: Traditionally server/on-premise"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|1",
+     "quote": "IDEXX Cornerstone relies heavily on traditional on-premise server infrastructure"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "Traditionally Windows and on-premise server dependent"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "This is traditionally an on-premise, server-based system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Perplexity|1",
+     "quote": "inside an existing IDEXX-heavy, on-premise environment"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Perplexity|2",
+     "quote": "wants **on-premise/server-based control**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Perplexity|3",
+     "quote": "especially for an established clinic with existing servers and workflows"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "platforms",
+   "claim": "Cornerstone is also offered with cloud-hosted or hybrid deployment options.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read describe Cornerstone only as server-based and list a cloud backup service, but neither state nor rule out a hosted or cloud deployment option.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|2",
+     "quote": "on-premise or cloud options available"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Claude|1",
+     "quote": "| **IDEXX Cornerstone** | On-Premise/Cloud | IDEXX-heavy, high-volume hospitals |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Claude|2",
+     "quote": "on-premise or cloud options are available"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Claude|3",
+     "quote": "with on-premise or cloud options available"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|3",
+     "quote": "(though modern hybrid/cloud options exist)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|1",
+     "quote": "Traditional server-based or hybrid stalwarts."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|2",
+     "quote": "these lean heavier on traditional server-based or hybrid setups"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|3",
+     "quote": "Best traditional on-premise/hybrid choice"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|1",
+     "quote": "(though IDEXX offers hosted/cloud-assisted options now)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|2",
+     "quote": "a traditional, heavy-duty on-premise/hybrid standard (Cornerstone)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|3",
+     "quote": "(though cloud-hosted hybrid options exist now)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "though cloud-hosted options exist"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "(though hybrid/hosted options exist)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Perplexity|1",
+     "quote": "**On-premise or hybrid control**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "platforms",
+   "claim": "Cornerstone is desktop (installed) software.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read call Cornerstone server-based but do not describe it as desktop software.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "giving veterinary clinics a choice between a powerful desktop system and a simpler, cloud-based workflow"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|1",
+     "quote": "legacy desktop system (like Cornerstone or AVImark)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|3",
+     "quote": "still heavily desktop/on-premise oriented like Cornerstone"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|3",
+     "quote": "Traditional desktop heavy-hitters"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|3",
+     "quote": "older desktop software (like AVImark or Cornerstone)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "platforms",
+   "claim": "Cornerstone runs on Windows.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names the operating system Cornerstone runs on.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "Traditionally Windows and on-premise server dependent"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "integrations",
+   "claim": "Cornerstone integrates with IDEXX diagnostics (in-house analyzers such as Catalyst and ProCyte, and reference labs).",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/products/cornerstone",
+   "proof_quote": "Unmatched integration with the IDEXX diagnostics you use every day.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Cornerstone page states integration with IDEXX diagnostics and lists IDEXX In-House Diagnostics and IDEXX Reference Laboratories among Cornerstone partners and integrations.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|1",
+     "quote": "Clinics that rely on IDEXX diagnostics often choose Cornerstone because of the deep and seamless integration between patient data, lab results, and electronic medical records."
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|2",
+     "quote": "If IDEXX diagnostics are a core part of your daily clinical workflow, Cornerstone and ezyVet have the deepest native integration."
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|3",
+     "quote": "If IDEXX diagnostics are a core part of your daily clinical workflow, Cornerstone and ezyVet have the deepest native integration."
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Claude|1",
+     "quote": "It is a strong fit for busy multi-doctor hospitals with entrenched workflows and heavy IDEXX integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Claude|2",
+     "quote": "IDEXX Cornerstone excels in seamless diagnostics and lab integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Claude|3",
+     "quote": "It is a strong fit for busy multi-doctor hospitals with entrenched workflows and heavy IDEXX integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Mode|3",
+     "quote": "its primary strength for large hospitals is its unmatched, native integration with IDEXX diagnostic equipment and reference labs"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Perplexity|1",
+     "quote": "want server-based control and deep IDEXX integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Perplexity|2",
+     "quote": "Cornerstone remains attractive for practices that prioritize deep IDEXX and legacy ecosystem integration."
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Perplexity|3",
+     "quote": "**Best if your hospital is tied to legacy on-premise workflows and deep IDEXX integration:** **IDEXX Cornerstone**."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|2",
+     "quote": "Because Cornerstone is a heavy, on-premise system deeply tied to IDEXX diagnostics"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|1",
+     "quote": "Cornerstone is still often described as stronger for **IDEXX diagnostic integration**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|3",
+     "quote": "Cornerstone still has documented strengths in **IDEXX diagnostic integration**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "It offers the deepest IDEXX diagnostics connection"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "Cornerstone has the strongest IDEXX connectivity among veterinary platforms."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "Cornerstone and ezyVet have the strongest IDEXX connectivity among veterinary platforms."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|1",
+     "quote": "Integrated IDEXX diagnostics as well."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|2",
+     "quote": "IDEXX diagnostics plus a substantial third-party integration ecosystem."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|3",
+     "quote": "Also supports IDEXX diagnostics and numerous third-party services."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|1",
+     "quote": "Cornerstone has a meaningful advantage for clinics whose diagnostic volume runs through IDEXX in-house equipment (Catalyst, ProCyte, Coag Dx)."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|2",
+     "quote": "Cornerstone has a meaningful advantage for clinics whose diagnostic volume runs through IDEXX in-house equipment (Catalyst, ProCyte, Coag Dx)."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|3",
+     "quote": "Cornerstone has a meaningful advantage for clinics whose diagnostic volume runs through IDEXX in-house equipment (Catalyst, ProCyte, Coag Dx)."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|1",
+     "quote": "Features an unmatched, native zero-lag connection for IDEXX in-house diagnostics (Catalyst, ProCyte, etc.)."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|2",
+     "quote": "Results from machines like the Catalyst and ProCyte flow directly into patient records instantly without middleware."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|3",
+     "quote": "Unmatched diagnostic integration speed for IDEXX lab machines and VetConnect PLUS"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|1",
+     "quote": "Has a native advantage if your clinic workflow relies heavily on IDEXX in-house lab machines, syncing results automatically without middleware."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "Unmatched native, lag-free integration with in-house IDEXX lab equipment (Catalyst, ProCyte) without needing third-party APIs."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "Shines brightest if your clinic runs heavily on IDEXX in-house lab equipment (like Catalyst or ProCyte)."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Perplexity|1",
+     "quote": "you want the deepest native IDEXX integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Perplexity|2",
+     "quote": "depends on the deepest native IDEXX diagnostic integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Perplexity|3",
+     "quote": "you want the most native, on-prem-style integration with IDEXX diagnostics and imaging"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "integrations",
+   "claim": "Cornerstone integrates with IDEXX VetConnect PLUS.",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/products/cornerstone",
+   "proof_quote": "Vello VetConnect PLUS Veterinary Pharmacy Reference (VPR)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "VetConnect PLUS appears in the Cornerstone Partners and Integrations list on the Cornerstone page.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|3",
+     "quote": "Unmatched diagnostic integration speed for IDEXX lab machines and VetConnect PLUS"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "integrations",
+   "claim": "Cornerstone integrates with PetDesk (for online booking).",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/cornerstone-integrations",
+   "proof_quote": "PetDesk Direct Booking Client Engagement Cornerstone",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists PetDesk Direct Booking (and PetDesk Communications) as client engagement integrations available for Cornerstone.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|2",
+     "quote": "Cornerstone requires a third-party integration (PetDesk, VetPort, or similar) to expose online booking."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|2",
+     "quote": "modern features like native online self-scheduling require third-party add-ons (like PetDesk)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|1",
+     "quote": "Requires third-party add-ons (like PetDesk or VetPort) to handle modern online self-scheduling."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "client-facing perks like online self-scheduling require third-party add-ons (such as PetDesk)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "integrations",
+   "claim": "Cornerstone integrates with VetPort (for online booking).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "VetPort is not among the integrations listed on the pages read; absence from a list does not settle the claim.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|2",
+     "quote": "Cornerstone requires a third-party integration (PetDesk, VetPort, or similar) to expose online booking."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|1",
+     "quote": "Requires third-party add-ons (like PetDesk or VetPort) to handle modern online self-scheduling."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "integrations",
+   "claim": "Cornerstone integrates with Weave.",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/cornerstone-integrations",
+   "proof_quote": "Weave Telecommunications & Scheduling Cornerstone ezyVet Neo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists Weave as an integration for Cornerstone, ezyVet and Neo.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "Weave integrates with 18+ veterinary PIMS including AVImark, Cornerstone, ezyVet, Neo, Shepherd, and ImproMed."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Cornerstone has custom subscription pricing starting at about $200 to $500 per vet per month, based on practice size, users and modules.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states Cornerstone pricing.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|2",
+     "quote": "Custom subscription pricing starting at ~$200–$500 per vet/month based on practice size, users, and modules"
+    },
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|3",
+     "quote": "Custom subscription pricing starting at ~$200–$500 per vet/month based on practice size, users, and modules."
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Claude|1",
+     "quote": "custom subscription pricing starting at approximately $200–$500 per vet/month based on practice size, users, and modules"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Claude|2",
+     "quote": "Custom subscription pricing starting at ~$200–$500 per vet/month based on practice size, users, and modules"
+    },
+    {
+     "record_id": "veterinary-practice-management|q3|Claude|3",
+     "quote": "Pricing starts at approximately $200–$500 per vet/month based on practice size, users, and modules"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Cornerstone pricing is not published; it is quote-based (custom quote).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read show no Cornerstone price and do not state how it is priced or quoted.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q10|Claude|1",
+     "quote": "**Pricing:** Custom quote"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|1",
+     "quote": "Cornerstone similarly does not publish pricing."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|2",
+     "quote": "Neither system publicly lists pricing — you'll need to request a custom quote."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "On-premise Cornerstone lists around $420 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states a Cornerstone price.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "On-premise Cornerstone lists around $420/month"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "On-premise Cornerstone lists around $420/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Cornerstone starts at around $549+ per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states a Cornerstone price.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|1",
+     "quote": "Cornerstone: Generally starts higher (around $549+/month)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|2",
+     "quote": "often starting upwards of $549/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Cornerstone requires significant upfront licensing costs.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states Cornerstone's price basis (license or subscription).",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q3|Google AI Overviews|2",
+     "quote": "though it requires significant upfront licensing and maintenance costs"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "ownership",
+   "claim": "Cornerstone is an IDEXX product (owned by IDEXX).",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/products/cornerstone",
+   "proof_quote": "Cornerstone Veterinary Software | IDEXX Practice Management Software | IDEXX Software",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "IDEXX's software site presents Cornerstone as IDEXX practice management software.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "IDEXX offers both Cornerstone and Neo"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|1",
+     "quote": "Also owned by IDEXX"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|2",
+     "quote": "ezyVet (also owned by IDEXX)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "Cornerstone (owned by IDEXX)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "Cornerstone from IDEXX is versatile, feature-rich software that can be customized to meet your every need."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "Cornerstone Software is an interactive, comprehensive veterinary software by IDEXX Laboratories."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "Cornerstone from IDEXX is versatile, feature-rich software that can be customized to meet your every need."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "Cornerstone from IDEXX is versatile, feature-rich software that can be customized to meet your every need."
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|ChatGPT|2",
+     "quote": "Currently marketed by IDEXX as server-based"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Claude|3",
+     "quote": "Both ezyVet and Cornerstone are IDEXX-backed veterinary practice management systems"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Mode|1",
+     "quote": "Both platforms are owned by IDEXX"
+    },
+    {
+     "record_id": "veterinary-practice-management|q7|Google AI Overviews|3",
+     "quote": "Both are powerful IDEXX products"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "ownership",
+   "claim": "Cornerstone is a Covetrus system.",
+   "class": "wrong",
+   "proof_url": "https://software.idexx.com/products/cornerstone",
+   "proof_quote": "Cornerstone Veterinary Software | IDEXX Practice Management Software | IDEXX Software",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "IDEXX's software site presents Cornerstone as IDEXX practice management software, which contradicts Covetrus ownership; the two cited pages read both attribute Cornerstone to IDEXX.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|1",
+     "quote": "AVImark or Cornerstone – Covetrus's own legacy/traditional systems."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "product_names",
+   "claim": "The product is named Cornerstone by IDEXX.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "IDEXX's pages call the product Cornerstone Software and IDEXX practice management software, but none uses the name Cornerstone by IDEXX.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "**Cornerstone by IDEXX**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "Cornerstone Practice Management (by IDEXX)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "platforms",
+   "claim": "Neo is cloud-based software.",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/products",
+   "proof_quote": "Brilliantly simple veterinary cloud software that’s easy to implement, learn, and use.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "IDEXX describes Neo as veterinary cloud software.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "giving veterinary clinics a choice between a powerful desktop system and a simpler, cloud-based workflow"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "IDEXX Neo is a cloud-based veterinary practice management software designed for simplicity and speed"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|2",
+     "quote": "IDEXX Neo is a cloud-based veterinary practice management software designed for ease of use and accessibility"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|3",
+     "quote": "IDEXX Neo fits small general practices (1–3 veterinarians) that want a no-fuss cloud system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|2",
+     "quote": "Neo is brilliantly simple, cloud-based, and completely ready to go out of the box."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Overviews|3",
+     "quote": "IDEXX Neo: A brilliantly simple, cloud-based system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|1",
+     "quote": "A smaller practice wanting a simpler cloud option while staying with IDEXX"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|2",
+     "quote": "Practices seeking a simpler cloud option within IDEXX"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|3",
+     "quote": "It’s cloud-based and supports IDEXX diagnostic integration."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "Smaller or growing practices that want to stay within the IDEXX ecosystem but move to the cloud."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|1",
+     "quote": "Neo is IDEXX’s streamlined, lightweight cloud PIMS"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|3",
+     "quote": "IDEXX Neo is IDEXX’s streamlined, lighter cloud software."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|2",
+     "quote": "IDEXX Neo: A streamlined cloud-native PIMS"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|3",
+     "quote": "Category: Cloud-based native PIMS"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|1",
+     "quote": "IDEXX-owned and described as a lighter cloud option."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|2",
+     "quote": "best for smaller practices that want a simpler cloud option while staying inside IDEXX."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|3",
+     "quote": "IDEXX-owned, simpler cloud option for clinics that want a lighter workflow."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|2",
+     "quote": "Practices wanting a more straightforward cloud system within IDEXX’s product range"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|3",
+     "quote": "A simpler cloud option with integrated diagnostics and everyday scheduling, records, and billing."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|3",
+     "quote": "IDEXX Neo — A great cloud option"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "It includes AI-powered features and is fully cloud-based."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|2",
+     "quote": "IDEXX Neo — A streamlined, cloud-based practice management system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|3",
+     "quote": "Neo provides a streamlined cloud alternative."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "platforms",
+   "claim": "Neo can be accessed from anywhere on any device, including a tablet.",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/products/neo",
+   "proof_quote": "Review practice information on any internet connected device, anywhere – from your smartphone, tablet, or desktop.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Neo page states access on any internet-connected device, anywhere, including tablets.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "DVMs can access patient records from home, from a satellite location, or from a tablet in the exam room without a VPN connection or remote desktop session"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "platforms",
+   "claim": "Neo runs in a web browser (web-based interface).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read describe Neo as cloud software reachable from any device but do not mention a browser or web interface.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "Neo runs in any browser"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|3",
+     "quote": "a streamlined web-based interface"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "platforms",
+   "claim": "Neo has no dedicated pet-parent (client) app.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages mention an integrated Neo Patient Portal and a pet owner mobile app within the add-on Vello subscription, but do not say whether Neo itself has a dedicated client app.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "Neo has limited advanced analytics and reporting, no dedicated pet parent app"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|2",
+     "quote": "no dedicated pet parent app"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "integrations",
+   "claim": "Neo integrates with IDEXX diagnostics (in-house analyzers and reference labs).",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/products/neo/features",
+   "proof_quote": "Integrated diagnostics ordering for IDEXX and ANTECH from anywhere in your practice with real-time results",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Neo features page lists integrated IDEXX diagnostics ordering with real-time results.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|1",
+     "quote": "it supports IDEXX and Antech diagnostic ordering and results."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "Neo integrates seamlessly with IDEXX diagnostics and the Vello client communication platform."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|1",
+     "quote": "Seamless IDEXX lab/diagnostic integration, clean, intuitive learning curve."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|3",
+     "quote": "seamless, native integration for lab work and IDEXX diagnostic machines"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|2",
+     "quote": "Offers integrated IDEXX and Antech ordering/results"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|3",
+     "quote": "Offers integrated IDEXX and Antech ordering/results"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "Neo is considered simpler than its ezyVet counterpart for smaller practices and provides easy integration with IDEXX's diagnostic systems."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|2",
+     "quote": "integrations with IDEXX's in-house analyzers and reference laboratories"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|3",
+     "quote": "Native connections to IDEXX lab and diagnostic equipment automate the process of ordering tests and receiving results directly into patient records"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|1",
+     "quote": "If you rely heavily on IDEXX diagnostics, the lab results flow straight into patient files seamlessly."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|2",
+     "quote": "Neo's frictionless two-way diagnostic integration is seamless"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|3",
+     "quote": "natively syncs smoothly with IDEXX lab equipment and reference labs"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Overviews|1",
+     "quote": "seamless, built-in integration with IDEXX diagnostic and laboratory equipment"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Overviews|3",
+     "quote": "a strong fit if your small clinic relies heavily on IDEXX in-house and reference lab integrations"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Perplexity|1",
+     "quote": "best if your practice already relies heavily on **IDEXX analyzers/labs** and you want native integration."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Perplexity|2",
+     "quote": "native IDEXX integration is a standout advantage"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Perplexity|3",
+     "quote": "**Best if you need IDEXX integration:** **IDEXX Neo**."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|3",
+     "quote": "It’s cloud-based and supports IDEXX diagnostic integration."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "provides easy integration with IDEXX's diagnostic systems"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|3",
+     "quote": "preserves a seamless connection to IDEXX lab equipment and result syncing"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|1",
+     "quote": "**Stay with IDEXX integration**: choose **ezyVet** for larger or more complex clinics, or **IDEXX Neo** for smaller clinics."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|2",
+     "quote": "If you want to **keep IDEXX diagnostics and lab workflows as seamless as possible**, start with **ezyVet** or **Neo**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|2",
+     "quote": "integrated IDEXX and Antech diagnostic ordering"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|3",
+     "quote": "**Practices seeking simplicity while retaining IDEXX integration**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "provides easy integration with IDEXX's diagnostic systems"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "provides easy integration with IDEXX's diagnostic systems."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "provides easy integration with IDEXX's diagnostic systems."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "simple, easy-to-learn cloud software with IDEXX diagnostics integration"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|2",
+     "quote": "tight, native integration with IDEXX diagnostic labs"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|3",
+     "quote": "If your workflow relies heavily on IDEXX analyzers and seamless diagnostic ordering/result syncing, Neo provides a streamlined cloud alternative."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "integrations",
+   "claim": "Neo integrates with Antech diagnostics (ordering and results).",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/products/neo/features",
+   "proof_quote": "Integrated diagnostics ordering for IDEXX and ANTECH from anywhere in your practice with real-time results",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Neo features page lists integrated diagnostics ordering for Antech with real-time results.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|1",
+     "quote": "it supports IDEXX and Antech diagnostic ordering and results."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|2",
+     "quote": "Offers integrated IDEXX and Antech ordering/results"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|3",
+     "quote": "Offers integrated IDEXX and Antech ordering/results"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|2",
+     "quote": "integrated IDEXX and Antech diagnostic ordering"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "integrations",
+   "claim": "Neo integrates with the Vello client communication platform.",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/products/neo/features",
+   "proof_quote": "Plus, add on Vello for additional, fully integrated client communications functionality.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Neo features page offers Vello as a fully integrated client communications add-on.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "Neo integrates seamlessly with IDEXX diagnostics and the Vello client communication platform."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "plans",
+   "claim": "Vello client engagement (and integrated payments) are optional add-on subscriptions for Neo.",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/products/neo",
+   "proof_quote": "Option to add-on subscriptions for integrated payments and Vello client engagement functionality, all managed and recorded within Neo.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Neo page offers integrated payments and Vello client engagement as add-on subscriptions.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|1",
+     "quote": "Compare included communication tools with the optional Vello subscription."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|3",
+     "quote": "determine whether the included communication tools suffice or you need the Vello add-on"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|1",
+     "quote": "Payments and Vello client engagement are available as add-ons."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "integrations",
+   "claim": "Neo integrates with Weave.",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/cornerstone-integrations",
+   "proof_quote": "Weave Telecommunications & Scheduling Cornerstone ezyVet Neo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists Weave as an integration for Neo.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "Weave integrates with 18+ veterinary PIMS including AVImark, Cornerstone, ezyVet, Neo, Shepherd, and ImproMed."
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "plans",
+   "claim": "Neo's base subscription includes three users; additional staff users cost extra.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Neo pages read (including the page titled as the Neo price page) state no user allowance or per-user charge.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|2",
+     "quote": "Its base subscription includes **three users, not three doctors**; additional staff users cost extra."
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "pricing",
+   "claim": "Neo costs about $260 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states a Neo price.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "| **IDEXX Neo** | Simplicity + IDEXX labs | ~$260/user/month |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "pricing",
+   "claim": "Neo costs about $249+ per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states a Neo price.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|3",
+     "quote": "| **IDEXX Neo** | IDEXX-committed practices | ~$249+/mo |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "pricing",
+   "claim": "Neo pricing is not published; it is quote-based (contact IDEXX).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Neo pages read show no price and do not state how Neo is priced or quoted.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "| **IDEXX Neo** | IDEXX ecosystem users | Quote-based |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|2",
+     "quote": "IDEXX doesn't publicly publish Neo pricing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "ownership",
+   "claim": "Neo is an IDEXX product (owned by IDEXX).",
+   "class": "true",
+   "proof_url": "https://software.idexx.com/top-veterinary-software-solutions-a-2025-comparison-guide",
+   "proof_quote": "You’ll see familiar names, including our own: ezyVet and Neo.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "IDEXX's own comparison guide calls Neo one of its own products.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "IDEXX offers both Cornerstone and Neo"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|1",
+     "quote": "A smaller practice wanting a simpler cloud option while staying with IDEXX"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|2",
+     "quote": "ezyVet and Neo are also IDEXX products."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|3",
+     "quote": "Both ezyVet and Neo are IDEXX offerings."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|1",
+     "quote": "Neo is IDEXX’s streamlined, lightweight cloud PIMS"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|3",
+     "quote": "IDEXX Neo is IDEXX’s streamlined, lighter cloud software."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|3",
+     "quote": "Built by IDEXX"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|1",
+     "quote": "IDEXX-owned and described as a lighter cloud option."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|2",
+     "quote": "because both are IDEXX-owned"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|3",
+     "quote": "IDEXX-owned, simpler cloud option for clinics that want a lighter workflow."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|1",
+     "quote": "General practices wanting a simpler option while staying with IDEXX"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|2",
+     "quote": "Practices wanting a more straightforward cloud system within IDEXX’s product range"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|3",
+     "quote": "Both are IDEXX products, so this isn’t a change of vendor ecosystem."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|3",
+     "quote": "(since IDEXX owns both)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "even IDEXX is moving customers toward cloud solutions (ezyVet and Neo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "product_names",
+   "claim": "IDEXX offers a practice management product named Animana (IDEXX Animana).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The US product-family pages read list ezyVet, Neo and Cornerstone and do not mention Animana.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "IDEXX Animana is a cloud-based Practice Management System providing secure access to clinic data"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "platforms",
+   "claim": "IDEXX Animana is cloud-based.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions Animana.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "IDEXX Animana is a cloud-based Practice Management System providing secure access to clinic data"
+    }
+   ]
+  }
+ ],
+ "notes": "Product-family vendor read on software.idexx.com as instructed: home, products comparison, Cornerstone product page, Neo product page, Neo features page (titled as the Neo price page but showing no prices), Cornerstone integrations directory (per-integration product tags for Cornerstone, ezyVet and Neo), and IDEXX's own 2025 comparison guide (cited 9 times; dated 'as of April 2025'). The cited 2026 comparison guide answered HTTP 404 (page not found, not a block) and is recorded as read. No price for Cornerstone or Neo appears on any page read, so every Cornerstone and Neo price, price basis, user allowance and 'not published / quote only' claim is unverifiable. C01 groups 'server-based', 'on-premise' and 'runs on a local server' as one claim and classes it true against IDEXX's 'server-based' wording (judgement call); 'desktop' and 'Windows' were kept separate and are unverifiable, as is the claim of hosted, cloud or hybrid Cornerstone options (C02): IDEXX describes Cornerstone only as server-based and lists a managed cloud backup service, which neither states nor rules out hosting. C16 (Cornerstone called a Covetrus system) is wrong; of its four cited pages, lupapets.com and waitwellsoftware.com were read and both attribute Cornerstone to IDEXX; Capterra and G2 were not read, so cause not found. Named IDEXX analyzers (Catalyst, ProCyte, Coag Dx) were treated as examples within the IDEXX in-house diagnostics integration claim (C05), not as separate claims. Statements that IDEXX owns ezyVet were coded under the ezyVet vendor, not here. Animana (C32, C33) is IDEXX software outside the US pages read. Hedged lines ('Neo pricing is similar') and opinions, ratings, setup-time estimates and sync-speed comparisons were not coded. Pass 2 (8 Oct 2026): the manifest has no browser reads for this vendor and no claim was unverifiable because an own page was blocked or thin (the 2026 guide is a 404, not a block), so nothing was re-classed; re-checking all own snapshots settles none of the unverifiable claims (no Windows, desktop, browser, VetPort, Animana or price text). Gap and table review (including lines that name only 'Neo', which the vendor aliases do not match) added six instances: C03 q4 Google AI Mode 3 (AVImark 'still heavily desktop/on-premise oriented like Cornerstone'); C15 q4 Google AI Overviews 1 and 2 ('Also owned by IDEXX' said of ezyVet in an answer about Cornerstone alternatives, read as stating that Cornerstone is IDEXX's: judgement call); C31 q4 ChatGPT 1 and q5 ChatGPT 1 (Neo for practices 'staying with IDEXX') and q6 Claude 1 ('IDEXX is moving customers toward cloud solutions (ezyVet and Neo)'). Lines that place Neo only 'in the IDEXX ecosystem' were not coded as ownership. 'Secure remote access is available' for Cornerstone was treated as a capability, not a platforms claim. Consistency check: C16 kept wrong; the product's own page names Cornerstone IDEXX practice management software, a direct contradiction of Covetrus ownership on the same fact.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "veterinary-practice-management|q1|ChatGPT|1",
+  "veterinary-practice-management|q1|Claude|1",
+  "veterinary-practice-management|q1|Claude|3",
+  "veterinary-practice-management|q1|Google AI Overviews|1",
+  "veterinary-practice-management|q1|Google AI Overviews|3",
+  "veterinary-practice-management|q10|Claude|1",
+  "veterinary-practice-management|q10|Claude|2",
+  "veterinary-practice-management|q10|Claude|3",
+  "veterinary-practice-management|q10|Google AI Mode|3",
+  "veterinary-practice-management|q2|ChatGPT|2",
+  "veterinary-practice-management|q2|ChatGPT|3",
+  "veterinary-practice-management|q2|Claude|1",
+  "veterinary-practice-management|q2|Claude|2",
+  "veterinary-practice-management|q2|Claude|3",
+  "veterinary-practice-management|q2|Google AI Mode|1",
+  "veterinary-practice-management|q2|Google AI Mode|2",
+  "veterinary-practice-management|q2|Google AI Mode|3",
+  "veterinary-practice-management|q2|Google AI Overviews|1",
+  "veterinary-practice-management|q2|Google AI Overviews|3",
+  "veterinary-practice-management|q2|Perplexity|1",
+  "veterinary-practice-management|q2|Perplexity|2",
+  "veterinary-practice-management|q2|Perplexity|3",
+  "veterinary-practice-management|q3|ChatGPT|1",
+  "veterinary-practice-management|q3|Claude|1",
+  "veterinary-practice-management|q3|Claude|2",
+  "veterinary-practice-management|q3|Claude|3",
+  "veterinary-practice-management|q3|Google AI Mode|1",
+  "veterinary-practice-management|q3|Google AI Mode|2",
+  "veterinary-practice-management|q3|Google AI Mode|3",
+  "veterinary-practice-management|q3|Google AI Overviews|2",
+  "veterinary-practice-management|q3|Perplexity|1",
+  "veterinary-practice-management|q3|Perplexity|2",
+  "veterinary-practice-management|q3|Perplexity|3",
+  "veterinary-practice-management|q4|ChatGPT|1",
+  "veterinary-practice-management|q4|ChatGPT|2",
+  "veterinary-practice-management|q4|ChatGPT|3",
+  "veterinary-practice-management|q4|Claude|1",
+  "veterinary-practice-management|q4|Claude|2",
+  "veterinary-practice-management|q4|Claude|3",
+  "veterinary-practice-management|q4|Google AI Mode|1",
+  "veterinary-practice-management|q4|Google AI Mode|2",
+  "veterinary-practice-management|q4|Google AI Mode|3",
+  "veterinary-practice-management|q4|Google AI Overviews|1",
+  "veterinary-practice-management|q4|Google AI Overviews|2",
+  "veterinary-practice-management|q4|Google AI Overviews|3",
+  "veterinary-practice-management|q4|Perplexity|1",
+  "veterinary-practice-management|q4|Perplexity|2",
+  "veterinary-practice-management|q4|Perplexity|3",
+  "veterinary-practice-management|q5|ChatGPT|1",
+  "veterinary-practice-management|q5|ChatGPT|2",
+  "veterinary-practice-management|q5|ChatGPT|3",
+  "veterinary-practice-management|q5|Claude|1",
+  "veterinary-practice-management|q5|Claude|2",
+  "veterinary-practice-management|q5|Claude|3",
+  "veterinary-practice-management|q5|Google AI Mode|1",
+  "veterinary-practice-management|q5|Google AI Mode|2",
+  "veterinary-practice-management|q5|Google AI Mode|3",
+  "veterinary-practice-management|q5|Google AI Overviews|1",
+  "veterinary-practice-management|q5|Google AI Overviews|2",
+  "veterinary-practice-management|q5|Perplexity|1",
+  "veterinary-practice-management|q5|Perplexity|2",
+  "veterinary-practice-management|q5|Perplexity|3",
+  "veterinary-practice-management|q6|Claude|1",
+  "veterinary-practice-management|q6|Claude|2",
+  "veterinary-practice-management|q6|Claude|3",
+  "veterinary-practice-management|q6|Google AI Mode|1",
+  "veterinary-practice-management|q6|Google AI Mode|2",
+  "veterinary-practice-management|q6|Google AI Mode|3",
+  "veterinary-practice-management|q6|Perplexity|1",
+  "veterinary-practice-management|q6|Perplexity|2",
+  "veterinary-practice-management|q6|Perplexity|3",
+  "veterinary-practice-management|q7|ChatGPT|1",
+  "veterinary-practice-management|q7|ChatGPT|2",
+  "veterinary-practice-management|q7|ChatGPT|3",
+  "veterinary-practice-management|q7|Claude|1",
+  "veterinary-practice-management|q7|Claude|2",
+  "veterinary-practice-management|q7|Claude|3",
+  "veterinary-practice-management|q7|Google AI Mode|1",
+  "veterinary-practice-management|q7|Google AI Mode|2",
+  "veterinary-practice-management|q7|Google AI Mode|3",
+  "veterinary-practice-management|q7|Google AI Overviews|1",
+  "veterinary-practice-management|q7|Google AI Overviews|2",
+  "veterinary-practice-management|q7|Google AI Overviews|3",
+  "veterinary-practice-management|q7|Perplexity|1",
+  "veterinary-practice-management|q7|Perplexity|2",
+  "veterinary-practice-management|q7|Perplexity|3",
+  "veterinary-practice-management|q8|Claude|3",
+  "veterinary-practice-management|q8|Google AI Mode|1",
+  "veterinary-practice-management|q8|Google AI Mode|2",
+  "veterinary-practice-management|q8|Google AI Mode|3"
+ ],
+ "named_count": 90
+}

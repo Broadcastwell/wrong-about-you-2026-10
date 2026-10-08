@@ -1,0 +1,1106 @@
+{
+ "vendor": "CDK Global",
+ "slug": "cdk-global",
+ "category": "dealership-management-systems",
+ "coded_at": "2026-10-08T04:12:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.cdkglobal.com/",
+   "key": "4b37de0cbec46474",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.cdkglobal.com/about",
+   "key": "1f016a4ae4f9e741",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.cdkglobal.com/dms",
+   "key": "7b366803d6fca086",
+   "used_for": "product (DMS)"
+  },
+  {
+   "url": "https://www.cdkglobal.com/isv-offerings",
+   "key": "42189f976171208e",
+   "used_for": "integrations (Fortellis)"
+  },
+  {
+   "url": "https://www.cdkglobal.com/insights/unlocking-efficiency-common-questions-about-cdk-fundamentals-suite",
+   "key": "3cc394c2973b8f71",
+   "used_for": "product (Fundamentals Suite FAQ, cited by answers)"
+  },
+  {
+   "url": "https://www.cdkglobal.com/automotive-crm",
+   "key": "a8ecf5c356cdf039",
+   "used_for": "product (CRM)"
+  },
+  {
+   "url": "https://www.cdkglobal.com/media-center",
+   "key": "f4f936efe3df2e58",
+   "used_for": "press"
+  },
+  {
+   "url": "https://www.cdkglobal.com/insights/dealer-management-systems-guide",
+   "key": "4d5703e4792862c7",
+   "used_for": "product (DMS guide: pricing and hosting)"
+  }
+ ],
+ "needs_browser_read": [],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "CDK pricing is custom and quote-based (negotiated enterprise pricing, no published rates).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read publish no prices and offer demo requests, but none states that pricing is quoted or negotiated; the DMS guide speaks of DMS pricing in general, not of CDK's own pricing basis.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "| **CDK Global** | Legacy/Hybrid | Largest groups, max integrations | Very High (570+ partners) | Negotiated |"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "| **CDK Drive** | Large franchise groups | Enterprise pricing |"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "| **CDK Drive** | Large franchise groups | Enterprise (quote-based) |"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Both platforms use custom, opaque pricing — no public rate cards."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Both platforms use custom, quote-based pricing — neither publishes rates publicly."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "Neither platform publishes pricing, but here's what's known:"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Large multi-store operations on CDK enterprise have paid about $50,000 to $60,000 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read publishes CDK prices or a monthly cost for any configuration.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Tekion has helped some large operations reduce DMS costs from $50,000–60,000 per month (CDK enterprise) to the low $30,000s."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "Tekion has helped some large operations reduce DMS costs from $50,000–60,000 per month (CDK enterprise) to the low $30,000s."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "One multi-store group switching from CDK reported total costs dropping from $50,000–$60,000/month to the low $30,000s."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "CDK costs more than $2,000 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read publishes CDK prices.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|1",
+     "quote": "we aren't trying to spend $2K+ every month for Reynolds, CDK or vAuto."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "CDK is sold on long, multi-year contracts.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states CDK's contract length or terms.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|1",
+     "quote": "built with long multi-thousand-dollar monthly contracts that do not fit a small team."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|1",
+     "quote": "They are expensive, heavily complex, and come with long contracts."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|2",
+     "quote": "The Catch: Highly restrictive ecosystem, rigid multi-year contracts, and premium pricing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "product_names",
+   "claim": "CDK Drive is CDK Global's DMS product.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the eight pages read uses the name CDK Drive (the DMS page calls the product Dealer Management System within the Dealership Xperience Platform), and no page documents a rename, so the name is neither confirmed nor contradicted.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "CDK Drive remains the dominant choice for large franchise groups that need the deepest OEM integration network and the largest third-party marketplace."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "CDK Drive remains the dominant choice for large franchise groups that need the deepest OEM integration network and the largest third-party marketplace."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "CDK Global (Drive)"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|1",
+     "quote": "CDK Global (Drive / Enterprise) - Best for Deep OEM Integration & Robust Scale"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|2",
+     "quote": "CDK Global (CDK Drive)"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|3",
+     "quote": "3. CDK Global (Drive / Enterprise)"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|1",
+     "quote": "CDK Global (Drive) | Best for Deep Legacy Enterprise Scale"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|2",
+     "quote": "2. CDK Global (Drive / Dealership Xperience)"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "CDK Drive serves a significant portion of North American dealerships with its comprehensive enterprise platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "CDK Drive remains the dominant choice for large franchise groups that need the deepest OEM integration network and the largest third-party marketplace."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "CDK Global's CDK Drive serves a significant portion of North American dealerships with its comprehensive enterprise platform."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|3",
+     "quote": "CDK Global (Drive / Elead)"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "Unlike CDK Drive, Tekion ARC was built cloud-native from day one."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|1",
+     "quote": "Feature / Metric | Tekion (ARC) | CDK Global (Drive)"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|2",
+     "quote": "Feature / Metric | Tekion (automotive Cloud) | CDK Global (CDK Drive)"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|3",
+     "quote": "Feature / Metric | Tekion (Automotive Cloud) | CDK Global (CDK Drive)"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|1",
+     "quote": "Ideal if you are satisfied with your current CDK Drive/DXP setup"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "product_names",
+   "claim": "CDK's platform is named the Dealership Xperience Platform (DXP).",
+   "class": "true",
+   "proof_url": "https://www.cdkglobal.com/about",
+   "proof_quote": "The CDK Dealership Xperience Platform incorporates AI across a fully integrated set of suites to help you elevate the consumer experience and run your dealership.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page names the CDK Dealership Xperience Platform as CDK's platform of integrated suites.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|ChatGPT|2",
+     "quote": "**CDK — Foundations / Dealership Xperience**"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "CDK bundles its Dealership Xperience Platform (DXP) across core DMS, CRM (ELEAD), and digital retailing."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|2",
+     "quote": "2. CDK Global (Drive / Dealership Xperience)"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|3",
+     "quote": "2. CDK Global (Dealership Xperience)"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|2",
+     "quote": "Offers integrated dealership operations through its DMS and Dealership Xperience suites"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|1",
+     "quote": "Provides a full DMS within its wider Dealership Xperience offering."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|2",
+     "quote": "**CDK — Dealership Xperience / Foundations Suite**"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|3",
+     "quote": "Offers integrated dealership operations through its Dealership Xperience platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|3",
+     "quote": "Dealership Xperience combines core DMS functionality with retail, fixed-ops, and intelligence suites."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|1",
+     "quote": "Ideal if you are satisfied with your current CDK Drive/DXP setup"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|3",
+     "quote": "CDK Global (Dealership Xperience Platform - DXP)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "product_names",
+   "claim": "CDK sells a Foundations Suite.",
+   "class": "true",
+   "proof_url": "https://www.cdkglobal.com/dms",
+   "proof_quote": "Foundations Suite At the core of the CDK Dealership Xperience platform is this complete solution set made to strengthen every department from the ground up.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page names the Foundations Suite as the core of the CDK Dealership Xperience platform.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|ChatGPT|2",
+     "quote": "CDK positions Foundations—not its smaller-store Fundamentals suite—for enterprise scalability."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|2",
+     "quote": "**CDK — Dealership Xperience / Foundations Suite**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "product_names",
+   "claim": "CDK sells a Fundamentals Suite.",
+   "class": "true",
+   "proof_url": "https://www.cdkglobal.com/dms",
+   "proof_quote": "Tailored to suit the needs of one-to-two-site franchise dealers and independent auto dealers, the CDK Fundamentals Suite is a proven and scalable core business system",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page names the CDK Fundamentals Suite.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|ChatGPT|2",
+     "quote": "CDK positions Foundations—not its smaller-store Fundamentals suite—for enterprise scalability."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|3",
+     "quote": "including a Fundamentals suite aimed at one- and two-location franchises and independents"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Overviews|1",
+     "quote": "Auto/Mate (CDK Fundamentals)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "plans",
+   "claim": "The Fundamentals Suite is aimed at smaller stores: one- and two-location franchise dealers and independents.",
+   "class": "true",
+   "proof_url": "https://www.cdkglobal.com/dms",
+   "proof_quote": "Tailored to suit the needs of one-to-two-site franchise dealers and independent auto dealers, the CDK Fundamentals Suite is a proven and scalable core business system",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page states the Fundamentals Suite is tailored to one-to-two-site franchise dealers and independent dealers.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|3",
+     "quote": "including a Fundamentals suite aimed at one- and two-location franchises and independents"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|ChatGPT|2",
+     "quote": "CDK positions Foundations—not its smaller-store Fundamentals suite—for enterprise scalability."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "plans",
+   "claim": "CDK positions the Foundations Suite, not the Fundamentals Suite, for enterprise scalability.",
+   "class": "true",
+   "proof_url": "https://www.cdkglobal.com/insights/unlocking-efficiency-common-questions-about-cdk-fundamentals-suite",
+   "proof_quote": "In short, the Fundamentals Suite is about efficiency and ease of use, while the Foundations Suite is about depth and enterprise scalability.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "CDK's own Fundamentals Suite FAQ assigns enterprise scalability to the Foundations Suite and efficiency to the Fundamentals Suite.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|ChatGPT|2",
+     "quote": "CDK positions Foundations—not its smaller-store Fundamentals suite—for enterprise scalability."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "product_names",
+   "claim": "Fortellis is CDK's API platform and marketplace.",
+   "class": "true",
+   "proof_url": "https://www.cdkglobal.com/isv-offerings",
+   "proof_quote": "With Fortellis, dealerships have the power to build apps, innovate and integrate with APIs and workflows. Our platform connects OEMs and dealers with software developers through the Developer Network and Marketplace.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The ISV page presents Fortellis as CDK's platform for APIs with a Developer Network and Marketplace; the fuller name Fortellis Automotive Commerce Exchange in one answer is not on the pages but does not change the naming fact.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "CDK has 570+ integration partners and the Fortellis marketplace, and contracts with 5 of the 6 largest public dealer groups."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "CDK has **570+ integration partners** and the Fortellis marketplace, with contracts across 5 of the 6 largest public dealer groups."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "CDK runs the Fortellis open API marketplace and carries the broader third-party integration ecosystem."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|2",
+     "quote": "an enormous partner ecosystem via the Fortellis Automotive Commerce Exchange"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|1",
+     "quote": "featuring an open API marketplace (Fortellis)"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "CDK runs the Fortellis open API marketplace and carries the broader third-party integration ecosystem."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|1",
+     "quote": "CDK offers integrations through Fortellis"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|2",
+     "quote": "CDK offers Fortellis APIs and managed data services"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|3",
+     "quote": "Fortellis provides APIs, a developer network, and a marketplace."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "with 570+ integration partners and the Fortellis marketplace."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "CDK has 570+ integration partners and the Fortellis marketplace, and contracts with 5 of the 6 largest public dealer groups."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "CDK has 570+ integration partners and the Fortellis marketplace, with contracts with 5 of the 6 largest public dealer groups."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|1",
+     "quote": "a vast third-party vendor marketplace via CDK Fortellis"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "product_names",
+   "claim": "CDK Connect is CDK's API (integration) program.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read use CDK CONNECT only as the name of a customer conference and describe CDK's integration offer as APIs, managed data services and Fortellis; none names or denies a CDK Connect API program.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "its CDK Connect API program represents a genuine step forward"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "its CDK Connect API program represents a genuine step forward"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "its CDK Connect API program represents a genuine step forward"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|2",
+     "quote": "third-party integrations via CDK Connect"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "product_names",
+   "claim": "CDK's CRM is ELEAD (Elead).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The CRM page snapshot calls the product CDK CRM and shows only the FAQ question 'Is Elead the same as CDK CRM?' without its answer, so the snapshot does not settle the naming. Pass 2: no browser read of the CRM page exists and no other snapshot names Elead, so it stays unverifiable.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "CDK bundles its Dealership Xperience Platform (DXP) across core DMS, CRM (ELEAD), and digital retailing."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|3",
+     "quote": "CDK Global (Drive / Elead)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "product_names",
+   "claim": "CDK Drive Insights is a CDK product included in CDK Drive.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names CDK Drive Insights.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "CDK Drive includes CDK Drive Insights"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "product_names",
+   "claim": "Auto/Mate is a CDK product (one answer equates it with CDK Fundamentals).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions Auto/Mate; the Fundamentals FAQ describes the suite as built on the CDK Dealership Xperience Platform but neither links nor denies a link to Auto/Mate.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Overviews|1",
+     "quote": "Auto/Mate (CDK Fundamentals)"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|1",
+     "quote": "Auto/Mate (by CDK)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "ownership",
+   "claim": "CDK Global is owned by private equity firm Brookfield Business Partners.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names CDK's owner; the media center's first page lists news from August 2025 onward only.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "PE-owned since Brookfield Business Partners took it private in 2022"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "ownership",
+   "claim": "CDK Global is a private company.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states whether CDK is public or private.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "PE-owned since Brookfield Business Partners took it private in 2022"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "acquisitions",
+   "claim": "Brookfield Business Partners acquired CDK Global and took it private in 2022.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions an acquisition of CDK or its date.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "PE-owned since Brookfield Business Partners took it private in 2022"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "acquisitions",
+   "claim": "CDK was built through more than 50 acquisitions.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states how many companies CDK has acquired.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "CDK was built through 50+ acquisitions"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "acquisitions",
+   "claim": "CDK's platform includes acquired modules (assembled through acquisitions).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions CDK acquisitions.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "layered with cloud wrappers and acquired modules that do not always share a unified data model"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "layered with cloud wrappers and acquired modules that don't always share a unified data model"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "layered with cloud wrappers and acquired modules that do not always share a unified data model"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|2",
+     "quote": "A legacy giant assembled through decades of acquisitions and bolted-on modules"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "founding",
+   "claim": "CDK Global was founded in 1972.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages give no founding year; the about page says 'For over 50 years', which is consistent with 1972 but does not settle the year.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q5|Claude|1",
+     "quote": "CDK Global was founded in 1972 in Hoffman Estates, Illinois"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "founding",
+   "claim": "CDK Global was founded in Hoffman Estates, Illinois.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states where CDK was founded or where it is headquartered.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q5|Claude|1",
+     "quote": "CDK Global was founded in 1972 in Hoffman Estates, Illinois"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "integrations",
+   "claim": "CDK has more than 570 integration partners.",
+   "class": "true",
+   "proof_url": "https://www.cdkglobal.com/",
+   "proof_quote": "1,000 + integrated partners in our open, dealer-ready ecosystem",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states 1,000+ integrated partners, so 570+ is true as written under the lower-bound rule.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "CDK has 570+ integration partners and the Fortellis marketplace, and contracts with 5 of the 6 largest public dealer groups."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "CDK has **570+ integration partners** and the Fortellis marketplace, with contracts across 5 of the 6 largest public dealer groups."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "with 570+ integration partners and the Fortellis marketplace."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "CDK has 570+ integration partners and the Fortellis marketplace, and contracts with 5 of the 6 largest public dealer groups."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "| Integration marketplace | Growing (52 OEMs) | Largest (570+ partners) |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "customer_counts",
+   "claim": "CDK has contracts with 5 of the 6 largest public dealer groups.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names or counts CDK's public dealer group customers.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "CDK has 570+ integration partners and the Fortellis marketplace, and contracts with 5 of the 6 largest public dealer groups."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "CDK has **570+ integration partners** and the Fortellis marketplace, with contracts across 5 of the 6 largest public dealer groups."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "CDK has 570+ integration partners and the Fortellis marketplace and contracts with 5 of the 6 largest public dealer groups."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "CDK has 570+ integration partners and the Fortellis marketplace, and contracts with 5 of the 6 largest public dealer groups."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "CDK has 570+ integration partners and the Fortellis marketplace, with contracts with 5 of the 6 largest public dealer groups."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "customer_counts",
+   "claim": "About 15,000 dealerships (rooftops) use CDK.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page counts 9,000+ CDK customers in the automotive and heavy truck markets, a different unit from rooftops or dealership locations, so the rooftop count is neither confirmed nor contradicted.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "For roughly 15,000 rooftops, CDK is infrastructure"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Perplexity|2",
+     "quote": "with reports of about **15,000+ dealerships/locations** using it."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "customer_counts",
+   "claim": "CDK's June 2024 cyberattack took about 15,000 dealerships offline.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions the June 2024 incident or how many dealerships it affected.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "they suffered the June 2024 ransomware attack that took 15,000 dealers offline for weeks."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "suffered the June 2024 ransomware attack that took 15,000 dealers offline for weeks."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "When CDK's June 2024 ransomware attack took 15,000 dealerships offline for weeks, Tekion stores kept running."
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "When CDK's June 2024 ransomware attack took 15,000 dealerships offline for weeks"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "When CDK's June 2024 ransomware attack took 15,000 dealerships offline for weeks"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "When CDK's June 2024 ransomware attack took 15,000 dealerships offline for weeks, Tekion stores kept running."
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "customer_counts",
+   "claim": "CDK's June 2024 cyberattack took thousands of dealerships offline.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions the June 2024 incident or how many dealerships it affected.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|2",
+     "quote": "Suffered a major June 2024 ransomware attack that took thousands of dealerships offline for weeks"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|3",
+     "quote": "The June 2024 cyberattack knocked out thousands of rooftops for nearly two weeks"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "platforms",
+   "claim": "CDK's DMS is a hybrid of legacy (on-premise) infrastructure and cloud.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read describes how CDK's DMS is deployed or hosted (cloud, hybrid or on-premise).",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "| **CDK Global** | Legacy/Hybrid | Largest groups, max integrations | Very High (570+ partners) | Negotiated |"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "| **CDK Global** | 10+ rooftop franchise groups | Legacy + cloud hybrid | Very broad (Fortellis) | Expensive, restricted |"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|3",
+     "quote": "CDK Global | Hybrid/Cloud | Deep multi-store accounting, easy hiring"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|1",
+     "quote": "CDK Global | Hybrid / Enterprise | Multi-store operations | Scale and broad ecosystem"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|3",
+     "quote": "CDK Global | Deep enterprise feature set and wide industry footprint | Hybrid / On-Premise & Cloud"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|1",
+     "quote": "layered with cloud wrappers and acquired modules that do not always share a unified data model"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|2",
+     "quote": "The CDK core DMS is a legacy system with roots in the 1970s and 1980s, layered with cloud wrappers"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Claude|3",
+     "quote": "| Architecture | Cloud-native, modern | Legacy with cloud wrappers |"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|1",
+     "quote": "Architecture | Cloud-native, single database layer | Hybrid/Legacy enterprise infrastructure"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|2",
+     "quote": "Architecture | Cloud-native, modern multi-tenant platform | Legacy/Hybrid, traditional enterprise infrastructure"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Mode|3",
+     "quote": "Architecture | Modern, multi-tenant cloud-native | Legacy-hybrid / traditional enterprise"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|2",
+     "quote": "with a heavier on-premise/hybrid footprint"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "platforms",
+   "claim": "CDK's DMS runs on-premise (client/server).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read describes an on-premise or client/server deployment of CDK's DMS.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|3",
+     "quote": "CDK Global | Deep enterprise feature set and wide industry footprint | Hybrid / On-Premise & Cloud"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|Google AI Overviews|2",
+     "quote": "with a heavier on-premise/hybrid footprint"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|2",
+     "quote": "Tech Architecture | Cloud-Native / Modern UI | Legacy Client/Server"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "platforms",
+   "claim": "CDK's DMS is available in the cloud.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states that CDK's DMS is cloud hosted; the only cloud-based product named in the pages read is SimplePay.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|3",
+     "quote": "CDK Global | Deep enterprise feature set and wide industry footprint | Hybrid / On-Premise & Cloud"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|3",
+     "quote": "CDK Global | Hybrid/Cloud | Deep multi-store accounting, easy hiring"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "plans",
+   "claim": "CDK packages its platform as a set of suites for different operating needs (a core suite plus additional suites).",
+   "class": "true",
+   "proof_url": "https://www.cdkglobal.com/dms",
+   "proof_quote": "Foundations Suite Strengthen workflows in every department with one complete solution Fundamentals Suite Empower one-to-two-site dealers with a proven and scalable core system Modern Retail Suite Surpass consumer expectations by making the buying journey easier",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Added in pass 2 from table cells and gap lines: the DMS page lists separate suites for different needs (Foundations, Fundamentals, Modern Retail, Fixed Operations, Vehicle Inventory, Intelligence), and the about page calls the Dealership Xperience Platform a fully integrated set of suites.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|1",
+     "quote": "Offers an integrated DMS and broader dealership platform, with different suites for different operating needs."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|2",
+     "quote": "Offers integrated dealership operations through its DMS and Dealership Xperience suites"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|3",
+     "quote": "Its platform covers dealership operations, with different suites for different operational needs."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|1",
+     "quote": "covering front office, back office, and service departments across scalable suites"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|2",
+     "quote": "CDK offers different suites"
+    },
+    {
+     "record_id": "dealership-management-systems|q7|ChatGPT|3",
+     "quote": "Functionality is packaged across core and additional suites."
+    }
+   ]
+  }
+ ],
+ "notes": "Eight own pages read, all HTTP 200 and not thin; no page was blocked, so needs_browser_read is empty. None of the pages states CDK's founding year, headquarters, owner, acquisitions, prices, contract terms or hosting model, so those claims are unverifiable. No claim is wrong or stale, so no cited page was read for causes. For the reviewer only: the raw HTML of the CRM page (key a8ecf5c356cdf039) holds the answer to its FAQ 'Is Elead the same as CDK CRM?' ('Yes. Elead has been part of CDK for years and today is known as CDK CRM'), loaded client side and absent from the snapshot text, so it was not used; read in a browser it would bear on C13 (the CRM is named CDK CRM today, with no dated rename). The about page counts 9,000+ customers, a different unit from the 15,000 rooftops in C25. CDK CONNECT appears on the pages only as an event name. Hedged lines were not coded (for example 'the cited ranges suggest CDK is often around $5k to $15k+ per month per rooftop', 'They often lock you into long, expensive multi-year contracts', 'usually too expensive, require multi-year contracts', 'Historically known for rigid, long-term contracts'). Out of scope and not coded: market share ('largest DMS provider', '15% global market share', 'roughly half of North American dealerships'), G2 scores, the 1970s/1980s roots of the core DMS (a product origin date), lawsuits and settlements, and statements comparing Tekion's price with CDK's. Joint statements about 'CDK or Reynolds' (contracts, monthly cost) were coded as statements about CDK. The cyberattack counts (C26, C27) are coded as customer_counts because they state how many CDK dealerships were affected; a reviewer may prefer to treat them as incident statements outside the 13 types. Pass 2 (8 Oct 2026): no browser snapshot exists for CDK, and none of the eight snapshots settles C13 (Elead) or any other unverifiable claim, so nothing was re-classed; the CRM page is still the one browser read that would bear on C13. Added C31 (CDK sells its platform as suites for different needs, six instances) from comparison-table cells, including the Tekion-versus-CDK table in q7|ChatGPT|3 where CDK is a column header; a reviewer may judge suite packaging a product description rather than a plans fact. The other gap and table lines are features, market position, OEM depth, lawsuits, hedged cost ranges, or repeat claims the same answers already carry (CDK Drive, Fortellis, multi-year contracts, hybrid architecture). No wrong or stale claims, so the consistency check changed nothing.",
+ "answer_record_ids": [
+  "dealership-management-systems|q1|Claude|2",
+  "dealership-management-systems|q1|Claude|3",
+  "dealership-management-systems|q1|Google AI Mode|1",
+  "dealership-management-systems|q1|Google AI Overviews|1",
+  "dealership-management-systems|q1|Google AI Overviews|2",
+  "dealership-management-systems|q10|ChatGPT|1",
+  "dealership-management-systems|q10|ChatGPT|2",
+  "dealership-management-systems|q10|ChatGPT|3",
+  "dealership-management-systems|q10|Claude|1",
+  "dealership-management-systems|q10|Claude|2",
+  "dealership-management-systems|q10|Claude|3",
+  "dealership-management-systems|q10|Google AI Mode|1",
+  "dealership-management-systems|q10|Google AI Mode|2",
+  "dealership-management-systems|q10|Google AI Mode|3",
+  "dealership-management-systems|q10|Google AI Overviews|1",
+  "dealership-management-systems|q10|Google AI Overviews|2",
+  "dealership-management-systems|q10|Google AI Overviews|3",
+  "dealership-management-systems|q10|Perplexity|1",
+  "dealership-management-systems|q10|Perplexity|2",
+  "dealership-management-systems|q10|Perplexity|3",
+  "dealership-management-systems|q2|Claude|3",
+  "dealership-management-systems|q2|Google AI Mode|1",
+  "dealership-management-systems|q2|Google AI Mode|2",
+  "dealership-management-systems|q2|Google AI Mode|3",
+  "dealership-management-systems|q2|Google AI Overviews|1",
+  "dealership-management-systems|q2|Google AI Overviews|2",
+  "dealership-management-systems|q2|Google AI Overviews|3",
+  "dealership-management-systems|q3|Claude|1",
+  "dealership-management-systems|q3|Google AI Mode|2",
+  "dealership-management-systems|q4|ChatGPT|1",
+  "dealership-management-systems|q4|ChatGPT|2",
+  "dealership-management-systems|q4|ChatGPT|3",
+  "dealership-management-systems|q4|Claude|1",
+  "dealership-management-systems|q4|Claude|2",
+  "dealership-management-systems|q4|Claude|3",
+  "dealership-management-systems|q4|Google AI Mode|1",
+  "dealership-management-systems|q4|Google AI Mode|2",
+  "dealership-management-systems|q4|Google AI Mode|3",
+  "dealership-management-systems|q4|Google AI Overviews|1",
+  "dealership-management-systems|q4|Google AI Overviews|2",
+  "dealership-management-systems|q4|Google AI Overviews|3",
+  "dealership-management-systems|q4|Perplexity|1",
+  "dealership-management-systems|q4|Perplexity|2",
+  "dealership-management-systems|q4|Perplexity|3",
+  "dealership-management-systems|q5|ChatGPT|1",
+  "dealership-management-systems|q5|ChatGPT|2",
+  "dealership-management-systems|q5|ChatGPT|3",
+  "dealership-management-systems|q5|Claude|1",
+  "dealership-management-systems|q5|Claude|2",
+  "dealership-management-systems|q5|Claude|3",
+  "dealership-management-systems|q5|Google AI Mode|1",
+  "dealership-management-systems|q5|Google AI Mode|2",
+  "dealership-management-systems|q5|Google AI Mode|3",
+  "dealership-management-systems|q5|Google AI Overviews|1",
+  "dealership-management-systems|q5|Google AI Overviews|2",
+  "dealership-management-systems|q5|Google AI Overviews|3",
+  "dealership-management-systems|q5|Perplexity|1",
+  "dealership-management-systems|q5|Perplexity|2",
+  "dealership-management-systems|q5|Perplexity|3",
+  "dealership-management-systems|q6|ChatGPT|1",
+  "dealership-management-systems|q6|ChatGPT|2",
+  "dealership-management-systems|q6|ChatGPT|3",
+  "dealership-management-systems|q6|Claude|1",
+  "dealership-management-systems|q6|Claude|2",
+  "dealership-management-systems|q6|Claude|3",
+  "dealership-management-systems|q6|Google AI Mode|1",
+  "dealership-management-systems|q6|Google AI Mode|2",
+  "dealership-management-systems|q6|Google AI Mode|3",
+  "dealership-management-systems|q6|Google AI Overviews|1",
+  "dealership-management-systems|q6|Google AI Overviews|2",
+  "dealership-management-systems|q6|Google AI Overviews|3",
+  "dealership-management-systems|q6|Perplexity|1",
+  "dealership-management-systems|q6|Perplexity|2",
+  "dealership-management-systems|q6|Perplexity|3",
+  "dealership-management-systems|q7|ChatGPT|1",
+  "dealership-management-systems|q7|ChatGPT|2",
+  "dealership-management-systems|q7|ChatGPT|3",
+  "dealership-management-systems|q7|Claude|1",
+  "dealership-management-systems|q7|Claude|2",
+  "dealership-management-systems|q7|Claude|3",
+  "dealership-management-systems|q7|Google AI Mode|1",
+  "dealership-management-systems|q7|Google AI Mode|2",
+  "dealership-management-systems|q7|Google AI Mode|3",
+  "dealership-management-systems|q7|Google AI Overviews|1",
+  "dealership-management-systems|q7|Google AI Overviews|2",
+  "dealership-management-systems|q7|Google AI Overviews|3",
+  "dealership-management-systems|q7|Perplexity|1",
+  "dealership-management-systems|q7|Perplexity|2",
+  "dealership-management-systems|q7|Perplexity|3",
+  "dealership-management-systems|q8|Claude|1"
+ ],
+ "named_count": 90
+}

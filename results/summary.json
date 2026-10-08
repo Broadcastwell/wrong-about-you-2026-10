@@ -1,0 +1,2517 @@
+{
+ "study": "Wrong About You",
+ "version": "1.0",
+ "capture": "captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index release 2026-09 (DOI 10.5281/zenodo.22907695)",
+ "index_doi": "10.5281/zenodo.22907695",
+ "totals": {
+  "vendors": 70,
+  "categories": 14,
+  "answers": 5346,
+  "claims": 1894,
+  "statements": 2922,
+  "true": 1924,
+  "wrong": 113,
+  "stale": 5,
+  "unverifiable": 880,
+  "wrong_or_stale_rate": {
+   "k": 118,
+   "n": 2042,
+   "pct": 5.8,
+   "low": 4.8,
+   "high": 6.9
+  },
+  "answers_with_wrong_or_stale": {
+   "k": 175,
+   "n": 5346,
+   "pct": 3.3,
+   "low": 2.8,
+   "high": 3.8
+  },
+  "pages_read": 644,
+  "review": {
+   "unreviewed": 1894,
+   "first review": 0,
+   "verified": 0
+  }
+ },
+ "per_engine": [
+  {
+   "engine": "ChatGPT",
+   "statements": 647,
+   "true": 575,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 72,
+   "wrong_or_stale_rate": {
+    "k": 0,
+    "n": 575,
+    "pct": 0,
+    "low": 0,
+    "high": 0.7
+   }
+  },
+  {
+   "engine": "Claude",
+   "statements": 1177,
+   "true": 605,
+   "wrong": 77,
+   "stale": 2,
+   "unverifiable": 493,
+   "wrong_or_stale_rate": {
+    "k": 79,
+    "n": 684,
+    "pct": 11.5,
+    "low": 9.4,
+    "high": 14.2
+   }
+  },
+  {
+   "engine": "Perplexity",
+   "statements": 150,
+   "true": 113,
+   "wrong": 4,
+   "stale": 0,
+   "unverifiable": 33,
+   "wrong_or_stale_rate": {
+    "k": 4,
+    "n": 117,
+    "pct": 3.4,
+    "low": 1.3,
+    "high": 8.5
+   }
+  },
+  {
+   "engine": "Google AI Overviews",
+   "statements": 496,
+   "true": 316,
+   "wrong": 25,
+   "stale": 2,
+   "unverifiable": 153,
+   "wrong_or_stale_rate": {
+    "k": 27,
+    "n": 343,
+    "pct": 7.9,
+    "low": 5.5,
+    "high": 11.2
+   }
+  },
+  {
+   "engine": "Google AI Mode",
+   "statements": 452,
+   "true": 315,
+   "wrong": 7,
+   "stale": 1,
+   "unverifiable": 129,
+   "wrong_or_stale_rate": {
+    "k": 8,
+    "n": 323,
+    "pct": 2.5,
+    "low": 1.3,
+    "high": 4.8
+   }
+  }
+ ],
+ "per_category": [
+  {
+   "category_id": "construction-project-management",
+   "category": "Construction project management software",
+   "vendors": 5,
+   "statements": 217,
+   "true": 138,
+   "wrong": 9,
+   "stale": 0,
+   "unverifiable": 70,
+   "wrong_or_stale_rate": {
+    "k": 9,
+    "n": 147,
+    "pct": 6.1,
+    "low": 3.3,
+    "high": 11.2
+   },
+   "answers_rate": {
+    "k": 12,
+    "n": 376,
+    "pct": 3.2,
+    "low": 1.8,
+    "high": 5.5
+   },
+   "median": {
+    "statements": 33,
+    "true": 29,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 2,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "dealership-management-systems",
+   "category": "Dealership management systems",
+   "vendors": 5,
+   "statements": 272,
+   "true": 184,
+   "wrong": 11,
+   "stale": 0,
+   "unverifiable": 77,
+   "wrong_or_stale_rate": {
+    "k": 11,
+    "n": 195,
+    "pct": 5.6,
+    "low": 3.2,
+    "high": 9.8
+   },
+   "answers_rate": {
+    "k": 14,
+    "n": 371,
+    "pct": 3.8,
+    "low": 2.3,
+    "high": 6.2
+   },
+   "median": {
+    "statements": 50,
+    "true": 32,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "dental-practice-management",
+   "category": "Dental practice management software",
+   "vendors": 5,
+   "statements": 221,
+   "true": 145,
+   "wrong": 13,
+   "stale": 4,
+   "unverifiable": 59,
+   "wrong_or_stale_rate": {
+    "k": 17,
+    "n": 162,
+    "pct": 10.5,
+    "low": 6.7,
+    "high": 16.2
+   },
+   "answers_rate": {
+    "k": 22,
+    "n": 519,
+    "pct": 4.2,
+    "low": 2.8,
+    "high": 6.3
+   },
+   "median": {
+    "statements": 41,
+    "true": 24,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 10,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "field-service-management",
+   "category": "Field service management software",
+   "vendors": 5,
+   "statements": 241,
+   "true": 166,
+   "wrong": 5,
+   "stale": 0,
+   "unverifiable": 70,
+   "wrong_or_stale_rate": {
+    "k": 5,
+    "n": 171,
+    "pct": 2.9,
+    "low": 1.3,
+    "high": 6.7
+   },
+   "answers_rate": {
+    "k": 7,
+    "n": 375,
+    "pct": 1.9,
+    "low": 0.9,
+    "high": 3.8
+   },
+   "median": {
+    "statements": 41,
+    "true": 29,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 10,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "hotel-property-management",
+   "category": "Hotel property management software",
+   "vendors": 5,
+   "statements": 153,
+   "true": 119,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 32,
+   "wrong_or_stale_rate": {
+    "k": 2,
+    "n": 121,
+    "pct": 1.7,
+    "low": 0.5,
+    "high": 5.8
+   },
+   "answers_rate": {
+    "k": 6,
+    "n": 325,
+    "pct": 1.8,
+    "low": 0.8,
+    "high": 4
+   },
+   "median": {
+    "statements": 31,
+    "true": 26,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "insurance-agency-management",
+   "category": "Insurance agency management systems",
+   "vendors": 5,
+   "statements": 244,
+   "true": 139,
+   "wrong": 6,
+   "stale": 0,
+   "unverifiable": 99,
+   "wrong_or_stale_rate": {
+    "k": 6,
+    "n": 145,
+    "pct": 4.1,
+    "low": 1.9,
+    "high": 8.7
+   },
+   "answers_rate": {
+    "k": 8,
+    "n": 475,
+    "pct": 1.7,
+    "low": 0.9,
+    "high": 3.3
+   },
+   "median": {
+    "statements": 46,
+    "true": 22,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 21,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 1
+   }
+  },
+  {
+   "category_id": "legal-practice-management",
+   "category": "Legal practice management software",
+   "vendors": 5,
+   "statements": 300,
+   "true": 149,
+   "wrong": 34,
+   "stale": 0,
+   "unverifiable": 117,
+   "wrong_or_stale_rate": {
+    "k": 34,
+    "n": 183,
+    "pct": 18.6,
+    "low": 13.6,
+    "high": 24.8
+   },
+   "answers_rate": {
+    "k": 50,
+    "n": 449,
+    "pct": 11.1,
+    "low": 8.5,
+    "high": 14.4
+   },
+   "median": {
+    "statements": 38,
+    "true": 21,
+    "wrong": 7,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 7,
+    "answers_with_wrong_or_stale": 6
+   }
+  },
+  {
+   "category_id": "loan-origination-software",
+   "category": "Loan origination and lending software",
+   "vendors": 5,
+   "statements": 111,
+   "true": 69,
+   "wrong": 0,
+   "stale": 1,
+   "unverifiable": 41,
+   "wrong_or_stale_rate": {
+    "k": 1,
+    "n": 70,
+    "pct": 1.4,
+    "low": 0.3,
+    "high": 7.7
+   },
+   "answers_rate": {
+    "k": 1,
+    "n": 321,
+    "pct": 0.3,
+    "low": 0.1,
+    "high": 1.7
+   },
+   "median": {
+    "statements": 23,
+    "true": 8,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 8,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "radiology-medical-imaging",
+   "category": "Radiology and medical imaging software",
+   "vendors": 5,
+   "statements": 146,
+   "true": 110,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 36,
+   "wrong_or_stale_rate": {
+    "k": 0,
+    "n": 110,
+    "pct": 0,
+    "low": 0,
+    "high": 3.4
+   },
+   "answers_rate": {
+    "k": 0,
+    "n": 329,
+    "pct": 0,
+    "low": 0,
+    "high": 1.2
+   },
+   "median": {
+    "statements": 30,
+    "true": 24,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "residential-property-management",
+   "category": "Residential property management software",
+   "vendors": 5,
+   "statements": 377,
+   "true": 261,
+   "wrong": 15,
+   "stale": 0,
+   "unverifiable": 101,
+   "wrong_or_stale_rate": {
+    "k": 15,
+    "n": 276,
+    "pct": 5.4,
+    "low": 3.3,
+    "high": 8.8
+   },
+   "answers_rate": {
+    "k": 20,
+    "n": 403,
+    "pct": 5,
+    "low": 3.2,
+    "high": 7.5
+   },
+   "median": {
+    "statements": 86,
+    "true": 52,
+    "wrong": 3,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 3,
+    "answers_with_wrong_or_stale": 4
+   }
+  },
+  {
+   "category_id": "transportation-management-systems",
+   "category": "Transportation management systems",
+   "vendors": 5,
+   "statements": 159,
+   "true": 106,
+   "wrong": 4,
+   "stale": 0,
+   "unverifiable": 49,
+   "wrong_or_stale_rate": {
+    "k": 4,
+    "n": 110,
+    "pct": 3.6,
+    "low": 1.4,
+    "high": 9
+   },
+   "answers_rate": {
+    "k": 5,
+    "n": 242,
+    "pct": 2.1,
+    "low": 0.9,
+    "high": 4.7
+   },
+   "median": {
+    "statements": 15,
+    "true": 10,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "veterinary-practice-management",
+   "category": "Veterinary practice management software",
+   "vendors": 5,
+   "statements": 247,
+   "true": 164,
+   "wrong": 7,
+   "stale": 0,
+   "unverifiable": 76,
+   "wrong_or_stale_rate": {
+    "k": 7,
+    "n": 171,
+    "pct": 4.1,
+    "low": 2,
+    "high": 8.2
+   },
+   "answers_rate": {
+    "k": 18,
+    "n": 385,
+    "pct": 4.7,
+    "low": 3,
+    "high": 7.3
+   },
+   "median": {
+    "statements": 54,
+    "true": 34,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 17,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 3
+   }
+  },
+  {
+   "category_id": "crm",
+   "category": "CRM",
+   "vendors": 5,
+   "statements": 192,
+   "true": 136,
+   "wrong": 6,
+   "stale": 0,
+   "unverifiable": 50,
+   "wrong_or_stale_rate": {
+    "k": 6,
+    "n": 142,
+    "pct": 4.2,
+    "low": 2,
+    "high": 8.9
+   },
+   "answers_rate": {
+    "k": 9,
+    "n": 428,
+    "pct": 2.1,
+    "low": 1.1,
+    "high": 3.9
+   },
+   "median": {
+    "statements": 36,
+    "true": 29,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 1
+   }
+  },
+  {
+   "category_id": "project_management",
+   "category": "Project management",
+   "vendors": 5,
+   "statements": 42,
+   "true": 38,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 3,
+   "wrong_or_stale_rate": {
+    "k": 1,
+    "n": 39,
+    "pct": 2.6,
+    "low": 0.5,
+    "high": 13.2
+   },
+   "answers_rate": {
+    "k": 3,
+    "n": 348,
+    "pct": 0.9,
+    "low": 0.3,
+    "high": 2.5
+   },
+   "median": {
+    "statements": 9,
+    "true": 8,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 1,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  }
+ ],
+ "per_vendor": [
+  {
+   "category_id": "construction-project-management",
+   "category": "Construction project management software",
+   "vendor": "Procore",
+   "slug": "procore",
+   "named_answers": 109,
+   "statements": 57,
+   "true": 38,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 17,
+   "wrong_or_stale": 2,
+   "claims": 39,
+   "answers_with_wrong_or_stale": 2,
+   "category_median": {
+    "statements": 33,
+    "true": 29,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 2,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "construction-project-management",
+   "category": "Construction project management software",
+   "vendor": "Buildertrend",
+   "slug": "buildertrend",
+   "named_answers": 83,
+   "statements": 65,
+   "true": 15,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 50,
+   "wrong_or_stale": 0,
+   "claims": 50,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 33,
+    "true": 29,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 2,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "construction-project-management",
+   "category": "Construction project management software",
+   "vendor": "Contractor Foreman",
+   "slug": "contractor-foreman",
+   "named_answers": 77,
+   "statements": 32,
+   "true": 29,
+   "wrong": 3,
+   "stale": 0,
+   "unverifiable": 0,
+   "wrong_or_stale": 3,
+   "claims": 23,
+   "answers_with_wrong_or_stale": 5,
+   "category_median": {
+    "statements": 33,
+    "true": 29,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 2,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "construction-project-management",
+   "category": "Construction project management software",
+   "vendor": "Fieldwire",
+   "slug": "fieldwire",
+   "named_answers": 57,
+   "statements": 33,
+   "true": 31,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 2,
+   "wrong_or_stale": 0,
+   "claims": 25,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 33,
+    "true": 29,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 2,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "construction-project-management",
+   "category": "Construction project management software",
+   "vendor": "JobTread",
+   "slug": "jobtread",
+   "named_answers": 50,
+   "statements": 30,
+   "true": 25,
+   "wrong": 4,
+   "stale": 0,
+   "unverifiable": 1,
+   "wrong_or_stale": 4,
+   "claims": 24,
+   "answers_with_wrong_or_stale": 5,
+   "category_median": {
+    "statements": 33,
+    "true": 29,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 2,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "dealership-management-systems",
+   "category": "Dealership management systems",
+   "vendor": "CDK Global",
+   "slug": "cdk-global",
+   "named_answers": 90,
+   "statements": 50,
+   "true": 15,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 35,
+   "wrong_or_stale": 0,
+   "claims": 31,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 50,
+    "true": 32,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "dealership-management-systems",
+   "category": "Dealership management systems",
+   "vendor": "DealerCenter",
+   "slug": "dealercenter",
+   "named_answers": 79,
+   "statements": 80,
+   "true": 67,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 11,
+   "wrong_or_stale": 2,
+   "claims": 49,
+   "answers_with_wrong_or_stale": 2,
+   "category_median": {
+    "statements": 50,
+    "true": 32,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "dealership-management-systems",
+   "category": "Dealership management systems",
+   "vendor": "Tekion",
+   "slug": "tekion",
+   "named_answers": 76,
+   "statements": 44,
+   "true": 32,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 10,
+   "wrong_or_stale": 2,
+   "claims": 30,
+   "answers_with_wrong_or_stale": 3,
+   "category_median": {
+    "statements": 50,
+    "true": 32,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "dealership-management-systems",
+   "category": "Dealership management systems",
+   "vendor": "Dealertrack",
+   "slug": "dealertrack",
+   "named_answers": 67,
+   "statements": 41,
+   "true": 28,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 13,
+   "wrong_or_stale": 0,
+   "claims": 21,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 50,
+    "true": 32,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "dealership-management-systems",
+   "category": "Dealership management systems",
+   "vendor": "Frazer",
+   "slug": "frazer",
+   "named_answers": 59,
+   "statements": 57,
+   "true": 42,
+   "wrong": 7,
+   "stale": 0,
+   "unverifiable": 8,
+   "wrong_or_stale": 7,
+   "claims": 33,
+   "answers_with_wrong_or_stale": 9,
+   "category_median": {
+    "statements": 50,
+    "true": 32,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "dental-practice-management",
+   "category": "Dental practice management software",
+   "vendor": "Dentrix",
+   "slug": "dentrix",
+   "named_answers": 120,
+   "statements": 50,
+   "true": 25,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 24,
+   "wrong_or_stale": 1,
+   "claims": 30,
+   "answers_with_wrong_or_stale": 1,
+   "category_median": {
+    "statements": 41,
+    "true": 24,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 10,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "dental-practice-management",
+   "category": "Dental practice management software",
+   "vendor": "Open Dental",
+   "slug": "open-dental",
+   "named_answers": 118,
+   "statements": 77,
+   "true": 57,
+   "wrong": 8,
+   "stale": 4,
+   "unverifiable": 8,
+   "wrong_or_stale": 12,
+   "claims": 42,
+   "answers_with_wrong_or_stale": 16,
+   "category_median": {
+    "statements": 41,
+    "true": 24,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 10,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "dental-practice-management",
+   "category": "Dental practice management software",
+   "vendor": "Curve Dental",
+   "slug": "curve-dental",
+   "named_answers": 115,
+   "statements": 27,
+   "true": 16,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 10,
+   "wrong_or_stale": 1,
+   "claims": 17,
+   "answers_with_wrong_or_stale": 2,
+   "category_median": {
+    "statements": 41,
+    "true": 24,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 10,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "dental-practice-management",
+   "category": "Dental practice management software",
+   "vendor": "Dentrix Ascend",
+   "slug": "dentrix-ascend",
+   "named_answers": 97,
+   "statements": 26,
+   "true": 23,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 1,
+   "wrong_or_stale": 2,
+   "claims": 11,
+   "answers_with_wrong_or_stale": 2,
+   "category_median": {
+    "statements": 41,
+    "true": 24,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 10,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "dental-practice-management",
+   "category": "Dental practice management software",
+   "vendor": "Eaglesoft",
+   "slug": "eaglesoft",
+   "named_answers": 69,
+   "statements": 41,
+   "true": 24,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 16,
+   "wrong_or_stale": 1,
+   "claims": 28,
+   "answers_with_wrong_or_stale": 1,
+   "category_median": {
+    "statements": 41,
+    "true": 24,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 10,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "field-service-management",
+   "category": "Field service management software",
+   "vendor": "Housecall Pro",
+   "slug": "housecall-pro",
+   "named_answers": 108,
+   "statements": 79,
+   "true": 69,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 10,
+   "wrong_or_stale": 0,
+   "claims": 56,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 41,
+    "true": 29,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 10,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "field-service-management",
+   "category": "Field service management software",
+   "vendor": "ServiceTitan",
+   "slug": "servicetitan",
+   "named_answers": 102,
+   "statements": 61,
+   "true": 30,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 31,
+   "wrong_or_stale": 0,
+   "claims": 38,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 41,
+    "true": 29,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 10,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "field-service-management",
+   "category": "Field service management software",
+   "vendor": "Workiz",
+   "slug": "workiz",
+   "named_answers": 58,
+   "statements": 37,
+   "true": 20,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 15,
+   "wrong_or_stale": 2,
+   "claims": 30,
+   "answers_with_wrong_or_stale": 2,
+   "category_median": {
+    "statements": 41,
+    "true": 29,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 10,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "field-service-management",
+   "category": "Field service management software",
+   "vendor": "FieldPulse",
+   "slug": "fieldpulse",
+   "named_answers": 57,
+   "statements": 23,
+   "true": 18,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 4,
+   "wrong_or_stale": 1,
+   "claims": 15,
+   "answers_with_wrong_or_stale": 2,
+   "category_median": {
+    "statements": 41,
+    "true": 29,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 10,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "field-service-management",
+   "category": "Field service management software",
+   "vendor": "Jobber",
+   "slug": "jobber",
+   "named_answers": 50,
+   "statements": 41,
+   "true": 29,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 10,
+   "wrong_or_stale": 2,
+   "claims": 33,
+   "answers_with_wrong_or_stale": 3,
+   "category_median": {
+    "statements": 41,
+    "true": 29,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 10,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 2
+   }
+  },
+  {
+   "category_id": "hotel-property-management",
+   "category": "Hotel property management software",
+   "vendor": "Cloudbeds",
+   "slug": "cloudbeds",
+   "named_answers": 115,
+   "statements": 40,
+   "true": 31,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 8,
+   "wrong_or_stale": 1,
+   "claims": 29,
+   "answers_with_wrong_or_stale": 3,
+   "category_median": {
+    "statements": 31,
+    "true": 26,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "hotel-property-management",
+   "category": "Hotel property management software",
+   "vendor": "Stayntouch",
+   "slug": "stayntouch",
+   "named_answers": 68,
+   "statements": 19,
+   "true": 17,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 2,
+   "wrong_or_stale": 0,
+   "claims": 9,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 31,
+    "true": 26,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "hotel-property-management",
+   "category": "Hotel property management software",
+   "vendor": "Little Hotelier",
+   "slug": "little-hotelier",
+   "named_answers": 51,
+   "statements": 27,
+   "true": 19,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 7,
+   "wrong_or_stale": 1,
+   "claims": 20,
+   "answers_with_wrong_or_stale": 3,
+   "category_median": {
+    "statements": 31,
+    "true": 26,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "hotel-property-management",
+   "category": "Hotel property management software",
+   "vendor": "Mews",
+   "slug": "mews",
+   "named_answers": 48,
+   "statements": 36,
+   "true": 26,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 10,
+   "wrong_or_stale": 0,
+   "claims": 30,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 31,
+    "true": 26,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "hotel-property-management",
+   "category": "Hotel property management software",
+   "vendor": "Maestro PMS",
+   "slug": "maestro-pms",
+   "named_answers": 43,
+   "statements": 31,
+   "true": 26,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 5,
+   "wrong_or_stale": 0,
+   "claims": 17,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 31,
+    "true": 26,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "insurance-agency-management",
+   "category": "Insurance agency management systems",
+   "vendor": "Applied Systems",
+   "slug": "applied-systems",
+   "named_answers": 127,
+   "statements": 34,
+   "true": 13,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 21,
+   "wrong_or_stale": 0,
+   "claims": 18,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 46,
+    "true": 22,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 21,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 1
+   }
+  },
+  {
+   "category_id": "insurance-agency-management",
+   "category": "Insurance agency management systems",
+   "vendor": "EZLynx",
+   "slug": "ezlynx",
+   "named_answers": 111,
+   "statements": 64,
+   "true": 29,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 34,
+   "wrong_or_stale": 1,
+   "claims": 42,
+   "answers_with_wrong_or_stale": 1,
+   "category_median": {
+    "statements": 46,
+    "true": 22,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 21,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 1
+   }
+  },
+  {
+   "category_id": "insurance-agency-management",
+   "category": "Insurance agency management systems",
+   "vendor": "HawkSoft",
+   "slug": "hawksoft",
+   "named_answers": 97,
+   "statements": 70,
+   "true": 54,
+   "wrong": 3,
+   "stale": 0,
+   "unverifiable": 13,
+   "wrong_or_stale": 3,
+   "claims": 42,
+   "answers_with_wrong_or_stale": 4,
+   "category_median": {
+    "statements": 46,
+    "true": 22,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 21,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 1
+   }
+  },
+  {
+   "category_id": "insurance-agency-management",
+   "category": "Insurance agency management systems",
+   "vendor": "Vertafore",
+   "slug": "vertafore",
+   "named_answers": 92,
+   "statements": 46,
+   "true": 22,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 23,
+   "wrong_or_stale": 1,
+   "claims": 36,
+   "answers_with_wrong_or_stale": 1,
+   "category_median": {
+    "statements": 46,
+    "true": 22,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 21,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 1
+   }
+  },
+  {
+   "category_id": "insurance-agency-management",
+   "category": "Insurance agency management systems",
+   "vendor": "NowCerts",
+   "slug": "nowcerts",
+   "named_answers": 48,
+   "statements": 30,
+   "true": 21,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 8,
+   "wrong_or_stale": 1,
+   "claims": 23,
+   "answers_with_wrong_or_stale": 2,
+   "category_median": {
+    "statements": 46,
+    "true": 22,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 21,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 1
+   }
+  },
+  {
+   "category_id": "legal-practice-management",
+   "category": "Legal practice management software",
+   "vendor": "Clio",
+   "slug": "clio",
+   "named_answers": 126,
+   "statements": 141,
+   "true": 46,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 94,
+   "wrong_or_stale": 1,
+   "claims": 91,
+   "answers_with_wrong_or_stale": 1,
+   "category_median": {
+    "statements": 38,
+    "true": 21,
+    "wrong": 7,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 7,
+    "answers_with_wrong_or_stale": 6
+   }
+  },
+  {
+   "category_id": "legal-practice-management",
+   "category": "Legal practice management software",
+   "vendor": "8am MyCase",
+   "slug": "8am-mycase",
+   "named_answers": 96,
+   "statements": 67,
+   "true": 49,
+   "wrong": 11,
+   "stale": 0,
+   "unverifiable": 7,
+   "wrong_or_stale": 11,
+   "claims": 55,
+   "answers_with_wrong_or_stale": 19,
+   "category_median": {
+    "statements": 38,
+    "true": 21,
+    "wrong": 7,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 7,
+    "answers_with_wrong_or_stale": 6
+   }
+  },
+  {
+   "category_id": "legal-practice-management",
+   "category": "Legal practice management software",
+   "vendor": "CosmoLex",
+   "slug": "cosmolex",
+   "named_answers": 77,
+   "statements": 38,
+   "true": 21,
+   "wrong": 14,
+   "stale": 0,
+   "unverifiable": 3,
+   "wrong_or_stale": 14,
+   "claims": 28,
+   "answers_with_wrong_or_stale": 21,
+   "category_median": {
+    "statements": 38,
+    "true": 21,
+    "wrong": 7,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 7,
+    "answers_with_wrong_or_stale": 6
+   }
+  },
+  {
+   "category_id": "legal-practice-management",
+   "category": "Legal practice management software",
+   "vendor": "PracticePanther",
+   "slug": "practicepanther",
+   "named_answers": 76,
+   "statements": 34,
+   "true": 21,
+   "wrong": 7,
+   "stale": 0,
+   "unverifiable": 6,
+   "wrong_or_stale": 7,
+   "claims": 31,
+   "answers_with_wrong_or_stale": 6,
+   "category_median": {
+    "statements": 38,
+    "true": 21,
+    "wrong": 7,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 7,
+    "answers_with_wrong_or_stale": 6
+   }
+  },
+  {
+   "category_id": "legal-practice-management",
+   "category": "Legal practice management software",
+   "vendor": "Filevine",
+   "slug": "filevine",
+   "named_answers": 74,
+   "statements": 20,
+   "true": 12,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 7,
+   "wrong_or_stale": 1,
+   "claims": 15,
+   "answers_with_wrong_or_stale": 3,
+   "category_median": {
+    "statements": 38,
+    "true": 21,
+    "wrong": 7,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 7,
+    "answers_with_wrong_or_stale": 6
+   }
+  },
+  {
+   "category_id": "loan-origination-software",
+   "category": "Loan origination and lending software",
+   "vendor": "nCino",
+   "slug": "ncino",
+   "named_answers": 92,
+   "statements": 33,
+   "true": 21,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 12,
+   "wrong_or_stale": 0,
+   "claims": 17,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 23,
+    "true": 8,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 8,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "loan-origination-software",
+   "category": "Loan origination and lending software",
+   "vendor": "MeridianLink",
+   "slug": "meridianlink",
+   "named_answers": 81,
+   "statements": 36,
+   "true": 28,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 8,
+   "wrong_or_stale": 0,
+   "claims": 19,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 23,
+    "true": 8,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 8,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "loan-origination-software",
+   "category": "Loan origination and lending software",
+   "vendor": "ICE Mortgage Technology",
+   "slug": "ice-mortgage-technology",
+   "named_answers": 62,
+   "statements": 23,
+   "true": 7,
+   "wrong": 0,
+   "stale": 1,
+   "unverifiable": 15,
+   "wrong_or_stale": 1,
+   "claims": 14,
+   "answers_with_wrong_or_stale": 1,
+   "category_median": {
+    "statements": 23,
+    "true": 8,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 8,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "loan-origination-software",
+   "category": "Loan origination and lending software",
+   "vendor": "Abrigo",
+   "slug": "abrigo",
+   "named_answers": 50,
+   "statements": 9,
+   "true": 8,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 1,
+   "wrong_or_stale": 0,
+   "claims": 6,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 23,
+    "true": 8,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 8,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "loan-origination-software",
+   "category": "Loan origination and lending software",
+   "vendor": "Baker Hill",
+   "slug": "baker-hill",
+   "named_answers": 36,
+   "statements": 10,
+   "true": 5,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 5,
+   "wrong_or_stale": 0,
+   "claims": 5,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 23,
+    "true": 8,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 8,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "radiology-medical-imaging",
+   "category": "Radiology and medical imaging software",
+   "vendor": "Sectra",
+   "slug": "sectra",
+   "named_answers": 87,
+   "statements": 29,
+   "true": 19,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 10,
+   "wrong_or_stale": 0,
+   "claims": 16,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 30,
+    "true": 24,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "radiology-medical-imaging",
+   "category": "Radiology and medical imaging software",
+   "vendor": "Intelerad",
+   "slug": "intelerad",
+   "named_answers": 80,
+   "statements": 36,
+   "true": 24,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 12,
+   "wrong_or_stale": 0,
+   "claims": 20,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 30,
+    "true": 24,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "radiology-medical-imaging",
+   "category": "Radiology and medical imaging software",
+   "vendor": "Visage Imaging",
+   "slug": "visage-imaging",
+   "named_answers": 65,
+   "statements": 32,
+   "true": 25,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 7,
+   "wrong_or_stale": 0,
+   "claims": 23,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 30,
+    "true": 24,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "radiology-medical-imaging",
+   "category": "Radiology and medical imaging software",
+   "vendor": "Fujifilm (Synapse)",
+   "slug": "fujifilm-synapse",
+   "named_answers": 51,
+   "statements": 19,
+   "true": 18,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 1,
+   "wrong_or_stale": 0,
+   "claims": 11,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 30,
+    "true": 24,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "radiology-medical-imaging",
+   "category": "Radiology and medical imaging software",
+   "vendor": "RamSoft",
+   "slug": "ramsoft",
+   "named_answers": 46,
+   "statements": 30,
+   "true": 24,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 6,
+   "wrong_or_stale": 0,
+   "claims": 22,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 30,
+    "true": 24,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 7,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "residential-property-management",
+   "category": "Residential property management software",
+   "vendor": "Buildium",
+   "slug": "buildium",
+   "named_answers": 119,
+   "statements": 138,
+   "true": 88,
+   "wrong": 3,
+   "stale": 0,
+   "unverifiable": 47,
+   "wrong_or_stale": 3,
+   "claims": 83,
+   "answers_with_wrong_or_stale": 6,
+   "category_median": {
+    "statements": 86,
+    "true": 52,
+    "wrong": 3,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 3,
+    "answers_with_wrong_or_stale": 4
+   }
+  },
+  {
+   "category_id": "residential-property-management",
+   "category": "Residential property management software",
+   "vendor": "AppFolio",
+   "slug": "appfolio",
+   "named_answers": 95,
+   "statements": 89,
+   "true": 52,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 36,
+   "wrong_or_stale": 1,
+   "claims": 56,
+   "answers_with_wrong_or_stale": 2,
+   "category_median": {
+    "statements": 86,
+    "true": 52,
+    "wrong": 3,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 3,
+    "answers_with_wrong_or_stale": 4
+   }
+  },
+  {
+   "category_id": "residential-property-management",
+   "category": "Residential property management software",
+   "vendor": "DoorLoop",
+   "slug": "doorloop",
+   "named_answers": 77,
+   "statements": 45,
+   "true": 32,
+   "wrong": 6,
+   "stale": 0,
+   "unverifiable": 7,
+   "wrong_or_stale": 6,
+   "claims": 30,
+   "answers_with_wrong_or_stale": 6,
+   "category_median": {
+    "statements": 86,
+    "true": 52,
+    "wrong": 3,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 3,
+    "answers_with_wrong_or_stale": 4
+   }
+  },
+  {
+   "category_id": "residential-property-management",
+   "category": "Residential property management software",
+   "vendor": "Yardi",
+   "slug": "yardi",
+   "named_answers": 71,
+   "statements": 86,
+   "true": 72,
+   "wrong": 3,
+   "stale": 0,
+   "unverifiable": 11,
+   "wrong_or_stale": 3,
+   "claims": 45,
+   "answers_with_wrong_or_stale": 2,
+   "category_median": {
+    "statements": 86,
+    "true": 52,
+    "wrong": 3,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 3,
+    "answers_with_wrong_or_stale": 4
+   }
+  },
+  {
+   "category_id": "residential-property-management",
+   "category": "Residential property management software",
+   "vendor": "Innago",
+   "slug": "innago",
+   "named_answers": 41,
+   "statements": 19,
+   "true": 17,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 0,
+   "wrong_or_stale": 2,
+   "claims": 10,
+   "answers_with_wrong_or_stale": 4,
+   "category_median": {
+    "statements": 86,
+    "true": 52,
+    "wrong": 3,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 3,
+    "answers_with_wrong_or_stale": 4
+   }
+  },
+  {
+   "category_id": "transportation-management-systems",
+   "category": "Transportation management systems",
+   "vendor": "AscendTMS",
+   "slug": "ascendtms",
+   "named_answers": 64,
+   "statements": 72,
+   "true": 59,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 13,
+   "wrong_or_stale": 0,
+   "claims": 39,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 15,
+    "true": 10,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "transportation-management-systems",
+   "category": "Transportation management systems",
+   "vendor": "Alvys",
+   "slug": "alvys",
+   "named_answers": 58,
+   "statements": 53,
+   "true": 35,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 17,
+   "wrong_or_stale": 1,
+   "claims": 30,
+   "answers_with_wrong_or_stale": 1,
+   "category_median": {
+    "statements": 15,
+    "true": 10,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "transportation-management-systems",
+   "category": "Transportation management systems",
+   "vendor": "Oracle Transportation Management",
+   "slug": "oracle-transportation-management",
+   "named_answers": 43,
+   "statements": 8,
+   "true": 2,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 6,
+   "wrong_or_stale": 0,
+   "claims": 7,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 15,
+    "true": 10,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "transportation-management-systems",
+   "category": "Transportation management systems",
+   "vendor": "Tai TMS",
+   "slug": "tai-tms",
+   "named_answers": 39,
+   "statements": 15,
+   "true": 10,
+   "wrong": 3,
+   "stale": 0,
+   "unverifiable": 2,
+   "wrong_or_stale": 3,
+   "claims": 11,
+   "answers_with_wrong_or_stale": 4,
+   "category_median": {
+    "statements": 15,
+    "true": 10,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "transportation-management-systems",
+   "category": "Transportation management systems",
+   "vendor": "SAP Transportation Management",
+   "slug": "sap-transportation-management",
+   "named_answers": 38,
+   "statements": 11,
+   "true": 0,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 11,
+   "wrong_or_stale": 0,
+   "claims": 6,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 15,
+    "true": 10,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "veterinary-practice-management",
+   "category": "Veterinary practice management software",
+   "vendor": "ezyVet",
+   "slug": "ezyvet",
+   "named_answers": 115,
+   "statements": 56,
+   "true": 37,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 17,
+   "wrong_or_stale": 2,
+   "claims": 26,
+   "answers_with_wrong_or_stale": 3,
+   "category_median": {
+    "statements": 54,
+    "true": 34,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 17,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 3
+   }
+  },
+  {
+   "category_id": "veterinary-practice-management",
+   "category": "Veterinary practice management software",
+   "vendor": "IDEXX (Cornerstone, Neo)",
+   "slug": "idexx-cornerstone-neo",
+   "named_answers": 90,
+   "statements": 64,
+   "true": 39,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 24,
+   "wrong_or_stale": 1,
+   "claims": 33,
+   "answers_with_wrong_or_stale": 1,
+   "category_median": {
+    "statements": 54,
+    "true": 34,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 17,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 3
+   }
+  },
+  {
+   "category_id": "veterinary-practice-management",
+   "category": "Veterinary practice management software",
+   "vendor": "Digitail",
+   "slug": "digitail",
+   "named_answers": 67,
+   "statements": 47,
+   "true": 34,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 13,
+   "wrong_or_stale": 0,
+   "claims": 33,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 54,
+    "true": 34,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 17,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 3
+   }
+  },
+  {
+   "category_id": "veterinary-practice-management",
+   "category": "Veterinary practice management software",
+   "vendor": "DaySmart Vet",
+   "slug": "daysmart-vet",
+   "named_answers": 57,
+   "statements": 26,
+   "true": 20,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 4,
+   "wrong_or_stale": 2,
+   "claims": 15,
+   "answers_with_wrong_or_stale": 11,
+   "category_median": {
+    "statements": 54,
+    "true": 34,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 17,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 3
+   }
+  },
+  {
+   "category_id": "veterinary-practice-management",
+   "category": "Veterinary practice management software",
+   "vendor": "Shepherd",
+   "slug": "shepherd",
+   "named_answers": 56,
+   "statements": 54,
+   "true": 34,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 18,
+   "wrong_or_stale": 2,
+   "claims": 34,
+   "answers_with_wrong_or_stale": 3,
+   "category_median": {
+    "statements": 54,
+    "true": 34,
+    "wrong": 2,
+    "stale": 0,
+    "unverifiable": 17,
+    "wrong_or_stale": 2,
+    "answers_with_wrong_or_stale": 3
+   }
+  },
+  {
+   "category_id": "crm",
+   "category": "CRM",
+   "vendor": "HubSpot CRM",
+   "slug": "hubspot-crm",
+   "named_answers": 113,
+   "statements": 47,
+   "true": 31,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 14,
+   "wrong_or_stale": 2,
+   "claims": 34,
+   "answers_with_wrong_or_stale": 6,
+   "category_median": {
+    "statements": 36,
+    "true": 29,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 1
+   }
+  },
+  {
+   "category_id": "crm",
+   "category": "CRM",
+   "vendor": "Salesforce Sales Cloud",
+   "slug": "salesforce-sales-cloud",
+   "named_answers": 109,
+   "statements": 45,
+   "true": 29,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 14,
+   "wrong_or_stale": 2,
+   "claims": 30,
+   "answers_with_wrong_or_stale": 1,
+   "category_median": {
+    "statements": 36,
+    "true": 29,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 1
+   }
+  },
+  {
+   "category_id": "crm",
+   "category": "CRM",
+   "vendor": "Pipedrive",
+   "slug": "pipedrive",
+   "named_answers": 97,
+   "statements": 34,
+   "true": 22,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 11,
+   "wrong_or_stale": 1,
+   "claims": 26,
+   "answers_with_wrong_or_stale": 1,
+   "category_median": {
+    "statements": 36,
+    "true": 29,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 1
+   }
+  },
+  {
+   "category_id": "crm",
+   "category": "CRM",
+   "vendor": "Zoho CRM",
+   "slug": "zoho-crm",
+   "named_answers": 73,
+   "statements": 36,
+   "true": 31,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 5,
+   "wrong_or_stale": 0,
+   "claims": 25,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 36,
+    "true": 29,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 1
+   }
+  },
+  {
+   "category_id": "crm",
+   "category": "CRM",
+   "vendor": "Microsoft Dynamics 365",
+   "slug": "microsoft-dynamics-365",
+   "named_answers": 36,
+   "statements": 30,
+   "true": 23,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 6,
+   "wrong_or_stale": 1,
+   "claims": 18,
+   "answers_with_wrong_or_stale": 1,
+   "category_median": {
+    "statements": 36,
+    "true": 29,
+    "wrong": 1,
+    "stale": 0,
+    "unverifiable": 11,
+    "wrong_or_stale": 1,
+    "answers_with_wrong_or_stale": 1
+   }
+  },
+  {
+   "category_id": "project_management",
+   "category": "Project management",
+   "vendor": "Asana",
+   "slug": "asana",
+   "named_answers": 97,
+   "statements": 9,
+   "true": 8,
+   "wrong": 1,
+   "stale": 0,
+   "unverifiable": 0,
+   "wrong_or_stale": 1,
+   "claims": 8,
+   "answers_with_wrong_or_stale": 3,
+   "category_median": {
+    "statements": 9,
+    "true": 8,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 1,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "project_management",
+   "category": "Project management",
+   "vendor": "ClickUp",
+   "slug": "clickup",
+   "named_answers": 80,
+   "statements": 6,
+   "true": 6,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 0,
+   "wrong_or_stale": 0,
+   "claims": 6,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 9,
+    "true": 8,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 1,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "project_management",
+   "category": "Project management",
+   "vendor": "Jira",
+   "slug": "jira",
+   "named_answers": 63,
+   "statements": 10,
+   "true": 9,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 1,
+   "wrong_or_stale": 0,
+   "claims": 8,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 9,
+    "true": 8,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 1,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "project_management",
+   "category": "Project management",
+   "vendor": "Wrike",
+   "slug": "wrike",
+   "named_answers": 54,
+   "statements": 8,
+   "true": 7,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 1,
+   "wrong_or_stale": 0,
+   "claims": 8,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 9,
+    "true": 8,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 1,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  },
+  {
+   "category_id": "project_management",
+   "category": "Project management",
+   "vendor": "Smartsheet",
+   "slug": "smartsheet",
+   "named_answers": 54,
+   "statements": 9,
+   "true": 8,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 1,
+   "wrong_or_stale": 0,
+   "claims": 9,
+   "answers_with_wrong_or_stale": 0,
+   "category_median": {
+    "statements": 9,
+    "true": 8,
+    "wrong": 0,
+    "stale": 0,
+    "unverifiable": 1,
+    "wrong_or_stale": 0,
+    "answers_with_wrong_or_stale": 0
+   }
+  }
+ ],
+ "per_type": [
+  {
+   "type": "pricing",
+   "statements": 1034,
+   "true": 539,
+   "wrong": 76,
+   "stale": 4,
+   "unverifiable": 415,
+   "wrong_or_stale_rate": {
+    "k": 80,
+    "n": 619,
+    "pct": 12.9,
+    "low": 10.5,
+    "high": 15.8
+   }
+  },
+  {
+   "type": "plans",
+   "statements": 388,
+   "true": 274,
+   "wrong": 9,
+   "stale": 0,
+   "unverifiable": 105,
+   "wrong_or_stale_rate": {
+    "k": 9,
+    "n": 283,
+    "pct": 3.2,
+    "low": 1.7,
+    "high": 5.9
+   }
+  },
+  {
+   "type": "free_tier",
+   "statements": 90,
+   "true": 61,
+   "wrong": 8,
+   "stale": 0,
+   "unverifiable": 21,
+   "wrong_or_stale_rate": {
+    "k": 8,
+    "n": 69,
+    "pct": 11.6,
+    "low": 6,
+    "high": 21.2
+   }
+  },
+  {
+   "type": "founding",
+   "statements": 32,
+   "true": 20,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 10,
+   "wrong_or_stale_rate": {
+    "k": 2,
+    "n": 22,
+    "pct": 9.1,
+    "low": 2.5,
+    "high": 27.8
+   }
+  },
+  {
+   "type": "ownership",
+   "statements": 72,
+   "true": 62,
+   "wrong": 3,
+   "stale": 0,
+   "unverifiable": 7,
+   "wrong_or_stale_rate": {
+    "k": 3,
+    "n": 65,
+    "pct": 4.6,
+    "low": 1.6,
+    "high": 12.7
+   }
+  },
+  {
+   "type": "headquarters",
+   "statements": 3,
+   "true": 2,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 1,
+   "wrong_or_stale_rate": {
+    "k": 0,
+    "n": 2,
+    "pct": 0,
+    "low": 0,
+    "high": 65.8
+   }
+  },
+  {
+   "type": "product_names",
+   "statements": 395,
+   "true": 289,
+   "wrong": 4,
+   "stale": 1,
+   "unverifiable": 101,
+   "wrong_or_stale_rate": {
+    "k": 5,
+    "n": 294,
+    "pct": 1.7,
+    "low": 0.7,
+    "high": 3.9
+   }
+  },
+  {
+   "type": "integrations",
+   "statements": 391,
+   "true": 292,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 97,
+   "wrong_or_stale_rate": {
+    "k": 2,
+    "n": 294,
+    "pct": 0.7,
+    "low": 0.2,
+    "high": 2.4
+   }
+  },
+  {
+   "type": "platforms",
+   "statements": 435,
+   "true": 348,
+   "wrong": 7,
+   "stale": 0,
+   "unverifiable": 80,
+   "wrong_or_stale_rate": {
+    "k": 7,
+    "n": 355,
+    "pct": 2,
+    "low": 1,
+    "high": 4
+   }
+  },
+  {
+   "type": "certifications",
+   "statements": 12,
+   "true": 7,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 5,
+   "wrong_or_stale_rate": {
+    "k": 0,
+    "n": 7,
+    "pct": 0,
+    "low": 0,
+    "high": 35.4
+   }
+  },
+  {
+   "type": "customer_counts",
+   "statements": 44,
+   "true": 20,
+   "wrong": 2,
+   "stale": 0,
+   "unverifiable": 22,
+   "wrong_or_stale_rate": {
+    "k": 2,
+    "n": 22,
+    "pct": 9.1,
+    "low": 2.5,
+    "high": 27.8
+   }
+  },
+  {
+   "type": "acquisitions",
+   "statements": 23,
+   "true": 8,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 15,
+   "wrong_or_stale_rate": {
+    "k": 0,
+    "n": 8,
+    "pct": 0,
+    "low": 0,
+    "high": 32.4
+   }
+  },
+  {
+   "type": "discontinued",
+   "statements": 3,
+   "true": 2,
+   "wrong": 0,
+   "stale": 0,
+   "unverifiable": 1,
+   "wrong_or_stale_rate": {
+    "k": 0,
+    "n": 2,
+    "pct": 0,
+    "low": 0,
+    "high": 65.8
+   }
+  }
+ ],
+ "causes": [
+  {
+   "causing_type": "own page",
+   "claims": 1
+  },
+  {
+   "causing_type": "directory",
+   "claims": 3
+  },
+  {
+   "causing_type": "review site",
+   "claims": 3
+  },
+  {
+   "causing_type": "press",
+   "claims": 0
+  },
+  {
+   "causing_type": "forum",
+   "claims": 0
+  },
+  {
+   "causing_type": "other",
+   "claims": 43
+  },
+  {
+   "causing_type": "not found",
+   "claims": 50
+  }
+ ],
+ "confidence": [
+  {
+   "runs_stated": 1,
+   "true": 714,
+   "wrong": 71,
+   "stale": 3,
+   "unverifiable": 483
+  },
+  {
+   "runs_stated": 2,
+   "true": 420,
+   "wrong": 16,
+   "stale": 2,
+   "unverifiable": 213
+  },
+  {
+   "runs_stated": 3,
+   "true": 790,
+   "wrong": 26,
+   "stale": 0,
+   "unverifiable": 184
+  }
+ ],
+ "inputs": {
+  "vendors.csv": "72390052e6d234a55b1417a6720c69aa0199d312f6641a034fcf6ae66663fb55",
+  "answers.csv": "3c4c8d4ec6a5e05ea4c25aa19f07fb86689703f494566c72b0d46c69088f4c5e",
+  "claims.csv": "6a8dbf7435ccf610ff0bd373a54bd3a1e72aaa93073388f20cadfe3ad1d2041d",
+  "instances.csv": "b306f3cab65cacbf1c97f30441c1dd557077d235faf77d602e9ca4119b4a975c",
+  "pages.csv": "2d0ad67630856a096edff5487f4f02eb720cb6b318fa2ba38fcf8b9154fed5ff"
+ }
+}

@@ -1,0 +1,576 @@
+{
+ "vendor": "Filevine",
+ "slug": "filevine",
+ "category": "legal-practice-management",
+ "coded_at": "2026-10-08T04:06:42Z",
+ "pages_read": [
+  {
+   "url": "https://filevine.com/",
+   "key": "60355dd62e9dcc5e",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.filevine.com/pricing",
+   "key": "a94c9980c92ac4e5",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.filevine.com/about/",
+   "key": "22b653754f068e4b",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.filevine.com/security/",
+   "key": "fe03d3765c6e075e",
+   "used_for": "security"
+  },
+  {
+   "url": "https://www.filevine.com/platform/case-management-software",
+   "key": "9cb75b280e240b4c",
+   "used_for": "product"
+  },
+  {
+   "url": "https://www.filevine.com/practice-types/personal-injury",
+   "key": "6b9088c0d01fed3b",
+   "used_for": "product (personal injury)"
+  },
+  {
+   "url": "https://taqtics.com/answers/legal-practice-management-software/legal-practice-management-software/",
+   "key": "4fd29e73df94872e",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://research.com/software/alternatives/best-smokeball-alternatives",
+   "key": "313613303b09f4d3",
+   "used_for": "cause check (cited): HTTP 403, blocked"
+  },
+  {
+   "url": "https://www.selecthub.com/legal-practice-management-software/smokeball/alternatives/",
+   "key": "b70fef30ebd95849",
+   "used_for": "cause check (cited): HTTP 403, blocked"
+  },
+  {
+   "url": "https://www.quickbase.com/blog/best-legal-case-practice-management-software",
+   "key": "68b69fc252a14079",
+   "used_for": "cause check (cited; snapshot taken once under the cosmolex budget, reused)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Filevine pricing is custom (quote-based, available on request).",
+   "class": "true",
+   "proof_url": "https://www.filevine.com/pricing",
+   "proof_quote": "All packages are custom built for your team's needs.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says all packages are custom built and directs buyers to sales for a custom quote; it publishes no list prices.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "The custom pricing model makes it harder to evaluate upfront"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "The custom pricing model makes it harder to evaluate upfront"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "The custom pricing model makes it harder to evaluate upfront"
+    },
+    {
+     "record_id": "legal-practice-management|q3|ChatGPT|1",
+     "quote": "Pricing is custom-quoted."
+    },
+    {
+     "record_id": "legal-practice-management|q3|ChatGPT|2",
+     "quote": "Custom quote. Ask for an itemized proposal"
+    },
+    {
+     "record_id": "legal-practice-management|q3|ChatGPT|3",
+     "quote": "Custom-quoted pricing and implementation partners"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Claude|1",
+     "quote": "Pricing: Custom quotes (contact Filevine for pricing)."
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "| **Filevine** | Custom | Personal injury / high-volume litigation |"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "Pricing: Custom (typically higher-end)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "| **Filevine** | Quote-based | PI & litigation solos |"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|1",
+     "quote": "Pricing is custom"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "Packages are custom-priced."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|3",
+     "quote": "Pricing is quote-based."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "Pricing: Quote-based (typically higher-end)"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "Pricing: Quote-based; typically higher than Clio or MyCase once implementation is factored in."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|3",
+     "quote": "| **Filevine** | Personal injury & litigation | Quote-based |"
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|1",
+     "quote": "Pricing is custom."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "Pricing: Custom (contact vendor)"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "Pricing: Available upon request"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|2",
+     "quote": "Available upon request (Custom quote)"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "| **Filevine** | High-volume litigation | Custom | Workflow customization + AI |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Filevine charges additional fees for implementation and for increased storage.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page mentions certified implementation partners and custom quotes but states no implementation or storage fees.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|Claude|2",
+     "quote": "There are additional fees for implementation and increased storage."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "free_tier",
+   "claim": "Filevine has a free plan.",
+   "class": "true",
+   "proof_url": "https://www.filevine.com/pricing",
+   "proof_quote": "LOIS Explore is a free tier of LOIS that lets you experience AI-powered legal research and drafting before committing to a subscription.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers LOIS Explore as a free tier; it covers the LOIS AI product, not Filevine case management, which the answer does not specify.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Perplexity|2",
+     "quote": "Best free-plan options: Clio, PracticePanther, and Filevine."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "plans",
+   "claim": "Intake, analytics, client portal and deadline management are optional separate products or extensions.",
+   "class": "true",
+   "proof_url": "https://www.filevine.com/pricing",
+   "proof_quote": "Matters Package Extensions Choose additional features to enhance your practice. Periscope (Business Analytics) Track performance and gain powerful business insights. Timely (Deadline Management) Automatic court deadline generation for any jurisdiction in the country. Client Portal",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists business analytics, deadline management and the client portal as Matters package extensions, and sells intake as its own Intake package.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|ChatGPT|2",
+     "quote": "intake, analytics, client portal, and other capabilities appear as separate products or extensions."
+    },
+    {
+     "record_id": "legal-practice-management|q3|ChatGPT|3",
+     "quote": "plus options for intake, analytics, and deadline management."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "optional intake and analytics tools"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "plans",
+   "claim": "eSignature and business insights are add-ons.",
+   "class": "true",
+   "proof_url": "https://www.filevine.com/pricing",
+   "proof_quote": "Matters Package Extensions Choose additional features to enhance your practice. Periscope (Business Analytics) Track performance and gain powerful business insights.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers business insights as the Periscope extension and eSignatures as a separate Signatures package (Vinesign).",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "multiple add-ons including eSignature, document management, document assembly, and business insights."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "Multiple add-ons including eSignature, document management, document assembly, and business insights are available."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "plans",
+   "claim": "Document management and document assembly are add-ons.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page shows document management and document assembly inside the Matters package rather than among its extensions, but it also says all packages are custom built, so whether they are sold as add-ons is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "multiple add-ons including eSignature, document management, document assembly, and business insights."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "Multiple add-ons including eSignature, document management, document assembly, and business insights are available."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "plans",
+   "claim": "Docs+ is a document management add-on.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the pages read mentions Docs+ or its packaging.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|Claude|1",
+     "quote": "With the Docs+ add-on, customers can transform static files into dynamic assets"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "product_names",
+   "claim": "Docs+ is Filevine's document generation and management product.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read name Document Management and Document Assembly but never the name Docs+, and none records a rename.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|Claude|1",
+     "quote": "With the Docs+ add-on"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|1",
+     "quote": "robust native document generation and management (Docs+)"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|2",
+     "quote": "It features advanced document generation (Docs+)"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|3",
+     "quote": "document generation (via Docs+)"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Overviews|1",
+     "quote": "native document generation (Docs+)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "product_names",
+   "claim": "Lead Docket is Filevine's intake product.",
+   "class": "true",
+   "proof_url": "https://www.filevine.com/pricing",
+   "proof_quote": "Lead Docket Instantly capture leads.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Lead Docket in Filevine's Intake package.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|Google AI Mode|2",
+     "quote": "Its ecosystem (including modules like Lead Docket and DemandsAI)"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Google AI Mode|3",
+     "quote": "It also integrates tightly with its companion intake tool, Lead Docket."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "product_names",
+   "claim": "DemandsAI is a Filevine product.",
+   "class": "true",
+   "proof_url": "https://www.filevine.com/practice-types/personal-injury",
+   "proof_quote": "DemandsAI LOIS FOR DRAFTING Demand More. Write Less.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's personal injury page presents DemandsAI for demand preparation.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|Google AI Mode|2",
+     "quote": "Its ecosystem (including modules like Lead Docket and DemandsAI)"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Google AI Mode|3",
+     "quote": "cutting-edge AI features (like DemandsAI)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "product_names",
+   "claim": "LOIS is Filevine's intelligence system.",
+   "class": "true",
+   "proof_url": "https://www.filevine.com/pricing",
+   "proof_quote": "a legal team uses LOIS, Filevine’s Legal Operating Intelligence System, to uncover what everyone else missed.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's pages name LOIS as Filevine's Legal Operating Intelligence System.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|Google AI Overviews|2",
+     "quote": "its LOIS intelligence system for medical summaries"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "certifications",
+   "claim": "Filevine provides Business Associate Agreements (BAAs).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The security page describes HIPAA compliance efforts and audits but does not mention Business Associate Agreements.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|Claude|1",
+     "quote": "all major PI case management platforms (SmartAdvocate, CASEpeer, Filevine, CloudLex, and Clio) provide Business Associate Agreements (BAAs)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "platforms",
+   "claim": "Filevine is cloud based.",
+   "class": "true",
+   "proof_url": "https://www.filevine.com/security/",
+   "proof_quote": "Filevine is a cloud-based SaaS platform.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The security page FAQ states that Filevine is a cloud-based SaaS platform.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|Google AI Overviews|1",
+     "quote": "Highly customizable cloud software with advanced task automation"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "Filevine is a cloud-based software designed for a few specific practice areas"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "Filevine is a cloud-based software designed for a few specific practice areas."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "Filevine is a customizable, cloud-based case management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|2",
+     "quote": "Filevine is a customizable, cloud-based case management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|3",
+     "quote": "Filevine is a customizable, cloud-based case management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Overviews|2",
+     "quote": "The best cloud-based practice management platforms for a mid-size litigation firm moving off on-premise software are Filevine, Clio Manage, and Actionstep"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "platforms",
+   "claim": "Filevine is accessible on mobile devices.",
+   "class": "true",
+   "proof_url": "https://www.filevine.com/security/",
+   "proof_quote": "However, Filevine is mobile-friendly; users are able to access the software in its entirety on any computer or smart device",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The security page FAQ says Filevine is mobile-friendly and fully usable on smart devices through a browser, although there is no separate mobile app.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Google AI Mode|2",
+     "quote": "Highly customizable project-based boards and powerful mobile accessibility."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "customer_counts",
+   "claim": "Filevine is used by 200,000+ legal professionals.",
+   "class": "wrong",
+   "proof_url": "https://www.filevine.com/about/",
+   "proof_quote": "Filevine Powers 6,000 Clients 100,000 Filevine Users",
+   "stale_change": null,
+   "causing_url": "https://www.quickbase.com/blog/best-legal-case-practice-management-software",
+   "causing_type": "other",
+   "causing_quote": "Filevine is a customizable, cloud-based case management platform used by 200,000+ legal professionals",
+   "rationale": "The about page gives 100,000 Filevine users, the same unit as legal professionals using Filevine, and the claimed floor of 200,000 is twice that published count; no page read dates a different count.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "used by 200,000+ legal professionals"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|2",
+     "quote": "used by 200,000+ legal professionals"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|3",
+     "quote": "used by 200,000+ legal professionals"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Six own pages read (home, pricing, about, security, the case management product page and the personal injury page), all HTTP 200 and not thin. Cause checks: taqtics.com read (HTTP 200, does not carry the add-on list); research.com and selecthub.com both answered 403 and were not retried; they were tried for C05/C06's add-on sentence, which needs no cause once C06 is unverifiable. quickbase.com (cited by the q10 Claude answers) was already read under the cosmolex budget and carries the 200,000+ figure (C15). C15 compares 'legal professionals' with the about page's '100,000 Filevine Users'; the same page also says 6,000 clients and 'over 6,500 customers', which no answer states. C03 is true only through LOIS Explore, a free tier of the LOIS AI product without case management. q6 Claude's add-on list was split: eSignature and business insights (C05, true) and document management and assembly (C06, unverifiable because the page frames packages as custom built). The home page field in page-candidates.json was ignored; https://filevine.com/ was read. Not coded: capability and fit descriptions (workflow customization, AI case intelligence, texting, deadline tracking, timekeeping and LEDES billing), 'typically higher-end' pricing comparisons, hedged lines ('can involve tiered pricing'), ratings, and the 'PI module' wording. Pass 2 (8 Oct 2026): no browser reads exist for this vendor; the two blocked pages are third-party cause pages, not own pages, so no claim was re-classed. The gaps file and the answers' tables and sub-headings add no in-scope statement (every Custom or Quote-based pricing cell is already an instance of C01). Consistency check: C15 kept wrong; the about page's 100,000 Filevine Users counts the same unit as the claimed 200,000+ legal professionals and the claimed floor is twice the published count, although the same page gives two different customer figures (6,000 clients and over 6,500 customers).",
+ "answer_record_ids": [
+  "legal-practice-management|q1|Claude|1",
+  "legal-practice-management|q1|Claude|2",
+  "legal-practice-management|q1|Claude|3",
+  "legal-practice-management|q1|Google AI Mode|1",
+  "legal-practice-management|q1|Google AI Mode|3",
+  "legal-practice-management|q1|Google AI Overviews|1",
+  "legal-practice-management|q1|Perplexity|2",
+  "legal-practice-management|q1|Perplexity|3",
+  "legal-practice-management|q10|ChatGPT|1",
+  "legal-practice-management|q10|ChatGPT|2",
+  "legal-practice-management|q10|ChatGPT|3",
+  "legal-practice-management|q10|Claude|1",
+  "legal-practice-management|q10|Claude|2",
+  "legal-practice-management|q10|Claude|3",
+  "legal-practice-management|q10|Google AI Mode|1",
+  "legal-practice-management|q10|Google AI Mode|2",
+  "legal-practice-management|q10|Google AI Mode|3",
+  "legal-practice-management|q10|Google AI Overviews|1",
+  "legal-practice-management|q10|Google AI Overviews|2",
+  "legal-practice-management|q10|Google AI Overviews|3",
+  "legal-practice-management|q10|Perplexity|1",
+  "legal-practice-management|q10|Perplexity|2",
+  "legal-practice-management|q10|Perplexity|3",
+  "legal-practice-management|q2|Claude|2",
+  "legal-practice-management|q2|Google AI Mode|2",
+  "legal-practice-management|q2|Google AI Mode|3",
+  "legal-practice-management|q3|ChatGPT|1",
+  "legal-practice-management|q3|ChatGPT|2",
+  "legal-practice-management|q3|ChatGPT|3",
+  "legal-practice-management|q3|Claude|1",
+  "legal-practice-management|q3|Claude|2",
+  "legal-practice-management|q3|Claude|3",
+  "legal-practice-management|q3|Google AI Mode|1",
+  "legal-practice-management|q3|Google AI Mode|2",
+  "legal-practice-management|q3|Google AI Mode|3",
+  "legal-practice-management|q3|Google AI Overviews|2",
+  "legal-practice-management|q3|Google AI Overviews|3",
+  "legal-practice-management|q3|Perplexity|1",
+  "legal-practice-management|q3|Perplexity|2",
+  "legal-practice-management|q3|Perplexity|3",
+  "legal-practice-management|q4|Claude|1",
+  "legal-practice-management|q4|Claude|2",
+  "legal-practice-management|q4|Claude|3",
+  "legal-practice-management|q4|Google AI Mode|3",
+  "legal-practice-management|q4|Google AI Overviews|3",
+  "legal-practice-management|q4|Perplexity|1",
+  "legal-practice-management|q4|Perplexity|3",
+  "legal-practice-management|q5|ChatGPT|1",
+  "legal-practice-management|q5|ChatGPT|2",
+  "legal-practice-management|q5|ChatGPT|3",
+  "legal-practice-management|q5|Claude|1",
+  "legal-practice-management|q5|Claude|2",
+  "legal-practice-management|q5|Claude|3",
+  "legal-practice-management|q5|Google AI Mode|2",
+  "legal-practice-management|q5|Google AI Mode|3",
+  "legal-practice-management|q5|Google AI Overviews|1",
+  "legal-practice-management|q5|Perplexity|1",
+  "legal-practice-management|q5|Perplexity|2",
+  "legal-practice-management|q5|Perplexity|3",
+  "legal-practice-management|q6|ChatGPT|1",
+  "legal-practice-management|q6|ChatGPT|2",
+  "legal-practice-management|q6|Claude|1",
+  "legal-practice-management|q6|Claude|2",
+  "legal-practice-management|q6|Claude|3",
+  "legal-practice-management|q6|Google AI Mode|1",
+  "legal-practice-management|q6|Google AI Mode|2",
+  "legal-practice-management|q6|Google AI Mode|3",
+  "legal-practice-management|q6|Google AI Overviews|2",
+  "legal-practice-management|q6|Perplexity|1",
+  "legal-practice-management|q6|Perplexity|2",
+  "legal-practice-management|q6|Perplexity|3",
+  "legal-practice-management|q9|Google AI Mode|1",
+  "legal-practice-management|q9|Google AI Overviews|2",
+  "legal-practice-management|q9|Google AI Overviews|3"
+ ],
+ "named_count": 74
+}

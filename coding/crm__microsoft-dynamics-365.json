@@ -1,0 +1,582 @@
+{
+ "vendor": "Microsoft Dynamics 365",
+ "slug": "microsoft-dynamics-365",
+ "category": "crm",
+ "coded_at": "2026-10-08T04:08:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.microsoft.com/en-us/dynamics-365/products/sales/pricing",
+   "key": "51811488e51a220e",
+   "used_for": "pricing (product's own page; product-family vendor)"
+  },
+  {
+   "url": "https://www.microsoft.com/en-us/dynamics-365/products/sales",
+   "key": "2226f14042b47b82",
+   "used_for": "product (used as home for the product family)"
+  },
+  {
+   "url": "https://learn.microsoft.com/en-us/dynamics365/sales/configure-premium-forecasting",
+   "key": "981cf3756c835a72",
+   "used_for": "plans (premium forecasting licensing)"
+  },
+  {
+   "url": "https://ceven.io/best/best-crm-for-mid-market-companies-2026",
+   "key": "24eb699116aff8b7",
+   "used_for": "cause tracing (cited page; HTTP 522, thin)"
+  },
+  {
+   "url": "https://www.sybill.ai/blogs/salesforce-vs-hubspot-vs-zoho",
+   "key": "78d9d3b11bc8c6ad",
+   "used_for": "cause tracing (cited page)"
+  },
+  {
+   "url": "https://highlevelautomationteam.com/best-crm-software-in-the-world-2026/",
+   "key": "a518a2845efec24e",
+   "used_for": "cause tracing (cited page)"
+  },
+  {
+   "url": "https://www.viewpointanalysis.com/post/crm-software-options-2026",
+   "key": "d25110d1d7fa1a4d",
+   "used_for": "cause tracing (cited page)"
+  },
+  {
+   "url": "https://remotereps.com/services/sales-outsourcing/comparison-on-the-top-5-crm-platforms",
+   "key": "17be4807e6b0258e",
+   "used_for": "cause tracing (cited page)"
+  },
+  {
+   "url": "https://lagrowthmachine.com/best-sales-crm-tools-2026/",
+   "key": "627e4bb2c6fe311f",
+   "used_for": "cause tracing (cited page)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Dynamics 365 Sales Enterprise costs $105 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.microsoft.com/en-us/dynamics-365/products/sales/pricing",
+   "proof_quote": "Dynamics 365 Sales Enterprise Edition Industry-leading sales force automation with contextual insights, AI, and advanced customization. $105.00 user/month, paid yearly",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Sales Enterprise at $105.00 per user per month paid yearly, matching plan, unit and the annual basis both answers state for their price lists.",
+   "instances": [
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "**Dynamics 365 Sales:** Enterprise **$105**; Premium **$150**."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|3",
+     "quote": "**Dynamics 365 Sales Enterprise:** **$105**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Dynamics 365 Sales Premium costs $150 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.microsoft.com/en-us/dynamics-365/products/sales/pricing",
+   "proof_quote": "Dynamics 365 Sales Premium Advanced sales intelligence, agentic insights and automation. $150.00 user/month, paid yearly",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Sales Premium at $150.00 per user per month paid yearly.",
+   "instances": [
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "**Dynamics 365 Sales:** Enterprise **$105**; Premium **$150**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Dynamics 365 Sales Professional costs $65 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.microsoft.com/en-us/dynamics-365/products/sales/pricing",
+   "proof_quote": "Dynamics 365 Sales Professional Core sales force automation, Microsoft 365 interoperation, reporting, and dashboards. $65.00 user/month, paid yearly",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Sales Professional at $65.00 per user per month (paid yearly); the answer gives no billing period.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "Pricing runs $65/user/month for Sales Professional and $135/user/month for Sales Enterprise."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Dynamics 365 Sales Enterprise costs $135 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.microsoft.com/en-us/dynamics-365/products/sales/pricing",
+   "proof_quote": "Dynamics 365 Sales Enterprise Edition Industry-leading sales force automation with contextual insights, AI, and advanced customization. $105.00 user/month, paid yearly",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes one price for Sales Enterprise, $105.00 per user per month, which contradicts $135 for the same plan and unit; no page read dates a change from $135. Two cited pages give $135 for Sales Premium and $95 for Enterprise, so no cited page carries the claim as stated. Pass 2 consistency check: kept wrong; the answer states no billing period and the page publishes only the paid-yearly price for Enterprise, the same basis used to class C03 true from the same sentence.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "Pricing runs $65/user/month for Sales Professional and $135/user/month for Sales Enterprise."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Dynamics 365 costs about $65 to $135 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The approximate range names no plan for its upper bound; the published Sales plans are $65, $105 and $150, so the range is neither confirmed nor contradicted for a named plan.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "Microsoft ecosystem users | $65–$135/user/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "plans",
+   "claim": "Advanced customization is included in Sales Enterprise.",
+   "class": "true",
+   "proof_url": "https://www.microsoft.com/en-us/dynamics-365/products/sales/pricing",
+   "proof_quote": "Dynamics 365 Sales Enterprise Edition Industry-leading sales force automation with contextual insights, AI, and advanced customization.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page describes Sales Enterprise as including advanced customization.",
+   "instances": [
+    {
+     "record_id": "crm|2|ChatGPT|3",
+     "quote": "Microsoft 365 integration, advanced customization in Enterprise, and forecasting using custom tables."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "Microsoft 365 integration alongside sales automation, reporting, and advanced customization in Enterprise."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "plans",
+   "claim": "Predictive (premium) forecasting requires specific licensing and is not available in all regions.",
+   "class": "true",
+   "proof_url": "https://learn.microsoft.com/en-us/dynamics365/sales/configure-premium-forecasting",
+   "proof_quote": "Premium forecasting requires a specific Dynamics 365 Sales license and is not available in all regions.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Microsoft's own documentation states premium forecasting requires a specific Dynamics 365 Sales license and is not available in all regions.",
+   "instances": [
+    {
+     "record_id": "crm|7|ChatGPT|1",
+     "quote": "predictive forecasting has specific licensing and regional requirements"
+    },
+    {
+     "record_id": "crm|7|ChatGPT|2",
+     "quote": "Predictive features require eligible licensing and configuration."
+    },
+    {
+     "record_id": "crm|7|ChatGPT|3",
+     "quote": "predictive forecasting has licensing and regional restrictions"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "plans",
+   "claim": "Relationship analytics (with dashboards, forecasting and velocity tracking) come through the Sales Premium plan.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists relationship analytics under the sales engagement feature, but its plan check marks are images that the snapshot does not carry, so the plan placement cannot be read.",
+   "instances": [
+    {
+     "record_id": "crm|7|Claude|1",
+     "quote": "Real-time sales dashboards, forecasting modules, sales velocity tracking, and relationship analytics through the Sales Premium plan deliver enterprise-grade insight."
+    },
+    {
+     "record_id": "crm|7|Claude|3",
+     "quote": "Real-time sales dashboards, forecasting modules, sales velocity tracking, and relationship analytics through the Sales Premium plan deliver enterprise-grade insight."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "plans",
+   "claim": "Some premium sales-agent capabilities require Microsoft 365 Copilot licenses.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says agents require Copilot Credits (included in Sales Premium or bought separately) and that some Teams capabilities need additional licenses, but no page read says Microsoft 365 Copilot licenses are required.",
+   "instances": [
+    {
+     "record_id": "crm|3|ChatGPT|1",
+     "quote": "some premium sales-agent capabilities require Microsoft 365 Copilot licenses"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "product_names",
+   "claim": "Dynamics 365's built-in AI is named Copilot.",
+   "class": "true",
+   "proof_url": "https://www.microsoft.com/en-us/dynamics-365/products/sales/pricing",
+   "proof_quote": "Includes Copilot in Dynamics 365 and agentic capabilities:",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names the AI included in Sales Enterprise as Copilot in Dynamics 365.",
+   "instances": [
+    {
+     "record_id": "crm|2|Google AI Mode|2",
+     "quote": "Its native AI (Copilot and conversation intelligence)"
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "Microsoft Dynamics with Copilot is rapidly catching up as an AI-first CRM strategy."
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|2",
+     "quote": "Advanced predictive forecasting using AI Copilot"
+    },
+    {
+     "record_id": "crm|7|Google AI Overviews|3",
+     "quote": "AI Engine | Einstein | Breeze | Zia | Copilot / AI | Built-in"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "integrations",
+   "claim": "Dynamics 365 Sales integrates with Microsoft 365.",
+   "class": "true",
+   "proof_url": "https://www.microsoft.com/en-us/dynamics-365/products/sales",
+   "proof_quote": "Core sales force automation and Microsoft 365 integration",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page describes Sales Professional as including Microsoft 365 integration (the pricing page says Microsoft 365 interoperation).",
+   "instances": [
+    {
+     "record_id": "crm|2|ChatGPT|1",
+     "quote": "Microsoft 365 integration, advanced customization, and forecasts that combine quotas, pipeline activity, and management-hierarchy rollups."
+    },
+    {
+     "record_id": "crm|2|ChatGPT|2",
+     "quote": "Microsoft 365 integration is a major requirement. It combines that integration with forecasting and advanced customization"
+    },
+    {
+     "record_id": "crm|2|ChatGPT|3",
+     "quote": "Microsoft 365 integration, advanced customization in Enterprise, and forecasting using custom tables."
+    },
+    {
+     "record_id": "crm|2|Perplexity|1",
+     "quote": "strong if your team already lives in **Microsoft 365** and needs configurable processes with tight Microsoft integration"
+    },
+    {
+     "record_id": "crm|3|ChatGPT|1",
+     "quote": "Microsoft 365 integration, advanced customization, and sales intelligence make it a natural candidate for a Microsoft-centered environment."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "Microsoft 365 integration alongside sales automation, reporting, and advanced customization in Enterprise."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|3",
+     "quote": "Microsoft 365 interoperability, advanced customization, and connections to Power BI and Power Platform"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "integrations",
+   "claim": "Dynamics 365 Sales integrates with Outlook.",
+   "class": "true",
+   "proof_url": "https://www.microsoft.com/en-us/dynamics-365/products/sales/pricing",
+   "proof_quote": "Included Copilot capabilities in Outlook: Dynamics 365 record creation, editing, and reading",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Dynamics 365 record creation, editing and reading in Outlook.",
+   "instances": [
+    {
+     "record_id": "crm|3|Google AI Mode|2",
+     "quote": "It natively integrates with Outlook, Teams, and Azure, blending robust ERP and CRM data capabilities."
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "already embedded in the Microsoft ecosystem (Teams, Outlook, Azure), offering deep integrations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "integrations",
+   "claim": "Dynamics 365 Sales integrates with Microsoft Teams.",
+   "class": "true",
+   "proof_url": "https://www.microsoft.com/en-us/dynamics-365/products/sales/pricing",
+   "proof_quote": "Included Copilot capabilities in Teams: unlimited conversation intelligence in Teams, collaborative deal rooms",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Dynamics 365 Sales capabilities inside Microsoft Teams.",
+   "instances": [
+    {
+     "record_id": "crm|3|Google AI Mode|2",
+     "quote": "It natively integrates with Outlook, Teams, and Azure, blending robust ERP and CRM data capabilities."
+    },
+    {
+     "record_id": "crm|3|Google AI Mode|3",
+     "quote": "Native, seamless integration with Office 365, Microsoft Teams, Azure, and Power BI"
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "already embedded in the Microsoft ecosystem (Teams, Outlook, Azure), offering deep integrations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "integrations",
+   "claim": "Dynamics 365 Sales integrates with Azure.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page only says an Azure subscription is required to use and bill agents; no page read describes an integration between Dynamics 365 Sales and Azure services.",
+   "instances": [
+    {
+     "record_id": "crm|3|Google AI Mode|2",
+     "quote": "It natively integrates with Outlook, Teams, and Azure, blending robust ERP and CRM data capabilities."
+    },
+    {
+     "record_id": "crm|3|Google AI Mode|3",
+     "quote": "Native, seamless integration with Office 365, Microsoft Teams, Azure, and Power BI"
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|3",
+     "quote": "Deeply integrated with the Microsoft ecosystem (Power BI, Excel, Azure)"
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "already embedded in the Microsoft ecosystem (Teams, Outlook, Azure), offering deep integrations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "integrations",
+   "claim": "Dynamics 365 Sales integrates with Power BI.",
+   "class": "true",
+   "proof_url": "https://www.microsoft.com/en-us/dynamics-365/products/sales/pricing",
+   "proof_quote": "Includes export to Excel and advanced analytics with Microsoft Power BI.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says reporting and dashboards include advanced analytics with Microsoft Power BI.",
+   "instances": [
+    {
+     "record_id": "crm|3|ChatGPT|3",
+     "quote": "Microsoft 365 interoperability, advanced customization, and connections to Power BI and Power Platform"
+    },
+    {
+     "record_id": "crm|3|Google AI Mode|3",
+     "quote": "Native, seamless integration with Office 365, Microsoft Teams, Azure, and Power BI"
+    },
+    {
+     "record_id": "crm|7|ChatGPT|1",
+     "quote": "Native views, charts, and dashboards, with Excel and Power BI options for deeper analysis."
+    },
+    {
+     "record_id": "crm|7|ChatGPT|2",
+     "quote": "Native dashboards plus Power BI integration; Dynamics/Dataverse data can feed Power BI reporting."
+    },
+    {
+     "record_id": "crm|7|ChatGPT|3",
+     "quote": "Native dashboards and charts, plus Excel and Power BI for deeper analysis."
+    },
+    {
+     "record_id": "crm|7|Claude|1",
+     "quote": "Dynamics 365's analytics are powered natively by Power BI"
+    },
+    {
+     "record_id": "crm|7|Claude|3",
+     "quote": "Dynamics 365's analytics are powered natively by Power BI"
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|2",
+     "quote": "Deep native tie-ins with Power BI, Excel, and the broader Microsoft ecosystem."
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|3",
+     "quote": "Deeply integrated with the Microsoft ecosystem (Power BI, Excel, Azure)"
+    },
+    {
+     "record_id": "crm|7|Google AI Overviews|3",
+     "quote": "Reporting: Native, powerful integration with Power BI for advanced visual analytics."
+    },
+    {
+     "record_id": "crm|7|Perplexity|1",
+     "quote": "Very advanced analytics, especially with Power BI integration"
+    },
+    {
+     "record_id": "crm|7|Perplexity|2",
+     "quote": "tight Power BI integration"
+    },
+    {
+     "record_id": "crm|7|Perplexity|3",
+     "quote": "Advanced, especially with Power BI integration"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "integrations",
+   "claim": "Dynamics 365 Sales integrates with Excel.",
+   "class": "true",
+   "proof_url": "https://www.microsoft.com/en-us/dynamics-365/products/sales/pricing",
+   "proof_quote": "Includes export to Excel and advanced analytics with Microsoft Power BI.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says reporting includes export to Excel (the product page also mentions exporting to Excel).",
+   "instances": [
+    {
+     "record_id": "crm|7|ChatGPT|1",
+     "quote": "Native views, charts, and dashboards, with Excel and Power BI options for deeper analysis."
+    },
+    {
+     "record_id": "crm|7|ChatGPT|3",
+     "quote": "Native dashboards and charts, plus Excel and Power BI for deeper analysis."
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|2",
+     "quote": "Deep native tie-ins with Power BI, Excel, and the broader Microsoft ecosystem."
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|3",
+     "quote": "Deeply integrated with the Microsoft ecosystem (Power BI, Excel, Azure)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "integrations",
+   "claim": "Dynamics 365 Sales integrates with Office 365.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read name Microsoft 365, not Office 365, and do not say whether the two names refer to the same suite.",
+   "instances": [
+    {
+     "record_id": "crm|3|Google AI Mode|3",
+     "quote": "Native, seamless integration with Office 365, Microsoft Teams, Azure, and Power BI"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "integrations",
+   "claim": "Dynamics 365 Sales integrates with Power Platform.",
+   "class": "true",
+   "proof_url": "https://www.microsoft.com/en-us/dynamics-365/products/sales",
+   "proof_quote": "Integrate and extend with Power Platform",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page says Dynamics 365 Sales integrates and extends with Power Platform.",
+   "instances": [
+    {
+     "record_id": "crm|3|ChatGPT|3",
+     "quote": "Microsoft 365 interoperability, advanced customization, and connections to Power BI and Power Platform"
+    },
+    {
+     "record_id": "crm|6|Perplexity|1",
+     "quote": "wants CRM plus Power Platform integration"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Microsoft is a product-family vendor, so the Dynamics 365 Sales product page stands in for the home page and microsoft.com corporate pages were not read. Three own pages read, all HTTP 200 and not thin (pricing, product, and one Microsoft Learn page cited by an answer). The pricing comparison table marks plan features with images, so feature-by-plan rows (relationship analytics, predictive forecasting by plan) cannot be read from the snapshot. Integrations with Microsoft's own products (Microsoft 365, Outlook, Teams, Power BI, Excel, Power Platform, Azure, Office 365) were coded as integrations claims because the guide's examples are named products; a reviewer may prefer to drop first-party products. Lines that only say a buyer's organization lives in the Microsoft ecosystem (Outlook, Teams, Azure listed as the buyer's tools) were not coded as integration claims. C04 is wrong against the single published Sales Enterprise price ($105 paid yearly); six cited pages were read for its cause (the cause budget): ceven.io answered HTTP 522, and none carries $135 for Sales Enterprise, while remotereps.com and lagrowthmachine.com give $135 for Sales Premium and $95 for Enterprise, so the cause is recorded as not found. Feature names (Sales Accelerator, Dataverse) and ratings or market-position lines were not coded. Hedged or advisory lines (validate licensing, check additional licenses) were not coded. Pass 2 (8 Oct 2026): no browser snapshot exists for this vendor; C08 stays unverifiable because the pricing table's plan marks are images in every read, and the other unverifiable claims are not about a blocked or thin page. Added instances: crm|7|Google AI Overviews|3 to C10 (its comparison table, with Dynamics 365 as a column header, gives 'Copilot / AI' as the Dynamics 365 AI engine; the header row omits HubSpot, so the values are read in the answer's own vendor order) and crm|3|Claude|3 to C12, C13 and C14 (that line says Dynamics 365 offers deep integrations with the ecosystem it names: Teams, Outlook, Azure; unlike the buyer-ecosystem lines it states the integration). Consistency check: C04 stays wrong (same plan and unit; the page publishes only the paid-yearly price).",
+ "answer_record_ids": [
+  "crm|2|ChatGPT|1",
+  "crm|2|ChatGPT|2",
+  "crm|2|ChatGPT|3",
+  "crm|2|Google AI Mode|2",
+  "crm|2|Perplexity|1",
+  "crm|2|Perplexity|2",
+  "crm|2|Perplexity|3",
+  "crm|3|ChatGPT|1",
+  "crm|3|ChatGPT|2",
+  "crm|3|ChatGPT|3",
+  "crm|3|Claude|1",
+  "crm|3|Claude|2",
+  "crm|3|Claude|3",
+  "crm|3|Google AI Mode|1",
+  "crm|3|Google AI Mode|2",
+  "crm|3|Google AI Mode|3",
+  "crm|3|Google AI Overviews|1",
+  "crm|3|Google AI Overviews|2",
+  "crm|3|Google AI Overviews|3",
+  "crm|3|Perplexity|1",
+  "crm|3|Perplexity|2",
+  "crm|3|Perplexity|3",
+  "crm|6|Perplexity|1",
+  "crm|6|Perplexity|2",
+  "crm|6|Perplexity|3",
+  "crm|7|ChatGPT|1",
+  "crm|7|ChatGPT|2",
+  "crm|7|ChatGPT|3",
+  "crm|7|Claude|1",
+  "crm|7|Claude|3",
+  "crm|7|Google AI Mode|2",
+  "crm|7|Google AI Mode|3",
+  "crm|7|Google AI Overviews|3",
+  "crm|7|Perplexity|1",
+  "crm|7|Perplexity|2",
+  "crm|7|Perplexity|3"
+ ],
+ "named_count": 36
+}

@@ -1,0 +1,1370 @@
+{
+ "vendor": "EZLynx",
+ "slug": "ezlynx",
+ "category": "insurance-agency-management",
+ "coded_at": "2026-10-08T04:16:00Z",
+ "pages_read": [
+  {
+   "url": "https://ezlynx.com/",
+   "key": "bd4dec6618cbf35c",
+   "used_for": "home (redirects to https://www.ezlynx.com/)"
+  },
+  {
+   "url": "https://www.ezlynx.com/why-ezlynx/pricing",
+   "key": "f116196c0722c746",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.ezlynx.com/company/",
+   "key": "d92a8fb6268569ef",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.ezlynx.com/products/management-system",
+   "key": "0cb772386aae4e03",
+   "used_for": "product (EZLynx Management System)"
+  },
+  {
+   "url": "https://www.ezlynx.com/products/rating-engine",
+   "key": "6a05ffdd925ea76d",
+   "used_for": "product (EZLynx Rating Engine)"
+  },
+  {
+   "url": "https://www.ezlynx.com/products/",
+   "key": "6da7fd192a610e12",
+   "used_for": "all products"
+  },
+  {
+   "url": "https://www.ezlynx.com/solutions/sales-marketing/",
+   "key": "c28d27b47c0f8837",
+   "used_for": "sales and marketing (CRM module names)"
+  },
+  {
+   "url": "https://www.ezlynx.com/solutions/payments/",
+   "key": "2ed7acf737d58b8c",
+   "used_for": "accounting and payments (integrations)"
+  },
+  {
+   "url": "https://agencymate.com/insights/insurance-agency-management-system/",
+   "key": "436de4ea94554688",
+   "used_for": "cause tracing for C07 (cited by the answer)"
+  },
+  {
+   "url": "https://www.quicksilversystems.com/insurance-software-providers/list-of-insurance-software-providers.html",
+   "key": "c00fe1f64947f0c1",
+   "used_for": "cause tracing for C07 (cited by the answer)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "ownership",
+   "claim": "EZLynx is owned by Applied Systems (an Applied Systems product).",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/why-ezlynx/pricing",
+   "proof_quote": "Copyright © 2026 Applied Systems Inc. All Rights Reserved",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Every EZLynx page read carries an Applied Systems Inc. copyright line, and the payments page sells Applied Pay as EZLynx's own integration; this matches the claim that Applied Systems owns EZLynx.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "Applied Epic and EZLynx are both Applied Systems products."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|2",
+     "quote": "**Epic and EZLynx are both Applied Systems offerings**"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|3",
+     "quote": "Epic and EZLynx are both in Applied’s product portfolio"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Mode|3",
+     "quote": "(Note: Applied actually owns EZLynx, but keeps Epic separate as their heavy-duty flagship platform)."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Overviews|1",
+     "quote": "Overview: The flagship enterprise agency management system from Applied Systems (the parent company of EZLynx)."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|1",
+     "quote": "**EZLynx is owned by Applied Systems**"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|2",
+     "quote": "**It is also an Applied Systems product**"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|3",
+     "quote": "**It is also owned by Applied Systems**"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "EZLynx, owned by Applied Systems, leads with personal-lines quoting and an all-in-one cloud suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "EZLynx, owned by Applied Systems, leads with personal-lines quoting and an all-in-one cloud suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "EZLynx, owned by Applied Systems, leads with personal-lines quoting and an all-in-one cloud suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "both Applied Epic and EZLynx are owned by Applied Systems."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|2",
+     "quote": "**both Applied Epic and EZLynx are owned by Applied Systems**"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "both Applied Epic and EZLynx are owned by Applied Systems."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Mode|3",
+     "quote": "Both Applied Epic and EZLynx are owned by the same parent company (Applied Systems)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "acquisitions",
+   "claim": "Applied Systems acquired EZLynx in March 2021.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No EZLynx page read in this study dates the acquisition; Applied's own 2021 press list (read for the Applied Systems file, not an EZLynx page) records it on 9 March 2021.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "Applied acquired EZLynx in March 2021 and runs it as a sibling product to Epic."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|2",
+     "quote": "Applied acquired EZLynx in March 2021, and they run it as a sibling product to Epic"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "Applied acquired EZLynx in March 2021 and runs it as a sibling product."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "EZLynx pricing depends on the number of users and the products or features selected; there is no single flat price.",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/why-ezlynx/pricing",
+   "proof_quote": "EZLynx pricing is based on the number of users at your agency and the products you need, so there’s no single flat rate.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states that price depends on users and products and that there is no single flat rate.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|1",
+     "quote": "EZLynx says pricing depends on users and selected products/features."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|2",
+     "quote": "EZLynx says pricing depends on user count and selected products."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "EZLynx prices by users and selected products"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|ChatGPT|1",
+     "quote": "EZLynx explicitly prices by users and selected products"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|ChatGPT|2",
+     "quote": "EZLynx explicitly prices by users and selected products"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|ChatGPT|3",
+     "quote": "EZLynx says pricing depends on user count and products"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "EZLynx pricing is based on the number of users at your agency and the products you need, so there's no single flat rate."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "Pricing varies based on the number of users and modules chosen, such as client management, reporting, and document management."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|1",
+     "quote": "**EZLynx pricing is quote-based**, depending on users and products."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|2",
+     "quote": "EZLynx publishes customized pricing based on users and products"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|3",
+     "quote": "**EZLynx doesn’t publish a single flat price:** pricing depends on users and selected products"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|1",
+     "quote": "with pricing scaling based on user count and selected features."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "Custom quotes based on agency size and modules"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|2",
+     "quote": "the complex pricing structure with additional fees, implementation charges, and per-user costs can quickly escalate beyond initial budgets."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "EZLynx is priced by custom quote rather than a published price list.",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/why-ezlynx/pricing",
+   "proof_quote": "To get a price tailored to your agency, reach out to us and we can talk through the best options.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no prices and directs agencies to contact EZLynx for a tailored price.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|1",
+     "quote": "**EZLynx pricing is quote-based**"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|2",
+     "quote": "EZLynx publishes customized pricing based on users and products"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|1",
+     "quote": "Tiered/Custom scaling pricing"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Mode|1",
+     "quote": "Meaningfully cheaper TCO; quote-based monthly subscription"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Mode|2",
+     "quote": "Neither vendor publishes transparent public pricing"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "Custom quotes based on agency size and modules; typically $150–$300 per user/month with add-ons for advanced features."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "EZLynx pricing is tiered (tiered packages).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says pricing is tailored to users and products but neither names nor rules out tiers or packages.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Claude|2",
+     "quote": "**Pricing:** Tiered, from approximately $150/user/month depending on features."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|1",
+     "quote": "Tiered/Custom scaling pricing"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|2",
+     "quote": "Tiered, ~$150 to $1,100+/month based on modules"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|2",
+     "quote": "Tiered (Varies if bundling raters)"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "EZLynx uses a subscription-based pricing model offering tiered packages."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Overviews|1",
+     "quote": "Predictable monthly subscription tier."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|3",
+     "quote": "Tiered, from approximately $150/user/month depending on features."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "EZLynx is sold as a monthly subscription.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No EZLynx page read in this study states the billing term or that EZLynx is a subscription.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "EZLynx uses a subscription-based pricing model offering tiered packages."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Mode|1",
+     "quote": "Meaningfully cheaper TCO; quote-based monthly subscription"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Overviews|1",
+     "quote": "Predictable monthly subscription tier."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "EZLynx bundles its rater, policy management and client portal in a single flat fee.",
+   "class": "wrong",
+   "proof_url": "https://www.ezlynx.com/why-ezlynx/pricing",
+   "proof_quote": "EZLynx pricing is based on the number of users at your agency and the products you need, so there’s no single flat rate.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page states there is no single flat rate because price depends on users and products, which contradicts a single flat fee for the bundle (the same pricing structure, so like with like); the two readable cited pages (agencymate.com, quicksilversystems.com) do not carry the statement and the Reddit threads are disallowed by robots.txt.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Overviews|2",
+     "quote": "Why it works: Combines a powerful comparative rater, policy management, and client portal in a single flat fee."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "EZLynx costs under $2,400 a year for a small agency.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no price on the pages read; prices are quoted per agency.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|1",
+     "quote": "EZLynx is the best value for small personal lines agencies, with annual costs under $2,400."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|2",
+     "quote": "EZLynx is the best value for small personal lines agencies at under $2,400 per year."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|3",
+     "quote": "EZLynx is the best value for small personal lines agencies, with an annual cost under $2,400."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "The integrated comparative rater at a sub-$2,400/year price point is considered the best value proposition in the market for this segment."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|3",
+     "quote": "EZLynx is the best value for small personal lines agencies under $2,400/year."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|1",
+     "quote": "EZLynx combines comparative rating and AMS in one platform, with an annual cost under $2,400 for small agencies"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|3",
+     "quote": "Annual cost: under $2,400 for small agencies."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "EZLynx starts at about $350 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no starting price on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "EZLynx starts at $350 per month and HawkSoft starts at $250 per month"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "EZLynx starts at $350 per month and HawkSoft starts at $250 per month"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "EZLynx starts at **$350/month**"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "EZLynx pricing starts at $350/month."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Perplexity|3",
+     "quote": "One comparison puts EZLynx around **$350/month**"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Overviews|2",
+     "quote": "Meaningfully cheaper (~$350+/mo starting bundle estimates)"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Overviews|3",
+     "quote": "Lower (~$350+/month)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "EZLynx core platforms start in the low $300s per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no starting price on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Mode|3",
+     "quote": "Core platforms typically start in the low $300s per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "EZLynx implementation fees run about $1,000 to $5,000.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No EZLynx page read in this study states implementation fees.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Google AI Mode|3",
+     "quote": "with implementation fees ranging generally from $1,000 to $5,000."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "EZLynx costs about $400 or more per month as a base price.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no price on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Overviews|2",
+     "quote": "Mid-to-High (~$400+/mo base)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "EZLynx costs about $200 to $600 or more per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no price on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|1",
+     "quote": "EZLynx | High-volume Personal Lines (Auto/Home) | $200–$600+ |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "EZLynx starts at $150 per month for small agencies.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no starting price on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Claude|1",
+     "quote": "EZLynx pricing starts at $150/month for small agencies"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "EZLynx costs about $150 to $300 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no per-user price on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "| **EZLynx** | Growing agencies, multi-carrier quoting | Small–Mid | $150–$300/user/mo |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "EZLynx starts at about $150 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no per-user price on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Claude|2",
+     "quote": "**Pricing:** Tiered, from approximately $150/user/month depending on features."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|3",
+     "quote": "Tiered, from approximately $150/user/month depending on features."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "EZLynx costs about $150 to $1,100 or more per month depending on modules.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no price on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|2",
+     "quote": "Tiered, ~$150 to $1,100+/month based on modules"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "EZLynx costs $60 to $120 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no per-user price on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "EZLynx charges $60–$120 per user per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "EZLynx rating alone starts at about $129 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no price for the rater on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "EZLynx pricing starts at $129/month for rating alone."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Overviews|2",
+     "quote": "Entry pricing starts around $129/month for basic rating"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "pricing",
+   "claim": "Most agencies spend $178 to $376 per month on EZLynx modules.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no module prices on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "Most agencies spend $178–$376/month on EZLynx modules"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "Fuller EZLynx packages (life, health and add-ons) cost about $463 to $1,171 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no package prices on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "plus $463–$1,171/month once life, health, and additional features are added."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Overviews|2",
+     "quote": "comprehensive multi-line packages scale much higher ($463–$1,171+/month) as add-ons build up."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "pricing",
+   "claim": "EZLynx charges carrier-specific rate fees on some carriers in its rater.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No EZLynx page read in this study mentions per-carrier rating fees.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "EZLynx charges carrier-specific rate fees on some carriers in its rater"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "EZLynx charges carrier-specific rate fees on some carriers in its rater."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "pricing",
+   "claim": "EZLynx starts at around the low hundreds of dollars per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "EZLynx publishes no starting price on the pages read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Perplexity|1",
+     "quote": "**EZLynx starts around the low hundreds per month**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "customer_counts",
+   "claim": "EZLynx has been adopted by over 37,000 agencies.",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/company/",
+   "proof_quote": "37,000+ Agencies",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The company page's Quick Look gives 37,000+ agencies.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "EZLynx claims that its insurance agency management system has been adopted by over 37,000 agencies across the United States."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "customer_counts",
+   "claim": "EZLynx's comparative rater is used by 38,000 agencies.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages give 37,000+ agencies for EZLynx and 129,000+ users for the Rating Engine but no agency count of 38,000 for the rater; 38,000 is not contradicted by 37,000+.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "includes a native comparative rater used by 38,000 agencies."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "customer_counts",
+   "claim": "EZLynx serves over 20,000 independent agencies.",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/company/",
+   "proof_quote": "37,000+ Agencies",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The company page gives 37,000+ agencies, so more than 20,000 is true as written (a lower bound).",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "EZLynx serves 20,000+ independent insurance agencies"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "integrations",
+   "claim": "EZLynx connects to over 330 carriers (across 48 states).",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/products/rating-engine",
+   "proof_quote": "330+ Industry-leading carriers across 48 U.S. states",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Rating Engine page gives 330+ carriers across 48 states; the home page says over 330.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "It connects to 330+ carriers and pulls vehicle and driver records to pre-fill ACORD forms"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "EZLynx connects to 330+ carriers and pulls vehicle and driver records to pre-fill ACORD forms"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "(which EZLynx says reaches over 330 carriers)"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "The platform connects to 330+ insurance carriers across 48 states"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "It connects to **330+ carriers** and pulls vehicle and driver records to pre-fill ACORD forms"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "integrations",
+   "claim": "EZLynx connects to over 300 carriers.",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/products/rating-engine",
+   "proof_quote": "330+ Industry-leading carriers across 48 U.S. states",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Rating Engine page gives 330+ carriers, so over 300 is true as written (a lower bound); the carrier count on the page is for the personal lines rater, which three answers describe as multi-line rating.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "It integrates with over 300 carriers for real-time multi-line rating across personal and commercial lines."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|2",
+     "quote": "It integrates with over 300 carriers for real-time multi-line rating across personal and commercial lines."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|3",
+     "quote": "It integrates with over 300 carriers for real-time multi-line rating across personal and commercial lines."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Overviews|1",
+     "quote": "Comparative Rating: Industry-leading quoting engine connecting over 300 carriers"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Overviews|2",
+     "quote": "Quoting Powerhouse: Connects over 300 carriers"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Overviews|3",
+     "quote": "Best-in-class comparative rating engine connecting over 300 carriers to enter data once and quote fast."
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "integrations",
+   "claim": "EZLynx connects to over 350 carriers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages give 330 and 330+ carriers; they neither state nor rule out 350+.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "connects to 350+ carriers across the country."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "Some sources report it connects to 350+ carriers across the country."
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "integrations",
+   "claim": "EZLynx connects to 330 to 350+ carriers.",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/products/rating-engine",
+   "proof_quote": "330+ Industry-leading carriers across 48 U.S. states",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The published 330+ carriers falls inside the stated range.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "| **Carrier Connections** | Strong | 330–350+ carriers |"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "| **Carrier Connections** | Moderate | 330–350+ ✅ |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "integrations",
+   "claim": "EZLynx quotes across hundreds of carriers.",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/products/rating-engine",
+   "proof_quote": "Enter applicant data once, and EZLynx Rating Engine provides real-time quotes from hundreds of carriers",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Rating Engine page says it returns quotes from hundreds of carriers.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Mode|3",
+     "quote": "You enter data once and push it across hundreds of carrier markets without jumping systems."
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "integrations",
+   "claim": "EZLynx integrates with QuickBooks Online for the general ledger.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The accounting and payments page read names Applied Pay but not QuickBooks; no page read settles it.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|ChatGPT|1",
+     "quote": "EZLynx supports agency/direct-bill commissions, receivables/payables, and QuickBooks Online general-ledger integration."
+    },
+    {
+     "record_id": "insurance-agency-management|q8|ChatGPT|3",
+     "quote": "EZLynx offers agency/direct-bill commission tracking and QuickBooks Online general-ledger integration."
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "product_names",
+   "claim": "EZLynx's comparative rater is named EZLynx Rating Engine.",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/products/",
+   "proof_quote": "EZLynx Rating Engine™ is an easy-to-use comparative personal lines rater",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page names the comparative rater EZLynx Rating Engine.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "EZLynx markets itself as the easiest-to-use, all-in-one system with the EZLynx Rating Engine comparative rater as its anchor"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "EZLynx markets itself as the easiest-to-use, all-in-one system with the EZLynx Rating Engine comparative rater as its anchor"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "EZLynx markets itself as an all-in-one system, with its Rating Engine comparative rater"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "EZLynx is a comprehensive insurance software known for its innovative Rating Engine"
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "product_names",
+   "claim": "EZLynx's rater is named EZLynx Rater.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read call the rater EZLynx Rating Engine and EZLynx Comparative Rater; the shorter name is neither used nor ruled out.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|1",
+     "quote": "EZLynx Rater is a real-time comparative rating engine that pioneered personal lines comparative quoting."
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "product_names",
+   "claim": "EZLynx's CRM module is named Sales Center (EZLynx Sales Center).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The sales and marketing page read describes a built-in CRM without naming it; no page read names Sales Center.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q6|ChatGPT|1",
+     "quote": "| **EZLynx Sales Center** | **Agencies already using EZLynx** |"
+    },
+    {
+     "record_id": "insurance-agency-management|q6|ChatGPT|3",
+     "quote": "Sales Center provides opportunity tracking, automated follow-ups, and sales visibility within the EZLynx environment."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "the Sales Center CRM"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|3",
+     "quote": "a Sales Center CRM"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "the Sales Center CRM"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "a Sales Center CRM"
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "product_names",
+   "claim": "EZLynx's client portal is named Client Center.",
+   "class": "true",
+   "proof_url": "https://ezlynx.com/",
+   "proof_quote": "through the beautiful thing that is EZLynx Client Center, we have connectivity 24 hours a day",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page names EZLynx Client Center as the 24-hour client connection (in a customer quote the vendor publishes).",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "Client Center portal"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|3",
+     "quote": "a Client Center portal"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "Client Center portal"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "Client Center portal"
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "product_names",
+   "claim": "EZLynx's workflow rules module is named Agency Automation.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names an Agency Automation module.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "Agency Automation workflow rules"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "Agency Automation workflow rules"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "Agency Automation workflow rules"
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "product_names",
+   "claim": "EZLynx sells a website product named Agency Websites.",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/products/",
+   "proof_quote": "EZLynx Agency Websites™ are customizable web designs",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page names EZLynx Agency Websites.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "Client Center portal, and Agency Websites."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "Client Center portal, Agency Websites, and more."
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "product_names",
+   "claim": "EZLynx has a renewal tool named Retention Center.",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/why-ezlynx/pricing",
+   "proof_quote": "Some capabilities, like Retention Center®, you won’t even find as add-ons anywhere else.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names Retention Center as an EZLynx capability.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "with Retention Center supporting renewal prioritization and remarketing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C40",
+   "type": "product_names",
+   "claim": "EZLynx has a third-party connection marketplace named EZLynx Connect Marketplace.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names the Connect Marketplace.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q8|Claude|2",
+     "quote": "the EZLynx Connect Marketplace provides development-free connectivity to third-party vendor solutions."
+    }
+   ]
+  },
+  {
+   "claim_id": "C41",
+   "type": "platforms",
+   "claim": "EZLynx is cloud-based.",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/products/management-system",
+   "proof_quote": "Work from any device, anywhere – EZLynx is 100% cloud-based",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The management system page states EZLynx is 100% cloud-based.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Mode|1",
+     "quote": "All-in-one comparative rater, policy management, and client retention tools built on a unified cloud platform."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Mode|3",
+     "quote": "It’s 100% cloud-based and heavily favored by smaller independent shops."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|2",
+     "quote": "Cloud-based and browser-accessible without installing the AMS."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "EZLynx, owned by Applied Systems, leads with personal-lines quoting and an all-in-one cloud suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "EZLynx, owned by Applied Systems, leads with personal-lines quoting and an all-in-one cloud suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "EZLynx, owned by Applied Systems, leads with personal-lines quoting and an all-in-one cloud suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Mode|2",
+     "quote": "EZLynx is known for pioneering cloud-based rating"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Mode|3",
+     "quote": "It is fully cloud-based, meaning everything runs seamlessly in your web browser."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Overviews|2",
+     "quote": "Fully cloud-based via browser"
+    },
+    {
+     "record_id": "insurance-agency-management|q8|Claude|3",
+     "quote": "EZLynx combines real-time personal lines rating, policy management, automation, and client engagement tools in one cloud solution"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Perplexity|1",
+     "quote": "start with a **lightweight, cloud-native AMS built for small agencies**—most often **EZLynx**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C42",
+   "type": "platforms",
+   "claim": "EZLynx runs in a web browser without installing software.",
+   "class": "true",
+   "proof_url": "https://www.ezlynx.com/products/management-system",
+   "proof_quote": "EZLynx offers an optimized mobile experience and is cloud-based and browser-accessible, so your team can work from anywhere on any device without installing software.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The management system page states EZLynx is browser-accessible without installing software.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|3",
+     "quote": "in a browser-based platform"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|1",
+     "quote": "Browser-accessible without installing software."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|2",
+     "quote": "Cloud-based and browser-accessible without installing the AMS."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "It is browser-accessible."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Mode|3",
+     "quote": "It is fully cloud-based, meaning everything runs seamlessly in your web browser."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Overviews|2",
+     "quote": "Fully cloud-based via browser"
+    }
+   ]
+  }
+ ],
+ "notes": "Eight own pages read on ezlynx.com, all HTTP 200 and not thin. EZLynx publishes no prices: the pricing page says price depends on users and products, so every dollar figure is unverifiable. C07 (a single flat fee) is classed wrong against the pricing page's explicit no single flat rate; a reviewer may read the answer as one combined bill, which the same page also describes. Cause tracing for C07 read agencymate.com and quicksilversystems.com (neither carries it); the cited Reddit thread was disallowed by robots.txt and the two other cited Reddit threads were not requested. C02 (acquired March 2021) is unverifiable here because no EZLynx page dates it, although Applied's own 2021 press list confirms it (true in the Applied Systems file). Lower bounds classed true as written: C26 (20,000+ against 37,000+) and C28 (300+ against 330+); C30 (330 to 350+) is classed true because the published 330+ falls in the range. Not coded: the core product name EZLynx Management System used as a name, review ratings and sentiment scores, awards, a patented retention workflow, the 2026 commercial quoting launch date, quote volumes (8 million rating transactions), hedged lines (network membership may qualify for a discount; a 10-user setup could cost about $15,000; possible setup, conversion and usage charges; additional fees may apply), conditional choose-if lines, and statements whose subject is another vendor (HawkSoft's bridge to EZLynx rating, HawkSoft's free trial). Pass 2 (8 Oct 2026): no browser reads exist for this vendor and no claim was unverifiable because of a blocked or thin page; the eight-page own-page allowance is used, so no page was added, and nothing was re-classed (QuickBooks, Sales Center, Agency Automation, Connect Marketplace, tiers, subscription and the acquisition date are not on any EZLynx snapshot). Gap lines were fit opinions, feature descriptions (native CRM, commercial quoting workflow), comparisons, hedged costs, or about other vendors (Momentum AMP $99, QQCatalyst, HawkSoft); price cells already coded for the same answers were not repeated. Instances added from sub-headings and tables: q8 Claude run 2 per-user costs to C03; q2 Claude run 3 tiered from $150 per user to C05 and C16; q7 Claude run 3 to C27 (330+) and C29 (350+, attributed to some sources); q7 AI Overviews run 3 to C28 (over 300). Consistency check: C07 stays wrong; the pricing page's no single flat rate is an explicit statement about the same pricing structure the answer describes, but a reviewer should look first, since the page also says everything comes on a single bill. The pricing page offers a free trial, but no answer makes a free trial statement about EZLynx.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "insurance-agency-management|q1|ChatGPT|1",
+  "insurance-agency-management|q1|ChatGPT|2",
+  "insurance-agency-management|q1|ChatGPT|3",
+  "insurance-agency-management|q1|Claude|1",
+  "insurance-agency-management|q1|Claude|2",
+  "insurance-agency-management|q1|Claude|3",
+  "insurance-agency-management|q1|Google AI Mode|1",
+  "insurance-agency-management|q1|Google AI Mode|2",
+  "insurance-agency-management|q1|Google AI Mode|3",
+  "insurance-agency-management|q1|Google AI Overviews|1",
+  "insurance-agency-management|q1|Google AI Overviews|2",
+  "insurance-agency-management|q1|Google AI Overviews|3",
+  "insurance-agency-management|q1|Perplexity|1",
+  "insurance-agency-management|q1|Perplexity|2",
+  "insurance-agency-management|q1|Perplexity|3",
+  "insurance-agency-management|q10|ChatGPT|1",
+  "insurance-agency-management|q10|ChatGPT|2",
+  "insurance-agency-management|q10|ChatGPT|3",
+  "insurance-agency-management|q10|Claude|1",
+  "insurance-agency-management|q10|Claude|2",
+  "insurance-agency-management|q10|Claude|3",
+  "insurance-agency-management|q10|Google AI Mode|1",
+  "insurance-agency-management|q10|Google AI Mode|2",
+  "insurance-agency-management|q10|Google AI Mode|3",
+  "insurance-agency-management|q10|Google AI Overviews|1",
+  "insurance-agency-management|q10|Google AI Overviews|2",
+  "insurance-agency-management|q10|Perplexity|1",
+  "insurance-agency-management|q10|Perplexity|2",
+  "insurance-agency-management|q10|Perplexity|3",
+  "insurance-agency-management|q2|Claude|1",
+  "insurance-agency-management|q2|Claude|2",
+  "insurance-agency-management|q2|Claude|3",
+  "insurance-agency-management|q2|Google AI Mode|1",
+  "insurance-agency-management|q2|Google AI Overviews|1",
+  "insurance-agency-management|q2|Google AI Overviews|2",
+  "insurance-agency-management|q2|Google AI Overviews|3",
+  "insurance-agency-management|q2|Perplexity|1",
+  "insurance-agency-management|q2|Perplexity|3",
+  "insurance-agency-management|q3|Google AI Mode|2",
+  "insurance-agency-management|q4|ChatGPT|1",
+  "insurance-agency-management|q4|ChatGPT|2",
+  "insurance-agency-management|q4|ChatGPT|3",
+  "insurance-agency-management|q4|Claude|1",
+  "insurance-agency-management|q4|Claude|2",
+  "insurance-agency-management|q4|Claude|3",
+  "insurance-agency-management|q4|Google AI Mode|1",
+  "insurance-agency-management|q4|Google AI Mode|2",
+  "insurance-agency-management|q4|Google AI Mode|3",
+  "insurance-agency-management|q4|Google AI Overviews|1",
+  "insurance-agency-management|q4|Google AI Overviews|2",
+  "insurance-agency-management|q4|Google AI Overviews|3",
+  "insurance-agency-management|q4|Perplexity|1",
+  "insurance-agency-management|q4|Perplexity|2",
+  "insurance-agency-management|q4|Perplexity|3",
+  "insurance-agency-management|q5|ChatGPT|1",
+  "insurance-agency-management|q5|ChatGPT|2",
+  "insurance-agency-management|q5|ChatGPT|3",
+  "insurance-agency-management|q5|Claude|1",
+  "insurance-agency-management|q5|Claude|2",
+  "insurance-agency-management|q5|Claude|3",
+  "insurance-agency-management|q5|Google AI Mode|1",
+  "insurance-agency-management|q5|Google AI Mode|2",
+  "insurance-agency-management|q5|Google AI Mode|3",
+  "insurance-agency-management|q5|Google AI Overviews|1",
+  "insurance-agency-management|q5|Google AI Overviews|2",
+  "insurance-agency-management|q5|Google AI Overviews|3",
+  "insurance-agency-management|q5|Perplexity|1",
+  "insurance-agency-management|q5|Perplexity|2",
+  "insurance-agency-management|q5|Perplexity|3",
+  "insurance-agency-management|q6|ChatGPT|1",
+  "insurance-agency-management|q6|ChatGPT|2",
+  "insurance-agency-management|q6|ChatGPT|3",
+  "insurance-agency-management|q6|Claude|1",
+  "insurance-agency-management|q6|Claude|2",
+  "insurance-agency-management|q6|Claude|3",
+  "insurance-agency-management|q6|Google AI Mode|1",
+  "insurance-agency-management|q6|Google AI Mode|3",
+  "insurance-agency-management|q6|Google AI Overviews|2",
+  "insurance-agency-management|q6|Perplexity|1",
+  "insurance-agency-management|q6|Perplexity|2",
+  "insurance-agency-management|q6|Perplexity|3",
+  "insurance-agency-management|q7|ChatGPT|1",
+  "insurance-agency-management|q7|ChatGPT|2",
+  "insurance-agency-management|q7|ChatGPT|3",
+  "insurance-agency-management|q7|Claude|1",
+  "insurance-agency-management|q7|Claude|2",
+  "insurance-agency-management|q7|Claude|3",
+  "insurance-agency-management|q7|Google AI Mode|1",
+  "insurance-agency-management|q7|Google AI Mode|2",
+  "insurance-agency-management|q7|Google AI Mode|3",
+  "insurance-agency-management|q7|Google AI Overviews|1",
+  "insurance-agency-management|q7|Google AI Overviews|2",
+  "insurance-agency-management|q7|Google AI Overviews|3",
+  "insurance-agency-management|q7|Perplexity|1",
+  "insurance-agency-management|q7|Perplexity|2",
+  "insurance-agency-management|q7|Perplexity|3",
+  "insurance-agency-management|q8|ChatGPT|1",
+  "insurance-agency-management|q8|ChatGPT|2",
+  "insurance-agency-management|q8|ChatGPT|3",
+  "insurance-agency-management|q8|Claude|1",
+  "insurance-agency-management|q8|Claude|2",
+  "insurance-agency-management|q8|Claude|3",
+  "insurance-agency-management|q8|Google AI Mode|1",
+  "insurance-agency-management|q8|Google AI Mode|2",
+  "insurance-agency-management|q8|Google AI Mode|3",
+  "insurance-agency-management|q8|Google AI Overviews|1",
+  "insurance-agency-management|q8|Google AI Overviews|2",
+  "insurance-agency-management|q8|Google AI Overviews|3",
+  "insurance-agency-management|q8|Perplexity|1",
+  "insurance-agency-management|q8|Perplexity|2",
+  "insurance-agency-management|q8|Perplexity|3"
+ ],
+ "named_count": 111
+}

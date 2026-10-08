@@ -1,0 +1,1117 @@
+{
+ "vendor": "Shepherd",
+ "slug": "shepherd",
+ "category": "veterinary-practice-management",
+ "coded_at": "2026-10-08T04:15:00Z",
+ "pages_read": [
+  {
+   "url": "https://shepherd.vet/",
+   "key": "eb9e9d353153ccd7",
+   "used_for": "home (canonical domain; redirects to www.shepherd.vet)"
+  },
+  {
+   "url": "https://www.shepherd.vet/features",
+   "key": "044a0c05ded7de48",
+   "used_for": "features and subscription inclusions (cited)"
+  },
+  {
+   "url": "https://www.shepherd.vet/shepherd-for/general-practice",
+   "key": "0e07d3ad892a6241",
+   "used_for": "inclusions and pricing FAQ (cited)"
+  },
+  {
+   "url": "https://www.shepherd.vet/about/",
+   "key": "c748e1c3aa6c407e",
+   "used_for": "about and founder"
+  },
+  {
+   "url": "https://www.shepherd.vet/integrations",
+   "key": "4a08b6e54d13e093",
+   "used_for": "integrations (cited)"
+  },
+  {
+   "url": "https://help.shepherd.vet/en/collections/3426100-integrations-data-connections",
+   "key": "3dc94e26f0fef3cd",
+   "used_for": "help-center integrations directory (cited)"
+  },
+  {
+   "url": "https://www.shepherd.vet/blog/8-best-ai-powered-veterinary-practice-management-software-platforms-2026-comparison-guide",
+   "key": "974face105181494",
+   "used_for": "own blog comparison (cited)"
+  },
+  {
+   "url": "https://www.shepherd.vet/blog/",
+   "key": "dd77a6faa250f910",
+   "used_for": "blog and news index (acquisition check)"
+  },
+  {
+   "url": "https://www.layer3labs.io/comparisons/best-veterinary-practice-management-software",
+   "key": "b9bb243754e0754a",
+   "used_for": "cause (cited page; read once under the ezyVet vendor, snapshot reused, not refetched)"
+  },
+  {
+   "url": "https://vetclinictech.com/best-veterinary-practice-management-software-2026/",
+   "key": "971fd72d4227cfc4",
+   "used_for": "cause (cited page, not the cause)"
+  },
+  {
+   "url": "https://co.vet/post/veterinary-software-comparison/",
+   "key": "0fe5d49313c1c21f",
+   "used_for": "cause (cited page, not the cause)"
+  },
+  {
+   "url": "https://www.eunoiaconsultingco.com/blog/veterinary-practice-management-software-comparison-2026",
+   "key": "45af9f611060dbbf",
+   "used_for": "cause (cited page, not the cause)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "platforms",
+   "claim": "Shepherd is cloud-based software.",
+   "class": "true",
+   "proof_url": "https://shepherd.vet/",
+   "proof_quote": "Shepherd is intuitive cloud-based veterinary practice management software that helps you take home more stories and less stress.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page describes Shepherd as cloud-based veterinary practice management software.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Overviews|1",
+     "quote": "it offers a user-friendly, cloud-based, and mobile-friendly layout"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "| **Shepherd** | Cloud | Independent clinics |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|2",
+     "quote": "A user-friendly, cloud-based PIMS built by veterinarians."
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|3",
+     "quote": "Category: Cloud-based user-friendly PIMS"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|1",
+     "quote": "**Move to independent cloud software**: consider **Provet Cloud**, **Shepherd**, or **DaySmart Vet**."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "claiming that the cloud-based solution was"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "claiming the cloud-based solution was"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|1",
+     "quote": "A workflow-first, user-friendly cloud system designed by veterinarians"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "Both are cloud-based, modern platforms with strong support teams"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "Shepherd is a cloud-based veterinary PIMS built for the way veterinary teams really work."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|1",
+     "quote": "two modern, cloud-based Practice Information Management Systems (PIMS)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|2",
+     "quote": "Both are modern, cloud-based Practice Information Management Systems (PIMS)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|3",
+     "quote": "Both Shepherd Veterinary Software and Digitail are modern, cloud-based Practice Information Management Systems (PIMS)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|1",
+     "quote": "Digitail and Shepherd Veterinary Software are both modern, cloud-based practice management systems (PIMS)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|2",
+     "quote": "Digitail and Shepherd Veterinary Software are both modern, cloud-based practice management systems (PIMS)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|1",
+     "quote": "because it is intuitive, cloud-based, and designed around SOAP workflows and charge capture"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "platforms",
+   "claim": "Shepherd has a mobile-friendly layout.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The features page says Shepherd can be used from anywhere on a desktop or tablet; it does not describe a mobile (phone) layout.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Overviews|1",
+     "quote": "it offers a user-friendly, cloud-based, and mobile-friendly layout"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "platforms",
+   "claim": "Shepherd has no standalone native pet-parent (client) app.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages describe a pet portal and client portal and do not mention a native app; absence of a mention does not settle the claim.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|2",
+     "quote": "Online client portal and scheduling features (no standalone native pet app)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|3",
+     "quote": "Shepherd handles standard client communication, but lacks a robust, native pet parent app."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "platforms",
+   "claim": "Shepherd has a pet parent app.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read describe an online pet portal but no pet parent app.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "| Pet parent app | ✅ | ✅ |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Shepherd costs about $299 per month, flat, with unlimited users.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Shepherd's pages publish no price; the general-practice page says pricing is discussed during a demo.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "Flat unlimited-user pricing (Shepherd ~$299/month) is easiest to budget."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "Shepherd uses flat pricing at ~$299/month with no per-user charges"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "Starts at $299/month flat."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "Flat unlimited-user pricing at approximately $299/month, making it the easiest to budget."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "Flat unlimited-user pricing at ~$299/month, making it easy to budget."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Shepherd pricing starts at around $299 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Shepherd's pages publish no price; the general-practice page says pricing is discussed during a demo.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|1",
+     "quote": "Pricing starts around $299 per month"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|2",
+     "quote": "Around $299/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Shepherd costs about $299 per month for one vet, with additional-vet pricing.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Shepherd's pages publish no price or per-vet basis.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|1",
+     "quote": "Publicly reported flat pricing around $299/mo for 1 vet, with added-vet tiers"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|2",
+     "quote": "Public flat pricing around $299/month for 1 vet, with additional-vet pricing reported"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|3",
+     "quote": "Flat, public starting price around $299/month for 1 vet"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Shepherd costs $299 per doctor per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Shepherd's pages publish no price or per-doctor basis.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q4|Claude|3",
+     "quote": "Shepherd starts at $299 per doctor per month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Shepherd costs $299 per month for the first doctor plus $99 per additional doctor.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Shepherd's pages publish no price or per-doctor tiers.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|3",
+     "quote": "Tiered by doctor ($299/mo for 1-doctor + $99/add'l doctor)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Shepherd's pricing is not publicly listed; it is quoted during a demo.",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/shepherd-for/general-practice",
+   "proof_quote": "Pricing is discussed during a demo.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The general-practice page FAQ states that pricing is discussed during a demo, and no page read shows a price.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|2",
+     "quote": "Pricing requires a demo"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|3",
+     "quote": "Pricing requires a demo."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|1",
+     "quote": "Quote required; advertises unlimited users/workstations, training, and no implementation fees."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|2",
+     "quote": "Quote-based; its GP page identifies core inclusions and optional AI."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|3",
+     "quote": "Neither public page reviewed gives a directly comparable dollar price."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "Pricing is not publicly listed and is typically provided on request/demo."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Shepherd's pricing is public (a published starting price).",
+   "class": "wrong",
+   "proof_url": "https://www.shepherd.vet/shepherd-for/general-practice",
+   "proof_quote": "Pricing is discussed during a demo.",
+   "stale_change": null,
+   "causing_url": "https://www.layer3labs.io/comparisons/best-veterinary-practice-management-software",
+   "causing_type": "other",
+   "causing_quote": "it pairs deep workflow automation with flat, transparent pricing and unlimited users",
+   "rationale": "Shepherd states that pricing is discussed during a demo and its pages publish no price, contradicting a public starting price; a cited third-party comparison describes Shepherd's pricing as flat and transparent.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|2",
+     "quote": "Public flat pricing around $299/month for 1 vet"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|3",
+     "quote": "Flat, public starting price around $299/month for 1 vet"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "Shepherd operates on a per-user SaaS pricing model.",
+   "class": "wrong",
+   "proof_url": "https://www.shepherd.vet/features",
+   "proof_quote": "Your subscription always includes Unlimited users Expert training Vet-experienced support Unlimited work stations Shepherd Pay No implementation fees",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The features page states every subscription includes unlimited users, which contradicts per-user pricing; the cited pages read describe Shepherd as not charging per user.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "operates on a per-user SaaS model with strong AI-first design"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "plans",
+   "claim": "The Shepherd subscription includes unlimited users (no per-user charges) and workstations, training, vet-experienced support, and no implementation fees.",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/features",
+   "proof_quote": "Your subscription always includes Unlimited users Expert training Vet-experienced support Unlimited work stations Shepherd Pay No implementation fees",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The features page lists unlimited users, expert training, vet-experienced support, unlimited workstations and no implementation fees as always included.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|1",
+     "quote": "Its published subscription includes unlimited users, training, and no implementation fees"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|2",
+     "quote": "It lists unlimited users, training, and no implementation fees among subscription inclusions."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|3",
+     "quote": "Shepherd’s published subscription includes unlimited users and workstations, training, veterinary-experienced support, and no implementation fees"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|1",
+     "quote": "Flat unlimited-user pricing (Shepherd ~$299/month) is easiest to budget."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|1",
+     "quote": "Its subscription includes unlimited users, training, and veterinary-experienced support."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|2",
+     "quote": "Includes inventory tracking, a client portal, and unlimited users."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|3",
+     "quote": "It lists unlimited users, training, and no implementation fees."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|1",
+     "quote": "Its subscription includes unlimited users, training, and veterinary-experienced support."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|ChatGPT|2",
+     "quote": "Its subscription includes unlimited users, training, and veterinary-experienced support."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "drops the per-user pricing"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "with no per-user charges"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|1",
+     "quote": "Its subscription includes unlimited users, training, and no implementation fees."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|2",
+     "quote": "Subscriptions include unlimited users and training."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|3",
+     "quote": "Subscriptions include unlimited users, training, and veterinary-experienced support."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "~$299/month (unlimited users)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "~$299/mo (unlimited users)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|1",
+     "quote": "advertises unlimited users/workstations, training, and no implementation fees"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|3",
+     "quote": "Advertises unlimited users/workstations, training, and no implementation fees."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "multi-DVM practices that don't have to pay extra for staff usage"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|3",
+     "quote": "transparent flat pricing and unlimited users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "plans",
+   "claim": "Shepherd's AI features (ShepherdAI) are optional.",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/shepherd-for/general-practice",
+   "proof_quote": "ShepherdAI features are optional.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The general-practice page FAQ states that ShepherdAI features are optional.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|1",
+     "quote": "price optional AI features separately"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|3",
+     "quote": "AI features are optional."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|1",
+     "quote": "Get a written quote including optional AI features."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|2",
+     "quote": "AI features are optional."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|1",
+     "quote": "Optional ShepherdAI tools include transcription, decision support, and summaries."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|2",
+     "quote": "Optional ShepherdAI tools include transcription, clinical decision support, and summarization."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "ShepherdAI adds optional, doctor-controlled tools"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "ShepherdAI adds optional, doctor-controlled tools"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "plans",
+   "claim": "Two-way texting, reminders, the client portal and digital forms are included.",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/shepherd-for/general-practice",
+   "proof_quote": "Scheduling, SOAPs, charge capture, two-way texting, automated reminders, the client portal, digital forms, and Shepherd Pay are all included.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The general-practice page FAQ lists these as included.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|1",
+     "quote": "texting, reminders, client portal, and digital forms are included."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|ChatGPT|3",
+     "quote": "Includes scheduling, SOAP records, charge capture, two-way texting, reminders, a client portal, and digital forms."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|1",
+     "quote": "Includes two-way texting, reminders, digital forms, and a client portal for booking, refill requests, certificates, and payments."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|2",
+     "quote": "Includes two-way texting, reminders, digital forms, and a client portal with booking, refill requests, and payments."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "Messaging was previously free but is now charged per credit.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages list two-way texting as included but say nothing about message credits or a dated change.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "Messaging was previously free but is now charged per credit."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "Shepherd does not charge for data migration (for a limited subset of data).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages say Shepherd's migration team handles record transfers but state no migration fee or scope limit.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "doesn't charge for data migration in exchange for migrating a limited subset of data"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "Shepherd data migration is a paid third-party service.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The general-practice page says Shepherd's migration team handles the transfer but states no migration fee, so the paid aspect cannot be settled.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|2",
+     "quote": "Paid third-party data migration (older history sometimes exported as PDFs)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "founding",
+   "claim": "Shepherd was founded (created) by a practicing veterinarian.",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/about/",
+   "proof_quote": "Meet our founder Dr. Cindy Barnes is an experienced emergency vet and medical director of the first 24/7 emergency animal hospital in Northern Arizona.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page names Shepherd's founder as Dr. Cindy Barnes, an experienced emergency veterinarian; the home page says it was built by vets.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "Founded by a practicing veterinarian"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "Founded by a practicing veterinarian"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|2",
+     "quote": "a vet-founded, minimalist, SOAP-centric workflow (Shepherd)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|1",
+     "quote": "Created by a veterinarian, Shepherd focuses heavily on reducing click fatigue"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|1",
+     "quote": "Created by veterinarians, Shepherd was designed to mimic the natural flow of a SOAP note"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "founding",
+   "claim": "Shepherd was founded by Dr. Cindy Barnes, a veterinarian of 20+ years.",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/about/",
+   "proof_quote": "Dr. Cindy Barnes, DVM, CVSMT Founder Read more Dr. Cindy Barnes Dr. Cindy Barnes knows how difficult it is to run a veterinary practice, provide the best care, and, on top of it all, try to savor life too. With 20+ years in the field",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page names Dr. Cindy Barnes as founder with 20+ years in the field.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "Shepherd was founded by Dr. Cindy Barnes, a practicing veterinarian of 20+ years."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "founding",
+   "claim": "Shepherd was founded in 2016.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read gives Shepherd's founding year.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "| **Founded** | 2016 | — |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "acquisitions",
+   "claim": "Shepherd acquired Hippo Manager in March 2025.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the pages read, including the about page and the blog index, mentions Hippo Manager or an acquisition.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "In March 2025, Shepherd acquired Hippo Manager, absorbing its user base and development resources"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "product_names",
+   "claim": "Shepherd's AI suite is named ShepherdAI.",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/shepherd-for/general-practice",
+   "proof_quote": "ShepherdAI is part of the same workflow:",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The general-practice page names the AI suite ShepherdAI.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|1",
+     "quote": "Optional ShepherdAI tools include transcription, decision support, and summaries."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|2",
+     "quote": "Optional ShepherdAI tools include transcription, clinical decision support, and summarization."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "| AI Tools | ShepherdAI (doctor-controlled) | 15+ built-in AI workflows |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|3",
+     "quote": "| AI tools | ✅ (ShepherdAI) | ✅ (15+ AI workflows) |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "product_names",
+   "claim": "Shepherd's AI transcription tool is named TranscribeAI.",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/features",
+   "proof_quote": "TranscribeAI auto-generates SOAP notes right in your PIMS",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The features page names the transcription tool TranscribeAI.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|1",
+     "quote": "built-in AI transcription tools (TranscribeAI)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "Shepherd's TranscribeAI listens to live exam conversations and auto-fills SOAP fields in real time"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|3",
+     "quote": "Native TranscribeAI documentation and DiagnoseAI clinical-support tools."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|1",
+     "quote": "Features built-in tools like TranscribeAI and DiagnoseAI"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|3",
+     "quote": "Shepherd features vet-founded tools like TranscribeAI and DiagnoseAI"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|1",
+     "quote": "Features TranscribeAI and DiagnoseAI to cut down documentation time"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|2",
+     "quote": "AI tools like TranscribeAI and DiagnoseAI"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|3",
+     "quote": "TranscribeAI (live SOAP dictation), DiagnoseAI"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|3",
+     "quote": "Built-in AI tools such as TranscribeAI / DiagnoseAI"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "product_names",
+   "claim": "Shepherd's clinical decision-support tool is named DiagnoseAI.",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/features",
+   "proof_quote": "Trained on real clinical cases, DiagnoseAI offers peer-reviewed, evidence-backed treatment suggestions",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The features page names the decision-support tool DiagnoseAI.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|3",
+     "quote": "Native TranscribeAI documentation and DiagnoseAI clinical-support tools."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|1",
+     "quote": "Features built-in tools like TranscribeAI and DiagnoseAI"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|3",
+     "quote": "Shepherd features vet-founded tools like TranscribeAI and DiagnoseAI"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|1",
+     "quote": "Features TranscribeAI and DiagnoseAI to cut down documentation time"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|2",
+     "quote": "AI tools like TranscribeAI and DiagnoseAI"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|3",
+     "quote": "TranscribeAI (live SOAP dictation), DiagnoseAI"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|3",
+     "quote": "Built-in AI tools such as TranscribeAI / DiagnoseAI"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "product_names",
+   "claim": "Shepherd has an AI feature named Sheppy.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read name ShepherdAI, TranscribeAI, DiagnoseAI and SummarizeAI, but no Sheppy.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Mode|2",
+     "quote": "AI features (like \"Sheppy\" / transcription tools)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "integrations",
+   "claim": "Shepherd integrates with IDEXX labs and imaging.",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/integrations",
+   "proof_quote": "Our integration with IDEXX Laboratories Diagnostics offers full comprehensive access to in-house and Reference Laboratories",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists IDEXX laboratory diagnostics and IDEXX Web PACS imaging integrations.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q4|ChatGPT|1",
+     "quote": "with inventory tracking and IDEXX lab/imaging integrations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "integrations",
+   "claim": "Shepherd integrates with Scout (dental and anesthesia).",
+   "class": "true",
+   "proof_url": "https://help.shepherd.vet/en/collections/3426100-integrations-data-connections",
+   "proof_quote": "Scout Cloud-based dental charting & anesthesia management platform for veterinary teams",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Shepherd's help-center integrations directory lists Scout for dental charting and anesthesia.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|1",
+     "quote": "a Scout integration for dental/anesthesia workflows"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|ChatGPT|3",
+     "quote": "also lists Scout as a dental/anesthesia integration"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "integrations",
+   "claim": "Shepherd integrates with PetDesk.",
+   "class": "true",
+   "proof_url": "https://help.shepherd.vet/en/collections/3426100-integrations-data-connections",
+   "proof_quote": "PetDesk Simplify your clinic with PetDesk’s user-friendly client engagement tools",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Shepherd's help-center integrations directory and integrations page list PetDesk.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "Notable integrations include PetDesk, AllyDVM, AutoRemind, and lab partners."
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|3",
+     "quote": "Integrates smoothly with third-party tools like PetDesk for client engagement"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "integrations",
+   "claim": "Shepherd integrates with AllyDVM.",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/integrations",
+   "proof_quote": "Shepherd's integration with AllyDVM further streamlines client communication, retention, and loyalty",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page describes the AllyDVM integration.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "Notable integrations include PetDesk, AllyDVM, AutoRemind, and lab partners."
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "integrations",
+   "claim": "Shepherd integrates with AutoRemind.",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/integrations",
+   "proof_quote": "Further customize and streamline your veterinary practice today by utilizing the Shepherd and AutoRemind integration!",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page describes the AutoRemind integration.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Claude|1",
+     "quote": "Notable integrations include PetDesk, AllyDVM, AutoRemind, and lab partners."
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "integrations",
+   "claim": "Shepherd integrates with iVET360 PULSE (analytics).",
+   "class": "true",
+   "proof_url": "https://www.shepherd.vet/integrations",
+   "proof_quote": "The iVET360 integration lets Shepherd users connect their practice data to PULSE",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page describes the iVET360 integration with its PULSE dashboard.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q8|Google AI Overviews|3",
+     "quote": "or iVET360/PULSE for analytics"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "integrations",
+   "claim": "Shepherd integrates with Weave.",
+   "class": "true",
+   "proof_url": "https://help.shepherd.vet/en/collections/3426100-integrations-data-connections",
+   "proof_quote": "Weave Connect your Weave VoIP phone system to Shepherd to surface client and patient information automatically during calls.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Shepherd's help-center integrations directory lists the Weave integration.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "Weave integrates with 18+ veterinary PIMS including AVImark, Cornerstone, ezyVet, Neo, Shepherd, and ImproMed."
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "pricing",
+   "claim": "Shepherd uses flat pricing (one price regardless of practice size).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages say subscriptions include unlimited users but publish no price and do not state whether the price varies by doctors or locations.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Overviews|1",
+     "quote": "emphasizes workflow simplicity, built-in AI charting support, and transparent flat pricing"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "DaySmart Vet (cheapest) or Shepherd (flat pricing)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|1",
+     "quote": "strong SOAP documentation and flat, predictable pricing"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|2",
+     "quote": "a straightforward, flat-priced model"
+    },
+    {
+     "record_id": "veterinary-practice-management|q8|Perplexity|3",
+     "quote": "transparent flat pricing and unlimited users"
+    }
+   ]
+  }
+ ],
+ "notes": "Eight own pages read, all HTTP 200 and not thin (blog index is short but readable). Shepherd publishes no prices; its general-practice page says 'Pricing is discussed during a demo', so every dollar figure and price basis is unverifiable, C10 (quote or demo pricing) is true, and C11 ('public' starting price) is wrong (judgement call: the vendor routes pricing to demos and lists none). C12 (per-user SaaS model) is wrong against 'Your subscription always includes Unlimited users'; no cited page read carries it. The founding year 2016 and the March 2025 Hippo Manager acquisition are not on the pages read (about page, blog index), so unverifiable. 'Founded/created by a veterinarian' (C19) was coded only where answers used founding or creating wording; 'designed by' or 'built by veterinarians' lines were treated as product descriptions. Several Shepherd answers in other vendors' bundles (for example q2 Claude and q8 Claude 2) are not in this vendor's bundle under the release matching rule and were not coded here. Cause pages read: layer3labs.io (reused snapshot from the ezyVet vendor; cause of C11), vetclinictech.com, co.vet comparison and eunoiaconsultingco.com (none carries a per-user model for Shepherd). Ratings, outage reports, ease-of-use and support-quality lines were not coded. Pass 2 (8 Oct 2026): the manifest has no browser reads for Shepherd and no claim was unverifiable because an own page was blocked or thin, so nothing was re-classed; re-checking all own snapshots settles none of the unverifiable claims (no price, founding year, Hippo Manager, Sheppy, message-credit or app text). Gap and table review added one instance: C13 q8 Claude 3 ('multi-DVM practices that don't have to pay extra for staff usage'). The remaining gap lines and the vendor-column table cells are features, fit opinions, revenue claims, review scores, statements about Digitail, or the same claim already listed for the same answer; 'Often described as independent or PE-owned depending on source' (q8 Perplexity 2) is hedged and was not coded. Consistency check: C11 kept wrong (the FAQ answer to 'What's included, and what costs extra?' is 'Pricing is discussed during a demo.' and the site navigation has no pricing page; this rests on the vendor's statement of how it discloses price, not on a published figure, so a reviewer may prefer unverifiable); C12 kept wrong (per-user pricing against 'Unlimited users' always included, same unit).",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "veterinary-practice-management|q1|ChatGPT|1",
+  "veterinary-practice-management|q1|ChatGPT|2",
+  "veterinary-practice-management|q1|ChatGPT|3",
+  "veterinary-practice-management|q1|Claude|1",
+  "veterinary-practice-management|q1|Google AI Overviews|3",
+  "veterinary-practice-management|q10|Google AI Mode|2",
+  "veterinary-practice-management|q2|ChatGPT|1",
+  "veterinary-practice-management|q2|ChatGPT|2",
+  "veterinary-practice-management|q2|ChatGPT|3",
+  "veterinary-practice-management|q2|Google AI Mode|1",
+  "veterinary-practice-management|q2|Google AI Overviews|1",
+  "veterinary-practice-management|q2|Google AI Overviews|3",
+  "veterinary-practice-management|q3|ChatGPT|2",
+  "veterinary-practice-management|q4|ChatGPT|1",
+  "veterinary-practice-management|q4|ChatGPT|2",
+  "veterinary-practice-management|q4|ChatGPT|3",
+  "veterinary-practice-management|q4|Claude|3",
+  "veterinary-practice-management|q4|Google AI Mode|1",
+  "veterinary-practice-management|q4|Google AI Overviews|1",
+  "veterinary-practice-management|q4|Google AI Overviews|2",
+  "veterinary-practice-management|q4|Google AI Overviews|3",
+  "veterinary-practice-management|q4|Perplexity|1",
+  "veterinary-practice-management|q5|ChatGPT|1",
+  "veterinary-practice-management|q5|ChatGPT|2",
+  "veterinary-practice-management|q5|ChatGPT|3",
+  "veterinary-practice-management|q5|Claude|1",
+  "veterinary-practice-management|q5|Claude|2",
+  "veterinary-practice-management|q5|Claude|3",
+  "veterinary-practice-management|q5|Google AI Mode|1",
+  "veterinary-practice-management|q5|Google AI Mode|2",
+  "veterinary-practice-management|q5|Google AI Mode|3",
+  "veterinary-practice-management|q5|Google AI Overviews|2",
+  "veterinary-practice-management|q6|ChatGPT|1",
+  "veterinary-practice-management|q6|ChatGPT|2",
+  "veterinary-practice-management|q6|ChatGPT|3",
+  "veterinary-practice-management|q6|Claude|1",
+  "veterinary-practice-management|q6|Claude|2",
+  "veterinary-practice-management|q6|Claude|3",
+  "veterinary-practice-management|q6|Google AI Mode|1",
+  "veterinary-practice-management|q6|Google AI Overviews|2",
+  "veterinary-practice-management|q6|Perplexity|1",
+  "veterinary-practice-management|q6|Perplexity|3",
+  "veterinary-practice-management|q8|ChatGPT|1",
+  "veterinary-practice-management|q8|ChatGPT|2",
+  "veterinary-practice-management|q8|ChatGPT|3",
+  "veterinary-practice-management|q8|Claude|1",
+  "veterinary-practice-management|q8|Claude|3",
+  "veterinary-practice-management|q8|Google AI Mode|1",
+  "veterinary-practice-management|q8|Google AI Mode|2",
+  "veterinary-practice-management|q8|Google AI Mode|3",
+  "veterinary-practice-management|q8|Google AI Overviews|1",
+  "veterinary-practice-management|q8|Google AI Overviews|2",
+  "veterinary-practice-management|q8|Google AI Overviews|3",
+  "veterinary-practice-management|q8|Perplexity|1",
+  "veterinary-practice-management|q8|Perplexity|2",
+  "veterinary-practice-management|q8|Perplexity|3"
+ ],
+ "named_count": 56
+}

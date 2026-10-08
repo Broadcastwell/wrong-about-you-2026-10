@@ -1,0 +1,948 @@
+{
+ "vendor": "CosmoLex",
+ "slug": "cosmolex",
+ "category": "legal-practice-management",
+ "coded_at": "2026-10-08T04:31:00Z",
+ "pages_read": [
+  {
+   "url": "https://cosmolex.com/",
+   "key": "4fa570934b3938fa",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.cosmolex.com/pricing",
+   "key": "59f4bbcb685034de",
+   "used_for": "pricing (plan table in the fetch; read once more in a real browser, 59f4bbcb685034de.browser.txt, whose main text carries no plan table or prices)"
+  },
+  {
+   "url": "https://www.cosmolex.com/about-us/",
+   "key": "8296589a36649c71",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.cosmolex.com/features/law-practice-management",
+   "key": "597afc41a700eaaa",
+   "used_for": "product"
+  },
+  {
+   "url": "https://www.cosmolex.com/features/accounting-finance/",
+   "key": "e49124e7e9587417",
+   "used_for": "accounting product"
+  },
+  {
+   "url": "https://www.cosmolex.com/compare/cosmolex-vs-rocket-matter",
+   "key": "32468b11b2c60a50",
+   "used_for": "own comparison page (redirected to the /compare/ hub)"
+  },
+  {
+   "url": "https://www.thetechedvocate.org/rocket-matter-vs-cosmolex-comparison/",
+   "key": "d5231f16dc234cec",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://referent.law/alternatives/clio-alternatives/",
+   "key": "69125a8c89e6e08d",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://www.quickbase.com/blog/best-legal-case-practice-management-software",
+   "key": "68b69fc252a14079",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://www.itqlick.com/compare/cosmolex/rocket-matter",
+   "key": "ead0098b47660d6f",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://aluslabs.com/blog/clio-alternatives-2026-best-law-firm-software-compared",
+   "key": "0ba8d25bced496cb",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://www.legaltoolguide.com/blog/rocket-matter-vs-cosmolex/",
+   "key": "d763cce755e93228",
+   "used_for": "cause check (cited)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Launch plan costs $49 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Launch $49 user/mo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Launch at $49 per user per month; the answers state the price without a billing period, as the page text does.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "Launch $49, Core $99, and Pro $129/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Launch at $49, Core at $99, and Pro at $129 per user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|1",
+     "quote": "Launch $49, Core $99, Pro $129 per user/month."
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|2",
+     "quote": "| Launch | $49 | Essentials | $59 |"
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|3",
+     "quote": "Launch $49, Core $99, Pro $129 per user/month displayed."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "The Core plan costs $99 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Core $99 user/mo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Core at $99 per user per month.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "Launch $49, Core $99, and Pro $129/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Launch at $49, Core at $99, and Pro at $129 per user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|1",
+     "quote": "Launch $49, Core $99, Pro $129 per user/month."
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|2",
+     "quote": "| Core | $99 | Pro | $95 |"
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|3",
+     "quote": "Launch $49, Core $99, Pro $129 per user/month displayed."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The Pro plan costs $129 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Pro $129 user/mo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Pro at $129 per user per month.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "Launch $49, Core $99, and Pro $129/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Launch at $49, Core at $99, and Pro at $129 per user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|1",
+     "quote": "Launch $49, Core $99, Pro $129 per user/month."
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|2",
+     "quote": "| Pro | $129 | Premier | $115 |"
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|3",
+     "quote": "Launch $49, Core $99, Pro $129 per user/month displayed."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "The $49, $99 and $129 plan prices are annual-billing rates.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fetched pricing text shows a Monthly/Yearly toggle and a $120 yearly saving but not which billing period the displayed $49, $99 and $129 prices belong to, and the browser read of the page (pass 2) rendered no plan table or prices, so the billing period is still not settled in text.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|2",
+     "quote": "CosmoLex’s published pricing confirms these annual rates."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "CosmoLex starts at $89 per user per month (billing basis not stated).",
+   "class": "wrong",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Save $120 per user with yearly Monthly Yearly Launch $49 user/mo Try for free Core $99 user/mo Try for free Pro $129 user/mo",
+   "stale_change": null,
+   "causing_url": "https://referent.law/alternatives/clio-alternatives/",
+   "causing_type": "other",
+   "causing_quote": "Firms wanting built-in accounting | Light AI assistant | Partial | From ~$89/user/mo",
+   "rationale": "The lowest plan, Launch, is listed at $49 per user per month and no plan is priced at $89; with a $120 yearly saving the Launch price is at most $59 on either billing period, so the stated starting price is contradicted (consistency check, pass 2: kept).",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "CosmoLex starts at $89/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "Built-in trust accounting | ~$89/user/mo"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "CosmoLex starts at $89/user/month for a core"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "~$89/user/month (bundles legal and trust accounting)"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "Starts around $89/user/month (bundles legal and trust accounting)."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|3",
+     "quote": "Around $89/month per user."
+    },
+    {
+     "record_id": "legal-practice-management|q8|Google AI Overviews|2",
+     "quote": "CosmoLex: Base subscriptions start around $89 per user per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "CosmoLex starts at $89 per user per month billed annually.",
+   "class": "wrong",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Save $120 per user with yearly Monthly Yearly Launch $49 user/mo Try for free Core $99 user/mo Try for free Pro $129 user/mo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "Launch is listed at $49 per user per month and yearly billing is the cheaper option, so the annual starting price is at most $49, not $89 (same period compared; consistency check, pass 2: kept).",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|Claude|1",
+     "quote": "the annual plan is more cost-effective at $89 per user per month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q8|Claude|2",
+     "quote": "the annual plan is more cost-effective at $89 per user per month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q8|Claude|3",
+     "quote": "the annual plan is more cost-effective at $89 per user per month, billed annually."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "CosmoLex starts at $99 per user per month on a monthly subscription.",
+   "class": "wrong",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Save $120 per user with yearly Monthly Yearly Launch $49 user/mo Try for free Core $99 user/mo Try for free Pro $129 user/mo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "Launch is listed at $49 per user per month and yearly billing saves only $120 per user a year, so the monthly-billing starting price is at most $59, not $99 (same period compared; consistency check, pass 2: kept).",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|Claude|1",
+     "quote": "CosmoLex offers a comprehensive pricing plan that starts at $99 per user per month for a monthly subscription."
+    },
+    {
+     "record_id": "legal-practice-management|q8|Claude|2",
+     "quote": "CosmoLex offers a comprehensive pricing plan that starts at $99 per user per month for a monthly subscription."
+    },
+    {
+     "record_id": "legal-practice-management|q8|Claude|3",
+     "quote": "CosmoLex offers a comprehensive pricing plan that starts at $99 per user per month for a monthly subscription."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "CosmoLex starts at about $119 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Save $120 per user with yearly Monthly Yearly Launch $49 user/mo Try for free Core $99 user/mo Try for free Pro $129 user/mo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The lowest plan, Launch, is listed at $49 per user per month (at most $59 on either billing period), so a starting price of about $119 is contradicted.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Built-in accounting/trust | ~$119/user/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "CosmoLex starts at around $109 per user per month (billing basis not stated).",
+   "class": "wrong",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Save $120 per user with yearly Monthly Yearly Launch $49 user/mo Try for free Core $99 user/mo Try for free Pro $129 user/mo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The lowest plan, Launch, is listed at $49 per user per month (at most $59 on either billing period), so a starting price of around $109 is contradicted; $109 can only be the Core plan on monthly billing, not the starting price.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Google AI Overviews|2",
+     "quote": "Starting Price: Around $109/user/month (All-in-one model)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "CosmoLex starts around $109 per user per month on month-to-month billing, about $99 billed annually.",
+   "class": "wrong",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Save $120 per user with yearly Monthly Yearly Launch $49 user/mo Try for free Core $99 user/mo Try for free Pro $129 user/mo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "Launch is listed at $49 per user per month with yearly billing saving $120 per user a year, so the starting prices are at most $59 monthly and $49 yearly; the $109 and $99 pair fits the Core plan, not the starting plan, so as starting prices they are contradicted (consistency check, pass 2: kept).",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|Google AI Mode|2",
+     "quote": "Generally starts around $109 per user/month for month-to-month options, with discounted rates if billed annually (e.g., around $99/mo or tiered small-team structures)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "CosmoLex plans start around $89 to $119 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Save $120 per user with yearly Monthly Yearly Launch $49 user/mo Try for free Core $99 user/mo Try for free Pro $129 user/mo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The lowest plan is listed at $49 per user per month (at most $59 on either billing period), below the whole stated starting range.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "Starting price: ~$89–$119/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q8|Google AI Overviews|1",
+     "quote": "CosmoLex plans generally start around $89 to $119 per user per month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "CosmoLex entry-level pricing starts around $109 to $119 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Save $120 per user with yearly Monthly Yearly Launch $49 user/mo Try for free Core $99 user/mo Try for free Pro $129 user/mo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The entry-level Launch plan is listed at $49 per user per month (at most $59 on either billing period), below the stated range.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|Google AI Overviews|3",
+     "quote": "CosmoLex entry-level pricing generally starts around $109 to $119 per user per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "A typical solo starting price for CosmoLex is about $89 to $99 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Save $120 per user with yearly Monthly Yearly Launch $49 user/mo Try for free Core $99 user/mo Try for free Pro $129 user/mo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The lowest plan is listed at $49 per user per month (at most $59 on either billing period), below the stated starting range given in a starting-price column.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Perplexity|2",
+     "quote": "About $89–$99/user/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "CosmoLex pricing is custom (available on request rather than published).",
+   "class": "wrong",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Save $120 per user with yearly Monthly Yearly Launch $49 user/mo Try for free Core $99 user/mo Try for free Pro $129 user/mo",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "Every instance is a starting-price or pricing cell; the pricing page publishes per-user list prices for all three plans, and the home FAQ says to request a quote or view pricing directly on the site, so pricing is published, not custom or only on request. The optional Customize your plan offer does not replace the published prices (consistency check, pass 2: kept; reviewer may weigh the FAQ wording).",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "Built-in legal accounting | Custom"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "Built-in legal accounting | Custom"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "| CosmoLex | Accounting-focused firms | Custom |"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "Accounting-integrated firms | Custom pricing"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|1",
+     "quote": "CosmoLex | ~4.4 / 5 | Available upon request"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "CosmoLex charges no upfront implementation fee.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states whether an implementation or setup fee applies; the browser-read pricing page lists onboarding (knowledge base and group training classes) as built into every plan but says nothing about fees.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|Google AI Overviews|2",
+     "quote": "with no upfront implementation fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "free_tier",
+   "claim": "CosmoLex offers a free trial.",
+   "class": "true",
+   "proof_url": "https://cosmolex.com/",
+   "proof_quote": "No wait. No credit card. Just click to try CosmoLex for 10 days.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page offers a 10-day free trial.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|Claude|1",
+     "quote": "| Free Trial | ✅ Yes | ✅ Yes |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "plans",
+   "claim": "General ledger, payables and bank feeds are only in the Pro plan, not in every plan.",
+   "class": "true",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "General Ledger & Payables Full accounting across trust, operating, and business in one system. — — Bank feeds Pull transactions in automatically from connected bank accounts. — —",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plan table (Launch, Core, Pro) marks General Ledger & Payables and Bank feeds as unavailable (—) in two of the three plans; the page's own labels on those marks read Not included in Launch and Not included in Core, leaving them in Pro.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "general ledger/payables and bank feeds are not included across all plans."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "general ledger, payables, and bank feeds are in Pro"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "Full general ledger/payables and bank feeds are Pro-tier features"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|1",
+     "quote": "Full general ledger and payables functionality is in Pro"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|3",
+     "quote": "general ledger, payables, and bank feeds are tier-dependent"
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|2",
+     "quote": "full general-ledger and payables functionality is not included in every plan."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|3",
+     "quote": "general ledger, payables, and bank feeds aren’t included in every plan"
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|1",
+     "quote": "General ledger, payables, and bank feeds are listed under Pro."
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|2",
+     "quote": "Its current plan matrix places general ledger, payables, and bank feeds in Pro."
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|3",
+     "quote": "General ledger, payables, and bank feeds are listed at Pro."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "The entry-level CosmoLex tier includes full double-entry accounting.",
+   "class": "wrong",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "General Ledger & Payables Full accounting across trust, operating, and business in one system. — — Bank feeds Pull transactions in automatically from connected bank accounts. — —",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The plan table marks General Ledger & Payables (full accounting across trust, operating and business) as unavailable in two of the three plans, and the page labels those marks Not included in Launch and Not included in Core, so the entry plan lacks full double-entry accounting (consistency check, pass 2: kept).",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "that core includes full double-entry accounting, three-way trust reconciliation, billing, and matter management."
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "for a core that includes full double-entry accounting, three-way trust reconciliation, billing, and matter management."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "plans",
+   "claim": "CRM is a paid add-on.",
+   "class": "true",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "CosmoLex CRM and LexShare / LexSign add-ons are not included in the trial.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists CosmoLex CRM among the add-ons bundled onto a plan.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "CRM and some document-sharing/signature capabilities are add-ons."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "CRM and certain document-sharing/e-signature capabilities are separate add-ons."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "price CRM separately if needed"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|3",
+     "quote": "CRM is an add-on"
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|3",
+     "quote": "CRM is an add-on"
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|2",
+     "quote": "CRM is an add-on."
+    },
+    {
+     "record_id": "legal-practice-management|q8|Claude|2",
+     "quote": "| CRM | ✅ (add-on) | ✅ (add-on) |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "plans",
+   "claim": "Document sharing and e-signature are add-ons.",
+   "class": "true",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "CosmoLex CRM and LexShare / LexSign add-ons are not included in the trial.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers document sharing and e-signature as the LexShare and LexSign add-ons.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "CRM and some document-sharing/signature capabilities are add-ons."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "CRM and certain document-sharing/e-signature capabilities are separate add-ons."
+    },
+    {
+     "record_id": "legal-practice-management|q8|Claude|2",
+     "quote": "| E-Signature | ✅ (add-on) | ✅ (Pro+) |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "plans",
+   "claim": "Matter management, documents and a client portal are included in every plan.",
+   "class": "true",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Every plan includes the tools to manage matters, organize documents, and collaborate securely with clients through a built-in client portal.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states that every plan includes matter management, documents and a built-in client portal.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|1",
+     "quote": "Matter management, documents, and client portal in every plan."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "plans",
+   "claim": "Trust ledgers and compliance reporting are in every plan; reconciliation varies by tier.",
+   "class": "true",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Trust accounting & ledgers Hold client funds compliantly with automatic trust transfers and holds. Compliance reporting Built-in trust compliance and reconciliation reporting. Bank reconciliation Reconcile your books to keep trust and operating accounts clean. —",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plan table shows no unavailable mark for trust accounting and compliance reporting, and marks bank reconciliation unavailable in one plan.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|1",
+     "quote": "Trust ledgers and compliance reporting; reconciliation features vary by tier."
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|2",
+     "quote": "Trust ledgers and compliance reporting are listed across plans."
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|3",
+     "quote": "Trust ledgers and compliance reporting are listed across plans; reconciliation capabilities vary by tier."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "plans",
+   "claim": "LEDES and split billing are not in every plan (Core and higher).",
+   "class": "true",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "LEDES & split billing LEDES billing and split billing. —",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plan table marks LEDES and split billing unavailable in one of the three plans, so they depend on tier.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|1",
+     "quote": "LEDES and split billing depend on plan."
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|2",
+     "quote": "LEDES/split billing depend on tier."
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|3",
+     "quote": "LEDES and split billing depend on tier."
+    },
+    {
+     "record_id": "legal-practice-management|q8|Google AI Mode|1",
+     "quote": "LEDES & split billing included in core/higher tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "plans",
+   "claim": "CosmoLex pricing includes built-in payment processing.",
+   "class": "true",
+   "proof_url": "https://www.cosmolex.com/pricing",
+   "proof_quote": "Built-in payments Get paid faster without adding another system. Accept credit card, debit, directly through CosmoLex.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists built-in payments among the features built into every plan.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|Google AI Mode|2",
+     "quote": "Includes built-in payment processing options and accountant log-ins."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "plans",
+   "claim": "CosmoLex pricing includes accountant log-ins.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read, including the browser read of the pricing page, mentions accountant log-ins or their inclusion in a plan.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|Google AI Mode|2",
+     "quote": "Includes built-in payment processing options and accountant log-ins."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "integrations",
+   "claim": "CosmoLex integrates with QuickBooks Online.",
+   "class": "true",
+   "proof_url": "https://cosmolex.com/",
+   "proof_quote": "Yes, CosmoLex offers a QuickBooks Online integration for law firms on Core and Pro pricing tiers.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page FAQ states a QuickBooks Online integration on the Core and Pro tiers.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|1",
+     "quote": "Currently lists a QuickBooks Online integration."
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|2",
+     "quote": "Currently lists QuickBooks Online among its integrations."
+    },
+    {
+     "record_id": "legal-practice-management|q8|ChatGPT|3",
+     "quote": "both advertise QuickBooks Online integration."
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "ownership",
+   "claim": "CosmoLex is owned by ProfitSolv (part of the ProfitSolv portfolio).",
+   "class": "true",
+   "proof_url": "https://cosmolex.com/",
+   "proof_quote": "CosmoLex is part of ProfitSolv, a collection of best-in-class software solutions for professional services firms",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The site footer states that CosmoLex is part of ProfitSolv.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q8|Claude|2",
+     "quote": "both are part of the ProfitSolv portfolio of legal practice management software."
+    },
+    {
+     "record_id": "legal-practice-management|q8|Claude|3",
+     "quote": "are actually part of the same parent company — ProfitSolv."
+    },
+    {
+     "record_id": "legal-practice-management|q8|Google AI Mode|3",
+     "quote": "Both platforms are cloud-based legal practice management solutions owned by ProfitSolv"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "platforms",
+   "claim": "CosmoLex is cloud based.",
+   "class": "true",
+   "proof_url": "https://www.cosmolex.com/features/law-practice-management",
+   "proof_quote": "Absolutely. CosmoLex is 100% cloud-based, allowing you to securely access your firm’s data from any device with an internet connection.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page states that CosmoLex is 100% cloud-based.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "CosmoLex offers competitive pricing in a cloud-based platform that includes full law-firm accounting."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "CosmoLex offers competitive pricing in a cloud-based platform that includes full law-firm accounting."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Overviews|3",
+     "quote": "A unique cloud solution that includes built-in legal and trust accounting."
+    },
+    {
+     "record_id": "legal-practice-management|q4|Google AI Mode|1",
+     "quote": "into a single cloud application"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "CosmoLex is cloud-based law practice management software"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "CosmoLex is cloud-based law practice management software"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "CosmoLex is cloud-based law practice management software"
+    },
+    {
+     "record_id": "legal-practice-management|q8|Claude|1",
+     "quote": "Both CosmoLex and Rocket Matter are cloud-based legal practice management platforms"
+    },
+    {
+     "record_id": "legal-practice-management|q8|Claude|2",
+     "quote": "Both CosmoLex and Rocket Matter are leading cloud-based legal practice management platforms"
+    },
+    {
+     "record_id": "legal-practice-management|q8|Claude|3",
+     "quote": "Both CosmoLex and Rocket Matter are cloud-based legal practice management platforms"
+    },
+    {
+     "record_id": "legal-practice-management|q8|Google AI Mode|1",
+     "quote": "two well-established cloud-based legal practice management solutions"
+    },
+    {
+     "record_id": "legal-practice-management|q8|Google AI Mode|3",
+     "quote": "Both platforms are cloud-based legal practice management solutions owned by ProfitSolv"
+    },
+    {
+     "record_id": "legal-practice-management|q8|Perplexity|2",
+     "quote": "are both cloud legal practice management platforms"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Six own pages read (home, pricing, about, the law practice management product page, the accounting product page, and the cited Rocket Matter comparison URL, which redirected to the /compare/ hub with no prices), all HTTP 200 and not thin; six cited pages read for causes, all HTTP 200 (12 of 14 page budget used). In pass 2 the pricing page was also read once in a real browser; its main text carries the add-ons, built-into-every-plan features and FAQ but no plan table or prices, so C04 (whether $49/$99/$129 are annual rates) stays unverifiable; for the reviewer only, the raw HTML carries JSON-LD giving $49/$99/$129 billed yearly and $59/$109/$139 billed monthly, which was not used to class. The ChatGPT answers captured 22 to 23 Sep cite the pricing page with the same Launch $49, Core $99, Pro $129 list, so the price list stood on the capture date. The wrong starting-price claims (C05 to C13) are wrong under either reading of the toggle, because Launch at $49 with a $120 yearly saving caps the starting price at $49 yearly and $59 monthly; C09 and C10 quote figures that fit the Core plan, not the starting plan. C17 and C18 rely on the plan table's unavailable marks, which the page labels Not included in Launch and Not included in Core for General Ledger & Payables and Bank feeds. C14 (custom or on-request pricing) stays wrong against the published price list; the home FAQ says to request a quote or view pricing on the site, which a reviewer may weigh. Only one cause was found (referent.law for the $89 start); counselstack.io (read under 8am-mycase, cited by the q4 Claude answers) gives CosmoLex $109 and $129, not $89, and itqlick gives $89 but is cited only by answers carrying the $89 to $119 and $109 to $119 ranges, so those were recorded as cause not found. Pass 2 (8 Oct 2026): no class changed; the consistency check kept all eleven wrong claims (C05 to C14, C18) as explicit, like-with-like contradictions on the pricing page; the gap lines (accounting feature descriptions, opinions, and $89 cells already counted at record level) and the tables and vendor sub-headings added no claim or instance. Not coded: accounting capability descriptions (built-in general ledger, no QuickBooks needed), ratings and review counts, the April 2025 workflow launch, attributed source summaries in q8 Perplexity ('About $79 to $109 in some listings', 'Reported as ... across comparison sources'), 'Varies' price cells, and the Tabs3 by ProfitSolv sections (another product).",
+ "answer_record_ids": [
+  "legal-practice-management|q1|ChatGPT|2",
+  "legal-practice-management|q1|Claude|1",
+  "legal-practice-management|q1|Claude|2",
+  "legal-practice-management|q1|Claude|3",
+  "legal-practice-management|q1|Google AI Mode|1",
+  "legal-practice-management|q1|Google AI Mode|2",
+  "legal-practice-management|q1|Google AI Mode|3",
+  "legal-practice-management|q1|Google AI Overviews|1",
+  "legal-practice-management|q1|Google AI Overviews|2",
+  "legal-practice-management|q1|Google AI Overviews|3",
+  "legal-practice-management|q1|Perplexity|2",
+  "legal-practice-management|q1|Perplexity|3",
+  "legal-practice-management|q10|Google AI Mode|1",
+  "legal-practice-management|q2|Claude|1",
+  "legal-practice-management|q2|Claude|2",
+  "legal-practice-management|q2|Claude|3",
+  "legal-practice-management|q2|Google AI Mode|1",
+  "legal-practice-management|q2|Google AI Overviews|1",
+  "legal-practice-management|q2|Google AI Overviews|2",
+  "legal-practice-management|q2|Google AI Overviews|3",
+  "legal-practice-management|q2|Perplexity|1",
+  "legal-practice-management|q2|Perplexity|2",
+  "legal-practice-management|q2|Perplexity|3",
+  "legal-practice-management|q4|ChatGPT|1",
+  "legal-practice-management|q4|ChatGPT|2",
+  "legal-practice-management|q4|ChatGPT|3",
+  "legal-practice-management|q4|Claude|1",
+  "legal-practice-management|q4|Claude|2",
+  "legal-practice-management|q4|Claude|3",
+  "legal-practice-management|q4|Google AI Mode|1",
+  "legal-practice-management|q4|Google AI Mode|2",
+  "legal-practice-management|q4|Google AI Mode|3",
+  "legal-practice-management|q4|Google AI Overviews|1",
+  "legal-practice-management|q4|Google AI Overviews|2",
+  "legal-practice-management|q4|Google AI Overviews|3",
+  "legal-practice-management|q4|Perplexity|1",
+  "legal-practice-management|q4|Perplexity|2",
+  "legal-practice-management|q4|Perplexity|3",
+  "legal-practice-management|q5|ChatGPT|1",
+  "legal-practice-management|q5|ChatGPT|2",
+  "legal-practice-management|q5|ChatGPT|3",
+  "legal-practice-management|q5|Claude|1",
+  "legal-practice-management|q5|Claude|2",
+  "legal-practice-management|q5|Claude|3",
+  "legal-practice-management|q5|Google AI Mode|1",
+  "legal-practice-management|q5|Google AI Mode|2",
+  "legal-practice-management|q5|Google AI Mode|3",
+  "legal-practice-management|q5|Google AI Overviews|2",
+  "legal-practice-management|q5|Google AI Overviews|3",
+  "legal-practice-management|q5|Perplexity|1",
+  "legal-practice-management|q5|Perplexity|2",
+  "legal-practice-management|q5|Perplexity|3",
+  "legal-practice-management|q6|ChatGPT|2",
+  "legal-practice-management|q6|ChatGPT|3",
+  "legal-practice-management|q6|Claude|1",
+  "legal-practice-management|q6|Claude|2",
+  "legal-practice-management|q6|Claude|3",
+  "legal-practice-management|q6|Google AI Mode|3",
+  "legal-practice-management|q6|Google AI Overviews|1",
+  "legal-practice-management|q6|Perplexity|1",
+  "legal-practice-management|q6|Perplexity|2",
+  "legal-practice-management|q6|Perplexity|3",
+  "legal-practice-management|q8|ChatGPT|1",
+  "legal-practice-management|q8|ChatGPT|2",
+  "legal-practice-management|q8|ChatGPT|3",
+  "legal-practice-management|q8|Claude|1",
+  "legal-practice-management|q8|Claude|2",
+  "legal-practice-management|q8|Claude|3",
+  "legal-practice-management|q8|Google AI Mode|1",
+  "legal-practice-management|q8|Google AI Mode|2",
+  "legal-practice-management|q8|Google AI Mode|3",
+  "legal-practice-management|q8|Google AI Overviews|1",
+  "legal-practice-management|q8|Google AI Overviews|2",
+  "legal-practice-management|q8|Google AI Overviews|3",
+  "legal-practice-management|q8|Perplexity|1",
+  "legal-practice-management|q8|Perplexity|2",
+  "legal-practice-management|q8|Perplexity|3"
+ ],
+ "named_count": 77
+}

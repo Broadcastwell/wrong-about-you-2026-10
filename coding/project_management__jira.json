@@ -1,0 +1,308 @@
+{
+ "vendor": "Jira",
+ "slug": "jira",
+ "category": "project_management",
+ "coded_at": "2026-10-08T04:12:05Z",
+ "pages_read": [
+  {
+   "url": "https://www.atlassian.com/software/jira/pricing",
+   "key": "5928874d5bef50d2",
+   "used_for": "pricing (HTTP 200 but thin: 717 characters, page rendered client side; not used to class). Pass 2: read once in a real browser on 8 Oct (7,806 characters, plan cards and comparison table); used to re-check C02 to C04"
+  },
+  {
+   "url": "https://www.atlassian.com/software/jira",
+   "key": "7c726d842f831681",
+   "used_for": "product home (HTTP 200)"
+  },
+  {
+   "url": "https://www.atlassian.com/software/jira/guides/more/jira-editions",
+   "key": "f97bc3761430309f",
+   "used_for": "plans and free plan (cited guide, HTTP 200)"
+  },
+  {
+   "url": "https://www.atlassian.com/software/jira/guides/advanced-roadmaps/overview",
+   "key": "91abea58232f1603",
+   "used_for": "Plans (cross-team planning) by edition (cited guide, HTTP 200)"
+  },
+  {
+   "url": "https://www.atlassian.com/software/jira/features",
+   "key": "4365d0e7a3e563f6",
+   "used_for": "features (cited, HTTP 200)"
+  },
+  {
+   "url": "https://www.atlassian.com/software/jira/integrations",
+   "key": "13f07e5d4c4dfcd1",
+   "used_for": "integrations (HTTP 200, redirected to /software/jira/features/integrations)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "free_tier",
+   "claim": "Jira has a free tier.",
+   "class": "true",
+   "proof_url": "https://www.atlassian.com/software/jira/guides/more/jira-editions",
+   "proof_quote": "The Jira Free plan is a no-cost plan for up to 10 users, with no time limit and no credit card required.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's plans guide describes a Free plan at no cost for up to 10 users.",
+   "instances": [
+    {
+     "record_id": "project_management|5|Claude|1",
+     "quote": "Jira, ClickUp, Trello, and Hive all offer free tiers that work for small distributed teams of 5–10 people."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "plans",
+   "claim": "Cross-team planning (Plans), with dependency management and team capacity, requires Jira Premium or Enterprise.",
+   "class": "true",
+   "proof_url": "https://www.atlassian.com/software/jira/guides/advanced-roadmaps/overview",
+   "proof_quote": "Jira Plans is a cross-team planning tool available in Jira Premium and Jira Enterprise",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's guide states that Plans, the cross-team planning tool that tracks capacity and manages dependencies, is available in Premium and Enterprise, and that Standard and Free do not include cross-team planning; the pricing page read in a browser also lists 'Cross-team planning and dependency management' under Premium.",
+   "instances": [
+    {
+     "record_id": "project_management|1|ChatGPT|1",
+     "quote": "Cross-team planning for multiple Scrum teams uses Premium features."
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|1",
+     "quote": "Premium adds cross-team planning and dependency management."
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Premium includes cross-team planning and dependency management"
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "Premium adds cross-team planning and dependency management."
+    },
+    {
+     "record_id": "project_management|5|ChatGPT|1",
+     "quote": "Cross-team planning and capacity features are available through Jira Premium’s Plans."
+    },
+    {
+     "record_id": "project_management|5|ChatGPT|3",
+     "quote": "Advanced cross-team planning is available in Premium."
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|1",
+     "quote": "Advanced Plans requires Premium or Enterprise"
+    },
+    {
+     "record_id": "project_management|7|ChatGPT|2",
+     "quote": "Premium/Enterprise capacity planning is organized around **teams and iterations**, using hours, days, or—for Scrum—story points."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "plans",
+   "claim": "Premium and Enterprise offer individual allocations across projects and epics, measured in hours, days or percentages.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The guides read describe team capacity in Plans (days, hours or story points) but say nothing of individual allocations across projects and epics or of percentages; the pricing page, now read in a real browser, lists 'Capacity management' as a comparison row without per-plan text and does not mention individual allocations, so the pages do not settle it.",
+   "instances": [
+    {
+     "record_id": "project_management|7|ChatGPT|3",
+     "quote": "Premium/Enterprise also offer individual allocations across projects and epics, measured in hours, days, or percentages."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "plans",
+   "claim": "The Enterprise plan adds cross-product analytics and expanded administration and security.",
+   "class": "true",
+   "proof_url": "https://www.atlassian.com/software/jira/guides/more/jira-editions",
+   "proof_quote": "Enterprise lets you manage multiple Jira sites (up to 150) while paying for each user only once, and it adds Atlassian Analytics and the Data Lake for cross-product reporting, unlimited automation, advanced admin controls, and a 99.95% uptime SLA.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's plans guide says Enterprise adds Atlassian Analytics and the Data Lake for cross-product reporting and advanced admin controls, with stronger security controls for large deployments; the pricing page read in a browser lists 'Advanced admin controls and security' under Enterprise.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Enterprise adds cross-product analytics and expanded administration and security."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "product_names",
+   "claim": "The product is named Atlassian Jira (Jira by Atlassian).",
+   "class": "true",
+   "proof_url": "https://www.atlassian.com/software/jira",
+   "proof_quote": "Jira | Project Management for the AI Era | Atlassian",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Atlassian's product page presents the product as Jira under the Atlassian name, matching the X-by-Y naming Atlassian Jira.",
+   "instances": [
+    {
+     "record_id": "project_management|1|Google AI Mode|1",
+     "quote": "Explore further: Test capabilities on Atlassian Jira."
+    },
+    {
+     "record_id": "project_management|3|Google AI Mode|2",
+     "quote": "Atlassian Jira – Best if your mid-market organization has heavy software development, IT, or engineering pipelines relying on agile Scrum and Kanban methodologies."
+    },
+    {
+     "record_id": "project_management|3|Google AI Mode|3",
+     "quote": "Atlassian Jira — Best for technical, product, and agile development teams."
+    },
+    {
+     "record_id": "project_management|3|Google AI Overviews|3",
+     "quote": "Atlassian Jira: Best for software development and technical teams needing advanced agile, Scrum, and Kanban tracking."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "ownership",
+   "claim": "Jira is an Atlassian product (part of the Atlassian ecosystem).",
+   "class": "true",
+   "proof_url": "https://www.atlassian.com/software/jira/guides/more/jira-editions",
+   "proof_quote": "If you're on Free, you can try Standard or Premium at no cost during a trial before you commit, and you can contact Atlassian to trial Enterprise.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Jira is sold and documented on atlassian.com, whose plans guide directs Enterprise trials to Atlassian and whose footer lists Jira among Atlassian products.",
+   "instances": [
+    {
+     "record_id": "project_management|1|Google AI Mode|1",
+     "quote": "Atlassian has expanded Jira's usability for non-tech teams (like marketing work management)"
+    },
+    {
+     "record_id": "project_management|7|Claude|2",
+     "quote": "is part of the Atlassian ecosystem"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "integrations",
+   "claim": "Jira integrates with Confluence.",
+   "class": "true",
+   "proof_url": "https://www.atlassian.com/software/jira/integrations",
+   "proof_quote": "Work and knowledge connected for seamless collaboration 76% of Jira Software customers said they shipped projects faster after adding Confluence to help organize and manage agile projects.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Jira integrations page lists Confluence among connected Atlassian products.",
+   "instances": [
+    {
+     "record_id": "project_management|7|Claude|2",
+     "quote": "making it a strong choice when paired with Confluence for documentation."
+    },
+    {
+     "record_id": "project_management|7|Claude|3",
+     "quote": "integrates tightly with the Atlassian ecosystem (Confluence, Bitbucket)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "integrations",
+   "claim": "Jira integrates with Bitbucket.",
+   "class": "true",
+   "proof_url": "https://www.atlassian.com/software/jira/integrations",
+   "proof_quote": "Teams that integrate Jira Software with Bitbucket release versions 14% more often than those who don't.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Jira integrations page describes integrating Jira with Bitbucket.",
+   "instances": [
+    {
+     "record_id": "project_management|7|Claude|3",
+     "quote": "integrates tightly with the Atlassian ecosystem (Confluence, Bitbucket)."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Jira was read on atlassian.com/software/jira pages (product family). The pricing page answered HTTP 200 but its fetched snapshot is thin (717 characters: the plan table renders client side). Pass 2 (8 Oct): the pricing page was read once in a real browser (manifest method browser, 7,806 characters) and is no longer needed; it confirms C02 and C04 but does not settle C03 (it shows 'Capacity management' as a comparison row with no per-plan text and says nothing of individual allocations or percentages), so C03 stays unverifiable. Pass 2 completeness: the two gap lines (DevOps toolchain integration with no named product; evaluation advice citing atlassian.com) are out of scope, and the comparison tables and Jira sub-headings in the full answers carry no in-scope statement beyond the existing claims (feature checkmarks, star ratings and capability lines are out of scope). No claim is wrong or stale, so the consistency check changed nothing and no cited page was read for causes. Every other claim is settled by the cited plans guide, the Plans guide, the product page or the integrations page (the integrations URL redirected to /software/jira/features/integrations). Not coded: the module name Plans or Advanced Plans (a feature name like Portfolios elsewhere; no answer states the rename from Advanced Roadmaps), market share and adoption lines (out of scope), generic connection lines with no named product ('development-tool connections', 'integration with DevOps toolchains'), and the 40-hour-week capacity limitation in q7 ChatGPT run 3 (a capability description). C05 treats 'Atlassian Jira' as an X-by-Y naming fact, as the Fieldwire example did with 'Fieldwire by Hilti'; the page shows the Jira name under the Atlassian brand rather than the literal string 'Atlassian Jira'.",
+ "answer_record_ids": [
+  "project_management|1|ChatGPT|1",
+  "project_management|1|ChatGPT|2",
+  "project_management|1|ChatGPT|3",
+  "project_management|1|Claude|1",
+  "project_management|1|Claude|2",
+  "project_management|1|Claude|3",
+  "project_management|1|Google AI Mode|1",
+  "project_management|1|Google AI Mode|2",
+  "project_management|1|Google AI Mode|3",
+  "project_management|1|Google AI Overviews|2",
+  "project_management|1|Google AI Overviews|3",
+  "project_management|10|Google AI Mode|1",
+  "project_management|10|Google AI Mode|2",
+  "project_management|10|Google AI Mode|3",
+  "project_management|10|Google AI Overviews|2",
+  "project_management|10|Google AI Overviews|3",
+  "project_management|10|Perplexity|3",
+  "project_management|3|ChatGPT|1",
+  "project_management|3|ChatGPT|2",
+  "project_management|3|ChatGPT|3",
+  "project_management|3|Google AI Mode|2",
+  "project_management|3|Google AI Mode|3",
+  "project_management|3|Google AI Overviews|2",
+  "project_management|3|Google AI Overviews|3",
+  "project_management|3|Perplexity|1",
+  "project_management|3|Perplexity|2",
+  "project_management|3|Perplexity|3",
+  "project_management|4|ChatGPT|1",
+  "project_management|4|ChatGPT|2",
+  "project_management|4|ChatGPT|3",
+  "project_management|4|Claude|1",
+  "project_management|4|Google AI Mode|2",
+  "project_management|4|Google AI Mode|3",
+  "project_management|4|Perplexity|1",
+  "project_management|4|Perplexity|3",
+  "project_management|5|ChatGPT|1",
+  "project_management|5|ChatGPT|2",
+  "project_management|5|ChatGPT|3",
+  "project_management|5|Claude|1",
+  "project_management|5|Claude|2",
+  "project_management|5|Claude|3",
+  "project_management|5|Google AI Mode|3",
+  "project_management|5|Google AI Overviews|2",
+  "project_management|5|Perplexity|1",
+  "project_management|5|Perplexity|2",
+  "project_management|5|Perplexity|3",
+  "project_management|6|Claude|1",
+  "project_management|7|ChatGPT|1",
+  "project_management|7|ChatGPT|2",
+  "project_management|7|ChatGPT|3",
+  "project_management|7|Claude|2",
+  "project_management|7|Claude|3",
+  "project_management|7|Google AI Mode|3",
+  "project_management|7|Google AI Overviews|2",
+  "project_management|7|Google AI Overviews|3",
+  "project_management|7|Perplexity|3",
+  "project_management|8|Claude|3",
+  "project_management|8|Google AI Mode|2",
+  "project_management|8|Google AI Overviews|2",
+  "project_management|9|ChatGPT|1",
+  "project_management|9|ChatGPT|2",
+  "project_management|9|ChatGPT|3",
+  "project_management|9|Google AI Mode|1"
+ ],
+ "named_count": 63
+}

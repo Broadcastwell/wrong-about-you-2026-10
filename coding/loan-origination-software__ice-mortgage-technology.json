@@ -1,0 +1,644 @@
+{
+ "vendor": "ICE Mortgage Technology",
+ "slug": "ice-mortgage-technology",
+ "category": "loan-origination-software",
+ "coded_at": "2026-10-08T04:05:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.icemortgagetechnology.com/",
+   "key": "689765a15dd3984a",
+   "used_for": "home (redirects to https://mortgagetech.ice.com/index)"
+  },
+  {
+   "url": "https://mortgagetech.ice.com/products/encompass",
+   "key": "ef3bdf23ee0e9755",
+   "used_for": "product: Encompass"
+  },
+  {
+   "url": "https://mortgagetech.ice.com/product-history",
+   "key": "15607cc0ab72fded",
+   "used_for": "dated product name changes"
+  },
+  {
+   "url": "https://mortgagetech.ice.com/about",
+   "key": "659c5884ed54f6ec",
+   "used_for": "about"
+  },
+  {
+   "url": "https://mortgagetech.ice.com/solutions/partner-network-integrations",
+   "key": "9ed6ec3b8e1d4aa0",
+   "used_for": "integrations (redirects to /partners)"
+  },
+  {
+   "url": "https://mortgagetech.ice.com/partners/solution-provider-partners",
+   "key": "9a2623868f944e63",
+   "used_for": "integrations (solution provider partners)"
+  },
+  {
+   "url": "https://mortgagetech.ice.com/products/encompass-consumer-connect",
+   "key": "be3dd2f3f68c0c29",
+   "used_for": "product: Encompass Consumer Connect"
+  },
+  {
+   "url": "https://mortgagetech.ice.com/products/encompass-eclose",
+   "key": "d5ffd4df0964d6d0",
+   "used_for": "product: Encompass eClose"
+  },
+  {
+   "url": "https://ainora.lt/blog/encompass-ai-review-alternatives-2026",
+   "key": "f8685412fbbc2853",
+   "used_for": "cause for C04 (cited by the answer)"
+  }
+ ],
+ "needs_browser_read": [],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "product_names",
+   "claim": "Encompass is ICE Mortgage Technology's product (Encompass by ICE Mortgage Technology, ICE Encompass).",
+   "class": "true",
+   "proof_url": "https://mortgagetech.ice.com/products/encompass",
+   "proof_quote": "Encompass by ICE connects and accelerates every step of the lending process",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Encompass product page on the ICE Mortgage Technology site names the product Encompass by ICE.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q2|ChatGPT|1",
+     "quote": "**ICE Encompass**"
+    },
+    {
+     "record_id": "loan-origination-software|q2|ChatGPT|2",
+     "quote": "**ICE Encompass**"
+    },
+    {
+     "record_id": "loan-origination-software|q2|ChatGPT|3",
+     "quote": "**ICE Encompass**"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Claude|1",
+     "quote": "Encompass by ICE Mortgage Technology"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Claude|2",
+     "quote": "Encompass by ICE Mortgage Technology"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Claude|3",
+     "quote": "**Encompass by ICE Mortgage Technology**"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|2",
+     "quote": "Encompass (ICE Mortgage Technology):"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|3",
+     "quote": "Encompass by ICE Mortgage Technology: The gold standard"
+    },
+    {
+     "record_id": "loan-origination-software|q3|Google AI Mode|1",
+     "quote": "heavyweight enterprise systems like ICE Mortgage Technology's Encompass"
+    },
+    {
+     "record_id": "loan-origination-software|q3|Google AI Mode|2",
+     "quote": "Encompass by ICE Mortgage Technology: Generally not recommended for small broker shops."
+    },
+    {
+     "record_id": "loan-origination-software|q3|Google AI Mode|3",
+     "quote": "without the heavy enterprise bloat of ICE Encompass."
+    },
+    {
+     "record_id": "loan-origination-software|q4|ChatGPT|1",
+     "quote": "Assuming you mean ICE's Encompass mortgage loan origination system (LOS)"
+    },
+    {
+     "record_id": "loan-origination-software|q4|ChatGPT|3",
+     "quote": "Assuming you mean ICE's Encompass mortgage loan origination system (LOS)"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Claude|1",
+     "quote": "Since **Encompass by ICE Mortgage Technology** is primarily a mortgage loan origination system (LOS)"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Claude|2",
+     "quote": "**Encompass**, from ICE Mortgage Technology, is a mortgage loan origination platform"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Claude|3",
+     "quote": "Encompass, from ICE Mortgage Technology, is a mortgage loan origination platform"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Google AI Mode|1",
+     "quote": "When looking for alternatives to ICE Mortgage Technology's Encompass"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Google AI Mode|2",
+     "quote": "If you are looking to move away from ICE Mortgage Technology's Encompass"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Google AI Mode|3",
+     "quote": "The best alternatives to ICE Mortgage Technology's Encompass LOS"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Google AI Overviews|1",
+     "quote": "The best alternatives to ICE Mortgage Technology's Encompass"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Google AI Overviews|2",
+     "quote": "The best alternatives to ICE Mortgage Technology's Encompass"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Google AI Overviews|3",
+     "quote": "The best alternatives to ICE Mortgage Technology's Encompass"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|1",
+     "quote": "**ICE Encompass**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|2",
+     "quote": "**ICE Encompass**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|3",
+     "quote": "**ICE Encompass**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|1",
+     "quote": "**Encompass Digital Mortgage Solution** (by ICE Mortgage Technology)"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|2",
+     "quote": "**Encompass Digital Mortgage Solution** (by ICE Mortgage Technology)"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|3",
+     "quote": "Encompass Digital Mortgage Solution (by ICE Mortgage Technology)"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Mode|3",
+     "quote": "ICE Mortgage Technology (Encompass)"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Overviews|1",
+     "quote": "Encompass (by ICE Mortgage Technology): An industry heavyweight for mortgage lending"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Perplexity|1",
+     "quote": "**Encompass by ICE Mortgage Technology**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Perplexity|2",
+     "quote": "**Encompass by ICE Mortgage Technology** is the most common head-to-head alternative"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|3",
+     "quote": "**Encompass Digital Mortgage Solution** (by ICE Mortgage Technology)"
+    },
+    {
+     "record_id": "loan-origination-software|q8|ChatGPT|1",
+     "quote": "Encompass / ICE platform"
+    },
+    {
+     "record_id": "loan-origination-software|q8|Claude|1",
+     "quote": "Encompass (by ICE Mortgage Technology) is a full loan origination system that runs the back-office workflow"
+    },
+    {
+     "record_id": "loan-origination-software|q8|Claude|2",
+     "quote": "Encompass (by ICE Mortgage Technology) is a full loan origination system that runs the back-office workflow"
+    },
+    {
+     "record_id": "loan-origination-software|q8|Claude|3",
+     "quote": "Encompass (by ICE Mortgage Technology) is a full loan origination system that runs the back-office workflow"
+    },
+    {
+     "record_id": "loan-origination-software|q8|Google AI Mode|1",
+     "quote": "When evaluating ICE Mortgage Technology Encompass versus Blend"
+    },
+    {
+     "record_id": "loan-origination-software|q8|Google AI Mode|2",
+     "quote": "Mortgage lenders generally do not have to choose between ICE Encompass and Blend"
+    },
+    {
+     "record_id": "loan-origination-software|q8|Google AI Mode|3",
+     "quote": "Mortgage lenders do not actually have to choose between ICE Encompass and Blend"
+    },
+    {
+     "record_id": "loan-origination-software|q8|Google AI Overviews|1",
+     "quote": "ICE Encompass"
+    },
+    {
+     "record_id": "loan-origination-software|q8|Google AI Overviews|2",
+     "quote": "Encompass by ICE Mortgage Technology is required as your core engine of record."
+    },
+    {
+     "record_id": "loan-origination-software|q8|Google AI Overviews|3",
+     "quote": "Encompass (by ICE Mortgage Technology) functions as the back-office Loan Origination System (LOS) and system of record"
+    },
+    {
+     "record_id": "loan-origination-software|q9|Google AI Mode|3",
+     "quote": "ICE Mortgage Technology Encompass | Mortgage Lenders"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "product_names",
+   "claim": "ICE offers a borrower-facing point-of-sale product named Encompass Consumer Connect.",
+   "class": "true",
+   "proof_url": "https://www.icemortgagetechnology.com/",
+   "proof_quote": "Encompass Consumer Connect Easily complete an online mortgage application, instantly engage with their loan officer, and securely upload and eSign documents.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists Encompass Consumer Connect among ICE's customer acquisition products, and its product page describes the borrower online application.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q8|ChatGPT|1",
+     "quote": "For an existing Encompass lender, the more useful comparison is often **Encompass + Consumer Connect versus Encompass + Blend**."
+    },
+    {
+     "record_id": "loan-origination-software|q8|ChatGPT|2",
+     "quote": "**Encompass Consumer Connect** | ICE's borrower-facing POS"
+    },
+    {
+     "record_id": "loan-origination-software|q8|ChatGPT|3",
+     "quote": "Encompass / Consumer Connect"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "platforms",
+   "claim": "Encompass Consumer Connect includes a branded borrower mobile app.",
+   "class": "true",
+   "proof_url": "https://mortgagetech.ice.com/products/encompass-consumer-connect",
+   "proof_quote": "As an extension of Encompass Consumer Connect®, My Home Loans enables borrowers to stay in control of their loan anytime, while allowing lenders to launch a fully branded app experience with ease.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Consumer Connect page describes the My Home Loans borrower app as an extension of Consumer Connect that lenders can launch as a fully branded app.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q8|ChatGPT|2",
+     "quote": "Online applications, document uploads, eSignatures, status tracking, integrated verifications and a branded borrower mobile app."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "product_names",
+   "claim": "ICE Mortgage Technology ships its AI capabilities under the AIQ product family.",
+   "class": "stale",
+   "proof_url": "https://mortgagetech.ice.com/product-history",
+   "proof_quote": "July 18, 2023 AIQ is now ICE Data & Document Automation and ICE Mortgage Analyzers",
+   "stale_change": {
+    "date": "2023-07-18",
+    "quote": "July 18, 2023 AIQ is now ICE Data & Document Automation and ICE Mortgage Analyzers",
+    "url": "https://mortgagetech.ice.com/product-history"
+   },
+   "causing_url": "https://ainora.lt/blog/encompass-ai-review-alternatives-2026",
+   "causing_type": "other",
+   "causing_quote": "ICE Mortgage Technology ships AI capabilities under the AIQ product family and inside Encompass itself",
+   "rationale": "The vendor's product history page documents that AIQ was renamed ICE Data & Document Automation and ICE Mortgage Analyzers on July 18, 2023, so the AIQ name matches the state before that dated change; the cited blog carries the same sentence.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q8|Claude|1",
+     "quote": "ICE Mortgage Technology ships AI capabilities under the AIQ product family and inside Encompass itself"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "product_names",
+   "claim": "ICE Mortgage Technology was formerly named Ellie Mae.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions Ellie Mae; the product history page lists name changes from July 2023 onward only.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q5|Claude|2",
+     "quote": "developed by ICE Mortgage Technology (formerly Ellie Mae)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "product_names",
+   "claim": "Encompass is sold under the name Encompass Digital Mortgage Solution.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read name the product Encompass and describe it as an end-to-end digital mortgage solution, but none uses Encompass Digital Mortgage Solution as a product name, so the name is neither confirmed nor contradicted.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q5|Claude|1",
+     "quote": "The best overall alternative to MeridianLink Mortgage is Encompass Digital Mortgage Solution"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|2",
+     "quote": "The best overall alternative to MeridianLink Mortgage is Encompass Digital Mortgage Solution"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|3",
+     "quote": "The best overall alternative to MeridianLink Mortgage is **Encompass Digital Mortgage Solution**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Perplexity|3",
+     "quote": "**Encompass Digital Mortgage Solution**"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|1",
+     "quote": "The best overall alternative to nCino's Mortgage Suite is Encompass Digital Mortgage Solution"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|2",
+     "quote": "The best overall alternative to nCino's Mortgage Suite is **Encompass Digital Mortgage Solution**"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|3",
+     "quote": "The best overall alternative to nCino's Mortgage Suite is Encompass Digital Mortgage Solution"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "product_names",
+   "claim": "ICE has a product or module named Encompass Digital Lending.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read use the name ICE Mortgage Technology Digital Lending Platform, not Encompass Digital Lending, and do not say whether the latter is a current name.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q8|Claude|3",
+     "quote": "Encompass Digital Lending links underwriting and status outcomes to stage and event reporting on traceable loan records"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "product_names",
+   "claim": "ICE has a product or edition named Encompass Web.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions Encompass Web.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q8|ChatGPT|1",
+     "quote": "Blend documents a direct Encompass Web integration designed to eliminate SDK/plugin dependence"
+    },
+    {
+     "record_id": "loan-origination-software|q8|ChatGPT|2",
+     "quote": "Blend supports a direct Encompass integration, including Encompass Web."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "product_names",
+   "claim": "Empower is a Black Knight/ICE product.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions Empower or Black Knight, so its ownership is not settled by an own page; its absence from the product lists is not a contradiction.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q4|Google AI Overviews|1",
+     "quote": "Empower (Black Knight/ICE): Often considered by larger lenders transitioning between enterprise systems"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "integrations",
+   "claim": "Encompass integrates with Blend.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The partner pages read describe partner programs without listing partners, and the Marketplace that lists them was not among the pages read, so no ICE page names Blend.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q8|ChatGPT|1",
+     "quote": "Blend provides borrower-facing origination, loan-officer tools, and automation that can integrate with Encompass."
+    },
+    {
+     "record_id": "loan-origination-software|q8|ChatGPT|2",
+     "quote": "Blend supports a direct Encompass integration, including Encompass Web."
+    },
+    {
+     "record_id": "loan-origination-software|q8|ChatGPT|3",
+     "quote": "with an Encompass integration."
+    },
+    {
+     "record_id": "loan-origination-software|q8|Claude|1",
+     "quote": "Blend is highly customizable overall and integrates very well with important third-party apps such as DocuSign and LOS systems such as Encompass."
+    },
+    {
+     "record_id": "loan-origination-software|q8|Claude|3",
+     "quote": "Blend facilitates integration with Encompass, allowing businesses to manage disclosures, import files, and review asset statements."
+    },
+    {
+     "record_id": "loan-origination-software|q8|Google AI Mode|1",
+     "quote": "using Blend as the front-end borrower application portal feeding data directly into Encompass as the back-office engine."
+    },
+    {
+     "record_id": "loan-origination-software|q8|Google AI Mode|2",
+     "quote": "passing the verified data seamlessly via API into Encompass for back-office processing."
+    },
+    {
+     "record_id": "loan-origination-software|q8|Google AI Mode|3",
+     "quote": "Blend captures the initial consumer application and syncs data directly via API into Encompass to run the fulfillment pipeline."
+    },
+    {
+     "record_id": "loan-origination-software|q8|Google AI Overviews|2",
+     "quote": "they run Blend on top of Encompass via native API integrations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "integrations",
+   "claim": "Encompass has an ICE partner network with 500+ verified integrations with credit, appraisal and title vendors.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The partner pages describe the largest network of partners in the industry but give no number of integrations.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q2|Claude|1",
+     "quote": "It features an ICE Partner network with 500+ verified integrations with credit, appraisal, and title vendors"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Claude|2",
+     "quote": "It has an ICE Partner network with 500+ verified integrations with credit, appraisal, and title vendors."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "integrations",
+   "claim": "Encompass supports MERS eRegistry for digital closing.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Encompass page names MERS registration from Encompass and the eClose page names eNotes, but no page read states eRegistry support in Encompass, so the claim rests on inference.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q2|Claude|1",
+     "quote": "full digital closing with eSign, eNote, and MERS eRegistry support"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Encompass costs $150 to $400 per seat per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read publishes an Encompass price.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q8|Google AI Mode|2",
+     "quote": "Typical Cost Structure | Per-seat monthly subscription ($150–$400/seat)"
+    },
+    {
+     "record_id": "loan-origination-software|q8|Google AI Mode|3",
+     "quote": "Pricing Model | Commonly $150–$400 per seat monthly."
+    },
+    {
+     "record_id": "loan-origination-software|q8|Google AI Overviews|2",
+     "quote": "Pricing Model | $150–$400 per seat / monthly"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Encompass pricing is enterprise-level, not published, and volume-based.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states how Encompass is priced.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q8|Claude|2",
+     "quote": "Enterprise pricing, opaque/volume-based"
+    }
+   ]
+  }
+ ],
+ "notes": "Eight own pages read on mortgagetech.ice.com (the canonical home https://www.icemortgagetechnology.com/ redirects there), all HTTP 200 and not thin; the eight-page limit is reached. One cited page was read for the cause of C04 (ainora.lt, a blog, typed other). The Marketplace (marketplace.icemortgagetechnology.com) that lists integration partners was not read, so the Blend integration (C10) is unverifiable. Not coded: market share figures (about 50% of originations, 90% of residential loans touched, survey shares), named customers, review ratings, capability and compliance descriptions, implementation times, cost opinions, the Encompass compliance and KYC product from another company mentioned in q4 Google AI Overviews 2, Encompass Health, and Empower (Dark Matter Technologies) mentions that attribute Empower to another company. Pass 2 (8 Oct 2026): no browser snapshots exist for ICE Mortgage Technology and no claim was unverifiable because a page was blocked or thin; a re-search of all eight own snapshots for Ellie Mae, Blend, eRegistry, Encompass Web, Encompass Digital Lending, Empower, Black Knight and an integration count settled nothing new (the about and home pages name MERS eRegistry only as a MERS service, not as Encompass support, so C12 stays unverifiable). The gap lines are capability descriptions, recommendations, named customers (Guild Mortgage, Wells Fargo), Consumer Connect's integration with Encompass itself (an ICE product, not a third-party integration) and Blend integration lines from answers that already carry a C10 instance; nothing added. The table and sub-heading scan of the full answers (q2, q5, q6 and q8 tables, the q8 Google pipe tables, the Encompass deep-dive sections) found only lines already coded (C13 prices, C14 'Pricing is complex and volume-based' in an answer already listed) or out of scope (ratings, market share, team size, implementation time). Consistency check: C04 stays stale; the product history page itself dates the AIQ rename (July 18, 2023) and the claim uses the pre-change name for the same product family.",
+ "answer_record_ids": [
+  "loan-origination-software|q2|ChatGPT|1",
+  "loan-origination-software|q2|ChatGPT|2",
+  "loan-origination-software|q2|ChatGPT|3",
+  "loan-origination-software|q2|Claude|1",
+  "loan-origination-software|q2|Claude|2",
+  "loan-origination-software|q2|Claude|3",
+  "loan-origination-software|q2|Google AI Mode|2",
+  "loan-origination-software|q2|Google AI Mode|3",
+  "loan-origination-software|q2|Perplexity|1",
+  "loan-origination-software|q3|Claude|1",
+  "loan-origination-software|q3|Claude|2",
+  "loan-origination-software|q3|Claude|3",
+  "loan-origination-software|q3|Google AI Mode|1",
+  "loan-origination-software|q3|Google AI Mode|2",
+  "loan-origination-software|q3|Google AI Mode|3",
+  "loan-origination-software|q4|ChatGPT|1",
+  "loan-origination-software|q4|ChatGPT|2",
+  "loan-origination-software|q4|ChatGPT|3",
+  "loan-origination-software|q4|Claude|1",
+  "loan-origination-software|q4|Claude|2",
+  "loan-origination-software|q4|Claude|3",
+  "loan-origination-software|q4|Google AI Mode|1",
+  "loan-origination-software|q4|Google AI Mode|2",
+  "loan-origination-software|q4|Google AI Mode|3",
+  "loan-origination-software|q4|Google AI Overviews|1",
+  "loan-origination-software|q4|Google AI Overviews|2",
+  "loan-origination-software|q4|Google AI Overviews|3",
+  "loan-origination-software|q4|Perplexity|1",
+  "loan-origination-software|q4|Perplexity|2",
+  "loan-origination-software|q4|Perplexity|3",
+  "loan-origination-software|q5|ChatGPT|1",
+  "loan-origination-software|q5|ChatGPT|2",
+  "loan-origination-software|q5|ChatGPT|3",
+  "loan-origination-software|q5|Claude|1",
+  "loan-origination-software|q5|Claude|2",
+  "loan-origination-software|q5|Claude|3",
+  "loan-origination-software|q5|Google AI Mode|3",
+  "loan-origination-software|q5|Google AI Overviews|1",
+  "loan-origination-software|q5|Google AI Overviews|2",
+  "loan-origination-software|q5|Perplexity|1",
+  "loan-origination-software|q5|Perplexity|2",
+  "loan-origination-software|q5|Perplexity|3",
+  "loan-origination-software|q6|Claude|1",
+  "loan-origination-software|q6|Claude|2",
+  "loan-origination-software|q6|Claude|3",
+  "loan-origination-software|q7|Claude|2",
+  "loan-origination-software|q8|ChatGPT|1",
+  "loan-origination-software|q8|ChatGPT|2",
+  "loan-origination-software|q8|ChatGPT|3",
+  "loan-origination-software|q8|Claude|1",
+  "loan-origination-software|q8|Claude|2",
+  "loan-origination-software|q8|Claude|3",
+  "loan-origination-software|q8|Google AI Mode|1",
+  "loan-origination-software|q8|Google AI Mode|2",
+  "loan-origination-software|q8|Google AI Mode|3",
+  "loan-origination-software|q8|Google AI Overviews|1",
+  "loan-origination-software|q8|Google AI Overviews|2",
+  "loan-origination-software|q8|Google AI Overviews|3",
+  "loan-origination-software|q8|Perplexity|1",
+  "loan-origination-software|q8|Perplexity|2",
+  "loan-origination-software|q8|Perplexity|3",
+  "loan-origination-software|q9|Google AI Mode|3"
+ ],
+ "named_count": 62
+}

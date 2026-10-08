@@ -1,0 +1,480 @@
+{
+ "vendor": "Innago",
+ "slug": "innago",
+ "category": "residential-property-management",
+ "coded_at": "2026-10-08T04:07:00Z",
+ "pages_read": [
+  {
+   "url": "https://innago.com/pricing/",
+   "key": "c60b98cd76c753ae",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://innago.com/",
+   "key": "8dd674a8226f04d4",
+   "used_for": "home"
+  },
+  {
+   "url": "https://nextapp-dev.innago.com/faq/",
+   "key": "5606404685150b93",
+   "used_for": "FAQ (Innago subdomain cited by an answer; pricing, fees, units, features)"
+  },
+  {
+   "url": "https://agorareal.com/compare/appfolio-alternatives/",
+   "key": "d0ee9a0593caac1a",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://www.hemlane.com/resources/appfolio-alternatives/",
+   "key": "54b4d62dcf59f4aa",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://www.re-leased.com/software/best-10-buildium-alternatives-for-property-management-in-2026",
+   "key": "604c0904f47bca0b",
+   "used_for": "cause tracing (cited page, not own)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "free_tier",
+   "claim": "Innago is free for landlords (no monthly subscription fee).",
+   "class": "true",
+   "proof_url": "https://nextapp-dev.innago.com/faq/",
+   "proof_quote": "Yes, Innago is genuinely 100% free for landlords. There's no monthly subscription fee, setup fee, or contract.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ states Innago is 100% free for landlords with no monthly subscription fee, and the pricing page says no monthly fee.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q1|Claude|2",
+     "quote": "Innago is the only fully free option, best for landlords with one to two properties."
+    },
+    {
+     "record_id": "residential-property-management|q1|Claude|3",
+     "quote": "Innago is the only fully free option, best for landlords with one to two properties."
+    },
+    {
+     "record_id": "residential-property-management|q1|Google AI Mode|1",
+     "quote": "Widely considered the best zero-cost option because it does not charge monthly subscription fees."
+    },
+    {
+     "record_id": "residential-property-management|q1|Google AI Mode|2",
+     "quote": "completely free for landlords to use"
+    },
+    {
+     "record_id": "residential-property-management|q1|Google AI Mode|3",
+     "quote": "Innago is 100% free for landlords."
+    },
+    {
+     "record_id": "residential-property-management|q1|Google AI Overviews|1",
+     "quote": "Innago | Free / Tenant-paid | Digital leases & tracking | None"
+    },
+    {
+     "record_id": "residential-property-management|q1|Google AI Overviews|2",
+     "quote": "Free / Tenant-paid | Zero subscription cost"
+    },
+    {
+     "record_id": "residential-property-management|q1|Google AI Overviews|3",
+     "quote": "Top choices include Innago for zero monthly fees"
+    },
+    {
+     "record_id": "residential-property-management|q1|Perplexity|1",
+     "quote": "repeatedly described as a truly free platform"
+    },
+    {
+     "record_id": "residential-property-management|q1|Perplexity|2",
+     "quote": "$0 landlord cost"
+    },
+    {
+     "record_id": "residential-property-management|q1|Perplexity|3",
+     "quote": "at no monthly cost to the landlord"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "Innago is completely free for landlords"
+    },
+    {
+     "record_id": "residential-property-management|q10|Perplexity|2",
+     "quote": "free forever"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|1",
+     "quote": "Innago is a free property management software"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|2",
+     "quote": "Innago is a free property management software"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|3",
+     "quote": "Innago is a free property management software"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Mode|2",
+     "quote": "They offer free core software tiers"
+    },
+    {
+     "record_id": "residential-property-management|q4|Perplexity|1",
+     "quote": "Free core platform / very low-cost entry"
+    },
+    {
+     "record_id": "residential-property-management|q4|Perplexity|2",
+     "quote": "it can be used with no platform subscription fee"
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Mode|1",
+     "quote": "Free software for landlords (tenant-paid fees)"
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Mode|3",
+     "quote": "free for landlords to use"
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Overviews|2",
+     "quote": "Innago offers a free core platform"
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Overviews|3",
+     "quote": "It offers a free core software platform"
+    },
+    {
+     "record_id": "residential-property-management|q5|Perplexity|2",
+     "quote": "a strong no-cost alternative"
+    },
+    {
+     "record_id": "residential-property-management|q5|Perplexity|3",
+     "quote": "Often highlighted as a strong free option with no unit limits."
+    },
+    {
+     "record_id": "residential-property-management|q6|ChatGPT|1",
+     "quote": "No monthly subscription or setup fee."
+    },
+    {
+     "record_id": "residential-property-management|q6|ChatGPT|3",
+     "quote": "No monthly subscription, setup fee, or contract."
+    },
+    {
+     "record_id": "residential-property-management|q6|Claude|1",
+     "quote": "especially well-regarded for being free for landlords"
+    },
+    {
+     "record_id": "residential-property-management|q6|Claude|2",
+     "quote": "A free, landlord-friendly platform"
+    },
+    {
+     "record_id": "residential-property-management|q6|Claude|3",
+     "quote": "Innago is a popular free platform for independent landlords"
+    },
+    {
+     "record_id": "residential-property-management|q6|Google AI Mode|3",
+     "quote": "Innago is a popular zero-base-cost alternative"
+    },
+    {
+     "record_id": "residential-property-management|q6|Google AI Overviews|3",
+     "quote": "A highly rated, completely free platform with no unit caps or hidden monthly tiers."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Innago makes its money from fees tenants pay for screening and online payments.",
+   "class": "true",
+   "proof_url": "https://nextapp-dev.innago.com/faq/",
+   "proof_quote": "We make money through small transaction fees paid by tenants. ACH payments incur a $2 transaction fee, and credit/debit card payments incur a 2.99% transaction fee. Additionally, tenants cover the cost of screening reports ($30-35).",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ says Innago earns from transaction fees paid by tenants and that tenants pay for screening reports.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q1|Google AI Mode|1",
+     "quote": "Instead, it makes money optionally through tenant screening fees or minor payment processing costs."
+    },
+    {
+     "record_id": "residential-property-management|q1|Google AI Mode|2",
+     "quote": "they charge small transaction fees to tenants for online rent payments or card usage"
+    },
+    {
+     "record_id": "residential-property-management|q1|Google AI Mode|3",
+     "quote": "They make money by passing small transaction fees to the tenant (for ACH/credit card payments or screening reports)."
+    },
+    {
+     "record_id": "residential-property-management|q1|Google AI Overviews|1",
+     "quote": "Innago | Free / Tenant-paid | Digital leases & tracking | None"
+    },
+    {
+     "record_id": "residential-property-management|q1|Google AI Overviews|2",
+     "quote": "Cost: Free base software (tenant pays screening/transaction fees)"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|1",
+     "quote": "Tenants pay fees for screening and online rent payments."
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|2",
+     "quote": "with tenants paying fees for screening and online rent payments"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|3",
+     "quote": "Tenants pay fees for screening and online rent payments."
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Mode|2",
+     "quote": "making their money instead on tenant-paid screening or payment processing fees"
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Mode|1",
+     "quote": "It charges tenants for screening and payments rather than hitting the landlord with high monthly subscription fees."
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Mode|3",
+     "quote": "charging tenants basic fees for processing or screening instead"
+    },
+    {
+     "record_id": "residential-property-management|q5|Google AI Overviews|3",
+     "quote": "while making money on optional paid services like tenant screening"
+    },
+    {
+     "record_id": "residential-property-management|q6|Google AI Overviews|3",
+     "quote": "Truly free (Tenant pays transaction fees)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Innago has no setup fee and no contract.",
+   "class": "true",
+   "proof_url": "https://innago.com/pricing/",
+   "proof_quote": "No monthly fee. No setup fee. No contract.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states no monthly fee, no setup fee and no contract.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "there are never any contracts, monthly fees, or setup fees"
+    },
+    {
+     "record_id": "residential-property-management|q6|ChatGPT|1",
+     "quote": "No monthly subscription or setup fee."
+    },
+    {
+     "record_id": "residential-property-management|q6|ChatGPT|3",
+     "quote": "No monthly subscription, setup fee, or contract."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "ACH rent payments cost $2 per payment.",
+   "class": "true",
+   "proof_url": "https://nextapp-dev.innago.com/faq/",
+   "proof_quote": "ACH payments incur a $2 transaction fee",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ sets a $2 transaction fee on ACH payments.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q6|ChatGPT|1",
+     "quote": "ACH costs $2/payment, paid by tenants unless you choose to absorb it."
+    },
+    {
+     "record_id": "residential-property-management|q6|ChatGPT|3",
+     "quote": "ACH costs $2/payment, which you can absorb rather than charge tenants."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Landlords can choose to absorb the transaction fees instead of charging tenants.",
+   "class": "true",
+   "proof_url": "https://nextapp-dev.innago.com/faq/",
+   "proof_quote": "Yes, Innago gives you the choice to absorb transaction fees yourself rather than passing them on to your tenants.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ lets landlords absorb transaction fees.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q6|ChatGPT|1",
+     "quote": "paid by tenants unless you choose to absorb it"
+    },
+    {
+     "record_id": "residential-property-management|q6|ChatGPT|3",
+     "quote": "which you can absorb rather than charge tenants"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "plans",
+   "claim": "Innago has no unit caps (it stays free however many units you add).",
+   "class": "true",
+   "proof_url": "https://nextapp-dev.innago.com/faq/",
+   "proof_quote": "As your portfolio grows, Innago grows with you, and it stays free regardless of how many units you add.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ says Innago stays free regardless of how many units are added and has no starter plan.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q1|Google AI Mode|3",
+     "quote": "Innago — Best truly free option with no unit caps"
+    },
+    {
+     "record_id": "residential-property-management|q5|Perplexity|3",
+     "quote": "Often highlighted as a strong free option with no unit limits."
+    },
+    {
+     "record_id": "residential-property-management|q6|Google AI Overviews|3",
+     "quote": "A highly rated, completely free platform with no unit caps or hidden monthly tiers."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Innago has no paid tiers (no hidden monthly tiers).",
+   "class": "true",
+   "proof_url": "https://nextapp-dev.innago.com/faq/",
+   "proof_quote": "There's no minimum unit count, no tiered pricing, and no \"starter\" plan. Everyone gets access to the full suite of tools from day one.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ states there is no tiered pricing and everyone gets the full suite of tools.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q6|Google AI Overviews|3",
+     "quote": "no unit caps or hidden monthly tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Innago has no unit minimum.",
+   "class": "true",
+   "proof_url": "https://nextapp-dev.innago.com/faq/",
+   "proof_quote": "There's no minimum unit count, no tiered pricing, and no \"starter\" plan.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ states there is no minimum unit count.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q1|Google AI Overviews|1",
+     "quote": "Innago | Free / Tenant-paid | Digital leases & tracking | None"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "plans",
+   "claim": "Innago gives landlords free basic access, with optional paid features and premium add-ons.",
+   "class": "wrong",
+   "proof_url": "https://nextapp-dev.innago.com/faq/",
+   "proof_quote": "Yes, Innago is genuinely 100% free for landlords. There's no monthly subscription fee, setup fee, or contract. You get full access to all our features for free.",
+   "stale_change": null,
+   "causing_url": "https://agorareal.com/compare/appfolio-alternatives/",
+   "causing_type": "other",
+   "causing_quote": "Pricing: Innago offers free basic access for landlords, with optional paid features and premium add-ons.",
+   "rationale": "The FAQ gives landlords full access to all features for free with no tiered pricing; the only fees are tenant-paid transaction and screening fees, so there are no paid features or premium add-ons for landlords.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q4|Claude|1",
+     "quote": "Innago offers free basic access for landlords, with optional paid features and premium add-ons."
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|2",
+     "quote": "It offers free basic access for landlords, with optional paid features and premium add-ons"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|3",
+     "quote": "Innago offers free basic access for landlords, with optional paid features and premium add-ons."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "E-signatures are an optional paid service.",
+   "class": "wrong",
+   "proof_url": "https://nextapp-dev.innago.com/faq/",
+   "proof_quote": "The only fees associated with Innago are small transaction fees charged to tenants for online payments or screening reports.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The FAQ limits Innago's fees to tenant payment and screening fees and describes a built-in e-signature tool, so e-signatures are not a paid service.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q5|Google AI Overviews|3",
+     "quote": "It offers a free core software platform while making money on optional paid services like tenant screening and e-signatures."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Three own pages read, all HTTP 200 and not flagged thin. The innago.com pricing and home pages are client rendered: their snapshots carry only the tagline, reviews and the line No monthly fee. No setup fee. No contract.; the fee details come from the Innago FAQ at nextapp-dev.innago.com, an Innago subdomain that an answer cites (last updated July 14, 2026). A reviewer may wish to confirm the FAQ figures on the production site in a browser. The FAQ also states founding (2017), headquarters (Cincinnati), a mobile app, cloud hosting and QuickBooks and Ledgre integrations, but no answer made those claims about Innago (one q9 answer lists Innago and Ledgre as platforms to integrate with, which is not a claim about Innago). Three cited pages were read for causes: an Agora comparison carries the free basic access with optional paid features wording; the Re-Leased article lists e-signatures as a feature beside revenue from optional services but does not say e-signatures are paid, so C10 is cause not found. Several Google AI Overviews answers print vendor headings after their blocks, so unlabelled blocks were not attributed to Innago; only lines that name Innago, or follow an Innago heading directly, were coded. Hedged lines (may find, in many cases), rankings and only-free-option comparisons were not coded. Pass 2 (8 Oct 2026): no browser snapshot exists for Innago, so nothing was re-classed on new reads. The three gap lines, every markdown and Google-style table naming Innago and every Innago-headed section were checked; each in-scope line is already an instance (for example the free, tenant-paid and no-unit-cap table cells), so no claim or instance was added. The q6 Google AI Overviews comparison table was left uncoded because its header names three vendors over four value columns, so the Innago column cannot be identified. Consistency check: C09 and C10 stay wrong, because the FAQ says landlords get full access to all features for free and that the only fees are tenant transaction and screening fees, which explicitly contradicts paid features, premium add-ons and paid e-signatures; that FAQ sits on the nextapp-dev.innago.com subdomain, which a reviewer should keep in mind.",
+ "answer_record_ids": [
+  "residential-property-management|q1|Claude|2",
+  "residential-property-management|q1|Claude|3",
+  "residential-property-management|q1|Google AI Mode|1",
+  "residential-property-management|q1|Google AI Mode|2",
+  "residential-property-management|q1|Google AI Mode|3",
+  "residential-property-management|q1|Google AI Overviews|1",
+  "residential-property-management|q1|Google AI Overviews|2",
+  "residential-property-management|q1|Google AI Overviews|3",
+  "residential-property-management|q1|Perplexity|1",
+  "residential-property-management|q1|Perplexity|2",
+  "residential-property-management|q1|Perplexity|3",
+  "residential-property-management|q10|Claude|2",
+  "residential-property-management|q10|Perplexity|1",
+  "residential-property-management|q10|Perplexity|2",
+  "residential-property-management|q10|Perplexity|3",
+  "residential-property-management|q4|Claude|1",
+  "residential-property-management|q4|Claude|2",
+  "residential-property-management|q4|Claude|3",
+  "residential-property-management|q4|Google AI Mode|2",
+  "residential-property-management|q4|Google AI Overviews|3",
+  "residential-property-management|q4|Perplexity|1",
+  "residential-property-management|q4|Perplexity|2",
+  "residential-property-management|q4|Perplexity|3",
+  "residential-property-management|q5|Google AI Mode|1",
+  "residential-property-management|q5|Google AI Mode|3",
+  "residential-property-management|q5|Google AI Overviews|1",
+  "residential-property-management|q5|Google AI Overviews|2",
+  "residential-property-management|q5|Google AI Overviews|3",
+  "residential-property-management|q5|Perplexity|1",
+  "residential-property-management|q5|Perplexity|2",
+  "residential-property-management|q5|Perplexity|3",
+  "residential-property-management|q6|ChatGPT|1",
+  "residential-property-management|q6|ChatGPT|3",
+  "residential-property-management|q6|Claude|1",
+  "residential-property-management|q6|Claude|2",
+  "residential-property-management|q6|Claude|3",
+  "residential-property-management|q6|Google AI Mode|3",
+  "residential-property-management|q6|Google AI Overviews|1",
+  "residential-property-management|q6|Google AI Overviews|3",
+  "residential-property-management|q6|Perplexity|3",
+  "residential-property-management|q9|Google AI Overviews|2"
+ ],
+ "named_count": 41
+}

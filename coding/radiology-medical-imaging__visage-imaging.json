@@ -1,0 +1,788 @@
+{
+ "vendor": "Visage Imaging",
+ "slug": "visage-imaging",
+ "category": "radiology-medical-imaging",
+ "coded_at": "2026-10-08T04:07:00Z",
+ "pages_read": [
+  {
+   "url": "https://visageimaging.com/",
+   "key": "ab259546e09d3fd8",
+   "used_for": "home"
+  },
+  {
+   "url": "https://visageimaging.com/company/",
+   "key": "c33ba2a3e941b89d",
+   "used_for": "about (company, ownership)"
+  },
+  {
+   "url": "https://visageimaging.com/platform/cloud/",
+   "key": "44c7d766e608ca9e",
+   "used_for": "product (cloud)"
+  },
+  {
+   "url": "https://visageimaging.com/platform/technical/",
+   "key": "34bdcc79c8741112",
+   "used_for": "product (technical, clients)"
+  },
+  {
+   "url": "https://info.visageimaging.com/tiwcloudpacs",
+   "key": "483202b94bd5756c",
+   "used_for": "product (CloudPACS)"
+  },
+  {
+   "url": "https://info.visageimaging.com/aws",
+   "key": "d75ea8e243c85ef1",
+   "used_for": "product (AWS)"
+  },
+  {
+   "url": "https://visageimaging.com/press-releases/",
+   "key": "694b52b7c6a86b49",
+   "used_for": "press"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "platforms",
+   "claim": "Visage 7 is available in the cloud (cloud-delivered, cloud-native).",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/",
+   "proof_quote": "Visage 7 is the industry’s leading cloud-native, server-side platform for PACS and Enterprise Imaging operations.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Visage's home page describes Visage 7 as a cloud-native platform available in the cloud for complete PACS operations.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|Perplexity|1",
+     "quote": "**Best if you want cloud-first remote reading:** **Visage Imaging** — highlighted as a fit for centers prioritizing cloud speed and remote workflows."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Perplexity|2",
+     "quote": "**Best cloud-first option:** **Visage Imaging** is positioned for centers prioritizing cloud speed and remote reading."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Perplexity|3",
+     "quote": "**Visage Imaging**: best if your priority is cloud speed and remote reading."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|1",
+     "quote": "Cloud deployment is available."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|2",
+     "quote": "Its cloud offering can combine the diagnostic viewer with optional workflow and archive components."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|3",
+     "quote": "Server-side image processing, cloud delivery, and modular archive and workflow components make it a strong enterprise PACS candidate."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Claude|2",
+     "quote": "| **Visage Imaging** | Fast-growing, cloud-native AI |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Claude|3",
+     "quote": "Visage Imaging, a cloud-native vendor, has been gaining momentum in large health systems."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|1",
+     "quote": "Visage offers a cloud PACS stack with optional Workflow and Open Archive modules."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|2",
+     "quote": "Offers a cloud-delivered enterprise viewer, with optional Visage 7 Workflow and Open Archive components."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|3",
+     "quote": "your best bets on the software/PACS side are **Sectra**, **RamSoft OmegaAI**, **Visage Imaging**, and **Agfa HealthCare** — all offering enterprise-grade, cloud-capable platforms"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|1",
+     "quote": "Offers cloud-based rendering and a diagnostic viewer, with optional Visage workflow and archive components for a complete stack."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|2",
+     "quote": "Its cloud platform can include the diagnostic viewer, workflow, and archive, although workflow and archive are optional components"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|3",
+     "quote": "Offers a cloud-delivered diagnostic platform, with optional workflow and archive components."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|1",
+     "quote": "Visage Imaging, a cloud-native vendor, was gaining momentum in large systems."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|1",
+     "quote": "Visage in the cloud offers the same ultrafast speed of on-premise implementations, but with the added security and scale of the cloud — all with the simplicity of a managed service."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|2",
+     "quote": "Visage in the cloud offers the same ultrafast speed of on-premise implementations, but with added security and scale of the cloud."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|3",
+     "quote": "Visage 7 is described as the industry's leading cloud-native, server-side platform for PACS and Enterprise Imaging operations"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Perplexity|1",
+     "quote": "especially for large studies, cloud-based reading, or teleradiology-style workflows"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Perplexity|3",
+     "quote": "with emphasis on high-speed diagnostic viewing and cloud-engineered architecture"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|2",
+     "quote": "Visage offers a managed cloud stack with optional Workflow and Open Archive"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|3",
+     "quote": "Visage offers a managed cloud stack"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|1",
+     "quote": "For teams that prioritize fast image access above all, Visage Imaging is engineered for cloud-first viewing speed."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|2",
+     "quote": "For teams that prioritize fast image access above all, Visage Imaging is engineered for cloud-first viewing speed."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|3",
+     "quote": "**Advantage: Visage 7** for pure cloud-native deployments"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Mode|2",
+     "quote": "Visage has invested heavily in cloud-native deployments (e.g., Visage 7 CloudPACS on AWS)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|2",
+     "quote": "If you plan to operate a highly decentralized, multi-region teleradiology network in AWS or Azure, Visage’s cloud architecture is widely considered the gold standard for performance."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|3",
+     "quote": "**Best for:** Large imaging systems and academic medical centers prioritizing ultra-fast image rendering and cloud-native architecture."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|3",
+     "quote": "Visage | Blazing-fast 3D/streaming performance | Server-side rendering / Cloud | High-complexity imaging or subspecialty-heavy reading groups"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "platforms",
+   "claim": "Visage 7 is also implemented on premise.",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/company/",
+   "proof_quote": "providing a fast, clinically rich, and highly scalable growth platform deliverable entirely from the cloud or on-premise.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Visage's company page states the platform is deliverable from the cloud or on-premise.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|1",
+     "quote": "Visage in the cloud offers the same ultrafast speed of on-premise implementations"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|2",
+     "quote": "Visage's experience has been that cloud-based implementations of Visage 7 have the same great performance as on-premise"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "platforms",
+   "claim": "Visage's cloud offering is a fully managed service.",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/platform/cloud/",
+   "proof_quote": "Visage provides a fully managed service with a service level agreement (SLA) between Visage and your organization.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The cloud page describes Visage in the cloud as a fully managed SaaS with an SLA.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|1",
+     "quote": "all with the simplicity of a managed service"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|2",
+     "quote": "Visage offers a managed cloud stack with optional Workflow and Open Archive"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|3",
+     "quote": "Visage offers a managed cloud stack"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "platforms",
+   "claim": "Visage 7 CloudPACS runs on AWS.",
+   "class": "true",
+   "proof_url": "https://info.visageimaging.com/tiwcloudpacs",
+   "proof_quote": "Visage 7 on AWS offers ultrafast PACS that's cloud-engineered to maximize PACS performance, security, and scale as a fully managed service (SaaS).",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Visage's CloudPACS page states Visage 7 is offered on AWS.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Mode|2",
+     "quote": "Visage has invested heavily in cloud-native deployments (e.g., Visage 7 CloudPACS on AWS)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|2",
+     "quote": "If you plan to operate a highly decentralized, multi-region teleradiology network in AWS or Azure, Visage’s cloud architecture is widely considered the gold standard for performance."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "platforms",
+   "claim": "Visage runs on Microsoft Azure.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read name AWS and 'top cloud hyperscalers' but do not mention Azure, which is not an explicit contradiction.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|2",
+     "quote": "If you plan to operate a highly decentralized, multi-region teleradiology network in AWS or Azure, Visage’s cloud architecture is widely considered the gold standard for performance."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "platforms",
+   "claim": "Over the past five years, 100% of Visage's new PACS customers have been implemented in the cloud.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read in this study states the share of new customers implemented in the cloud.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|2",
+     "quote": "Over the past five years, **100% of Visage's new PACS customers have been implemented in the cloud**, without limitation in scale, scope, or clinical mission."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|1",
+     "quote": "Over the past five years, 100% of Visage's new PACS customers have been implemented in the cloud, without limitation whatsoever in scale, scope, or clinical mission."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|2",
+     "quote": "Over the past five years, 100% of Visage's new PACS customers have been implemented in the cloud, without limitation whatsoever in scale, scope, or clinical mission."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|3",
+     "quote": "Over the past five years, 100% of Visage's new PACS customers have been implemented in the cloud, without limitation in scale, scope, or clinical mission."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "platforms",
+   "claim": "Visage 7 has a native Windows client.",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/platform/technical/",
+   "proof_quote": "Visage 7 is a smart-client application and is native on devices running either Windows or macOS.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The technical page states Visage 7 is native on Windows devices.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|3",
+     "quote": "native Windows/macOS clients"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "platforms",
+   "claim": "Visage 7 has a native macOS client.",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/platform/technical/",
+   "proof_quote": "Visage 7 is a smart-client application and is native on devices running either Windows or macOS.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The technical page states Visage 7 is native on macOS devices.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|3",
+     "quote": "native Windows/macOS clients"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "platforms",
+   "claim": "Visage offers zero-footprint diagnostic viewing.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read describe Visage 7 as a native smart-client application with zero client-side dependencies and list a 2026 'Visage 7 Web' release, but none says zero-footprint, so the claim is neither confirmed nor explicitly contradicted.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Perplexity|2",
+     "quote": "**Visage Imaging** — best for **fast diagnostic viewing** and high-volume teleradiology, especially when speed and zero-footprint access matter."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Perplexity|2",
+     "quote": "| **Visage 7** | High-volume reading and teleradiology | Repeatedly ranked near the top for speed and zero-footprint diagnostic viewing."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Perplexity|1",
+     "quote": "| Fastest image rendering / zero-footprint style viewing | **Visage**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "platforms",
+   "claim": "Visage 7 supports mobile imaging workflows.",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/company/",
+   "proof_quote": "Visage 7 supports the simplicity of a One Viewer™ philosophy, that enables diagnostic, clinical, specialty, research, and mobile imaging workflows from a singular platform.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The company page states Visage 7 enables mobile imaging workflows, and the home page lists a native iOS/iPadOS app.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|2",
+     "quote": "Visage 7 supports a **\"One Viewer™\" philosophy**, enabling diagnostic, clinical, specialty, research, and mobile imaging workflows from a singular platform."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "product_names",
+   "claim": "One Viewer is Visage's named viewer approach for Visage 7.",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/company/",
+   "proof_quote": "Visage 7 supports the simplicity of a One Viewer™ philosophy, that enables diagnostic, clinical, specialty, research, and mobile imaging workflows from a singular platform.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Visage's own pages name the One Viewer philosophy for Visage 7.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|1",
+     "quote": "Visage also offers a unified **\"One Viewer\" experience** that simplifies access and tools for all clinical users."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|2",
+     "quote": "Visage 7 supports a **\"One Viewer™\" philosophy**, enabling diagnostic, clinical, specialty, research, and mobile imaging workflows from a singular platform."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|1",
+     "quote": "Visage's strategy centers on a \"One Viewer\" philosophy combined with a practical AI accelerator program."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|2",
+     "quote": "Visage 7 offers significant value through ultrafast image display and a \"One Viewer\" philosophy"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "product_names",
+   "claim": "Visage 7 Workflow is Visage's workflow module.",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/company/",
+   "proof_quote": "Visage 7 also offers modular scalability and future-proof flexibility with enterprise workflow (Visage 7 Workflow), vendor-neutral archive (Visage 7 Open Archive) and artificial intelligence (Visage AI Accelerator) solutions, all 100% native.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The company page names Visage 7 Workflow as the enterprise workflow module.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|1",
+     "quote": "Visage offers a cloud PACS stack with optional Workflow and Open Archive modules."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|2",
+     "quote": "Offers a cloud-delivered enterprise viewer, with optional Visage 7 Workflow and Open Archive components."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|2",
+     "quote": "Visage Workflow also supports escalation and load balancing using SLAs, RVUs, shifts, and custom criteria."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|3",
+     "quote": "Visage lists Workflow and Open Archive as optional components"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "product_names",
+   "claim": "Visage 7 Open Archive is Visage's archive (VNA) module.",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/company/",
+   "proof_quote": "Visage 7 also offers modular scalability and future-proof flexibility with enterprise workflow (Visage 7 Workflow), vendor-neutral archive (Visage 7 Open Archive) and artificial intelligence (Visage AI Accelerator) solutions, all 100% native.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The company page names Visage 7 Open Archive as the vendor-neutral archive module.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|1",
+     "quote": "Visage offers a cloud PACS stack with optional Workflow and Open Archive modules."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|2",
+     "quote": "Offers a cloud-delivered enterprise viewer, with optional Visage 7 Workflow and Open Archive components."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|2",
+     "quote": "Visage offers a managed cloud stack with optional Workflow and Open Archive"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|3",
+     "quote": "Visage lists Workflow and Open Archive as optional components"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "plans",
+   "claim": "In Visage's cloud offering, the workflow and archive modules are optional additions to the Visage 7 viewer.",
+   "class": "true",
+   "proof_url": "https://info.visageimaging.com/tiwcloudpacs",
+   "proof_quote": "pairing the Visage 7 Viewer with Visage 7 Workflow (Optional) and Visage 7 Open Archive (Optional) for a complete, full stack of Visage 7 offerings in the cloud.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The CloudPACS page lists Visage 7 Workflow and Visage 7 Open Archive as optional components paired with the viewer.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|2",
+     "quote": "Its cloud offering can combine the diagnostic viewer with optional workflow and archive components."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|1",
+     "quote": "Visage offers a cloud PACS stack with optional Workflow and Open Archive modules."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|2",
+     "quote": "Offers a cloud-delivered enterprise viewer, with optional Visage 7 Workflow and Open Archive components."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|1",
+     "quote": "Offers cloud-based rendering and a diagnostic viewer, with optional Visage workflow and archive components for a complete stack."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|2",
+     "quote": "Its cloud platform can include the diagnostic viewer, workflow, and archive, although workflow and archive are optional components"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|3",
+     "quote": "Offers a cloud-delivered diagnostic platform, with optional workflow and archive components."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|2",
+     "quote": "Visage offers a managed cloud stack with optional Workflow and Open Archive"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|3",
+     "quote": "Visage lists Workflow and Open Archive as optional components"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "product_names",
+   "claim": "Visage 7 CloudPACS is the name of Visage's cloud PACS offering.",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/platform/cloud/",
+   "proof_quote": "Visage 7 CloudPACS™ is here",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Visage's cloud page names the offering Visage 7 CloudPACS.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|3",
+     "quote": "Visage explicitly includes teleradiology among its CloudPACS use cases"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Mode|2",
+     "quote": "Visage has invested heavily in cloud-native deployments (e.g., Visage 7 CloudPACS on AWS)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "product_names",
+   "claim": "Visage has an AI Accelerator program.",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/",
+   "proof_quote": "The Visage AI Accelerator program bridges both research and diagnostic imaging with a unified platform, rapidly accelerating the time from code-to-bedside.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page names the Visage AI Accelerator program.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|1",
+     "quote": "| AI Integration | Good | Strong (AI Accelerator program) |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|1",
+     "quote": "Visage's strategy centers on a \"One Viewer\" philosophy combined with a practical AI accelerator program."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "product_names",
+   "claim": "Visage 7 is a Pro Medicus product (Visage 7 by Pro Medicus).",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/company/",
+   "proof_quote": "is a wholly-owned subsidiary of Pro Medicus Limited [ASX:PME], with more than 30 years of experience in medical imaging.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Visage Imaging, maker of Visage 7, is a wholly-owned subsidiary of Pro Medicus, so the 'by Pro Medicus' naming matches.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|1",
+     "quote": "Visage 7 (Visage Imaging / Pro Medicus)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|2",
+     "quote": "Visage Imaging (Visage 7 by Pro Medicus)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|3",
+     "quote": "Visage Imaging (Visage 7, by Pro Medicus)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|2",
+     "quote": "Visage 7 (Pro Medicus)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|3",
+     "quote": "Visage 7 (by Pro Medicus)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "ownership",
+   "claim": "Visage Imaging is owned by (backed by) Pro Medicus.",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/company/",
+   "proof_quote": "is a wholly-owned subsidiary of Pro Medicus Limited [ASX:PME], with more than 30 years of experience in medical imaging.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The company page states Visage is a wholly-owned subsidiary of Pro Medicus Limited.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|1",
+     "quote": "| **Enterprise Backing** | Pro Medicus (ASX) | GE Healthcare |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "ownership",
+   "claim": "Visage's parent Pro Medicus is listed on the ASX.",
+   "class": "true",
+   "proof_url": "https://visageimaging.com/company/",
+   "proof_quote": "is a wholly-owned subsidiary of Pro Medicus Limited [ASX:PME], with more than 30 years of experience in medical imaging.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The company page gives the parent's listing as ASX:PME.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|1",
+     "quote": "| **Enterprise Backing** | Pro Medicus (ASX) | GE Healthcare |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "integrations",
+   "claim": "Visage 7 integrates with Pro Medicus RIS.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions a Pro Medicus RIS or an integration with it.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|1",
+     "quote": "It pairs seamlessly with advanced RIS solutions like Pro Medicus RIS."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "Visage pricing is custom enterprise pricing, quote only.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read publishes prices or a pricing basis.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|3",
+     "quote": "Visage Imaging offers custom enterprise pricing with no public trial, requiring direct contact for tailored quotes."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "free_tier",
+   "claim": "Visage offers no public free trial.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read offer demos but say nothing about a trial.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|3",
+     "quote": "Visage Imaging offers custom enterprise pricing with no public trial, requiring direct contact for tailored quotes."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "pricing",
+   "claim": "Visage uses a tiered or per-study pricing model.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states a pricing basis.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|2",
+     "quote": "Tiered or per-study premium pricing model"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Seven own pages read, all HTTP 200 and not thin (two are info.visageimaging.com landing pages cited by the answers). The page-candidates home field pointed at a KLAS page and was ignored. Help-file PDFs cited by answers were not read (the fetch tool does not extract PDF text). 'Visage 7' is the vendor's index alias, and 'Visage 7 Enterprise Imaging Platform' and 'Visage Thin Client' were treated as name mentions or architecture descriptions. Server-side rendering, thin-client streaming, speed figures, KLAS scores, net-new selection rankings, 'premium-priced' and cost comparisons, the 'patented streaming' line and the Trinity Health deal value were treated as capability descriptions, ratings, comparisons or out-of-scope facts. Answers saying Visage 'requires a third-party archive' or is 'primarily a universal viewer' were treated as capability statements and not coded, although the technical page describes Visage 7 Open Archive as a core component; a reviewer may want them coded. C09 (zero-footprint) is unverifiable: the technical page calls Visage 7 a native smart-client with zero client-side dependencies and a March 2026 release lists Visage 7 Web, neither of which says zero-footprint. No claim is wrong or stale, so no cited page was read for causes. Pass 2 (8 Oct 2026): no browser snapshot exists for Visage and no page was blocked or thin; the other snapshots were searched again for Azure, the five-year cloud share, zero-footprint, a Pro Medicus RIS and a trial, and none settles C05, C06, C09 or C20 to C23, so nothing was re-classed. The 17 gap lines are rankings, capability descriptions, offers of further help, the Trinity Health deal or lines about other vendors, so none was added. The markdown tables, the Google-style pipe tables (which do not start with a bar) and every Visage-headed section were read in full: two cloud-deployment statements were added to C01 (the q6 Claude 3 best-for line and the q5 Google AI Mode 3 table row giving Server-side rendering / Cloud as the deployment model); other table cells repeat claims already listed for the same answer or are ratings, cost comparisons and the GE Healthcare backing comparison. With no wrong or stale claim, the consistency check changed nothing.",
+ "answer_record_ids": [
+  "radiology-medical-imaging|q1|Perplexity|1",
+  "radiology-medical-imaging|q1|Perplexity|2",
+  "radiology-medical-imaging|q1|Perplexity|3",
+  "radiology-medical-imaging|q10|Google AI Mode|1",
+  "radiology-medical-imaging|q2|Google AI Mode|2",
+  "radiology-medical-imaging|q4|ChatGPT|1",
+  "radiology-medical-imaging|q4|ChatGPT|2",
+  "radiology-medical-imaging|q4|ChatGPT|3",
+  "radiology-medical-imaging|q4|Claude|1",
+  "radiology-medical-imaging|q4|Claude|2",
+  "radiology-medical-imaging|q4|Claude|3",
+  "radiology-medical-imaging|q4|Google AI Mode|1",
+  "radiology-medical-imaging|q4|Google AI Mode|2",
+  "radiology-medical-imaging|q4|Google AI Mode|3",
+  "radiology-medical-imaging|q4|Google AI Overviews|1",
+  "radiology-medical-imaging|q4|Google AI Overviews|2",
+  "radiology-medical-imaging|q4|Google AI Overviews|3",
+  "radiology-medical-imaging|q4|Perplexity|2",
+  "radiology-medical-imaging|q5|ChatGPT|1",
+  "radiology-medical-imaging|q5|ChatGPT|2",
+  "radiology-medical-imaging|q5|ChatGPT|3",
+  "radiology-medical-imaging|q5|Claude|1",
+  "radiology-medical-imaging|q5|Claude|2",
+  "radiology-medical-imaging|q5|Claude|3",
+  "radiology-medical-imaging|q5|Google AI Mode|1",
+  "radiology-medical-imaging|q5|Google AI Mode|2",
+  "radiology-medical-imaging|q5|Google AI Mode|3",
+  "radiology-medical-imaging|q5|Perplexity|1",
+  "radiology-medical-imaging|q5|Perplexity|2",
+  "radiology-medical-imaging|q5|Perplexity|3",
+  "radiology-medical-imaging|q6|ChatGPT|1",
+  "radiology-medical-imaging|q6|ChatGPT|2",
+  "radiology-medical-imaging|q6|ChatGPT|3",
+  "radiology-medical-imaging|q6|Claude|1",
+  "radiology-medical-imaging|q6|Claude|2",
+  "radiology-medical-imaging|q6|Claude|3",
+  "radiology-medical-imaging|q6|Google AI Mode|1",
+  "radiology-medical-imaging|q6|Google AI Mode|2",
+  "radiology-medical-imaging|q6|Perplexity|1",
+  "radiology-medical-imaging|q6|Perplexity|2",
+  "radiology-medical-imaging|q6|Perplexity|3",
+  "radiology-medical-imaging|q7|Claude|1",
+  "radiology-medical-imaging|q7|Claude|2",
+  "radiology-medical-imaging|q7|Claude|3",
+  "radiology-medical-imaging|q7|Google AI Mode|1",
+  "radiology-medical-imaging|q7|Google AI Mode|2",
+  "radiology-medical-imaging|q7|Google AI Mode|3",
+  "radiology-medical-imaging|q7|Google AI Overviews|1",
+  "radiology-medical-imaging|q7|Google AI Overviews|2",
+  "radiology-medical-imaging|q7|Google AI Overviews|3",
+  "radiology-medical-imaging|q7|Perplexity|1",
+  "radiology-medical-imaging|q7|Perplexity|2",
+  "radiology-medical-imaging|q7|Perplexity|3",
+  "radiology-medical-imaging|q8|ChatGPT|2",
+  "radiology-medical-imaging|q8|ChatGPT|3",
+  "radiology-medical-imaging|q8|Claude|1",
+  "radiology-medical-imaging|q8|Claude|2",
+  "radiology-medical-imaging|q8|Claude|3",
+  "radiology-medical-imaging|q8|Google AI Mode|1",
+  "radiology-medical-imaging|q8|Google AI Mode|2",
+  "radiology-medical-imaging|q8|Google AI Mode|3",
+  "radiology-medical-imaging|q8|Google AI Overviews|1",
+  "radiology-medical-imaging|q8|Google AI Overviews|2",
+  "radiology-medical-imaging|q8|Google AI Overviews|3",
+  "radiology-medical-imaging|q8|Perplexity|1"
+ ],
+ "named_count": 65
+}

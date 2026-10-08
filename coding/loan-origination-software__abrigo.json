@@ -1,0 +1,237 @@
+{
+ "vendor": "Abrigo",
+ "slug": "abrigo",
+ "category": "loan-origination-software",
+ "coded_at": "2026-10-08T04:06:42Z",
+ "pages_read": [
+  {
+   "url": "https://www.abrigo.com/",
+   "key": "f14434fa64b4208c",
+   "used_for": "home (product list)"
+  },
+  {
+   "url": "https://www.abrigo.com/software/lending-and-credit-risk/",
+   "key": "afb643cd4202ea21",
+   "used_for": "product: Abrigo Lending Platform"
+  },
+  {
+   "url": "https://www.abrigo.com/software/lending-and-credit-risk/sageworks-lending-software/",
+   "key": "9569f67d855f478a",
+   "used_for": "product: commercial lending"
+  },
+  {
+   "url": "https://www.abrigo.com/software/lending-and-credit-risk/community-lending/",
+   "key": "c9e2a1f6da92f1e7",
+   "used_for": "plans: Community Lending"
+  },
+  {
+   "url": "https://www.abrigo.com/company/",
+   "key": "3ebc762a5915ed82",
+   "used_for": "about (company history)"
+  },
+  {
+   "url": "https://www.abrigo.com/software/data-platform-security/",
+   "key": "5525135911902e66",
+   "used_for": "security and hosting"
+  }
+ ],
+ "needs_browser_read": [],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "product_names",
+   "claim": "Abrigo is the successor name of Sageworks (Abrigo, formerly Sageworks; Abrigo / Sageworks).",
+   "class": "true",
+   "proof_url": "https://www.abrigo.com/company/",
+   "proof_quote": "The company was formed in 2019 through the combination of Banker's Toolbox, MainStreet Technologies, and Sageworks.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The company page states that Abrigo was formed in 2019 from Sageworks together with Banker's Toolbox and MainStreet Technologies, so naming Sageworks as Abrigo's former or paired name is consistent with the vendor's history; Sageworks was one of three predecessors, not the only one.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|ChatGPT|1",
+     "quote": "**Abrigo / Sageworks**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|1",
+     "quote": "**Abrigo / Sageworks**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|1",
+     "quote": "Abrigo (formerly Sageworks)"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|2",
+     "quote": "Abrigo (formerly Sageworks)"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|3",
+     "quote": "**Abrigo** (formerly Sageworks)"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Perplexity|3",
+     "quote": "**Abrigo (Sageworks)**"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Google AI Mode|3",
+     "quote": "Formerly known in part as Sageworks, Abrigo combines commercial loan origination with deep tools for financial statement spreading"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "acquisitions",
+   "claim": "Abrigo was formed by combining Sageworks and Banker's Toolbox.",
+   "class": "true",
+   "proof_url": "https://www.abrigo.com/company/",
+   "proof_quote": "The company was formed in 2019 through the combination of Banker's Toolbox, MainStreet Technologies, and Sageworks.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The company page states Abrigo was formed through the combination of Banker's Toolbox, MainStreet Technologies and Sageworks; the claim names two of the three combined companies and does not contradict the page.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q6|Google AI Overviews|3",
+     "quote": "Formed by the integration of Sageworks and Banker's Toolbox, it excels at combining commercial loan origination with robust credit risk, lending compliance, and portfolio management."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "plans",
+   "claim": "Abrigo offers a Community Lending package designed for smaller institutions.",
+   "class": "true",
+   "proof_url": "https://www.abrigo.com/software/lending-and-credit-risk/community-lending/",
+   "proof_quote": "Abrigo Community Lending is a lending solution designed for small banks and credit unions .",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Community Lending page describes Abrigo Community Lending as a lending solution designed for small banks and credit unions.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|ChatGPT|2",
+     "quote": "it offers a Community Lending package designed for smaller institutions"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "product_names",
+   "claim": "Abrigo's lending product is named the Abrigo Lending Platform.",
+   "class": "true",
+   "proof_url": "https://www.abrigo.com/software/lending-and-credit-risk/",
+   "proof_quote": "The Abrigo Lending Platform combines proven loan origination automation with AI-powered agents that work across the lending lifecycle",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The lending and credit risk page names the product the Abrigo Lending Platform.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|Google AI Mode|2",
+     "quote": "Abrigo Lending Platform"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "product_names",
+   "claim": "Abrigo has an AI agent named AskAbrigo.",
+   "class": "true",
+   "proof_url": "https://www.abrigo.com/software/lending-and-credit-risk/",
+   "proof_quote": "AskAbrigo is an AI-powered banking agent that delivers clear, actionable answers, insights, and guidance",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The lending page names AskAbrigo as Abrigo's AI-powered banking agent, which settles the name; the answer's description of what it automates is a capability description and is not classed.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|Google AI Mode|2",
+     "quote": "modern AI-driven agents (like AskAbrigo) designed to automate document collection"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "platforms",
+   "claim": "Abrigo is cloud-based (SaaS).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read describe a web-based platform and mention hosted clients, but none states that Abrigo is cloud-based or delivered as SaaS, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|Google AI Overviews|3",
+     "quote": "Abrigo | Commercial Risk | Cloud / Modular | Moderate | Credit-heavy community portfolios"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Google AI Overviews|3",
+     "quote": "Abrigo | Community banks & credit unions | Cloud-Based SaaS"
+    }
+   ]
+  }
+ ],
+ "notes": "Six own pages read, all HTTP 200 and not thin. The company page carries the dated formation (2019, from Banker's Toolbox, MainStreet Technologies and Sageworks) used for C01 and C02. C06 is unverifiable because the pages say web-based platform and hosted clients rather than cloud or SaaS. The C02 block in q6 Google AI Overviews 3 has its vendor name stripped (it begins with a colon); it is attributed to Abrigo because it names Sageworks and Banker's Toolbox and the passages file assigns it to Abrigo. Not coded: capability lists (loan types, BSA/AML, CECL, stress testing), implementation times, fit judgements and review ratings. No claim is wrong or stale, so no cited page was read for causes. Pass 2 (8 Oct 2026): no browser reads exist for this vendor; the gaps file and the answers' tables and sub-headings add no in-scope statement (the smaller-institution package line in q1 ChatGPT 2 is already C03), and there is no wrong or stale claim to check.",
+ "answer_record_ids": [
+  "loan-origination-software|q1|ChatGPT|1",
+  "loan-origination-software|q1|ChatGPT|2",
+  "loan-origination-software|q1|ChatGPT|3",
+  "loan-origination-software|q1|Claude|1",
+  "loan-origination-software|q1|Claude|2",
+  "loan-origination-software|q1|Claude|3",
+  "loan-origination-software|q1|Google AI Mode|1",
+  "loan-origination-software|q1|Google AI Mode|2",
+  "loan-origination-software|q1|Google AI Mode|3",
+  "loan-origination-software|q1|Google AI Overviews|1",
+  "loan-origination-software|q1|Google AI Overviews|2",
+  "loan-origination-software|q1|Google AI Overviews|3",
+  "loan-origination-software|q1|Perplexity|1",
+  "loan-origination-software|q1|Perplexity|2",
+  "loan-origination-software|q1|Perplexity|3",
+  "loan-origination-software|q10|Claude|3",
+  "loan-origination-software|q2|ChatGPT|1",
+  "loan-origination-software|q2|Claude|1",
+  "loan-origination-software|q2|Claude|2",
+  "loan-origination-software|q2|Claude|3",
+  "loan-origination-software|q2|Google AI Mode|1",
+  "loan-origination-software|q2|Perplexity|1",
+  "loan-origination-software|q2|Perplexity|2",
+  "loan-origination-software|q2|Perplexity|3",
+  "loan-origination-software|q5|ChatGPT|1",
+  "loan-origination-software|q5|ChatGPT|2",
+  "loan-origination-software|q5|Claude|1",
+  "loan-origination-software|q5|Claude|2",
+  "loan-origination-software|q5|Claude|3",
+  "loan-origination-software|q5|Google AI Mode|1",
+  "loan-origination-software|q5|Google AI Mode|2",
+  "loan-origination-software|q5|Perplexity|1",
+  "loan-origination-software|q5|Perplexity|2",
+  "loan-origination-software|q5|Perplexity|3",
+  "loan-origination-software|q6|ChatGPT|1",
+  "loan-origination-software|q6|ChatGPT|2",
+  "loan-origination-software|q6|ChatGPT|3",
+  "loan-origination-software|q6|Claude|1",
+  "loan-origination-software|q6|Claude|2",
+  "loan-origination-software|q6|Claude|3",
+  "loan-origination-software|q6|Google AI Mode|1",
+  "loan-origination-software|q6|Google AI Mode|2",
+  "loan-origination-software|q6|Google AI Mode|3",
+  "loan-origination-software|q6|Google AI Overviews|1",
+  "loan-origination-software|q6|Google AI Overviews|2",
+  "loan-origination-software|q6|Google AI Overviews|3",
+  "loan-origination-software|q6|Perplexity|1",
+  "loan-origination-software|q6|Perplexity|2",
+  "loan-origination-software|q6|Perplexity|3",
+  "loan-origination-software|q7|Claude|3"
+ ],
+ "named_count": 50
+}

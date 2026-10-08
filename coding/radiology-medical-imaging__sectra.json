@@ -1,0 +1,658 @@
+{
+ "vendor": "Sectra",
+ "slug": "sectra",
+ "category": "radiology-medical-imaging",
+ "coded_at": "2026-10-08T04:05:00Z",
+ "pages_read": [
+  {
+   "url": "https://sectra.com/",
+   "key": "b250a9795f2638b9",
+   "used_for": "home (canonical domain, Sectra Group)"
+  },
+  {
+   "url": "https://medical.sectra.com/",
+   "key": "4d9fc83d93eb7757",
+   "used_for": "home (Sectra Medical)"
+  },
+  {
+   "url": "https://medical.sectra.com/product/sectra-one-cloud/",
+   "key": "c3cee9798ae9d2b6",
+   "used_for": "product (Sectra One Cloud)"
+  },
+  {
+   "url": "https://medical.sectra.com/solutionarea/radiology-imaging/",
+   "key": "51a600383f9d7205",
+   "used_for": "product (radiology imaging)"
+  },
+  {
+   "url": "https://medical.sectra.com/solutionarea/enterprise-imaging-platform/",
+   "key": "7de59efb86af902f",
+   "used_for": "product (enterprise platform)"
+  },
+  {
+   "url": "https://medical.sectra.com/about-sectra/this-is-sectra/",
+   "key": "e50c7a6021b266f1",
+   "used_for": "about"
+  },
+  {
+   "url": "https://medical.sectra.com/sectra-in-the-uk/teleradiology-provider-medica-procures-sectra-pacs/",
+   "key": "c0e4667b5be88b20",
+   "used_for": "press (teleradiology customer release)"
+  },
+  {
+   "url": "https://medical.sectra.com/resources/cloud-this-is-enterprise-imaging/",
+   "key": "6bee407b016f97fd",
+   "used_for": "product article (cloud, hybrid and on-premises deployment)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "platforms",
+   "claim": "Sectra PACS is available as a cloud deployment.",
+   "class": "true",
+   "proof_url": "https://medical.sectra.com/product/sectra-one-cloud/",
+   "proof_quote": "Sectra One Cloud is a fully managed SaaS intended to provide you with smooth upgrades, reliability, and a scalable solution.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Sectra's own product page describes Sectra One Cloud as a fully managed SaaS delivery of its imaging software, so a cloud deployment option exists.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|Claude|1",
+     "quote": "| **Sectra** | Best KLAS-rated, all-around | Cloud & On-Premise |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Mode|2",
+     "quote": "Sectra | Quality-focused clinics | Exceptional diagnostic tools & service | Hybrid / Cloud"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Mode|3",
+     "quote": "Sectra PACS and Novarad NovaPACS are widely considered the best PACS options for small imaging centers, offering the ideal balance of reliability, speed, and cloud-readiness without enterprise-level bloat."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Overviews|1",
+     "quote": "Its Sectra One Cloud model lowers local IT footprints, making enterprise-grade reliability accessible to smaller setups."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Overviews|3",
+     "quote": "While traditionally used by large hospitals, its cloud configuration makes it scalable and high-performing for growing centers"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Google AI Overviews|2",
+     "quote": "Sectra PACS: Ranked highest for large and small deployments, offering robust cloud capabilities and consistent high performance across multiple sites"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|3",
+     "quote": "your best bets on the software/PACS side are **Sectra**, **RamSoft OmegaAI**, **Visage Imaging**, and **Agfa HealthCare** — all offering enterprise-grade, cloud-capable platforms"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|1",
+     "quote": "Sectra One Cloud adds managed hosting, maintenance, upgrades, and 24/7 service operations"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|3",
+     "quote": "Sectra | Exceptional customer support & stability | Hybrid / On-Premise / Cloud | Large groups prioritizing zero downtime and high user satisfaction"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|2",
+     "quote": "Combines PACS, vendor-neutral archiving, connectivity, and workflow capabilities, with a managed cloud offering."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|ChatGPT|1",
+     "quote": "Both offer managed cloud solutions."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|ChatGPT|2",
+     "quote": "Sectra offers One Cloud on Microsoft Azure"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|ChatGPT|3",
+     "quote": "both offer managed cloud solutions. Sectra One Cloud uses Azure"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|2",
+     "quote": "Sectra also offers cloud and hosted deployment models, but is traditionally known for its on-premise and enterprise managed delivery approach."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|3",
+     "quote": "| **Architecture** | Modular, scalable, on-prem/cloud |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "platforms",
+   "claim": "Sectra PACS is available as an on-premise deployment.",
+   "class": "true",
+   "proof_url": "https://medical.sectra.com/resources/cloud-this-is-enterprise-imaging/",
+   "proof_quote": "You always have the possibility of a hybrid solution where the long-term image archive is stored securely in the cloud, and readily accessible from your on-premises solution.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Sectra's own article quotes its cloud director offering customers a hybrid in which they keep an on-premises solution and archive to the cloud (\"They still have control on prem\"), so an on-premises deployment is part of Sectra's published offer.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|Claude|1",
+     "quote": "| **Sectra** | Best KLAS-rated, all-around | Cloud & On-Premise |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|3",
+     "quote": "Sectra | Exceptional customer support & stability | Hybrid / On-Premise / Cloud | Large groups prioritizing zero downtime and high user satisfaction"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|2",
+     "quote": "Sectra also offers cloud and hosted deployment models, but is traditionally known for its on-premise and enterprise managed delivery approach."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|3",
+     "quote": "| **Architecture** | Modular, scalable, on-prem/cloud |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "platforms",
+   "claim": "Sectra offers a hybrid deployment (on-premises with cloud).",
+   "class": "true",
+   "proof_url": "https://medical.sectra.com/resources/cloud-this-is-enterprise-imaging/",
+   "proof_quote": "You always have the possibility of a hybrid solution where the long-term image archive is stored securely in the cloud, and readily accessible from your on-premises solution.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Sectra's own article states that a hybrid solution (cloud archive accessed from an on-premises solution) is always possible.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Mode|2",
+     "quote": "Sectra | Quality-focused clinics | Exceptional diagnostic tools & service | Hybrid / Cloud"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|3",
+     "quote": "Sectra | Exceptional customer support & stability | Hybrid / On-Premise / Cloud | Large groups prioritizing zero downtime and high user satisfaction"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "platforms",
+   "claim": "Sectra One Cloud is a managed (hosted) service: Sectra hosts, operates, maintains and upgrades the system.",
+   "class": "true",
+   "proof_url": "https://medical.sectra.com/product/sectra-one-cloud/",
+   "proof_quote": "With Sectra One Cloud, we operate, support, govern, update, and provide knowledge resources for as long as you subscribe.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Sectra One Cloud page describes a fully managed SaaS in which Sectra hosts, operates, supports and updates the software, with 24/7 service operations.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|1",
+     "quote": "Sectra One Cloud adds managed hosting, maintenance, upgrades, and 24/7 service operations"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|2",
+     "quote": "Combines PACS, vendor-neutral archiving, connectivity, and workflow capabilities, with a managed cloud offering."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|ChatGPT|1",
+     "quote": "Both offer managed cloud solutions."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|ChatGPT|3",
+     "quote": "both offer managed cloud solutions. Sectra One Cloud uses Azure"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|2",
+     "quote": "Sectra also offers cloud and hosted deployment models, but is traditionally known for its on-premise and enterprise managed delivery approach."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "platforms",
+   "claim": "Sectra One Cloud is hosted on Microsoft Azure.",
+   "class": "true",
+   "proof_url": "https://medical.sectra.com/product/sectra-one-cloud/",
+   "proof_quote": "Sectra One Cloud, powered by Service Operations , delivers a secure, scalable, and efficient imaging platform—built on Sectra software, cloud expertise, and Microsoft Azure.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Sectra One Cloud page states the service is built on Microsoft Azure.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|ChatGPT|2",
+     "quote": "Sectra offers One Cloud on Microsoft Azure"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|ChatGPT|3",
+     "quote": "Sectra One Cloud uses Azure"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "product_names",
+   "claim": "Sectra One Cloud is the name of Sectra's cloud (SaaS) offering.",
+   "class": "true",
+   "proof_url": "https://medical.sectra.com/product/sectra-one-cloud/",
+   "proof_quote": "With Sectra One Cloud our SaaS subscription, we ensure a secure, resilient, and future-proof experience.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Sectra names its SaaS subscription Sectra One Cloud on its own product page.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Overviews|1",
+     "quote": "Its Sectra One Cloud model lowers local IT footprints, making enterprise-grade reliability accessible to smaller setups."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Overviews|3",
+     "quote": "Sectra PACS / Sectra One Cloud: Widely ranked as the industry gold standard for reliability, speed, and low click-per-diagnosis rates."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Perplexity|3",
+     "quote": "| **Enterprise imaging across a health system** | **Agfa Enterprise Imaging**, **Siemens Syngo Carbon**, **Sectra One Cloud** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|1",
+     "quote": "| **Sectra — PACS / Sectra One Cloud** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|3",
+     "quote": "| **Sectra / Sectra One Cloud** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Perplexity|1",
+     "quote": "| **Sectra PACS / Sectra One Cloud** | Enterprise or multi-site groups |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Perplexity|2",
+     "quote": "- **Sectra PACS / Sectra One Cloud** — best for **enterprise-grade, governed workflows** and multi-site reading with strong auditability."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Perplexity|3",
+     "quote": "- **Sectra PACS / Sectra One Cloud** — best for **enterprise-grade governance** and audit-ready multi-site reading workflows."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|2",
+     "quote": "| **Sectra PACS / Sectra One Cloud** | **Hospital-wide or multisite enterprise replacement** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Mode|1",
+     "quote": "Sectra (Sectra One / Sectra One Cloud)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|ChatGPT|2",
+     "quote": "Sectra offers One Cloud on Microsoft Azure"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q7|ChatGPT|3",
+     "quote": "Sectra One Cloud uses Azure"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "product_names",
+   "claim": "Sectra One is a Sectra product (named separately from Sectra One Cloud).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read name Sectra One Cloud and a transition program called the Sectra One journey, but no product called Sectra One; they neither confirm nor explicitly contradict it.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q10|Claude|1",
+     "quote": "Sectra One coordinates radiology workflow between modalities, RIS/PACS functions, and enterprise imaging viewers so studies move from order to interpretation with traceable handoffs."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Claude|3",
+     "quote": "Sectra One coordinates radiology workflow between modalities, RIS/PACS functions, and enterprise imaging viewers so studies move from order to interpretation with traceable handoffs."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Google AI Overviews|1",
+     "quote": "top-tier enterprise solutions like Sectra PACS (or Sectra One)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Mode|1",
+     "quote": "Sectra (Sectra One / Sectra One Cloud)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "product_names",
+   "claim": "Sectra Radiology Suite is a Sectra product.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read in this study names a Sectra Radiology Suite; the radiology page calls the offer the Radiology imaging solution, which does not explicitly rule the name out.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q10|Claude|1",
+     "quote": "Sectra Radiology Suite is a leading enterprise-grade RIS/PACS solution from Sectra"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Claude|3",
+     "quote": "Sectra Radiology Suite is a leading enterprise-grade RIS/PACS solution from Sectra"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|1",
+     "quote": "Sectra Radiology Suite ranks first because it combines a tightly integrated RIS/PACS workflow with Sectra Secure Desktop for isolated, high-security virtual access to imaging data."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|2",
+     "quote": "Sectra Radiology Suite's Sectra Secure Desktop supports compartmentalized virtual desktop access to imaging data."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|3",
+     "quote": "Sectra Radiology Suite ranks first because it combines a tightly integrated RIS/PACS workflow with Sectra Secure Desktop for isolated, high-security virtual access to imaging data."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "product_names",
+   "claim": "Sectra sells a RIS (radiology information system) as part of a Sectra RIS/PACS (Sectra RIS-PACS).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the pages read mentions a Sectra RIS; the platform pages list PACS, VNA, reporting and workflow modules only, which neither confirms nor explicitly contradicts a RIS.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q10|Claude|1",
+     "quote": "Sectra Radiology Suite is a leading enterprise-grade RIS/PACS solution from Sectra"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Claude|3",
+     "quote": "Sectra Radiology Suite is a leading enterprise-grade RIS/PACS solution from Sectra"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Perplexity|1",
+     "quote": "- **Sectra RIS-PACS**: best when you want a single integrated RIS/PACS platform for coordinated scheduling, study status, reporting, and imaging across multiple locations."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Perplexity|2",
+     "quote": "- **Sectra RIS-PACS**: Best when you need synchronized **study status, reporting, and imaging workflow** across the department, with enterprise scalability for multi-site imaging."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Perplexity|3",
+     "quote": "- Choose **Sectra RIS-PACS** if you want the most cohesive **RIS + PACS** platform for five locations."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|2",
+     "quote": "Sectra offers a RIS/PACS solution complete with a universal viewer, MIS, peer review software, and business analytics"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Overviews|2",
+     "quote": "Sectra Radiology PACS and RIS by Sectra offers high reliability and excellent functionality for multi-site and centralized teleradiology setups"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|1",
+     "quote": "Sectra Radiology Suite ranks first because it combines a tightly integrated RIS/PACS workflow with Sectra Secure Desktop for isolated, high-security virtual access to imaging data."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|3",
+     "quote": "Sectra Radiology Suite ranks first because it combines a tightly integrated RIS/PACS workflow with Sectra Secure Desktop for isolated, high-security virtual access to imaging data."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "product_names",
+   "claim": "Sectra Enterprise Imaging is a Sectra product name.",
+   "class": "true",
+   "proof_url": "https://medical.sectra.com/",
+   "proof_quote": "Click and explore Sectra Enterprise Imaging",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Sectra's own medical home page and customer stories use the name Sectra Enterprise Imaging for its offer.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|1",
+     "quote": "| **Sectra Enterprise Imaging / Sectra PACS** | Large hospitals and health systems seeking enterprise-wide consolidation |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Mode|2",
+     "quote": "Sectra Enterprise ImagingGo to product viewer dialog for this item.: Frequently ranked #1 in KLAS Research reports for client loyalty and high availability"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Mode|3",
+     "quote": "Sectra Enterprise Imaging | Exceptional uptime, high-end diagnostic tools, top KLAS rankings for large volume facilities | Large hospitals and complex enterprise networks"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "product_names",
+   "claim": "Sectra Secure Desktop is a Sectra product (part of Sectra Radiology Suite).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read in this study mentions Sectra Secure Desktop.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|1",
+     "quote": "Sectra Radiology Suite ranks first because it combines a tightly integrated RIS/PACS workflow with Sectra Secure Desktop for isolated, high-security virtual access to imaging data."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|2",
+     "quote": "Sectra Radiology Suite's Sectra Secure Desktop supports compartmentalized virtual desktop access to imaging data."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|3",
+     "quote": "Sectra Radiology Suite ranks first because it combines a tightly integrated RIS/PACS workflow with Sectra Secure Desktop for isolated, high-security virtual access to imaging data."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "product_names",
+   "claim": "Sectra Teleradiology is a Sectra product.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read describe teleradiology customers (Medica) but name no product called Sectra Teleradiology.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|1",
+     "quote": "Sectra Teleradiology offers rules-based study routing with worklist management integrated into Sectra PACS workflows, which helps standardize where each study goes."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "product_names",
+   "claim": "Sectra's diagnostic workstation is named IDS7 (Sectra IDS7).",
+   "class": "true",
+   "proof_url": "https://medical.sectra.com/solutionarea/radiology-imaging/",
+   "proof_quote": "AI applications from the Sectra Amplifier Marketplace are contracted through Sectra and activated in Sectra IDS7, so radiologists work with them inside the diagnostic application from day one.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The radiology imaging page names Sectra IDS7 as the diagnostic application radiologists work in.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|Google AI Overviews|3",
+     "quote": "Operates as a true end-to-end enterprise imaging solution combining a robust PACS, vendor-neutral archive (VNA), and diagnostic workstation (IDS7) in a single unified platform."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "product_names",
+   "claim": "Sectra Amplifier Services is Sectra's AI marketplace.",
+   "class": "true",
+   "proof_url": "https://medical.sectra.com/solutionarea/radiology-imaging/",
+   "proof_quote": "Access the latest AI applications through Sectra Amplifier Services, our AI as a Service offering.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The radiology imaging page names Sectra Amplifier Services as the AI offering through which customers browse a marketplace of AI apps.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|2",
+     "quote": "Sectra also has its **Amplifier Services AI marketplace**, maintaining its Best in KLAS standing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "customer_counts",
+   "claim": "Sectra manages 170 million imaging exams a year.",
+   "class": "true",
+   "proof_url": "https://medical.sectra.com/about-sectra/this-is-sectra/",
+   "proof_quote": "With over 30 years of innovation, Sectra manages 170 million annual imaging exams and is a leading provider to health systems worldwide.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page states the same figure, 170 million annual imaging exams.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|2",
+     "quote": "Sectra manages **170 million annual imaging exams**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "platforms",
+   "claim": "Sectra PACS is only partly cloud-native.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Sectra's pages describe Sectra One Cloud as a cloud-based, fully managed SaaS built on Microsoft Azure and also describe on-premises and hybrid set-ups, but no page read calls any Sectra product cloud-native or partly cloud-native, so they neither confirm nor explicitly contradict the table cell.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q7|Claude|1",
+     "quote": "| Cloud-Native | Partial | ✅ Fully cloud-engineered |"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Eight own pages read, all HTTP 200 and not thin: the canonical-domain home (sectra.com, group site) and seven Sectra Medical pages. The page-candidates home field pointed at a KLAS page and was ignored. 'Sectra PACS' and 'Sectra AB' are the vendor's index aliases and were treated as name mentions, not product_names claims; 'Sectra Radiology PACS' was likewise treated as the vendor name plus a category word. KLAS awards, scores, loyalty percentages, consideration shares, cost multiples (three to seven times) and implementation timelines are ratings, comparisons or out-of-scope facts and were not coded. The q3 line that enterprise PACS 'like Sectra' are usually cost-prohibitive due to upfront licensing was treated as a hedged generalisation, not a pricing statement. Module coverage lists (radiology, cardiology, pathology and so on) were treated as capability descriptions. C02 (on-premise) rests on Sectra's own 2022 article describing a hybrid with the customer's on-premises solution; no page read states the on-premises option in a product page. No claim is wrong or stale, so no cited page was read for causes. Pass 2 (8 Oct 2026): no browser read exists for Sectra and no page was blocked or thin, so nothing was re-classed; the eight snapshots were re-checked for C07 to C09, C11 and C12 and still do not settle them (the menus list Sectra One Cloud, IDS7, UniView, Reporting, Amplifier Services, Image Exchange Portal, VNA and DoseTrack, but no Sectra One, Radiology Suite, RIS, Secure Desktop or Teleradiology product). The 34 gap lines are best-for, KLAS, cost-comparison, capability, generic RIS/EHR/DICOM/HL7 integration or other-vendor lines; the 'Sectra One' and 'Sectra RIS-PACS' gap lines come from answers already listed under C07 and C09. Table scan: added C16 from the q7 Claude run 1 Sectra-versus-Visage table cell 'Cloud-Native | Partial' (unverifiable); the other Sectra column cells are KLAS rankings, relative cost multiples, rendering architecture ('Hybrid/Client-Server') or feature ratings, and the deployment cells were already coded under C01 to C03. No claim is wrong or stale, so the consistency check changed nothing.",
+ "answer_record_ids": [
+  "radiology-medical-imaging|q1|Claude|1",
+  "radiology-medical-imaging|q1|Claude|2",
+  "radiology-medical-imaging|q1|Claude|3",
+  "radiology-medical-imaging|q1|Google AI Mode|2",
+  "radiology-medical-imaging|q1|Google AI Mode|3",
+  "radiology-medical-imaging|q1|Google AI Overviews|1",
+  "radiology-medical-imaging|q1|Google AI Overviews|3",
+  "radiology-medical-imaging|q1|Perplexity|1",
+  "radiology-medical-imaging|q1|Perplexity|2",
+  "radiology-medical-imaging|q1|Perplexity|3",
+  "radiology-medical-imaging|q10|Claude|1",
+  "radiology-medical-imaging|q10|Claude|2",
+  "radiology-medical-imaging|q10|Claude|3",
+  "radiology-medical-imaging|q10|Google AI Mode|1",
+  "radiology-medical-imaging|q10|Google AI Mode|2",
+  "radiology-medical-imaging|q10|Google AI Mode|3",
+  "radiology-medical-imaging|q10|Google AI Overviews|1",
+  "radiology-medical-imaging|q10|Google AI Overviews|2",
+  "radiology-medical-imaging|q10|Google AI Overviews|3",
+  "radiology-medical-imaging|q10|Perplexity|1",
+  "radiology-medical-imaging|q10|Perplexity|2",
+  "radiology-medical-imaging|q10|Perplexity|3",
+  "radiology-medical-imaging|q2|Claude|3",
+  "radiology-medical-imaging|q2|Google AI Mode|2",
+  "radiology-medical-imaging|q2|Google AI Mode|3",
+  "radiology-medical-imaging|q3|Google AI Mode|2",
+  "radiology-medical-imaging|q4|ChatGPT|1",
+  "radiology-medical-imaging|q4|ChatGPT|2",
+  "radiology-medical-imaging|q4|ChatGPT|3",
+  "radiology-medical-imaging|q4|Claude|1",
+  "radiology-medical-imaging|q4|Claude|2",
+  "radiology-medical-imaging|q4|Claude|3",
+  "radiology-medical-imaging|q4|Google AI Mode|1",
+  "radiology-medical-imaging|q4|Google AI Mode|2",
+  "radiology-medical-imaging|q4|Google AI Mode|3",
+  "radiology-medical-imaging|q4|Google AI Overviews|1",
+  "radiology-medical-imaging|q4|Google AI Overviews|2",
+  "radiology-medical-imaging|q4|Google AI Overviews|3",
+  "radiology-medical-imaging|q4|Perplexity|1",
+  "radiology-medical-imaging|q4|Perplexity|2",
+  "radiology-medical-imaging|q4|Perplexity|3",
+  "radiology-medical-imaging|q5|ChatGPT|1",
+  "radiology-medical-imaging|q5|ChatGPT|2",
+  "radiology-medical-imaging|q5|ChatGPT|3",
+  "radiology-medical-imaging|q5|Claude|1",
+  "radiology-medical-imaging|q5|Claude|2",
+  "radiology-medical-imaging|q5|Claude|3",
+  "radiology-medical-imaging|q5|Google AI Mode|1",
+  "radiology-medical-imaging|q5|Google AI Mode|3",
+  "radiology-medical-imaging|q5|Google AI Overviews|1",
+  "radiology-medical-imaging|q5|Google AI Overviews|2",
+  "radiology-medical-imaging|q5|Google AI Overviews|3",
+  "radiology-medical-imaging|q5|Perplexity|1",
+  "radiology-medical-imaging|q5|Perplexity|2",
+  "radiology-medical-imaging|q5|Perplexity|3",
+  "radiology-medical-imaging|q6|ChatGPT|1",
+  "radiology-medical-imaging|q6|ChatGPT|2",
+  "radiology-medical-imaging|q6|ChatGPT|3",
+  "radiology-medical-imaging|q6|Claude|1",
+  "radiology-medical-imaging|q6|Claude|2",
+  "radiology-medical-imaging|q6|Claude|3",
+  "radiology-medical-imaging|q6|Google AI Mode|1",
+  "radiology-medical-imaging|q6|Google AI Mode|2",
+  "radiology-medical-imaging|q6|Google AI Mode|3",
+  "radiology-medical-imaging|q6|Google AI Overviews|1",
+  "radiology-medical-imaging|q6|Google AI Overviews|2",
+  "radiology-medical-imaging|q6|Google AI Overviews|3",
+  "radiology-medical-imaging|q6|Perplexity|1",
+  "radiology-medical-imaging|q6|Perplexity|2",
+  "radiology-medical-imaging|q6|Perplexity|3",
+  "radiology-medical-imaging|q7|ChatGPT|1",
+  "radiology-medical-imaging|q7|ChatGPT|2",
+  "radiology-medical-imaging|q7|ChatGPT|3",
+  "radiology-medical-imaging|q7|Claude|1",
+  "radiology-medical-imaging|q7|Claude|2",
+  "radiology-medical-imaging|q7|Claude|3",
+  "radiology-medical-imaging|q7|Google AI Mode|1",
+  "radiology-medical-imaging|q7|Google AI Mode|2",
+  "radiology-medical-imaging|q7|Google AI Mode|3",
+  "radiology-medical-imaging|q7|Google AI Overviews|1",
+  "radiology-medical-imaging|q7|Google AI Overviews|2",
+  "radiology-medical-imaging|q7|Google AI Overviews|3",
+  "radiology-medical-imaging|q7|Perplexity|1",
+  "radiology-medical-imaging|q7|Perplexity|2",
+  "radiology-medical-imaging|q7|Perplexity|3",
+  "radiology-medical-imaging|q8|Claude|1",
+  "radiology-medical-imaging|q8|Claude|2"
+ ],
+ "named_count": 87
+}

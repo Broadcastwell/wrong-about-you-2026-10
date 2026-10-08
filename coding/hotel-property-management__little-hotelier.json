@@ -1,0 +1,648 @@
+{
+ "vendor": "Little Hotelier",
+ "slug": "little-hotelier",
+ "category": "hotel-property-management",
+ "coded_at": "2026-10-08T04:19:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.littlehotelier.com/pricing/",
+   "key": "df6c28aba37f4d95",
+   "used_for": "pricing (HTTP 403 on the fetch; read once in a real browser, df6c28aba37f4d95.browser.txt)"
+  },
+  {
+   "url": "https://www.littlehotelier.com/",
+   "key": "ab677b68e0a0ee9f",
+   "used_for": "home (HTTP 403 on the fetch; read once in a real browser, ab677b68e0a0ee9f.browser.txt)"
+  },
+  {
+   "url": "https://www.littlehotelier.com/property-management-system/",
+   "key": "890a901dc884c284",
+   "used_for": "product: PMS (read once in a real browser)"
+  },
+  {
+   "url": "https://www.littlehotelier.com/best-hotel-pms/",
+   "key": "2c7476c4b70af51b",
+   "used_for": "own buyer guide (read once in a real browser)"
+  },
+  {
+   "url": "https://hoteltech.review/hotel-pms-systems-list-2026",
+   "key": "5b2ee32fab944ddf",
+   "used_for": "cause tracing (C03): no custom-pricing statement for Little Hotelier"
+  },
+  {
+   "url": "https://www.gourmetmarketing.net/blog/the-best-hotel-management-systems-for-2026-what-hoteliers-need-to-know",
+   "key": "68af709e365ec415",
+   "used_for": "cause tracing (C03): no price for Little Hotelier"
+  },
+  {
+   "url": "https://stayfi.com/vrm-insider/2026/03/03/best-hotel-property-management-software/",
+   "key": "9adf06103e7813b2",
+   "used_for": "cause tracing (C03): does not mention Little Hotelier"
+  },
+  {
+   "url": "https://www.hotelogix.com/blog/property-management-system",
+   "key": "097255c54a53b372",
+   "used_for": "cause tracing (C03): redirected to the Hotelogix home page, no price for Little Hotelier"
+  },
+  {
+   "url": "https://amenitiz.com/en/blog/best-hotel-property-management-systems-in-2026",
+   "key": "b58ff8e895c150c4",
+   "used_for": "cause tracing (C03): gives a euro price range, not custom"
+  },
+  {
+   "url": "https://www.canarytechnologies.com/post/best-boutique-hotel-management-software",
+   "key": "bdd79b69e7c77940",
+   "used_for": "cause tracing (C03): robots.txt disallows, not fetched"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Basics plan charges a subscription plus a 1% booking-value fee.",
+   "class": "true",
+   "proof_url": "https://www.littlehotelier.com/pricing/",
+   "proof_quote": "Basics From $39 USD / month* +1% booking fee",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists Basics at a monthly price plus a 1% booking fee; the home page says From $39 USD per month +1% booking value.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|1",
+     "quote": "its Basics option includes a subscription plus a 1% booking-value fee."
+    },
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|2",
+     "quote": "Its Basics offering includes a 1% booking-value fee and limits channel connections to five"
+    },
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|3",
+     "quote": "Basics advertises a 1% total-booking-value fee in addition to the subscription"
+    },
+    {
+     "record_id": "hotel-property-management|q2|ChatGPT|1",
+     "quote": "Its Basics plan is recommended for properties with 10 rooms or fewer and includes a 1% booking-value fee in addition to the subscription."
+    },
+    {
+     "record_id": "hotel-property-management|q2|ChatGPT|2",
+     "quote": "Little Hotelier currently lists a 1% booking fee on its Basics plan, separate from its subscription"
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|2",
+     "quote": "Its Basics plan lists a 1% booking fee in addition to the subscription."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Payment transaction fees apply in addition to the subscription.",
+   "class": "true",
+   "proof_url": "https://www.littlehotelier.com/pricing/",
+   "proof_quote": "There is no set up or subscription costs to access Little Hotelier Payments, however transaction fees apply.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) says transaction fees apply to Little Hotelier Payments.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|ChatGPT|2",
+     "quote": "payment transaction fees also apply."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Little Hotelier pricing is custom (no public list price).",
+   "class": "wrong",
+   "proof_url": "https://www.littlehotelier.com/pricing/",
+   "proof_quote": "Basics From $39 USD / month* +1% booking fee",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) publishes starting prices (Basics from $39 USD a month, Pro from $179 USD a month), which contradicts a Custom entry in a starting-price or pricing column; five cited pages were read and none calls Little Hotelier's pricing custom (a sixth is disallowed by robots.txt), so the cause is not found.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Claude|1",
+     "quote": "| Little Hotelier | <20 rooms, small boutiques | Custom |"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "| Little Hotelier | Small inns & B&Bs | Custom pricing |"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|3",
+     "quote": "| Little Hotelier | Small properties (<20 rooms) | Custom |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Little Hotelier costs about $400 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) gives only From prices (Basics $39, Pro $179 a month) that depend on the number of bookable rooms; a $400 monthly figure for an unstated property size is neither matched nor contradicted.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q5|Google AI Overviews|1",
+     "quote": "Reported Price: ~$400/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "plans",
+   "claim": "The Basics plan limits channel connections to five.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists Channel Manager under Basics and a Channels Plus add-on but states no limit on the number of channel connections.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|2",
+     "quote": "limits channel connections to five"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "plans",
+   "claim": "The Basics plan is recommended for properties with 10 rooms or fewer.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) shows Basics as Recommended next to a bookable-rooms input, but the snapshot does not state a room threshold for the recommendation.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|ChatGPT|1",
+     "quote": "Its Basics plan is recommended for properties with 10 rooms or fewer"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "plans",
+   "claim": "Phone support depends on the plan.",
+   "class": "true",
+   "proof_url": "https://www.littlehotelier.com/pricing/",
+   "proof_quote": "Not sure? Request a demo 24/7 phone, chat and email support",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists 24/7 chat and email support for Basics and 24/7 phone, chat and email support for Pro, so phone support depends on the plan.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|3",
+     "quote": "phone support is plan-dependent."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "plans",
+   "claim": "Front-desk, channel management, direct booking and mobile tools vary by plan.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists Channel Manager, Booking Engine, Calendar and Mobile App in Basics and everything in Basics in Pro, while extras such as Channels Plus, Hotel Metasearch and Website Builder vary by plan; the vague depending on the plan is neither clearly matched nor explicitly contradicted.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|ChatGPT|2",
+     "quote": "with front-desk, channel-management, direct-booking, and mobile tools depending on the plan."
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|2",
+     "quote": "with front-desk tools, channel management, direct booking, and mobile access, depending on the plan."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "free_tier",
+   "claim": "Little Hotelier offers a 30-day trial.",
+   "class": "true",
+   "proof_url": "https://www.littlehotelier.com/",
+   "proof_quote": "Try Little Hotelier FREE for 30 days.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (browser read) offers a free 30-day trial, as do the pricing and PMS pages.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|1",
+     "quote": "It offers a 30-day trial."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "ownership",
+   "claim": "Little Hotelier is backed by or built by SiteMinder.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read own pages say Little Hotelier is powered by SiteMinder (coded as C11) but none states that SiteMinder owns or built the product, so the corporate relationship is not settled.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Google AI Mode|2",
+     "quote": "Backed by SiteMinder, it is an all-in-one platform built explicitly for small providers"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Mode|1",
+     "quote": "Built by the team behind SiteMinder, Little Hotelier is tailor-made for small, independent accommodation providers."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "product_names",
+   "claim": "Little Hotelier is powered by SiteMinder (X by Y naming).",
+   "class": "true",
+   "proof_url": "https://www.littlehotelier.com/",
+   "proof_quote": "Welcome to Little Hotelier, powered by SiteMinder.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (browser read) names the product Little Hotelier, powered by SiteMinder.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Google AI Mode|1",
+     "quote": "Powered by SiteMinder, it is purpose-built for small properties"
+    },
+    {
+     "record_id": "hotel-property-management|q5|Google AI Mode|1",
+     "quote": "Powered by SiteMinder, it is purpose-built for lean teams running under 50 rooms"
+    },
+    {
+     "record_id": "hotel-property-management|q5|Google AI Mode|2",
+     "quote": "Powered by SiteMinder, this platform is purpose-built for small properties"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "integrations",
+   "claim": "Little Hotelier's distribution runs on SiteMinder's distribution network.",
+   "class": "true",
+   "proof_url": "https://www.littlehotelier.com/",
+   "proof_quote": "Welcome to Little Hotelier, powered by SiteMinder. Combining powerful, global distribution technology with a perfectly-sized property management system.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (browser read) presents Little Hotelier as powered by SiteMinder, combining its global distribution technology with the PMS.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Claude|2",
+     "quote": "Backed by SiteMinder's distribution network, it offers quick setup"
+    },
+    {
+     "record_id": "hotel-property-management|q1|Claude|3",
+     "quote": "Backed by SiteMinder's distribution network, it offers quick setup"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|1",
+     "quote": "Backed by SiteMinder's distribution network, it offers quick setup"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|3",
+     "quote": "Backed by SiteMinder's distribution network, it offers quick setup"
+    },
+    {
+     "record_id": "hotel-property-management|q1|Google AI Overviews|1",
+     "quote": "Lightweight system backed by SiteMinder's distribution network"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Mode|2",
+     "quote": "Backed by SiteMinder's powerhouse distribution network"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Overviews|3",
+     "quote": "Simple setup backed by SiteMinder's distribution network"
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|1",
+     "quote": "combining a PMS with SiteMinder-powered distribution and mobile access."
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|3",
+     "quote": "combining property management with direct-booking and distribution tools powered by SiteMinder."
+    },
+    {
+     "record_id": "hotel-property-management|q5|Claude|1",
+     "quote": "The PMS runs on SiteMinder's channel manager technology"
+    },
+    {
+     "record_id": "hotel-property-management|q5|Claude|3",
+     "quote": "runs on SiteMinder's tech"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "integrations",
+   "claim": "Little Hotelier's channel manager connects to Booking.com.",
+   "class": "true",
+   "proof_url": "https://www.littlehotelier.com/",
+   "proof_quote": "Manage all your booking channels (e.g. Booking.com) and inventory in one place.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (browser read) names Booking.com as a channel managed in the Channel Manager.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Claude|1",
+     "quote": "manage property visibility across multiple booking sites such as Booking.com, Expedia, Airbnb, and even Google Hotel Ads."
+    },
+    {
+     "record_id": "hotel-property-management|q1|Claude|2",
+     "quote": "including Booking.com, Expedia, Airbnb, and even Google Hotel Ads."
+    },
+    {
+     "record_id": "hotel-property-management|q1|Claude|3",
+     "quote": "multiple booking sites like Booking.com, Expedia, Airbnb, and Google Hotel Ads."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "integrations",
+   "claim": "Little Hotelier's channel manager connects to Expedia.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read own pages name Booking.com, Google Hotel Ads, Trivago and TripAdvisor and a count of 450+ channels, but never name Expedia.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Claude|1",
+     "quote": "manage property visibility across multiple booking sites such as Booking.com, Expedia, Airbnb, and even Google Hotel Ads."
+    },
+    {
+     "record_id": "hotel-property-management|q1|Claude|2",
+     "quote": "including Booking.com, Expedia, Airbnb, and even Google Hotel Ads."
+    },
+    {
+     "record_id": "hotel-property-management|q1|Claude|3",
+     "quote": "multiple booking sites like Booking.com, Expedia, Airbnb, and Google Hotel Ads."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "integrations",
+   "claim": "Little Hotelier's channel manager connects to Airbnb.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read own pages name Booking.com, Google Hotel Ads, Trivago and TripAdvisor and a count of 450+ channels, but never name Airbnb.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Claude|1",
+     "quote": "manage property visibility across multiple booking sites such as Booking.com, Expedia, Airbnb, and even Google Hotel Ads."
+    },
+    {
+     "record_id": "hotel-property-management|q1|Claude|2",
+     "quote": "including Booking.com, Expedia, Airbnb, and even Google Hotel Ads."
+    },
+    {
+     "record_id": "hotel-property-management|q1|Claude|3",
+     "quote": "multiple booking sites like Booking.com, Expedia, Airbnb, and Google Hotel Ads."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "integrations",
+   "claim": "Little Hotelier connects to Google Hotel Ads.",
+   "class": "true",
+   "proof_url": "https://www.littlehotelier.com/",
+   "proof_quote": "Promote your property on Google Hotel Ads, Trivago and TripAdvisor",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (browser read) names Google Hotel Ads as a channel reached through its Hotel Metasearch product (the pricing page lists it as a Basics add-on and in Pro); the claim was reworded in pass 2 from channel manager to the integration the answers state.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Claude|1",
+     "quote": "manage property visibility across multiple booking sites such as Booking.com, Expedia, Airbnb, and even Google Hotel Ads."
+    },
+    {
+     "record_id": "hotel-property-management|q1|Claude|2",
+     "quote": "including Booking.com, Expedia, Airbnb, and even Google Hotel Ads."
+    },
+    {
+     "record_id": "hotel-property-management|q1|Claude|3",
+     "quote": "multiple booking sites like Booking.com, Expedia, Airbnb, and Google Hotel Ads."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "integrations",
+   "claim": "Little Hotelier's channel manager connects to hundreds of booking sites.",
+   "class": "true",
+   "proof_url": "https://www.littlehotelier.com/",
+   "proof_quote": "Connect to any of our 450+ booking channels to maximise your occupancy.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (browser read) states 450+ booking channels, which is hundreds.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Google AI Overviews|2",
+     "quote": "a channel manager connecting to hundreds of global booking sites."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "platforms",
+   "claim": "Little Hotelier is a cloud-based PMS.",
+   "class": "true",
+   "proof_url": "https://www.littlehotelier.com/property-management-system/",
+   "proof_quote": "Modern cloud-based systems like Little Hotelier combine world-class distribution technology with operational tools perfectly sized for properties under 20 rooms.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PMS page (browser read) describes Little Hotelier as a cloud-based system.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Google AI Overviews|2",
+     "quote": "an all-in-one cloud platform like or Little Hotelier"
+    },
+    {
+     "record_id": "hotel-property-management|q5|Claude|1",
+     "quote": "Little Hotelier's cloud-based PMS offers a single calendar for reservations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "platforms",
+   "claim": "Little Hotelier has a mobile app (mobile access).",
+   "class": "true",
+   "proof_url": "https://www.littlehotelier.com/property-management-system/",
+   "proof_quote": "Manage your property on-the-go with our mobile app.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PMS page (browser read) offers a mobile app, and the pricing page lists Mobile App among the Basics features.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Google AI Mode|1",
+     "quote": "a mobile app that lets you run the property on the go."
+    },
+    {
+     "record_id": "hotel-property-management|q1|Google AI Overviews|2",
+     "quote": "with a lightweight mobile app"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "all from a clean, mobile-friendly dashboard."
+    },
+    {
+     "record_id": "hotel-property-management|q2|ChatGPT|2",
+     "quote": "and mobile tools depending on the plan."
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|1",
+     "quote": "SiteMinder-powered distribution and mobile access."
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|2",
+     "quote": "and mobile access, depending on the plan."
+    },
+    {
+     "record_id": "hotel-property-management|q5|Google AI Overviews|1",
+     "quote": "with a strong mobile app for on-the-move management."
+    },
+    {
+     "record_id": "hotel-property-management|q5|Google AI Overviews|2",
+     "quote": "into a simple, highly-rated mobile platform designed for smaller independent operators"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "integrations",
+   "claim": "Little Hotelier connects to more than 450 booking channels or OTAs.",
+   "class": "true",
+   "proof_url": "https://www.littlehotelier.com/",
+   "proof_quote": "Connect to any of our 450+ booking channels to maximise your occupancy.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Added in pass 2 from vendor sub-heading lines; the home page (browser read) states 450+ booking channels, matching the figure.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q5|Claude|1",
+     "quote": "to connect to more than 450 OTAs"
+    },
+    {
+     "record_id": "hotel-property-management|q5|Claude|3",
+     "quote": "It connects to over 450 booking channels"
+    }
+   ]
+  }
+ ],
+ "notes": "Both fetches of www.littlehotelier.com (pricing, then home) answered HTTP 403 with a Cloudflare block page (thin), so requests to that host stopped. In pass 2 the pricing, home, PMS and best-hotel-pms pages were each read once in a real browser and the claims were re-classed from those snapshots. SiteMinder lines were split three ways: backed or built by SiteMinder (ownership, still unverifiable because no page states ownership), powered by SiteMinder (X by Y naming, true) and distribution on SiteMinder's network (integrations, true). Room-count targets (1 to 30 rooms, under 20 rooms), ease-of-use and training-time lines, rankings, the 100 million reservations line (a volume, not a customer count) and the eviivo price line in q6 Claude 2 (about another vendor) were not coded. Pass 2 (8 Oct 2026): C01, C02, C07, C09, C11, C12, C13, C16, C17, C18 and C19 unverifiable to true; C03 unverifiable to wrong (the pricing page publishes From prices, the answers say Custom); C04, C05, C06, C08, C10, C14 and C15 stay unverifiable with new reasons. C16 was reworded to the Google Hotel Ads integration because the pages place it under Hotel Metasearch, not the channel manager. Added C20 (450+ channels, two instances) and two C12 instances from vendor sub-headings in q5 Claude 1 and 3; the gap lines held no other in-scope statement about Little Hotelier. Cause tracing for C03: six cited pages tried (hoteltech.review, gourmetmarketing, stayfi, hotelogix, amenitiz read; canarytechnologies disallowed by robots.txt), none calls the pricing custom, so the cause is not found. The page budget for this vendor stands at 12 of 14.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "hotel-property-management|q1|ChatGPT|1",
+  "hotel-property-management|q1|ChatGPT|2",
+  "hotel-property-management|q1|ChatGPT|3",
+  "hotel-property-management|q1|Claude|1",
+  "hotel-property-management|q1|Claude|2",
+  "hotel-property-management|q1|Claude|3",
+  "hotel-property-management|q1|Google AI Mode|1",
+  "hotel-property-management|q1|Google AI Mode|2",
+  "hotel-property-management|q1|Google AI Mode|3",
+  "hotel-property-management|q1|Google AI Overviews|1",
+  "hotel-property-management|q1|Google AI Overviews|2",
+  "hotel-property-management|q1|Perplexity|1",
+  "hotel-property-management|q1|Perplexity|2",
+  "hotel-property-management|q1|Perplexity|3",
+  "hotel-property-management|q2|ChatGPT|1",
+  "hotel-property-management|q2|ChatGPT|2",
+  "hotel-property-management|q2|ChatGPT|3",
+  "hotel-property-management|q2|Claude|1",
+  "hotel-property-management|q2|Claude|2",
+  "hotel-property-management|q2|Claude|3",
+  "hotel-property-management|q2|Google AI Mode|1",
+  "hotel-property-management|q2|Google AI Mode|2",
+  "hotel-property-management|q2|Google AI Mode|3",
+  "hotel-property-management|q2|Google AI Overviews|2",
+  "hotel-property-management|q2|Google AI Overviews|3",
+  "hotel-property-management|q2|Perplexity|1",
+  "hotel-property-management|q2|Perplexity|2",
+  "hotel-property-management|q2|Perplexity|3",
+  "hotel-property-management|q4|ChatGPT|1",
+  "hotel-property-management|q4|ChatGPT|3",
+  "hotel-property-management|q4|Claude|1",
+  "hotel-property-management|q4|Claude|2",
+  "hotel-property-management|q4|Claude|3",
+  "hotel-property-management|q4|Perplexity|1",
+  "hotel-property-management|q4|Perplexity|2",
+  "hotel-property-management|q5|ChatGPT|1",
+  "hotel-property-management|q5|ChatGPT|2",
+  "hotel-property-management|q5|ChatGPT|3",
+  "hotel-property-management|q5|Claude|1",
+  "hotel-property-management|q5|Claude|2",
+  "hotel-property-management|q5|Claude|3",
+  "hotel-property-management|q5|Google AI Mode|1",
+  "hotel-property-management|q5|Google AI Mode|2",
+  "hotel-property-management|q5|Google AI Mode|3",
+  "hotel-property-management|q5|Google AI Overviews|1",
+  "hotel-property-management|q5|Google AI Overviews|2",
+  "hotel-property-management|q5|Google AI Overviews|3",
+  "hotel-property-management|q5|Perplexity|1",
+  "hotel-property-management|q5|Perplexity|2",
+  "hotel-property-management|q5|Perplexity|3",
+  "hotel-property-management|q6|Claude|2"
+ ],
+ "named_count": 51
+}

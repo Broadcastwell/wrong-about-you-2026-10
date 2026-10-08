@@ -1,0 +1,984 @@
+{
+ "vendor": "Salesforce Sales Cloud",
+ "slug": "salesforce-sales-cloud",
+ "category": "crm",
+ "coded_at": "2026-10-08T04:10:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.salesforce.com/sales/pricing/",
+   "key": "de4ab6e926a4d7b6",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://salesforce.com/",
+   "key": "bfec373db0ef08f5",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.salesforce.com/products/sales-cloud/overview/",
+   "key": "a83b6ebda79e4291",
+   "used_for": "product (redirects to /sales/)"
+  },
+  {
+   "url": "https://www.salesforce.com/products/",
+   "key": "a1c0ba0363aec4a4",
+   "used_for": "product names"
+  },
+  {
+   "url": "https://www.salesforce.com/news/",
+   "key": "137597b7a9d864e5",
+   "used_for": "press"
+  },
+  {
+   "url": "https://startups.co.uk/crm-software/best-crm-for-small-business-uk/",
+   "key": "bde16507ded6c974",
+   "used_for": "cause tracing (cited page)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Pro Suite costs $100 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/sales/pricing/",
+   "proof_quote": "Pro Suite The flexible CRM suite with more automation and customization across sales, service, marketing, and commerce. $ 100 USD/User/Month (Billed annually)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Pro Suite at $100 USD per user per month billed annually, the same plan, unit and billing basis (the two ChatGPT benchmark lists state annual billing for all prices).",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "Pro Suite includes automation, quoting, and forecasting at **$100/user/month annually**"
+    },
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "**Salesforce:** Pro Suite **$100**; Sales Cloud Core **$195**."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|3",
+     "quote": "Pro Suite is **$100** if its feature limits meet your needs."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Sales Cloud Core costs $195 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/sales/pricing/",
+   "proof_quote": "Core The CRM for sales with built-in AI, Slack, Tableau, and Agentforce skills to keep every deal moving. $ 195 USD/User/Month (Billed annually)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Core at $195 USD per user per month billed annually, matching plan, unit and billing basis.",
+   "instances": [
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "**Salesforce:** Pro Suite **$100**; Sales Cloud Core **$195**."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|3",
+     "quote": "**Salesforce Sales Cloud Core:** **$195**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The entry (Starter) price is about $25 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/sales/pricing/",
+   "proof_quote": "Starter Suite costs $25 USD per user, per month.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states Starter Suite costs $25 USD per user per month (billed monthly or annually), the lowest paid suite.",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "~$25/user/mo (Starter)"
+    },
+    {
+     "record_id": "crm|6|Claude|1",
+     "quote": "$25+ per user/mo"
+    },
+    {
+     "record_id": "crm|6|Claude|3",
+     "quote": "Enterprise scale & customization | ~$25/user/mo"
+    },
+    {
+     "record_id": "crm|6|Google AI Mode|3",
+     "quote": "advanced territory management | $25 / user / month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Salesforce Starter costs about $20 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.salesforce.com/sales/pricing/",
+   "proof_quote": "Starter Suite costs $25 USD per user, per month.",
+   "stale_change": null,
+   "causing_url": "https://startups.co.uk/crm-software/best-crm-for-small-business-uk/",
+   "causing_type": "other",
+   "causing_quote": "Salesforce Starter Suite: &pound;20 per user, per month (billed annually)",
+   "rationale": "The pricing page states Starter Suite costs $25 USD per user per month and shows the same $25 for monthly or annual billing, so about $20 in dollars contradicts it; the cited UK article gives 20 pounds, which the answer appears to restate in dollars. Pass 2 consistency check: kept wrong; same plan, unit and either billing period, and about $20 understates the published $25 by a fifth, beyond rounding.",
+   "instances": [
+    {
+     "record_id": "crm|5|Google AI Overviews|1",
+     "quote": "Salesforce Starter | Future-proofing enterprise growth | ~$20/user/month | Seamless path to Sales Cloud"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Salesforce costs $100 per seat per month (plan and billing not named).",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/sales/pricing/",
+   "proof_quote": "Pro Suite The flexible CRM suite with more automation and customization across sales, service, marketing, and commerce. $ 100 USD/User/Month (Billed annually)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists a $100 per user per month suite (Pro Suite); the answer names no plan or billing period, so the price point matches a published price.",
+   "instances": [
+    {
+     "record_id": "crm|4|Claude|1",
+     "quote": "paying $100/seat/month for Salesforce"
+    },
+    {
+     "record_id": "crm|4|Claude|2",
+     "quote": "paying $100/seat/month for Salesforce"
+    },
+    {
+     "record_id": "crm|4|Claude|3",
+     "quote": "paying $100/seat/month for Salesforce"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Salesforce costs about $65 to $135 or more per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The range names no plan; the published suites are $25, $100, $195, $395 and $550 per user per month, so the open range is neither confirmed nor contradicted for a named plan.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "Large mid-market, complex sales | $65–$135+/user/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "plans",
+   "claim": "Pro Suite includes automation, quoting and forecasting.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/sales/pricing/",
+   "proof_quote": "Everything in Starter Plus Greater Customization and Automation Sales Quoting and Forecasting",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Pro Suite card lists greater customization and automation plus sales quoting and forecasting.",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "Pro Suite includes automation, quoting, and forecasting at **$100/user/month annually**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "plans",
+   "claim": "Sales Cloud Enterprise edition includes advanced pipeline management and forecasting, advanced administration and customization tools, and API access.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Starter Suite, Pro Suite, Core, Advanced and Max and assigns these features to Core; it does not describe an Enterprise edition, and no page read dates a retirement of Enterprise, so the claim about Enterprise is not settled.",
+   "instances": [
+    {
+     "record_id": "crm|2|ChatGPT|2",
+     "quote": "Enterprise includes advanced pipeline management and forecasting for tracking opportunities and expected revenue."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "plans",
+   "claim": "Enterprise, Unlimited and Agentforce editions add advanced automation, governance and AI at higher price points.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read describes the contents of Enterprise, Unlimited or an Agentforce edition; the pricing page's current suites are Starter Suite, Pro Suite, Core, Advanced and Max.",
+   "instances": [
+    {
+     "record_id": "crm|1|Claude|2",
+     "quote": "Enterprise, Unlimited, and Agentforce editions add advanced automation, governance, and AI at higher price points."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "plans",
+   "claim": "For 200+ users, Professional or Enterprise is the only tier with territory management and advanced forecasting at scale.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing comparison lists Sales Territories and forecasting rows but its edition marks are not in the snapshot text, and it does not use the Professional/Enterprise tiers named in the claim.",
+   "instances": [
+    {
+     "record_id": "crm|7|Claude|1",
+     "quote": "For 200+ users, Salesforce Professional or Enterprise is the only tier with territory management and advanced forecasting at scale."
+    },
+    {
+     "record_id": "crm|7|Claude|2",
+     "quote": "For 200+ users, Salesforce Professional or Enterprise is the only tier with territory management and advanced forecasting at scale."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "plans",
+   "claim": "Enterprise and Unlimited tiers include AI-generated summaries of stalled deals and recommended next actions.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read describes these AI features by Enterprise or Unlimited tier.",
+   "instances": [
+    {
+     "record_id": "crm|7|Claude|1",
+     "quote": "At Enterprise and Unlimited tiers, AI-generated summaries of stalled deals and recommended next actions reduce the manual work of pipeline review."
+    },
+    {
+     "record_id": "crm|7|Claude|3",
+     "quote": "At Enterprise and Unlimited tiers, AI-generated summaries of stalled deals and recommended next actions reduce the manual work of pipeline review."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "plans",
+   "claim": "CRM Analytics is not included in every edition.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions CRM Analytics or its editions.",
+   "instances": [
+    {
+     "record_id": "crm|7|ChatGPT|1",
+     "quote": "CRM Analytics extends the analytics offering, but isn’t included in every edition."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "plans",
+   "claim": "Salesforce offers a Starter Suite (Starter) plan.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/sales/pricing/",
+   "proof_quote": "Choose from Starter Suite, Pro Suite, Core, Advanced, and Max",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names Starter Suite among the Sales Cloud plans.",
+   "instances": [
+    {
+     "record_id": "crm|3|Google AI Mode|1",
+     "quote": "Salesforce (Sales Cloud / Starter Suite)"
+    },
+    {
+     "record_id": "crm|5|Claude|1",
+     "quote": "Salesforce (Starter Suite)"
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "Salesforce (Starter Suite)"
+    },
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "Salesforce (Starter Suite)"
+    },
+    {
+     "record_id": "crm|5|Google AI Mode|1",
+     "quote": "Salesforce Starter / Professional"
+    },
+    {
+     "record_id": "crm|5|Google AI Overviews|1",
+     "quote": "Option 3: Salesforce Starter Suite"
+    },
+    {
+     "record_id": "crm|5|Google AI Overviews|3",
+     "quote": "Salesforce Starter / Agentforce"
+    },
+    {
+     "record_id": "crm|5|Perplexity|1",
+     "quote": "**Salesforce Starter Suite**"
+    },
+    {
+     "record_id": "crm|5|Perplexity|2",
+     "quote": "**Salesforce Starter Suite**"
+    },
+    {
+     "record_id": "crm|5|Perplexity|3",
+     "quote": "**Salesforce Starter Suite**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "plans",
+   "claim": "Salesforce has a Professional edition.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/sales/pricing/",
+   "proof_quote": "Everything in Professional Edition plus Momentum and Premier Success",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page's Core card refers to the Professional Edition by name.",
+   "instances": [
+    {
+     "record_id": "crm|5|Google AI Mode|1",
+     "quote": "Salesforce Starter / Professional"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "plans",
+   "claim": "Salesforce has an Essentials edition.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions Essentials; the pricing page's current suites do not include it, but no page read documents its retirement.",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|1",
+     "quote": "Salesforce Essentials offers a higher setup cost upfront but zero regret at 50 reps."
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "Salesforce Essentials offers a higher setup cost upfront, but zero regret at 50 reps."
+    },
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "Salesforce Essentials offers higher setup cost upfront, but zero regret at 50 reps."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "product_names",
+   "claim": "Salesforce's AI agent product is named Agentforce.",
+   "class": "true",
+   "proof_url": "https://salesforce.com/",
+   "proof_quote": "Agentforce The platform for building and running agents.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page names Agentforce as Salesforce's platform for building and running agents.",
+   "instances": [
+    {
+     "record_id": "crm|1|Google AI Mode|2",
+     "quote": "Salesforce (with newer AI additions like Agentforce)"
+    },
+    {
+     "record_id": "crm|2|Claude|3",
+     "quote": "Agentforce brings autonomous AI agents natively into the CRM."
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "As of 2026, Salesforce Einstein/Agentforce is the most mature AI in CRM"
+    },
+    {
+     "record_id": "crm|3|Google AI Mode|3",
+     "quote": "advanced AI capabilities (like Agentforce)"
+    },
+    {
+     "record_id": "crm|5|Google AI Overviews|3",
+     "quote": "Salesforce Starter / Agentforce"
+    },
+    {
+     "record_id": "crm|7|Google AI Overviews|1",
+     "quote": "Advanced AI (Einstein/Agentforce)"
+    },
+    {
+     "record_id": "crm|7|Google AI Overviews|2",
+     "quote": "Einstein/Agentforce AI"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "product_names",
+   "claim": "Salesforce's AI is branded Einstein.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/products/",
+   "proof_quote": "Our Einstein Trust Layer prevents sensitive data from leaving the Salesforce trust boundary, so you can use AI in every app",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page uses the Einstein name for Salesforce's AI (the Einstein Trust Layer); no page read documents a retirement of the name.",
+   "instances": [
+    {
+     "record_id": "crm|2|Claude|3",
+     "quote": "Einstein AI analyzes historical data to score leads, predict deal outcomes, and recommend next steps."
+    },
+    {
+     "record_id": "crm|2|Google AI Overviews|2",
+     "quote": "Built-in AI (Einstein/Predictive Insights)"
+    },
+    {
+     "record_id": "crm|2|Google AI Overviews|3",
+     "quote": "It features Einstein AI for predictive forecasting and deal scoring"
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "As of 2026, Salesforce Einstein/Agentforce is the most mature AI in CRM"
+    },
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "Salesforce's Einstein AI has moved beyond simple automation"
+    },
+    {
+     "record_id": "crm|7|ChatGPT|3",
+     "quote": "Einstein adds predictive forecasts"
+    },
+    {
+     "record_id": "crm|7|Claude|1",
+     "quote": "AI-powered forecasting through Einstein"
+    },
+    {
+     "record_id": "crm|7|Claude|2",
+     "quote": "Salesforce Einstein offers activity capture through Einstein Activity Capture"
+    },
+    {
+     "record_id": "crm|7|Claude|3",
+     "quote": "AI-powered forecasting through Einstein"
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|1",
+     "quote": "Einstein AI (Expensive)"
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|2",
+     "quote": "CRM Analytics (Einstein)"
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|3",
+     "quote": "Salesforce (Data Cloud & Tableau/Einstein AI)"
+    },
+    {
+     "record_id": "crm|7|Google AI Overviews|1",
+     "quote": "Advanced AI (Einstein/Agentforce)"
+    },
+    {
+     "record_id": "crm|7|Google AI Overviews|2",
+     "quote": "Einstein/Agentforce AI"
+    },
+    {
+     "record_id": "crm|7|Google AI Overviews|3",
+     "quote": "predictive insights via Einstein AI"
+    },
+    {
+     "record_id": "crm|7|Perplexity|1",
+     "quote": "Tableau/Einstein-powered analytics"
+    },
+    {
+     "record_id": "crm|7|Perplexity|2",
+     "quote": "AI-assisted forecasting via Einstein/Tableau-style analytics"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "product_names",
+   "claim": "Salesforce has an AI product named Einstein 1.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions Einstein 1 or a rename of it.",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "Salesforce's Einstein 1 has moved beyond simple automation"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "product_names",
+   "claim": "Salesforce's app marketplace is named AppExchange.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/sales/pricing/",
+   "proof_quote": "Lightning App Builder | | | | | | | AppExchange",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page's edition comparison lists AppExchange as a Sales Cloud feature; other pages also name AgentExchange as the unified marketplace, but none documents a rename of AppExchange.",
+   "instances": [
+    {
+     "record_id": "crm|1|Google AI Mode|1",
+     "quote": "massive AppExchange ecosystem"
+    },
+    {
+     "record_id": "crm|1|Google AI Mode|3",
+     "quote": "unmatched integration ecosystem via the AppExchange"
+    },
+    {
+     "record_id": "crm|1|Google AI Overviews|1",
+     "quote": "massive AppExchange ecosystem, and strict security controls"
+    },
+    {
+     "record_id": "crm|1|Google AI Overviews|2",
+     "quote": "massive AppExchange extension network"
+    },
+    {
+     "record_id": "crm|2|Google AI Mode|3",
+     "quote": "a massive ecosystem via the Salesforce AppExchange"
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "the operational maturity to use the AppExchange ecosystem"
+    },
+    {
+     "record_id": "crm|3|Google AI Mode|2",
+     "quote": "unmatched app ecosystem (AppExchange)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "product_names",
+   "claim": "Salesforce has a product named Marketing Cloud.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/products/",
+   "proof_quote": "Service Cloud Field Service and Operations Marketing Cloud Commerce Cloud Tableau",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page lists Marketing Cloud.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "most notably the Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT service"
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "most notably the Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT service"
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "The platform includes Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT services."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "product_names",
+   "claim": "Salesforce has a product named Service Cloud.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/products/",
+   "proof_quote": "Service Cloud Field Service and Operations Marketing Cloud Commerce Cloud Tableau",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page lists Service Cloud.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "most notably the Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT service"
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "most notably the Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT service"
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "The platform includes Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT services."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "product_names",
+   "claim": "Salesforce has a product named Analytics Cloud.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page lists no Analytics Cloud (its analytics product is Tableau), but no page read documents a rename or retirement of Analytics Cloud.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "most notably the Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT service"
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "most notably the Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT service"
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "The platform includes Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT services."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "product_names",
+   "claim": "Salesforce has a product named App Cloud.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page lists the Salesforce Platform and Heroku but no App Cloud; no page read documents a rename or retirement.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "most notably the Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT service"
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "most notably the Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT service"
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "The platform includes Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT services."
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "product_names",
+   "claim": "Salesforce offers an IoT service (IoT Cloud).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions an IoT product or its retirement.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "most notably the Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT service"
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "most notably the Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT service"
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "The platform includes Sales and Marketing Clouds, Service Cloud, Analytics Cloud, App Cloud, and IoT services."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "product_names",
+   "claim": "Salesforce has an analytics product named CRM Analytics.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions CRM Analytics; the pages name Tableau and Tableau Next for analytics.",
+   "instances": [
+    {
+     "record_id": "crm|7|ChatGPT|1",
+     "quote": "Salesforce CRM Analytics, Microsoft Power BI, and Zoho Analytics extend their respective CRM reporting capabilities."
+    },
+    {
+     "record_id": "crm|7|ChatGPT|2",
+     "quote": "CRM Analytics and Tableau provide additional analytics options."
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|2",
+     "quote": "CRM Analytics (Einstein)"
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|3",
+     "quote": "Infinite custom metrics via Tableau/CRM Analytics"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "product_names",
+   "claim": "Tableau is a Salesforce analytics product.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/products/",
+   "proof_quote": "Once your data is unified, Tableau helps to explore data, uncover patterns, and act on insights across your business.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page lists Tableau among Salesforce products and describes it as its analytics tool.",
+   "instances": [
+    {
+     "record_id": "crm|7|ChatGPT|2",
+     "quote": "CRM Analytics and Tableau provide additional analytics options."
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|3",
+     "quote": "Infinite custom metrics via Tableau/CRM Analytics"
+    },
+    {
+     "record_id": "crm|7|Perplexity|1",
+     "quote": "Tableau/Einstein-powered analytics"
+    },
+    {
+     "record_id": "crm|7|Perplexity|2",
+     "quote": "AI-assisted forecasting via Einstein/Tableau-style analytics"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "product_names",
+   "claim": "Salesforce has a product named Data Cloud.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/sales/pricing/",
+   "proof_quote": "Limited Data Cloud features",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page refers to Data Cloud features by that name (other pages also use Data 360).",
+   "instances": [
+    {
+     "record_id": "crm|7|Google AI Mode|3",
+     "quote": "Salesforce (Data Cloud & Tableau/Einstein AI)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "product_names",
+   "claim": "Salesforce has a product named Revenue Intelligence.",
+   "class": "true",
+   "proof_url": "https://www.salesforce.com/sales/pricing/",
+   "proof_quote": "Revenue Intelligence From $220 USD/user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Revenue Intelligence as a Sales Cloud add-on.",
+   "instances": [
+    {
+     "record_id": "crm|7|ChatGPT|3",
+     "quote": "Revenue Intelligence adds pipeline movement, historical trends, quota attainment, rep-performance dashboards, and external-data analysis."
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "integrations",
+   "claim": "Salesforce offers thousands of API integrations.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages say Salesforce products integrate with many outside applications but give no integration count.",
+   "instances": [
+    {
+     "record_id": "crm|2|Google AI Overviews|1",
+     "quote": "Offers thousands of API integrations, deep forecasting, and advanced custom object mapping."
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "pricing",
+   "claim": "Starter Suite for five users costs about $100 per month.",
+   "class": "wrong",
+   "proof_url": "https://www.salesforce.com/sales/pricing/",
+   "proof_quote": "Starter Suite costs $25 USD per user, per month.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "Added in pass 2 from a line under the answer's 'Option 3: Salesforce Starter Suite' sub-heading that does not repeat the vendor name: at the published $25 per user per month (the same for monthly or annual billing), five users cost $125 a month, so about $100 understates it by a fifth, consistent with the answer's own ~$20 per user (C04). The cited startups.co.uk page gives a per-user price in pounds, not a five-user cost, so no cited page carries the statement.",
+   "instances": [
+    {
+     "record_id": "crm|5|Google AI Overviews|1",
+     "quote": "Simulated Cost (5 users): ~$100/month."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Five own pages read, all HTTP 200 and not thin; one cited page read for a cause. The pricing page lists the Sales Cloud suites as Starter Suite ($25, billed monthly or annually), Pro Suite ($100, billed annually), Core ($195), Advanced ($395) and Max ($550, all billed annually) plus a Free Suite at $0 in the comparison table; its edition check marks are images, so feature-by-edition rows (territories, forecasting) cannot be read from the snapshot. Edition names: the pages still refer to Professional Edition and Unlimited Edition, and no page read (pricing, product, products, newsroom) documents a dated retirement of Enterprise, Unlimited or Essentials; claims naming those editions are therefore unverifiable rather than stale. One cited third-party page (brokenrubik.com, read for HubSpot) says Salesforce replaced Enterprise/Unlimited with Core/Advanced/Max on 3 September 2026; it was not used to class. Names: Salesforce, Sales Cloud and Salesforce CRM are the vendor's names and were not coded; feature names (Pipeline Inspection, Agent Builder) were treated as capabilities. Stack advice such as pairing Salesforce with Outreach, Salesloft, Gong or Cleanlist (crm|8|Claude|1 and 2) was read as advice, not an integration claim. C04 is wrong against the published $25 USD Starter price; the cited startups.co.uk page gives 20 pounds for Starter Suite (its snapshot keeps the entity &pound; as text), which the answer appears to restate in dollars. Pass 2 (8 Oct 2026): no browser snapshot exists for this vendor; C10 stays unverifiable because the edition marks are images in the only read, and the other unverifiable claims are not about a blocked or thin page. Added C30 (five Starter Suite users at about $100 a month, wrong, cause not found) from crm|5|Google AI Overviews|1. The other gap lines are generic integration or ecosystem lines, hedged, or about other vendors; the one table with Salesforce as a column header (crm|7|Claude|2) and the plain comparison tables (crm|7|Google AI Mode|1, crm|7|Google AI Overviews|3) only repeat the Einstein name their answers already carry in C17, and the 'Starting Price: Varies' cell in crm|5|Claude|2 states no fact. Consistency check: C04 stays wrong (see its rationale).",
+ "answer_record_ids": [
+  "crm|1|ChatGPT|1",
+  "crm|1|ChatGPT|2",
+  "crm|1|ChatGPT|3",
+  "crm|1|Claude|1",
+  "crm|1|Claude|2",
+  "crm|1|Claude|3",
+  "crm|1|Google AI Mode|1",
+  "crm|1|Google AI Mode|2",
+  "crm|1|Google AI Mode|3",
+  "crm|1|Google AI Overviews|1",
+  "crm|1|Google AI Overviews|2",
+  "crm|1|Perplexity|1",
+  "crm|1|Perplexity|2",
+  "crm|1|Perplexity|3",
+  "crm|10|ChatGPT|1",
+  "crm|10|ChatGPT|2",
+  "crm|10|ChatGPT|3",
+  "crm|10|Google AI Mode|1",
+  "crm|10|Google AI Mode|2",
+  "crm|10|Google AI Mode|3",
+  "crm|10|Google AI Overviews|1",
+  "crm|10|Google AI Overviews|2",
+  "crm|10|Perplexity|1",
+  "crm|2|ChatGPT|1",
+  "crm|2|ChatGPT|2",
+  "crm|2|ChatGPT|3",
+  "crm|2|Claude|1",
+  "crm|2|Claude|2",
+  "crm|2|Claude|3",
+  "crm|2|Google AI Mode|1",
+  "crm|2|Google AI Mode|2",
+  "crm|2|Google AI Mode|3",
+  "crm|2|Google AI Overviews|1",
+  "crm|2|Google AI Overviews|2",
+  "crm|2|Google AI Overviews|3",
+  "crm|2|Perplexity|1",
+  "crm|2|Perplexity|2",
+  "crm|2|Perplexity|3",
+  "crm|3|ChatGPT|1",
+  "crm|3|ChatGPT|2",
+  "crm|3|ChatGPT|3",
+  "crm|3|Claude|1",
+  "crm|3|Claude|2",
+  "crm|3|Claude|3",
+  "crm|3|Google AI Mode|1",
+  "crm|3|Google AI Mode|2",
+  "crm|3|Google AI Mode|3",
+  "crm|3|Google AI Overviews|1",
+  "crm|3|Google AI Overviews|2",
+  "crm|3|Google AI Overviews|3",
+  "crm|3|Perplexity|1",
+  "crm|3|Perplexity|2",
+  "crm|3|Perplexity|3",
+  "crm|4|Claude|1",
+  "crm|4|Claude|2",
+  "crm|4|Claude|3",
+  "crm|4|Google AI Mode|2",
+  "crm|4|Perplexity|3",
+  "crm|5|Claude|1",
+  "crm|5|Claude|2",
+  "crm|5|Claude|3",
+  "crm|5|Google AI Mode|1",
+  "crm|5|Google AI Overviews|1",
+  "crm|5|Google AI Overviews|2",
+  "crm|5|Google AI Overviews|3",
+  "crm|5|Perplexity|1",
+  "crm|5|Perplexity|2",
+  "crm|5|Perplexity|3",
+  "crm|6|Claude|1",
+  "crm|6|Claude|2",
+  "crm|6|Claude|3",
+  "crm|6|Google AI Mode|1",
+  "crm|6|Google AI Mode|2",
+  "crm|6|Google AI Mode|3",
+  "crm|6|Google AI Overviews|1",
+  "crm|6|Perplexity|1",
+  "crm|6|Perplexity|2",
+  "crm|6|Perplexity|3",
+  "crm|7|ChatGPT|1",
+  "crm|7|ChatGPT|2",
+  "crm|7|ChatGPT|3",
+  "crm|7|Claude|1",
+  "crm|7|Claude|2",
+  "crm|7|Claude|3",
+  "crm|7|Google AI Mode|1",
+  "crm|7|Google AI Mode|2",
+  "crm|7|Google AI Mode|3",
+  "crm|7|Google AI Overviews|1",
+  "crm|7|Google AI Overviews|2",
+  "crm|7|Google AI Overviews|3",
+  "crm|7|Perplexity|1",
+  "crm|7|Perplexity|2",
+  "crm|7|Perplexity|3",
+  "crm|8|ChatGPT|1",
+  "crm|8|ChatGPT|2",
+  "crm|8|ChatGPT|3",
+  "crm|8|Claude|1",
+  "crm|8|Claude|2",
+  "crm|8|Claude|3",
+  "crm|8|Google AI Mode|1",
+  "crm|8|Google AI Mode|3",
+  "crm|8|Google AI Overviews|1",
+  "crm|8|Google AI Overviews|2",
+  "crm|8|Google AI Overviews|3",
+  "crm|8|Perplexity|2",
+  "crm|8|Perplexity|3",
+  "crm|9|ChatGPT|1",
+  "crm|9|ChatGPT|2",
+  "crm|9|ChatGPT|3"
+ ],
+ "named_count": 109
+}

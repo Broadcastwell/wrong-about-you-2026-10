@@ -1,0 +1,938 @@
+{
+ "vendor": "Pipedrive",
+ "slug": "pipedrive",
+ "category": "crm",
+ "coded_at": "2026-10-08T04:32:10Z",
+ "pages_read": [
+  {
+   "url": "https://www.pipedrive.com/en/pricing",
+   "key": "e357b5628f55fda9",
+   "used_for": "pricing (HTTP 403, Cloudflare block page)"
+  },
+  {
+   "url": "https://pipedrive.com/",
+   "key": "3993d669d3aaae16",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/about",
+   "key": "d83ef2d9d40ef716",
+   "used_for": "about"
+  },
+  {
+   "url": "https://support.pipedrive.com/en/article/insights-reports-revenue-forecast",
+   "key": "f6afa19fe727100a",
+   "used_for": "plans (forecast report availability)"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/newsroom",
+   "key": "d132f88c78dd3be1",
+   "used_for": "press"
+  },
+  {
+   "url": "https://www.pipedrive.com/en/pricing",
+   "key": "e357b5628f55fda9.browser",
+   "used_for": "pass 2 browser read of the pricing page (four plans, annual prices, add-ons, trial)"
+  },
+  {
+   "url": "https://pipelinecrm.com/blog/best-sales-crm-software/",
+   "key": "cea2f322be28bd11",
+   "used_for": "cause check (C08), read for hubspot-crm, does not carry the claim"
+  },
+  {
+   "url": "https://www.sybill.ai/blogs/best-crm-tools",
+   "key": "33c54da24ec93fc0",
+   "used_for": "cause check (C08), read for hubspot-crm, does not carry the claim"
+  },
+  {
+   "url": "https://vendorbenchmark.com/compare/zoho-crm-vs-pipedrive-pricing",
+   "key": "9bfc0aca6dc837a6",
+   "used_for": "cause check (C08), carries the five-tier lineup"
+  },
+  {
+   "url": "https://casrai.org/guides/zoho-crm-pricing-vs-pipedrive",
+   "key": "353b3be3db5f918e",
+   "used_for": "cause check (C08), mentions both lineups, does not state the five tiers as current"
+  },
+  {
+   "url": "https://www.layer3labs.io/comparisons/zoho-crm-vs-pipedrive-for-small-business",
+   "key": "9b20801e2211df91",
+   "used_for": "cause check (C08), does not carry the claim"
+  },
+  {
+   "url": "https://blog.salesflare.com/compare-salesforce-zoho-hubspot-pipedrive",
+   "key": "b59a2a310a68559a",
+   "used_for": "cause check (C08), does not carry the claim"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Growth plan costs $39 per user per month (billed annually where stated).",
+   "class": "true",
+   "proof_url": "https://www.pipedrive.com/en/pricing",
+   "proof_quote": "Growth Automate emails and follow-ups so you can focus on closing US$ 39 One payment of US$ 468 per seat/year Per seat per month, billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page lists Growth at US$39 per seat per month, billed annually (US$468 per seat a year).",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "Growth includes email sync, follow-up automation, and forecasts for **$39/seat/month annually**."
+    },
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "most teams will want Growth ($39/user/month) for email sync, automation templates, and smart contact enrichment"
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "most teams will want Growth ($39/user/month) for email sync, automation templates, and smart contact enrichment"
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "with the Growth plan at $39/user/month offering email sync, automation templates, and smart contact enrichment"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|1",
+     "quote": "**Pipedrive Growth:** $39."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "**Growth: $39** includes email sync, automated follow-ups, meeting scheduling, and forecasting."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|3",
+     "quote": "At **$39/seat/month billed annually**, it combines the pipeline, follow-up automation, and forecasting features"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "The Premium plan costs $59 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.pipedrive.com/en/pricing",
+   "proof_quote": "Premium Drive success from lead to close with full-cycle sales tools US$ 59 One payment of US$ 708 per seat/year Per seat per month, billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page lists Premium at US$59 per seat per month, billed annually.",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "Premium adds lead routing, scoring, contracts/e-signatures, and stronger customization for **$59**."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "**Pipedrive:** Premium **$59**; Ultimate **$79**."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|3",
+     "quote": "**Pipedrive Premium:** **$59**."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "**Premium: $59** adds lead routing, scoring, and more customization."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The Ultimate plan costs $79 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.pipedrive.com/en/pricing",
+   "proof_quote": "Ultimate Optimize performance with our complete suite of capabilities US$ 79 One payment of US$ 948 per seat/year Per seat per month, billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page lists Ultimate at US$79 per seat per month, billed annually.",
+   "instances": [
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "**Pipedrive:** Premium **$59**; Ultimate **$79**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "The entry price (Lite plan) is about $14 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.pipedrive.com/en/pricing",
+   "proof_quote": "Lite Organize your sales in one simple, intuitive workspace US$ 14 One payment of US$ 168 per seat/year Per seat per month, billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page lists Lite, the lowest plan, at US$14 per seat per month, billed annually.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "The Lite plan at $14/user/month is useful for basic pipeline management"
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "The Lite plan at $14/user/month is useful for basic pipeline management"
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "~$14/user/mo"
+    },
+    {
+     "record_id": "crm|5|Google AI Overviews|1",
+     "quote": "Pipedrive | Visual pipeline tracking | ~$14/user/month | Intuitive drag-and-drop stages"
+    },
+    {
+     "record_id": "crm|5|Google AI Overviews|2",
+     "quote": "From ~$14/user/mo"
+    },
+    {
+     "record_id": "crm|6|ChatGPT|3",
+     "quote": "Lite currently starts at **$14 per seat/month, billed annually**."
+    },
+    {
+     "record_id": "crm|6|Claude|1",
+     "quote": "$14+ per user/mo"
+    },
+    {
+     "record_id": "crm|6|Claude|3",
+     "quote": "~$14/user/mo"
+    },
+    {
+     "record_id": "crm|6|Google AI Mode|3",
+     "quote": "Visual, highly intuitive deal staging and pipeline management | $14 / user / month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Plans range from $14 to $99 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser snapshot shows annual-billing prices only (US$14 to US$79 per seat per month); the monthly-billing prices behind the 'Billed monthly' toggle are not in the snapshot, so a $99 top price cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "crm|6|Claude|2",
+     "quote": "At $14–99/user/month, it's affordable and straightforward."
+    },
+    {
+     "record_id": "crm|6|Claude|3",
+     "quote": "At $14–99/user/month, it's affordable and straightforward."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Pipedrive costs about $14 to $39 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Both ends are published plan prices (Lite US$14 and Growth US$39 per seat per month, billed annually), but the page also lists Premium US$59 and Ultimate US$79; the table cell does not say whether it gives Pipedrive's full range or the typical range for the 'lean teams' row, so it is neither confirmed nor contradicted like with like.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "Sales-focused lean teams | $14–$39/user/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "There are four pricing tiers, billed monthly or annually, each below $100 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.pipedrive.com/en/pricing",
+   "proof_quote": "Billed monthly Billed annually (Save up to 42%) Lite Organize your sales in one simple, intuitive workspace US$ 14",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page offers monthly or annual billing and exactly four plans (Lite US$14, Growth US$39, Premium US$59, Ultimate US$79 per seat per month), every listed price below $100; the snapshot shows the annual prices, and nothing on it contradicts the $100 bound.",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|1",
+     "quote": "after which you can choose from four pricing tiers billed monthly or annually — each tier is below $100"
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "after which you can choose from four pricing tiers, billed monthly or annually. Each tier is below $100"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Pipedrive has five pricing tiers: Essential ($24), Advanced ($44), Professional ($64), Power ($79) and Enterprise ($99) per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.pipedrive.com/en/pricing",
+   "proof_quote": "Lite Organize your sales in one simple, intuitive workspace US$ 14",
+   "stale_change": null,
+   "causing_url": "https://vendorbenchmark.com/compare/zoho-crm-vs-pipedrive-pricing",
+   "causing_type": "directory",
+   "causing_quote": "Pipedrive prices on a per-user subscription with five tiers: Essential ($24/user/month), Advanced ($44/user/month), Professional ($64/user/month), Power ($79/user/month), and Enterprise ($99/user/month).",
+   "rationale": "Like with like on the plan lineup: the browser-read pricing page lists exactly four plans, Lite, Growth, Premium and Ultimate, and none named Essential, Advanced, Professional, Power or Enterprise. Not stale: no Pipedrive page read dates a rename (the newsroom lists none). The cited comparison directory carries the five-tier sentence.",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "Pipedrive offers five pricing tiers: Essential ($24/user/month), Advanced ($44), Professional ($64), Power ($79), and Enterprise ($99)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Pricing is a tiered subscription per user.",
+   "class": "true",
+   "proof_url": "https://www.pipedrive.com/en/pricing",
+   "proof_quote": "Per seat per month, billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page prices four plans per seat per month, billed monthly or annually.",
+   "instances": [
+    {
+     "record_id": "crm|5|Google AI Mode|2",
+     "quote": "Tiered monthly subscription per user"
+    },
+    {
+     "record_id": "crm|5|Google AI Mode|3",
+     "quote": "has predictable, transparent pricing per user as you add headcount"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Some additional tools are paid add-ons.",
+   "class": "true",
+   "proof_url": "https://www.pipedrive.com/en/pricing",
+   "proof_quote": "Enrich your plan with more features LeadBooster add-on Capture more leads Starting from $32.50",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page sells add-ons (LeadBooster, Projects, Campaigns, Web Visitors, Smart Docs) with their own prices, which can be added to any plan.",
+   "instances": [
+    {
+     "record_id": "crm|5|ChatGPT|1",
+     "quote": "some additional tools cost extra"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "Check whether you’ll need Premium or paid add-ons for your next stage of growth."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "plans",
+   "claim": "In early 2026 Pipedrive restructured its pricing into four plans: Lite, Growth, Premium and Ultimate.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page confirms the four current plans (split out as C26, true), but no Pipedrive page read dates a restructuring in early 2026 (the newsroom lists none), so the dated change is not settled.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "The platform introduced a restructured pricing model in early 2026, consolidating its tiers into four plans: Lite, Growth, Premium, and Ultimate."
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "Pipedrive restructured its pricing model in early 2026, consolidating into four plans: Lite, Growth, Premium, and Ultimate."
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "The platform introduced a restructured pricing model in early 2026, consolidating its tiers into four plans: Lite, Growth, Premium, and Ultimate"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "plans",
+   "claim": "Essential covers basic pipeline management, Advanced adds workflow automation, and Professional adds team management and forecasting.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page lists Lite, Growth, Premium and Ultimate; the Essential, Advanced and Professional plans described here are not on it (their existence is coded wrong under C08), so their contents cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "Essential covers basic pipeline management, Advanced adds workflow automation, and Professional adds team management and forecasting."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "plans",
+   "claim": "Revenue forecasting is available on Growth and higher plans (Growth includes forecasting).",
+   "class": "true",
+   "proof_url": "https://support.pipedrive.com/en/article/insights-reports-revenue-forecast",
+   "proof_quote": "Note: The Insights Revenue forecast report is only available on our Growth and higher plans.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's knowledge base states the revenue forecast report is only available on Growth and higher plans.",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|1",
+     "quote": "Growth includes email sync, automated follow-up sequences, and forecasting."
+    },
+    {
+     "record_id": "crm|1|ChatGPT|2",
+     "quote": "Growth includes email sync, automated follow-ups, sequences, and forecasting"
+    },
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "Growth includes email sync, follow-up automation, and forecasts for **$39/seat/month annually**."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|1",
+     "quote": "Growth includes email sync, automated follow-ups, and forecasting"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "**Growth: $39** includes email sync, automated follow-ups, meeting scheduling, and forecasting."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|3",
+     "quote": "Growth includes email sync, automated follow-ups, and forecasting"
+    },
+    {
+     "record_id": "crm|7|ChatGPT|1",
+     "quote": "revenue forecast reports are available on Growth and higher plans"
+    },
+    {
+     "record_id": "crm|7|ChatGPT|2",
+     "quote": "The revenue forecast report is available on Growth and higher plans."
+    },
+    {
+     "record_id": "crm|7|ChatGPT|3",
+     "quote": "Revenue forecast reports require Growth or higher."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "plans",
+   "claim": "The Growth plan includes email sync (with, as some answers list, sequences, automation templates, meeting scheduling or contact enrichment).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page's Growth line ('Automate emails and follow-ups') settles automated follow-ups, now split out as C25; email sync and the other listed features sit behind 'See all features' and are not in the snapshot, and no other page read assigns them to a plan.",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|1",
+     "quote": "Growth includes email sync, automated follow-up sequences, and forecasting."
+    },
+    {
+     "record_id": "crm|1|ChatGPT|2",
+     "quote": "Growth includes email sync, automated follow-ups, sequences, and forecasting"
+    },
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "Growth includes email sync, follow-up automation, and forecasts for **$39/seat/month annually**."
+    },
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "most teams will want Growth ($39/user/month) for email sync, automation templates, and smart contact enrichment"
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "most teams will want Growth ($39/user/month) for email sync, automation templates, and smart contact enrichment"
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "with the Growth plan at $39/user/month offering email sync, automation templates, and smart contact enrichment"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|1",
+     "quote": "Growth includes email sync, automated follow-ups, and forecasting"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "**Growth: $39** includes email sync, automated follow-ups, meeting scheduling, and forecasting."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|3",
+     "quote": "Growth includes email sync, automated follow-ups, and forecasting"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "plans",
+   "claim": "Premium (a higher tier) adds lead routing, lead scoring, contracts or proposals with e-signatures, and more granular permissions and customization.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page describes Premium only as 'full-cycle sales tools' and keeps feature lists behind 'See all features'; the home page describes lead routing as a feature but no page read assigns these features to Premium.",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|1",
+     "quote": "Premium adds lead routing, scoring, and more granular permissions."
+    },
+    {
+     "record_id": "crm|1|ChatGPT|2",
+     "quote": "Premium adds lead routing, scoring, and more granular team controls."
+    },
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "Premium adds lead routing, scoring, contracts/e-signatures, and stronger customization for **$59**."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|1",
+     "quote": "Premium adds lead routing, scoring, contracts, and more granular controls."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "on Premium—lead routing, proposals, and e-signatures"
+    },
+    {
+     "record_id": "crm|3|ChatGPT|3",
+     "quote": "on higher tiers—lead routing and contracts"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|1",
+     "quote": "Premium adds lead routing and more granular customization and permissions."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "**Premium: $59** adds lead routing, scoring, and more customization."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|3",
+     "quote": "Premium adds lead routing, scoring, and more granular customization."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "plans",
+   "claim": "The entry plan includes pipeline management and spreadsheet imports.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page describes Lite only as 'one simple, intuitive workspace' and keeps feature lists behind 'See all features'; no page read assigns spreadsheet imports to the entry plan.",
+   "instances": [
+    {
+     "record_id": "crm|6|ChatGPT|1",
+     "quote": "Its entry plan includes pipeline management and spreadsheet imports"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "plans",
+   "claim": "Unlimited pipelines are included on all plans, including entry-level tiers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states pipeline limits by plan; the browser-read pricing page keeps feature lists behind 'See all features'.",
+   "instances": [
+    {
+     "record_id": "crm|8|Claude|1",
+     "quote": "Pipedrive gives you unlimited pipelines on all plans, including entry-level tiers."
+    },
+    {
+     "record_id": "crm|8|Claude|2",
+     "quote": "it gives you unlimited pipelines on all plans, including entry-level tiers."
+    },
+    {
+     "record_id": "crm|8|Claude|3",
+     "quote": "Pipedrive gives you unlimited pipelines on all plans, including entry-level tiers."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "Custom reporting features are only available in higher-tier plans.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read assigns custom reporting to plans; the support article only says the number of Insights reports depends on the plan, and the pricing page keeps feature lists behind 'See all features'.",
+   "instances": [
+    {
+     "record_id": "crm|7|Claude|2",
+     "quote": "Custom reporting features are only available in higher tier plans."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "free_tier",
+   "claim": "Pipedrive offers a free 14-day trial.",
+   "class": "true",
+   "proof_url": "https://pipedrive.com/",
+   "proof_quote": "14-day free trial, no credit card required",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page offers a 14-day free trial (the pricing page repeats it).",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|1",
+     "quote": "Pipedrive offers a free 14-day trial"
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "Pipedrive offers a free 14-day trial"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "customer_counts",
+   "claim": "Pipedrive has more than 100,000 customers globally.",
+   "class": "true",
+   "proof_url": "https://pipedrive.com/",
+   "proof_quote": "Trusted by 100,000+ companies in 179 countries",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states it is trusted by 100,000+ companies in 179 countries.",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "With more than 100,000 customers globally"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "integrations",
+   "claim": "Pipedrive offers 500+ integrations.",
+   "class": "true",
+   "proof_url": "https://pipedrive.com/",
+   "proof_quote": "500+ integrations to boost workflows",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states 500+ integrations.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "Pros include an intuitive visual pipeline, fast setup, excellent mobile app, 500+ integrations, and transparent pricing with no hidden fees."
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "Pros include an intuitive visual pipeline, fast setup, excellent mobile app, 500+ integrations, and transparent pricing with no hidden fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "platforms",
+   "claim": "Pipedrive has a mobile app (mobile access).",
+   "class": "true",
+   "proof_url": "https://pipedrive.com/",
+   "proof_quote": "With Pipedrive’s mobile apps for Android and iOS, sales efficiency is always at your fingertips",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page describes Pipedrive's mobile apps for Android and iOS.",
+   "instances": [
+    {
+     "record_id": "crm|1|Google AI Mode|1",
+     "quote": "Highly visual deal stages, easy mobile access, and straightforward activity tracking."
+    },
+    {
+     "record_id": "crm|1|Google AI Overviews|2",
+     "quote": "Highly intuitive Kanban interface, strong mobile access, and robust integration ecosystem."
+    },
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "Pros include an intuitive visual pipeline, fast setup, excellent mobile app, 500+ integrations, and transparent pricing with no hidden fees."
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "Pros include an intuitive visual pipeline, fast setup, excellent mobile app, 500+ integrations, and transparent pricing with no hidden fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "founding",
+   "claim": "Pipedrive was built by salespeople (its co-founders were salespeople).",
+   "class": "true",
+   "proof_url": "https://www.pipedrive.com/en/about",
+   "proof_quote": "Pipedrive’s co-founders were salespeople who needed more from a CRM tool than the software on the market could offer.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page says the co-founders were salespeople and calls Pipedrive a CRM built by salespeople, for salespeople.",
+   "instances": [
+    {
+     "record_id": "crm|1|Google AI Mode|2",
+     "quote": "Built explicitly by salespeople for salespeople, Pipedrive centers around a visual, drag-and-drop kanban pipeline."
+    },
+    {
+     "record_id": "crm|2|Claude|2",
+     "quote": "Built by salespeople for salespeople, it popularized the drag-and-drop kanban pipeline"
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "Pipedrive is a sales-first CRM, built by salespeople for salespeople."
+    },
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "Built by salespeople for salespeople, it popularized the drag-and-drop kanban pipeline"
+    },
+    {
+     "record_id": "crm|5|Google AI Mode|2",
+     "quote": "Built explicitly by salespeople for salespeople, making user adoption remarkably fast for new hires."
+    },
+    {
+     "record_id": "crm|6|Claude|1",
+     "quote": "it's a sales tool built by salespeople"
+    },
+    {
+     "record_id": "crm|6|Claude|2",
+     "quote": "it's a sales tool built by salespeople"
+    },
+    {
+     "record_id": "crm|6|Claude|3",
+     "quote": "it's a sales tool built by salespeople"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "pricing",
+   "claim": "Pipedrive starts at $24 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser snapshot shows annual-billing prices only, the lowest US$14 per seat per month (Lite); the table cell names no billing period and the monthly-billing prices are not in the snapshot, so the $24 starting price cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "| **Pipedrive** | Visual pipeline, fast setup | $24/user/mo |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "plans",
+   "claim": "The Growth plan includes automated email follow-ups.",
+   "class": "true",
+   "proof_url": "https://www.pipedrive.com/en/pricing",
+   "proof_quote": "Growth Automate emails and follow-ups so you can focus on closing",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Split from the Growth inclusion lists (C14): the browser-read pricing page describes the Growth plan as the one that automates emails and follow-ups.",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|1",
+     "quote": "Growth includes email sync, automated follow-up sequences, and forecasting."
+    },
+    {
+     "record_id": "crm|1|ChatGPT|2",
+     "quote": "Growth includes email sync, automated follow-ups, sequences, and forecasting"
+    },
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "Growth includes email sync, follow-up automation, and forecasts for **$39/seat/month annually**."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|1",
+     "quote": "Growth includes email sync, automated follow-ups, and forecasting"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "**Growth: $39** includes email sync, automated follow-ups, meeting scheduling, and forecasting."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|3",
+     "quote": "Growth includes email sync, automated follow-ups, and forecasting"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "plans",
+   "claim": "Pipedrive has four plans: Lite, Growth, Premium and Ultimate.",
+   "class": "true",
+   "proof_url": "https://www.pipedrive.com/en/pricing",
+   "proof_quote": "Ultimate Optimize performance with our complete suite of capabilities",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Split from C11 (whose 2026 dating stays unverifiable): the browser-read pricing page lists exactly four plans, Lite, Growth, Premium and Ultimate, Ultimate being the top one.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "consolidating its tiers into four plans: Lite, Growth, Premium, and Ultimate."
+    },
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "consolidating into four plans: Lite, Growth, Premium, and Ultimate."
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "consolidating its tiers into four plans: Lite, Growth, Premium, and Ultimate"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Pass 1: the pricing page (key e357b5628f55fda9) answered HTTP 403 with a Cloudflare block page, the only blocked answer from www.pipedrive.com. The knowledge-base article settles that revenue forecasting starts at Growth (C13). C23 codes \"built by salespeople\" as a founding claim (the about page states the co-founders were salespeople); a reviewer may prefer to treat it as positioning. Generic phrases such as \"robust marketplace integrations\", \"built-in sales assistant\", \"transparent pricing with no hidden fees\" and hedged lines (\"Add-ons can raise cost\") were not coded. Pass 2 (8 Oct): the pricing page was read once in a real browser. It shows monthly or annual billing (save up to 42%), four plans with annual prices (Lite US$14, Growth US$39, Premium US$59, Ultimate US$79 per seat per month), five priced add-ons and the 14-day trial; feature lists sit behind 'See all features' and monthly-billing prices are not in the snapshot. Re-classed to true: C01, C02, C03, C04, C07, C09, C10. Re-classed to wrong: C08 (the Essential/Advanced/Professional/Power/Enterprise lineup; the page lists four other plans, and no Pipedrive page dates a rename, so wrong rather than stale). For its cause, six cited pages of crm|5|Claude|3 were checked: two already read for hubspot-crm (pipelinecrm.com, sybill.ai) and four read once now (vendorbenchmark.com carries the sentence; casrai.org, layer3labs.io and salesflare do not state the five tiers as current). Splits under the guide: C26 (four plans, true) from C11 (2026 dating, unverifiable), and C25 (Growth automates follow-ups, true) from C14, whose claim text was narrowed to email sync and the other listed features. Added: C24 ($24 starting price, a table cell, unverifiable for want of monthly prices). Reviewer: look first at C08 (wrong on the lineup) and C06 and C07, where the snapshot's annual-only prices decide the class.",
+ "answer_record_ids": [
+  "crm|1|ChatGPT|1",
+  "crm|1|ChatGPT|2",
+  "crm|1|ChatGPT|3",
+  "crm|1|Claude|1",
+  "crm|1|Claude|2",
+  "crm|1|Claude|3",
+  "crm|1|Google AI Mode|1",
+  "crm|1|Google AI Mode|2",
+  "crm|1|Google AI Mode|3",
+  "crm|1|Google AI Overviews|1",
+  "crm|1|Google AI Overviews|2",
+  "crm|1|Google AI Overviews|3",
+  "crm|1|Perplexity|1",
+  "crm|1|Perplexity|2",
+  "crm|1|Perplexity|3",
+  "crm|10|Google AI Mode|2",
+  "crm|10|Google AI Mode|3",
+  "crm|10|Google AI Overviews|1",
+  "crm|2|Claude|1",
+  "crm|2|Claude|2",
+  "crm|2|Claude|3",
+  "crm|2|Google AI Mode|1",
+  "crm|2|Google AI Mode|2",
+  "crm|2|Google AI Mode|3",
+  "crm|2|Google AI Overviews|1",
+  "crm|2|Google AI Overviews|3",
+  "crm|2|Perplexity|1",
+  "crm|2|Perplexity|2",
+  "crm|2|Perplexity|3",
+  "crm|3|ChatGPT|1",
+  "crm|3|ChatGPT|2",
+  "crm|3|ChatGPT|3",
+  "crm|3|Claude|1",
+  "crm|3|Claude|2",
+  "crm|3|Claude|3",
+  "crm|3|Google AI Mode|2",
+  "crm|3|Perplexity|1",
+  "crm|3|Perplexity|2",
+  "crm|3|Perplexity|3",
+  "crm|4|Claude|1",
+  "crm|4|Google AI Mode|2",
+  "crm|4|Google AI Overviews|1",
+  "crm|4|Google AI Overviews|3",
+  "crm|4|Perplexity|1",
+  "crm|4|Perplexity|2",
+  "crm|4|Perplexity|3",
+  "crm|5|ChatGPT|1",
+  "crm|5|ChatGPT|2",
+  "crm|5|ChatGPT|3",
+  "crm|5|Claude|1",
+  "crm|5|Claude|2",
+  "crm|5|Claude|3",
+  "crm|5|Google AI Mode|1",
+  "crm|5|Google AI Mode|2",
+  "crm|5|Google AI Mode|3",
+  "crm|5|Google AI Overviews|1",
+  "crm|5|Google AI Overviews|2",
+  "crm|5|Perplexity|1",
+  "crm|5|Perplexity|2",
+  "crm|5|Perplexity|3",
+  "crm|6|ChatGPT|1",
+  "crm|6|ChatGPT|2",
+  "crm|6|ChatGPT|3",
+  "crm|6|Claude|1",
+  "crm|6|Claude|2",
+  "crm|6|Claude|3",
+  "crm|6|Google AI Mode|1",
+  "crm|6|Google AI Mode|2",
+  "crm|6|Google AI Mode|3",
+  "crm|6|Google AI Overviews|1",
+  "crm|6|Google AI Overviews|2",
+  "crm|6|Google AI Overviews|3",
+  "crm|6|Perplexity|1",
+  "crm|6|Perplexity|2",
+  "crm|6|Perplexity|3",
+  "crm|7|ChatGPT|1",
+  "crm|7|ChatGPT|2",
+  "crm|7|ChatGPT|3",
+  "crm|7|Claude|1",
+  "crm|7|Claude|2",
+  "crm|7|Claude|3",
+  "crm|7|Google AI Mode|1",
+  "crm|7|Google AI Overviews|1",
+  "crm|7|Google AI Overviews|2",
+  "crm|7|Google AI Overviews|3",
+  "crm|7|Perplexity|1",
+  "crm|7|Perplexity|2",
+  "crm|7|Perplexity|3",
+  "crm|8|ChatGPT|2",
+  "crm|8|ChatGPT|3",
+  "crm|8|Claude|1",
+  "crm|8|Claude|2",
+  "crm|8|Claude|3",
+  "crm|8|Google AI Mode|1",
+  "crm|8|Google AI Overviews|2",
+  "crm|8|Google AI Overviews|3",
+  "crm|8|Perplexity|2"
+ ],
+ "named_count": 97
+}

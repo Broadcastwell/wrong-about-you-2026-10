@@ -1,0 +1,827 @@
+{
+ "vendor": "Workiz",
+ "slug": "workiz",
+ "category": "field-service-management",
+ "coded_at": "2026-10-08T04:09:14Z",
+ "pages_read": [
+  {
+   "url": "https://www.workiz.com/",
+   "key": "bb762e61ffbcde1b",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.workiz.com/pricing-plans/",
+   "key": "4dc2d62465fd294e",
+   "used_for": "pricing and plans"
+  },
+  {
+   "url": "https://www.workiz.com/integrations/",
+   "key": "086d563dc513f9b0",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://www.workiz.com/about-us/",
+   "key": "c8b28d6eea55bffa",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.fieldpulse.com/resources/blog/workiz-alternatives",
+   "key": "a71087f230e52b29",
+   "used_for": "cause trace for C27 and C28 (cited, not own; carries the C28 sentence)"
+  },
+  {
+   "url": "https://thedigitalprojectmanager.com/tools/best-jobber-alternatives/",
+   "key": "3929860f60185e28",
+   "used_for": "cause trace for C27 (cited, not own; HTTP 403, blocked)"
+  },
+  {
+   "url": "https://www.getonecrew.com/post/jobber-alternative",
+   "key": "3d00c781c482d4ea",
+   "used_for": "cause trace for C27 (cited, not own)"
+  },
+  {
+   "url": "https://serviceagent.ai/blogs/getjobber-alternatives/",
+   "key": "8c98b4cddf6351cc",
+   "used_for": "cause trace for C27 (cited, not own)"
+  },
+  {
+   "url": "https://www.workiz.com/blog/ask-the-experts/top-11-jobber-alternatives-find-the-perfect-match/",
+   "key": "e103a024dce5bd4d",
+   "used_for": "cause trace for C27 (cited own blog; lists a 7-day trial)"
+  },
+  {
+   "url": "https://fieldservicesoftware.io/comparisons/service-fusion-vs-workiz/",
+   "key": "df00236abe914183",
+   "used_for": "cause trace for C27 (cited, not own)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Pricing is quote-based (custom, on request).",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/pricing-plans/",
+   "proof_quote": "Standard Request pricing Pro Request pricing Ultimate Request pricing",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page shows Request pricing for each of the three plans and publishes no dollar price.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "Quote-based pricing."
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|1",
+     "quote": "Quote-based pricing."
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|2",
+     "quote": "Request pricing."
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|3",
+     "quote": "Quote-based pricing."
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|2",
+     "quote": "| Workiz | On-demand trades | Quote-based |"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|1",
+     "quote": "| Workiz | All-in-one, versatile | Custom |"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|3",
+     "quote": "| Workiz | Scalability & communications | Custom |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Pricing starts around $65 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no dollar price for any plan (each is Request pricing), so no starting price can be checked.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Google AI Overviews|3",
+     "quote": "Pricing: Starting around $65 per month."
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Overviews|2",
+     "quote": "Workiz provides strong field-first dispatch and payment features starting around $65/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Pricing starts around $65 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no dollar price and no pricing unit for any plan.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "| Workiz | On-demand trades | ~$65/user/mo |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Paid plans start from $225 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no dollar price for any plan (each is Request pricing), so no starting price can be checked.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Claude|1",
+     "quote": "with paid plans from $225/month"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "Paid plans start from $225/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Pricing is per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page shows Request pricing for each plan and states no pricing unit.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|1",
+     "quote": "| Workiz | Phone-driven lead gen | Per user/month |"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "| Workiz | On-demand trades | ~$65/user/mo |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Pricing is tiered (monthly plan tiers).",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/pricing-plans/",
+   "proof_quote": "Standard Request pricing Pro Request pricing Ultimate Request pricing",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers three tiers: Standard, Pro and Ultimate.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|2",
+     "quote": "Tiered small business pricing"
+    },
+    {
+     "record_id": "field-service-management|q4|Google AI Overviews|3",
+     "quote": "Workiz | Mobile multi-trade | Competitive monthly tiers |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "free_tier",
+   "claim": "Workiz has a free plan (free tier, called Lite).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists only Standard, Pro and Ultimate (all Request pricing) and a 7-day free trial; it names no free or Lite plan, but it does not explicitly say that none exists, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q4|Claude|2",
+     "quote": "| Workiz | AI scheduling, lead management | Free (Lite) |"
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|3",
+     "quote": "| Workiz | Tiny teams, lead mgmt | Free tier available |"
+    },
+    {
+     "record_id": "field-service-management|q6|Google AI Mode|3",
+     "quote": "Call Tracking / Leads | Workiz | Free tier available |"
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|1",
+     "quote": "A Lite plan is free for up to 2 users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "free_tier",
+   "claim": "The free Lite plan allows up to 2 users.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read in this study names a Lite plan or its user limit.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q4|Claude|2",
+     "quote": "Workiz has a free Lite plan for up to 2 users."
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|3",
+     "quote": "Workiz has a free Lite plan for up to 2 users."
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|1",
+     "quote": "A Lite plan is free for up to 2 users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "plans",
+   "claim": "The phone system and AI answering (Genius Phone, Genius Answering) are optional add-ons, not part of the plans.",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/pricing-plans/",
+   "proof_quote": "Mobile application Genius Phone ( sold separately ) Integrated phone system",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Genius Phone and Genius Answering as add-ons, each marked sold separately in the plan comparison.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "Phone and AI-answering products are add-ons"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|1",
+     "quote": "Phone and AI products are add-ons"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|2",
+     "quote": "Genius Phone and answering capabilities are add-ons"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|3",
+     "quote": "Phone and AI capabilities are add-ons"
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|3",
+     "quote": "it offers an optional virtual phone system"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "plans",
+   "claim": "Inventory management and service plans are in the Ultimate plan.",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/pricing-plans/",
+   "proof_quote": "Everything in Pro, plus: Service plans A total of 30 Automations Sales proposals Inventory management",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Ultimate card adds service plans and inventory management to Pro, and the comparison table marks both as not included in Standard or Pro.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "inventory management and service plans are in Ultimate"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|1",
+     "quote": "inventory and service plans are listed in the Ultimate tier"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|3",
+     "quote": "service plans and inventory management are listed in the Ultimate tier"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "founding",
+   "claim": "Workiz was built (founded) by field service professionals.",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/about-us/",
+   "proof_quote": "ABOUT US Built by and for field service professionals",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page says Workiz was built by and for field service professionals and that it began with locksmith pros in San Diego.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|3",
+     "quote": "Workiz was built by field service pros"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "integrations",
+   "claim": "Workiz integrates with QuickBooks.",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/pricing-plans/",
+   "proof_quote": "Workiz seamlessly integrates with QuickBooks Online, allowing for automatic synchronization of invoices, customers, and payments.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ and the integrations page list a QuickBooks Online integration.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|Claude|1",
+     "quote": "seamlessly connects with QuickBooks, Zapier, and exclusive AI tools like Genius Answering"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|2",
+     "quote": "It seamlessly connects with QuickBooks, Zapier, and exclusive AI tools."
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|3",
+     "quote": "seamlessly connects with QuickBooks, Zapier, and exclusive AI tools"
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|3",
+     "quote": "simple QuickBooks sync"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "integrations",
+   "claim": "Workiz integrates with Zapier.",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/integrations/",
+   "proof_quote": "Zapier Zapier automates your workflows across 5,000+ apps, so you can move forward faster.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists Zapier.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|Claude|1",
+     "quote": "seamlessly connects with QuickBooks, Zapier, and exclusive AI tools like Genius Answering"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|2",
+     "quote": "It seamlessly connects with QuickBooks, Zapier, and exclusive AI tools."
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|3",
+     "quote": "seamlessly connects with QuickBooks, Zapier, and exclusive AI tools"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "integrations",
+   "claim": "Workiz integrates with Angi.",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/integrations/",
+   "proof_quote": "Angi Leads Manage all your Angi leads and jobs in one place.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists Angi Leads.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Google AI Mode|2",
+     "quote": "Integrates seamlessly with major lead generation engines like Angi, Thumbtack, and Google Local Services Ads."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "integrations",
+   "claim": "Workiz integrates with Thumbtack.",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/integrations/",
+   "proof_quote": "Thumbtack Win more jobs with high quality leads landing straight into your inbox.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists Thumbtack.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Google AI Mode|2",
+     "quote": "Integrates seamlessly with major lead generation engines like Angi, Thumbtack, and Google Local Services Ads."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "integrations",
+   "claim": "Workiz integrates with Google Local Services Ads.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists Reserve with Google and Google Calendar but not Google Local Services Ads; the absence from the list is not an explicit statement that no such integration exists.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Google AI Mode|2",
+     "quote": "Integrates seamlessly with major lead generation engines like Angi, Thumbtack, and Google Local Services Ads."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "integrations",
+   "claim": "Workiz integrates with RingCentral for phone.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page does not list RingCentral and no page read mentions it; the absence is not an explicit statement either way.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q4|Google AI Mode|2",
+     "quote": "ring-central phone integration"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "platforms",
+   "claim": "Workiz has a mobile app.",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/pricing-plans/",
+   "proof_quote": "SEO report tool Mobile application Genius Phone ( sold separately )",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plan comparison lists a mobile application, included in every plan.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Google AI Mode|1",
+     "quote": "Its mobile app allows techs to generate professional estimates"
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|3",
+     "quote": "a usable mobile app"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|1",
+     "quote": "mobile app with offline functionality"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|3",
+     "quote": "mobile app with offline functionality"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "product_names",
+   "claim": "Genius is the name of Workiz's AI product line.",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/pricing-plans/",
+   "proof_quote": "GENIUS AI Discover the Genius add-ons",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page presents Genius AI add-ons (Genius Phone, Genius Answering, Genius Marketing).",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Claude|1",
+     "quote": "powerful \"Genius\" AI and automations"
+    },
+    {
+     "record_id": "field-service-management|q1|Claude|2",
+     "quote": "powerful \"Genius\" AI and automations"
+    },
+    {
+     "record_id": "field-service-management|q1|Claude|3",
+     "quote": "powerful \"Genius\" AI & automations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "product_names",
+   "claim": "Genius Answering is Workiz's AI call-answering product.",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/pricing-plans/",
+   "proof_quote": "Add-ons Genius Answering Answer every call, email, and SMS instantly, 24/7 and never miss an opportunity again.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names Genius Answering as an add-on that answers calls.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|Claude|1",
+     "quote": "exclusive AI tools like Genius Answering"
+    },
+    {
+     "record_id": "field-service-management|q6|Google AI Overviews|2",
+     "quote": "built-in AI call answering (\"Genius Answering\")"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "product_names",
+   "claim": "Genius Phone is Workiz's phone product.",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/pricing-plans/",
+   "proof_quote": "Add-ons Genius Phone Take your calls, emails, and texts in one place",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names Genius Phone as an add-on.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|ChatGPT|2",
+     "quote": "Genius Phone and answering capabilities are add-ons"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "product_names",
+   "claim": "Workiz Pay is Workiz's payment processing product.",
+   "class": "true",
+   "proof_url": "https://www.workiz.com/",
+   "proof_quote": "Collect payment Get paid on the spot, any way your customer pays. Workiz Pay",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page names Workiz Pay as the payment product.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Google AI Mode|1",
+     "quote": "use Workiz Pay to collect on-site credit card or financing payments immediately"
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|2",
+     "quote": "integrated payment processing (Workiz Pay)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "pricing",
+   "claim": "Paid plans start at $187 per month with the Kickstart plan.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names only Standard, Pro and Ultimate, each with Request pricing; the vendor's own Jobber-alternatives blog gives an approximate annual starting price of $187 per month but no page names a Kickstart plan, so the claim as stated is not settled.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q4|Claude|1",
+     "quote": "paid tiers start at $187/month (Kickstart)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "pricing",
+   "claim": "The Standard plan costs $229 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page shows Request pricing for Standard and publishes no dollar price for it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q4|Claude|1",
+     "quote": "$229/month (Standard)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "pricing",
+   "claim": "The Pro plan costs $270 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page shows Request pricing for Pro and publishes no dollar price for it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q4|Claude|1",
+     "quote": "$270/month (Pro)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "pricing",
+   "claim": "Each extra member on the Pro plan costs about $65 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The snapshot of the pricing page publishes no per-member or per-user price, so the figure cannot be checked.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|2",
+     "quote": "extra Pro members start at ~$65/user/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "free_tier",
+   "claim": "Workiz offers a 14-day free trial.",
+   "class": "wrong",
+   "proof_url": "https://www.workiz.com/pricing-plans/",
+   "proof_quote": "Workiz offers a 7 days free trial that allows you to explore all the features of the platform without any commitment.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ states a 7-day free trial (the vendor's own blog also lists 7 days), which explicitly contradicts a 14-day trial on the same unit; none of the six cited pages read carries a 14-day Workiz trial (thedigitalprojectmanager.com was blocked).",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|2",
+     "quote": "with a 14-day free trial"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "plans",
+   "claim": "Online booking costs extra (it is not included in the plans).",
+   "class": "wrong",
+   "proof_url": "https://www.workiz.com/pricing-plans/",
+   "proof_quote": "Client service tools — Online Booking with optional checkout — Standard: Included",
+   "stale_change": null,
+   "causing_url": "https://www.fieldpulse.com/resources/blog/workiz-alternatives",
+   "causing_type": "other",
+   "causing_quote": "Essential tools like online booking, call tracking, and automation cost extra.",
+   "rationale": "The pricing page's plan comparison marks Online Booking with optional checkout as included in Standard, Pro and Ultimate, outside the add-ons marked sold separately, which explicitly contradicts online booking costing extra; the cited FieldPulse (competitor) article carries the same sentence.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "Essential tools like online booking, call tracking, and automation cost extra"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "plans",
+   "claim": "Call tracking costs extra.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page is inconsistent: its FAQ says a built-in phone system with call tracking comes with all plans, while the plan list marks Genius Phone (with ad tracking and call insights) as sold separately, so it does not settle whether call tracking costs extra.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "Essential tools like online booking, call tracking, and automation cost extra"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "plans",
+   "claim": "Automation costs extra.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Every plan includes a set number of automations (5, 10 or 30), while Genius Marketing's automated campaigns and workflows are sold separately; the answer does not say which automation it means, so the page does not settle it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "Essential tools like online booking, call tracking, and automation cost extra"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [
+  "https://thedigitalprojectmanager.com/tools/best-jobber-alternatives/"
+ ],
+ "notes": "Four own pages read, all HTTP 200 and not thin (home, pricing-plans, integrations, about-us). The pricing page shows Standard, Pro and Ultimate with Request pricing and no dollar amounts, so every dollar figure ($65, $65 per user, $225) and the per-user basis are unverifiable. C07 and C08 (a free Lite plan for up to 2 users) are left unverifiable: the pricing page lists no free or Lite plan and offers a 7-day free trial, but it does not explicitly rule out a free plan; a reviewer may prefer wrong if the complete plan list is taken as explicit. Google Local Services Ads and RingCentral (C16, C17) are absent from the integrations page, which loads its full list in the text; absence was not treated as contradiction. The pricing FAQ says a built-in phone system comes with all plans while the plan table marks Genius Phone as sold separately; C09 follows the add-on wording the answers use. Capability descriptions (call tracking, AI scheduling, offline mode) were not coded. No claim is wrong or stale, so no cited page was read for causes. Pass 2 (8 Oct 2026): no browser reads exist for this vendor. Completeness: two instances added (q4 Claude run 1 to C07 and C08) and eight claims added (C23 to C30) from table cells and pricing lines under the vendor's sub-headings. Two of the new claims are wrong: C27 (a 14-day free trial; the pricing page FAQ says 7 days; cause not found) and C28 (online booking costs extra; the plan comparison includes it in every plan; cause: the cited FieldPulse Workiz-alternatives article, which carries the same sentence). That sentence was split because call tracking (C29, the page both includes the phone system in all plans and marks Genius Phone sold separately) and automation (C30) are not settled. Six cited pages were read for causes: fieldpulse.com, thedigitalprojectmanager.com (HTTP 403, listed in needs_browser_read), getonecrew.com, serviceagent.ai, the vendor's own Jobber-alternatives blog and fieldservicesoftware.io. For the reviewer: the vendor's own blog lists Workiz pricing starting at about $187 per month (annual, 3 users included) and a 7-day trial; that figure is approximate and annual, so it was not used to re-class the $65 and $225 starting prices (C02, C04) or the $187 Kickstart price (C23), which stay unverifiable against the pricing page's Request pricing. C29 sits in tension with C09 (classed true in pass 1 from the sold separately wording).",
+ "answer_record_ids": [
+  "field-service-management|q1|Claude|1",
+  "field-service-management|q1|Claude|2",
+  "field-service-management|q1|Claude|3",
+  "field-service-management|q1|Google AI Mode|1",
+  "field-service-management|q1|Google AI Mode|2",
+  "field-service-management|q1|Google AI Overviews|1",
+  "field-service-management|q1|Google AI Overviews|2",
+  "field-service-management|q1|Google AI Overviews|3",
+  "field-service-management|q1|Perplexity|3",
+  "field-service-management|q10|Claude|1",
+  "field-service-management|q10|Claude|3",
+  "field-service-management|q10|Google AI Mode|1",
+  "field-service-management|q10|Google AI Mode|2",
+  "field-service-management|q10|Google AI Mode|3",
+  "field-service-management|q10|Google AI Overviews|2",
+  "field-service-management|q2|Google AI Mode|1",
+  "field-service-management|q2|Google AI Mode|2",
+  "field-service-management|q3|Google AI Mode|1",
+  "field-service-management|q4|ChatGPT|3",
+  "field-service-management|q4|Claude|1",
+  "field-service-management|q4|Claude|2",
+  "field-service-management|q4|Claude|3",
+  "field-service-management|q4|Google AI Mode|1",
+  "field-service-management|q4|Google AI Mode|2",
+  "field-service-management|q4|Google AI Mode|3",
+  "field-service-management|q4|Google AI Overviews|1",
+  "field-service-management|q4|Google AI Overviews|3",
+  "field-service-management|q4|Perplexity|1",
+  "field-service-management|q4|Perplexity|2",
+  "field-service-management|q4|Perplexity|3",
+  "field-service-management|q5|ChatGPT|1",
+  "field-service-management|q5|ChatGPT|3",
+  "field-service-management|q5|Claude|1",
+  "field-service-management|q5|Claude|2",
+  "field-service-management|q5|Claude|3",
+  "field-service-management|q5|Google AI Mode|1",
+  "field-service-management|q5|Google AI Mode|3",
+  "field-service-management|q5|Google AI Overviews|1",
+  "field-service-management|q5|Google AI Overviews|2",
+  "field-service-management|q5|Google AI Overviews|3",
+  "field-service-management|q5|Perplexity|1",
+  "field-service-management|q5|Perplexity|2",
+  "field-service-management|q5|Perplexity|3",
+  "field-service-management|q6|ChatGPT|1",
+  "field-service-management|q6|ChatGPT|2",
+  "field-service-management|q6|ChatGPT|3",
+  "field-service-management|q6|Claude|1",
+  "field-service-management|q6|Claude|2",
+  "field-service-management|q6|Claude|3",
+  "field-service-management|q6|Google AI Mode|1",
+  "field-service-management|q6|Google AI Mode|2",
+  "field-service-management|q6|Google AI Mode|3",
+  "field-service-management|q6|Google AI Overviews|1",
+  "field-service-management|q6|Google AI Overviews|2",
+  "field-service-management|q6|Google AI Overviews|3",
+  "field-service-management|q6|Perplexity|1",
+  "field-service-management|q6|Perplexity|2",
+  "field-service-management|q6|Perplexity|3"
+ ],
+ "named_count": 58
+}

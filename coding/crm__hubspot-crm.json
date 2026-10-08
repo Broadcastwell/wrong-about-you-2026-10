@@ -1,0 +1,1129 @@
+{
+ "vendor": "HubSpot CRM",
+ "slug": "hubspot-crm",
+ "category": "crm",
+ "coded_at": "2026-10-08T04:27:27Z",
+ "pages_read": [
+  {
+   "url": "https://www.hubspot.com/pricing/sales",
+   "key": "99d5a60a1761b787",
+   "used_for": "pricing (thin: renders only the page title)"
+  },
+  {
+   "url": "https://www.hubspot.com/products/crm",
+   "key": "56dd59a52913c6c2",
+   "used_for": "product (free CRM, Smart CRM editions)"
+  },
+  {
+   "url": "https://hubspot.com/",
+   "key": "2180be0a6c146c9f",
+   "used_for": "home (product names, integrations count)"
+  },
+  {
+   "url": "https://www.hubspot.com/products/sales",
+   "key": "01d8d170c4d408c5",
+   "used_for": "product (Sales Hub editions and prices)"
+  },
+  {
+   "url": "https://www.hubspot.com/products/data",
+   "key": "fcee5eb27fc79c55",
+   "used_for": "product names (Data Hub, credits)"
+  },
+  {
+   "url": "https://www.sybill.ai/blogs/best-crm-tools",
+   "key": "33c54da24ec93fc0",
+   "used_for": "cause tracing (cited page)"
+  },
+  {
+   "url": "https://builts.ai/blog/best-crm-small-business-2026/",
+   "key": "10740b9e01bdb965",
+   "used_for": "cause tracing (cited page)"
+  },
+  {
+   "url": "https://www.sales-leads-crm.com/blog/best-alternatives-to-spreadsheets-for-customer-tracking/",
+   "key": "34bcb14dfa4f122f",
+   "used_for": "cause tracing (cited page)"
+  },
+  {
+   "url": "https://pipelinecrm.com/blog/best-sales-crm-software/",
+   "key": "cea2f322be28bd11",
+   "used_for": "cause tracing (cited page)"
+  },
+  {
+   "url": "https://www.brokenrubik.com/blog/crm-comparison-guide",
+   "key": "4040fe4d6f797572",
+   "used_for": "cause tracing (cited page; redirected to an unrelated NetSuite guide)"
+  },
+  {
+   "url": "https://www.hubspot.com/pricing/sales",
+   "key": "99d5a60a1761b787.browser",
+   "used_for": "pass 2 browser read of the Sales Hub pricing page (edition prices, onboarding fees, credits, seats)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Sales Hub Professional costs $90 per seat per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/pricing/sales",
+   "proof_quote": "Professional Comprehensive sales software to automate and scale your sales processes Starts at $90/mo/seat $100/mo/seat Billing period Pay Monthly Commit annually Pay Annually BEST VALUE",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page shows Professional 'Starts at $90/mo/seat' next to $100/mo/seat and the billing options, with Pay Annually marked best value; the $90 starting price matches and the annual qualifier is consistent with it and not contradicted.",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|1",
+     "quote": "HubSpot Sales Hub Professional currently starts at **$90 per seat/month billed annually**"
+    },
+    {
+     "record_id": "crm|1|ChatGPT|2",
+     "quote": "Sales Hub Professional currently starts at $90/seat/month billed annually, plus $1,500 in required onboarding."
+    },
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "Professional starts at **$90/seat/month billed annually**"
+    },
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "**HubSpot:** Professional starts at **$90**; Enterprise at **$150**, plus required one-time onboarding of **$1,500** or **$3,500**, respectively."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|3",
+     "quote": "**HubSpot Sales Hub Professional:** starts at **$90**, plus **$1,500 required one-time onboarding**."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|1",
+     "quote": "Sales Hub Professional starts at **$90/seat/month billed annually**, plus **$1,500 onboarding**."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "**Sales Hub Professional starts at $90**, plus **$1,500 required onboarding**"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|3",
+     "quote": "Sales Hub Professional currently starts at **$90/seat/month billed annually**, plus **$1,500 required onboarding**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Sales Hub Professional carries a required one-time onboarding fee of $1,500.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/pricing/sales",
+   "proof_quote": "*Cost shown does not include the required, one-time Professional Onboarding for a fee of $1,500.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page states a required, one-time Professional Onboarding fee of $1,500.",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|1",
+     "quote": "plus **$1,500 in required onboarding**"
+    },
+    {
+     "record_id": "crm|1|ChatGPT|2",
+     "quote": "Sales Hub Professional currently starts at $90/seat/month billed annually, plus $1,500 in required onboarding."
+    },
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "with a required **$1,500 onboarding fee**"
+    },
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "**HubSpot:** Professional starts at **$90**; Enterprise at **$150**, plus required one-time onboarding of **$1,500** or **$3,500**, respectively."
+    },
+    {
+     "record_id": "crm|3|ChatGPT|3",
+     "quote": "**HubSpot Sales Hub Professional:** starts at **$90**, plus **$1,500 required one-time onboarding**."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|1",
+     "quote": "Sales Hub Professional starts at **$90/seat/month billed annually**, plus **$1,500 onboarding**."
+    },
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "**Sales Hub Professional starts at $90**, plus **$1,500 required onboarding**"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|3",
+     "quote": "Sales Hub Professional currently starts at **$90/seat/month billed annually**, plus **$1,500 required onboarding**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Sales Hub Enterprise costs $150 per seat per month (stated as billed annually).",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/products/sales",
+   "proof_quote": "Enterprise Starts at $150/month per seat",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Sales Hub product page lists Enterprise at $150/month per seat, the same plan, amount and unit (the browser-read pricing page also shows 'Starts at $150/mo/seat'); no billing period contradicts the annual qualifier.",
+   "instances": [
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "**HubSpot:** Professional starts at **$90**; Enterprise at **$150**, plus required one-time onboarding of **$1,500** or **$3,500**, respectively."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Sales Hub Enterprise carries a required one-time onboarding fee of $3,500.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/pricing/sales",
+   "proof_quote": "*Cost shown does not include the required, one-time Enterprise Onboarding for a fee of $3,500.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page states a required, one-time Enterprise Onboarding fee of $3,500.",
+   "instances": [
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "**HubSpot:** Professional starts at **$90**; Enterprise at **$150**, plus required one-time onboarding of **$1,500** or **$3,500**, respectively."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Sales Hub Professional and Enterprise have required onboarding fees.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/pricing/sales",
+   "proof_quote": "*Cost shown does not include the required, one-time Professional Onboarding for a fee of $1,500.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page states a required one-time onboarding fee under Professional ($1,500) and under Enterprise ('the required, one-time Enterprise Onboarding for a fee of $3,500').",
+   "instances": [
+    {
+     "record_id": "crm|3|ChatGPT|1",
+     "quote": "Professional and Enterprise have required onboarding fees"
+    },
+    {
+     "record_id": "crm|3|ChatGPT|2",
+     "quote": "Sales Hub Professional and Enterprise have required onboarding fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Sales Hub Professional costs about $100 or more per user per month.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/products/sales",
+   "proof_quote": "Professional Starts at $100/month per seat",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Sales Hub product page lists Professional starting at $100/month per seat; neither the answer nor that page states a billing period (the pricing page shows $90 and $100 per seat by billing option, so about $100 holds).",
+   "instances": [
+    {
+     "record_id": "crm|5|Google AI Overviews|2",
+     "quote": "Free tier available; Pro jumps to ~$100+/user/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Paid HubSpot plans start at about $20 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page shows Sales Hub Starter at both '$7/mo/seat' and '$20/mo/seat' without saying which is the new-customer discount or which billing period applies, and the CRM page shows Smart CRM Starter from $15/month per seat under a new-customer discount, so the lowest regular paid price is not settled like with like.",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "Free (paid from ~$20/user/mo)"
+    },
+    {
+     "record_id": "crm|6|Claude|1",
+     "quote": "Free / $20+ per user/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "HubSpot Professional costs $25 to $75 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The answer does not say which Professional product it prices; the pages show Sales Hub Professional from $90 to $100 per seat per month and Smart CRM Professional from $50/month per seat, so the range is neither confirmed nor contradicted for a named plan.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "$25–$75/user/month for the growing mid-market (HubSpot Professional)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Paid plans are priced per seat (per user), so cost rises with seats.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/products/sales",
+   "proof_quote": "Professional Starts at $100/month per seat",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Sales Hub product page prices Starter, Professional and Enterprise per seat per month (the browser-read pricing page FAQ also says 'Paid Sales Hub plans are priced per seat').",
+   "instances": [
+    {
+     "record_id": "crm|1|Claude|1",
+     "quote": "Total cost rises as the team adds seats, hubs, automation, reporting, and credits."
+    },
+    {
+     "record_id": "crm|1|Claude|2",
+     "quote": "Total cost rises as the team adds seats, hubs, automation, reporting, and credits."
+    },
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "The pricing model can get steep as you scale, with significant \"per seat\" costs at the Enterprise tier."
+    },
+    {
+     "record_id": "crm|5|Google AI Mode|2",
+     "quote": "Free tier available; paid plans scale up per user"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Usage credits add to HubSpot's cost on top of seats.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/pricing/sales",
+   "proof_quote": "You can choose when and how to add HubSpot Credits to your account at $0.010 per credit.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page says paid plans include a monthly credit allotment and further HubSpot Credits are bought at $0.010 per credit (in packs or pay-as-you-go), so added credits add to cost.",
+   "instances": [
+    {
+     "record_id": "crm|1|Claude|1",
+     "quote": "Total cost rises as the team adds seats, hubs, automation, reporting, and credits."
+    },
+    {
+     "record_id": "crm|1|Claude|2",
+     "quote": "Total cost rises as the team adds seats, hubs, automation, reporting, and credits."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Ten Sales Hub Professional seats cost about $12,300 in the first year including onboarding.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/pricing/sales",
+   "proof_quote": "Starts at $90/mo/seat $100/mo/seat Billing period Pay Monthly Commit annually Pay Annually BEST VALUE Buy now Talk to Sales 3,000 HubSpot Credits See Details *Cost shown does not include the required, one-time Professional Onboarding for a fee of $1,500.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Arithmetic on the browser-read pricing page's own figures: 10 seats x $90 x 12 months = $10,800, plus the required $1,500 Professional Onboarding, is $12,300, the answer's approximate figure at the starting seat price.",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|2",
+     "quote": "For 10 paid sales seats, that’s approximately **$12,300 in the first year**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "free_tier",
+   "claim": "HubSpot offers a free CRM (a permanent free tier, not a time-limited trial).",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/products/crm",
+   "proof_quote": "And unlike a free trial, it's 100% free with no expiration date.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The CRM product page states the free CRM is 100% free with no expiration date, and the Sales Hub page lists a Free edition at $0/month.",
+   "instances": [
+    {
+     "record_id": "crm|1|ChatGPT|3",
+     "quote": "not just because its free CRM looks attractive"
+    },
+    {
+     "record_id": "crm|1|Claude|1",
+     "quote": "HubSpot has the strongest permanent free CRM for most B2B sales teams."
+    },
+    {
+     "record_id": "crm|1|Claude|2",
+     "quote": "HubSpot has the strongest permanent free CRM for most B2B sales teams."
+    },
+    {
+     "record_id": "crm|1|Claude|3",
+     "quote": "HubSpot has the strongest permanent free CRM for most B2B sales teams."
+    },
+    {
+     "record_id": "crm|2|Claude|1",
+     "quote": "SMBs and mid-market teams that want an all-in-one sales and marketing platform with a generous free tier."
+    },
+    {
+     "record_id": "crm|2|Perplexity|1",
+     "quote": "scales from free/basic use into automation and marketing integration"
+    },
+    {
+     "record_id": "crm|3|Claude|1",
+     "quote": "HubSpot's free CRM is a great starting point, but its true power comes with paid add-ons for marketing, sales, and service."
+    },
+    {
+     "record_id": "crm|3|Claude|3",
+     "quote": "HubSpot's free CRM is a great starting point"
+    },
+    {
+     "record_id": "crm|5|ChatGPT|2",
+     "quote": "Offers an entry point through free/Starter tools"
+    },
+    {
+     "record_id": "crm|5|Claude|1",
+     "quote": "HubSpot made \"freemium\" work at scale"
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "HubSpot made \"freemium\" work at scale."
+    },
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "While HubSpot offers a free CRM with solid contact and pipeline management"
+    },
+    {
+     "record_id": "crm|5|Google AI Mode|1",
+     "quote": "HubSpot starts with a very friendly free tier and scales smoothly into robust Sales Hub tiers."
+    },
+    {
+     "record_id": "crm|5|Google AI Mode|2",
+     "quote": "Free tier available; paid plans scale up per user"
+    },
+    {
+     "record_id": "crm|5|Google AI Mode|3",
+     "quote": "Starting from a user-friendly free tier, you can scale up into paid tiers"
+    },
+    {
+     "record_id": "crm|5|Google AI Overviews|2",
+     "quote": "Free tier available; Pro jumps to ~$100+/user/mo"
+    },
+    {
+     "record_id": "crm|5|Google AI Overviews|3",
+     "quote": "Robust free-to-paid tiers allow smooth feature upgrading."
+    },
+    {
+     "record_id": "crm|5|Perplexity|1",
+     "quote": "Free CRM tools, solid scalability, and broad ecosystem depth"
+    },
+    {
+     "record_id": "crm|5|Perplexity|2",
+     "quote": "is a strong choice if you want a **free starting point** with room to grow"
+    },
+    {
+     "record_id": "crm|5|Perplexity|3",
+     "quote": "is a strong choice if you want a **free starting point** with room to grow"
+    },
+    {
+     "record_id": "crm|6|Claude|1",
+     "quote": "It offers the strongest free tier (unlimited contacts, deal pipeline, email tracking)"
+    },
+    {
+     "record_id": "crm|6|Claude|2",
+     "quote": "It offers the strongest free tier (unlimited contacts, deal pipeline, email tracking)"
+    },
+    {
+     "record_id": "crm|6|Claude|3",
+     "quote": "It offers the strongest free tier (unlimited contacts, deal pipeline, email tracking)"
+    },
+    {
+     "record_id": "crm|6|Google AI Mode|2",
+     "quote": "scales smoothly from a robust free tier to powerful marketing, sales, and service hubs"
+    },
+    {
+     "record_id": "crm|6|Google AI Mode|3",
+     "quote": "User-friendly UI, exceptional free tier, and cohesive marketing/sales alignment | Free base tier"
+    },
+    {
+     "record_id": "crm|6|Google AI Overviews|2",
+     "quote": "Why it works: Offers a generous free tier, seamless email integration, and easy visual pipeline tracking."
+    },
+    {
+     "record_id": "crm|6|Google AI Overviews|3",
+     "quote": "Why it works: Generous free tier and robust scaling."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "free_tier",
+   "claim": "HubSpot's free CRM supports up to 1,000,000 contacts.",
+   "class": "wrong",
+   "proof_url": "https://www.hubspot.com/products/crm",
+   "proof_quote": "With up to two users, 1,000 contacts, and no limits on customer data, HubSpot’s free CRM functionality is 100% free, with no expiration date.",
+   "stale_change": null,
+   "causing_url": "https://www.sybill.ai/blogs/best-crm-tools",
+   "causing_type": "other",
+   "causing_quote": "Its free CRM supports up to 1,000,000 contacts",
+   "rationale": "The CRM product page limits the free CRM to up to two users and 1,000 contacts, which contradicts 1,000,000 contacts for the same free plan; no page read dates a change to the limit. Pass 2 check: explicit on HubSpot's own page and like with like (the free plan's contact limit).",
+   "instances": [
+    {
+     "record_id": "crm|5|Claude|1",
+     "quote": "its free CRM supports up to 1,000,000 contacts"
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "Its free CRM supports up to 1,000,000 contacts"
+    },
+    {
+     "record_id": "crm|5|Claude|3",
+     "quote": "Its free CRM supports up to 1,000,000 contacts"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "free_tier",
+   "claim": "HubSpot's free tier includes unlimited contacts.",
+   "class": "wrong",
+   "proof_url": "https://www.hubspot.com/products/crm",
+   "proof_quote": "With up to two users, 1,000 contacts, and no limits on customer data, HubSpot’s free CRM functionality is 100% free, with no expiration date.",
+   "stale_change": null,
+   "causing_url": "https://pipelinecrm.com/blog/best-sales-crm-software/",
+   "causing_type": "other",
+   "causing_quote": "Free CRM tier with unlimited contacts and 2 free Sales Hub users",
+   "rationale": "The CRM product page limits the free CRM to 1,000 contacts, which contradicts unlimited contacts on the same free plan; no page read dates a change to the limit. Pass 2 check: explicit on HubSpot's own page and like with like (the free plan's contact limit).",
+   "instances": [
+    {
+     "record_id": "crm|6|Claude|1",
+     "quote": "It offers the strongest free tier (unlimited contacts, deal pipeline, email tracking)"
+    },
+    {
+     "record_id": "crm|6|Claude|2",
+     "quote": "It offers the strongest free tier (unlimited contacts, deal pipeline, email tracking)"
+    },
+    {
+     "record_id": "crm|6|Claude|3",
+     "quote": "It offers the strongest free tier (unlimited contacts, deal pipeline, email tracking)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "plans",
+   "claim": "Custom objects are included in Sales Hub Enterprise.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/products/sales",
+   "proof_quote": "With custom objects (available in the enterprise edition of Sales Hub)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Sales Hub product page states custom objects are available in the Enterprise edition.",
+   "instances": [
+    {
+     "record_id": "crm|2|ChatGPT|1",
+     "quote": "Custom objects, configurable pipelines, and forecasting by deal stage, category, and team."
+    },
+    {
+     "record_id": "crm|2|ChatGPT|2",
+     "quote": "It supports custom objects and custom-object pipelines"
+    },
+    {
+     "record_id": "crm|2|ChatGPT|3",
+     "quote": "Enterprise includes custom objects and deal approvals"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "plans",
+   "claim": "Sales Hub Enterprise supports custom-object pipelines.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Enterprise card lists custom objects and managing complex pipelines but no page read mentions pipelines on custom objects; the browser-read pricing page shows edition cards without feature lists.",
+   "instances": [
+    {
+     "record_id": "crm|2|ChatGPT|2",
+     "quote": "It supports custom objects and custom-object pipelines"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "plans",
+   "claim": "Deal approvals are included in Sales Hub Enterprise.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions deal approvals or assigns them to an edition; the browser-read pricing page shows edition cards without feature lists.",
+   "instances": [
+    {
+     "record_id": "crm|2|ChatGPT|3",
+     "quote": "Enterprise includes custom objects and deal approvals"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "Sales forecasting is available in Sales Hub Professional and Enterprise, not the entry-level plans.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Sales Hub page lists Forecasting as a feature but its edition cards do not say which editions include it, and the browser-read pricing page shows edition cards without feature lists.",
+   "instances": [
+    {
+     "record_id": "crm|2|ChatGPT|3",
+     "quote": "forecasting is available in Professional and Enterprise"
+    },
+    {
+     "record_id": "crm|7|ChatGPT|1",
+     "quote": "Sales forecasting and custom reporting require Professional or Enterprise rather than the entry-level sales plans"
+    },
+    {
+     "record_id": "crm|7|ChatGPT|2",
+     "quote": "Forecasting is available in Professional/Enterprise"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "plans",
+   "claim": "Advanced forecasting features require the Professional plan or above.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read assigns forecasting features to an edition; the browser-read pricing page shows edition cards without feature lists.",
+   "instances": [
+    {
+     "record_id": "crm|7|Claude|1",
+     "quote": "The advanced forecasting features require the Professional plan and above."
+    },
+    {
+     "record_id": "crm|7|Claude|2",
+     "quote": "The advanced forecasting features require the Professional plan and above."
+    },
+    {
+     "record_id": "crm|7|Claude|3",
+     "quote": "Advanced forecasting features require the Professional plan and above."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "plans",
+   "claim": "Custom reporting requires Professional or Enterprise, not the entry-level plans.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/products/crm",
+   "proof_quote": "Professional Starts at $50/month per seat Popular features Everything in Starter AI customer agent Duplicate management Standard contact scoring Calculated properties Custom reporting",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The CRM product page adds Custom reporting at the Professional edition, after Free and Starter, matching the claim that custom reporting starts at Professional.",
+   "instances": [
+    {
+     "record_id": "crm|7|ChatGPT|1",
+     "quote": "Sales forecasting and custom reporting require Professional or Enterprise rather than the entry-level sales plans"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "plans",
+   "claim": "Team-hierarchy forecasting is an Enterprise feature.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions team-hierarchy forecasting or its edition.",
+   "instances": [
+    {
+     "record_id": "crm|7|ChatGPT|2",
+     "quote": "team-hierarchy forecasting is listed for Enterprise"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "plans",
+   "claim": "Revenue attribution reporting is available only at higher tiers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions attribution reporting or its edition.",
+   "instances": [
+    {
+     "record_id": "crm|7|Claude|1",
+     "quote": "revenue attribution reporting is available at higher tiers"
+    },
+    {
+     "record_id": "crm|7|Claude|2",
+     "quote": "Revenue attribution reporting is available at higher tiers."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "plans",
+   "claim": "Advanced multi-touch attribution requires Enterprise plans.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions multi-touch attribution or its edition.",
+   "instances": [
+    {
+     "record_id": "crm|7|Google AI Mode|1",
+     "quote": "Advanced multi-touch attribution and deep custom forecasting views are locked behind higher-tier (and costly) Enterprise plans."
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "plans",
+   "claim": "Advanced custom forecasting requires the Enterprise tier.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Enterprise card lists advanced analytics and reporting but no page read assigns forecasting to an edition.",
+   "instances": [
+    {
+     "record_id": "crm|7|Google AI Mode|1",
+     "quote": "Advanced multi-touch attribution and deep custom forecasting views are locked behind higher-tier (and costly) Enterprise plans."
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|3",
+     "quote": "advanced custom forecasting and multi-object reporting require costly enterprise tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "plans",
+   "claim": "Advanced multi-object custom reporting requires Enterprise plans.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Enterprise card lists advanced analytics and reporting, while the CRM page already lists custom reporting at Professional; no page read says multi-object reporting needs Enterprise.",
+   "instances": [
+    {
+     "record_id": "crm|7|Google AI Mode|3",
+     "quote": "advanced custom forecasting and multi-object reporting require costly enterprise tiers"
+    },
+    {
+     "record_id": "crm|7|Google AI Overviews|1",
+     "quote": "advanced multi-object custom reporting requires higher-tier enterprise plans"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "plans",
+   "claim": "Advanced reporting and advanced (custom) sales automation sit in higher paid tiers (Professional or Enterprise).",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/products/sales",
+   "proof_quote": "Customize sales workflows and sequences Record and transcribe calls Enterprise Starts at $150/month per seat Create custom objects for unique processes Manage complex pipelines Advanced analytics and reporting",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Sales Hub edition cards add customized workflows and sequences at Professional and advanced analytics and reporting at Enterprise, above Free and Starter (the CRM page likewise adds the AI customer agent at Professional, while the free CRM has only basic AI tools).",
+   "instances": [
+    {
+     "record_id": "crm|2|Google AI Mode|1",
+     "quote": "Advanced custom reporting and multi-step custom workflows require higher, costly enterprise/professional tiers."
+    },
+    {
+     "record_id": "crm|6|ChatGPT|1",
+     "quote": "Advanced sales automation and reporting sit in higher tiers."
+    },
+    {
+     "record_id": "crm|5|Google AI Mode|2",
+     "quote": "its paid tiers offer advanced sequence automation, forecasting, and reporting as your headcount expands."
+    },
+    {
+     "record_id": "crm|5|Claude|1",
+     "quote": "Advanced automation and AI features require paid upgrades that can get expensive quickly."
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "product_names",
+   "claim": "HubSpot's CRM product is named Smart CRM.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/",
+   "proof_quote": "Smart CRM ™ All your customer data in one place.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists Smart CRM among HubSpot's products.",
+   "instances": [
+    {
+     "record_id": "crm|2|Claude|1",
+     "quote": "unifies marketing automation, sales CRM, and service tools on a single Smart CRM foundation"
+    },
+    {
+     "record_id": "crm|2|Claude|2",
+     "quote": "unifies marketing automation, sales CRM, and service tools on a single Smart CRM foundation"
+    },
+    {
+     "record_id": "crm|3|Google AI Mode|1",
+     "quote": "HubSpot (Smart CRM)"
+    },
+    {
+     "record_id": "crm|3|Google AI Overviews|1",
+     "quote": "HubSpot Smart CRM: Best for combining sales, marketing, and customer service"
+    },
+    {
+     "record_id": "crm|3|Perplexity|2",
+     "quote": "**HubSpot Sales Hub / Smart CRM**"
+    },
+    {
+     "record_id": "crm|6|Google AI Mode|3",
+     "quote": "HubSpot Smart CRM | SMBs and scaling revenue teams"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "product_names",
+   "claim": "HubSpot has a product named Marketing Hub.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/",
+   "proof_quote": "Marketing Hub ® Attract and convert the right leads.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists Marketing Hub.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "its Sales, Marketing, Service, Operations, and Content Hubs"
+    },
+    {
+     "record_id": "crm|5|Claude|1",
+     "quote": "Where HubSpot really shines is the integration between its Sales Hub, Marketing Hub, Service Hub, and Content Hub."
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "Where HubSpot really shines is the integration between its Sales Hub, Marketing Hub, Service Hub, and Content Hub."
+    },
+    {
+     "record_id": "crm|7|Google AI Mode|3",
+     "quote": "HubSpot (Marketing & Sales Hubs)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "product_names",
+   "claim": "HubSpot has a product named Service Hub.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/",
+   "proof_quote": "Service Hub ® Streamline and scale support to serve customers faster.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists Service Hub.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "its Sales, Marketing, Service, Operations, and Content Hubs"
+    },
+    {
+     "record_id": "crm|5|Claude|1",
+     "quote": "Where HubSpot really shines is the integration between its Sales Hub, Marketing Hub, Service Hub, and Content Hub."
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "Where HubSpot really shines is the integration between its Sales Hub, Marketing Hub, Service Hub, and Content Hub."
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "product_names",
+   "claim": "HubSpot has a product named Content Hub.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/",
+   "proof_quote": "Content Hub ™ Create content that clicks with your audience.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists Content Hub.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "its Sales, Marketing, Service, Operations, and Content Hubs"
+    },
+    {
+     "record_id": "crm|5|Claude|1",
+     "quote": "Where HubSpot really shines is the integration between its Sales Hub, Marketing Hub, Service Hub, and Content Hub."
+    },
+    {
+     "record_id": "crm|5|Claude|2",
+     "quote": "Where HubSpot really shines is the integration between its Sales Hub, Marketing Hub, Service Hub, and Content Hub."
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "product_names",
+   "claim": "HubSpot has a product named Operations Hub.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home and product pages list Marketing, Sales, Service, Content, Data, Revenue and Agent Hubs and no Operations Hub, but no page read documents a rename or retirement, so neither wrong nor stale can be shown from the vendor's own text.",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "its Sales, Marketing, Service, Operations, and Content Hubs"
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "product_names",
+   "claim": "HubSpot's AI is named Breeze.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/products/crm",
+   "proof_quote": "Breeze Assistant Use HubSpot’s AI-powered assistant to research companies, prep for sales calls, summarize CRM records, and more.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The CRM product page names HubSpot's AI-powered assistant Breeze Assistant (and the Sales Hub page names the Breeze Prospecting Agent).",
+   "instances": [
+    {
+     "record_id": "crm|3|Claude|2",
+     "quote": "its embedded Breeze AI engine automatically enriches contact records, drafts content, and scores leads"
+    },
+    {
+     "record_id": "crm|7|Google AI Overviews|3",
+     "quote": "Forecasting: Powered by Breeze AI; clean revenue and deal-stage tracking without heavy setup."
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "integrations",
+   "claim": "HubSpot integrates with hundreds of other business tools.",
+   "class": "true",
+   "proof_url": "https://www.hubspot.com/",
+   "proof_quote": "Works with the tools you already use. 2,000+ integrations.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states 2,000+ integrations, which satisfies hundreds as a lower bound.",
+   "instances": [
+    {
+     "record_id": "crm|5|Google AI Mode|1",
+     "quote": "it integrates seamlessly with hundreds of other business tools"
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "plans",
+   "claim": "Forecasting is offered in HubSpot's paid tiers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Split from a plan-inclusion line whose automation and reporting parts are C26: the Sales Hub page lists Forecasting as a feature but no page read assigns it to an edition, and the browser-read pricing page shows edition cards without feature lists.",
+   "instances": [
+    {
+     "record_id": "crm|5|Google AI Mode|2",
+     "quote": "its paid tiers offer advanced sequence automation, forecasting, and reporting as your headcount expands."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Pass 1: five own pages read, all HTTP 200; the Sales Hub pricing page (key 99d5a60a1761b787) rendered only its title in the fetch. Names: HubSpot and HubSpot Sales Hub are the vendor's names (aliases) and were not coded; lowercase phrases such as \"marketing, sales, and service hubs\" were treated as descriptions. Hedged lines (can, often, generally) were not coded. Cause pages: sybill.ai carries the 1,000,000 contacts line; pipelinecrm.com carries the unlimited contacts line; sales-leads-crm.com and builts.ai do not carry either line as current (builts.ai says the free tier once had unlimited contacts and changed in 2026, but no HubSpot page dates the change); the brokenrubik.com URL redirected to an unrelated NetSuite guide. Pass 2 (8 Oct): the pricing page was read once in a real browser. It shows Starter '$7/mo/seat' and '$20/mo/seat', Professional '$90/mo/seat' and '$100/mo/seat' with billing options (Pay Monthly, Commit annually, Pay Annually marked best value), Enterprise '$150/mo/seat', required one-time onboarding of $1,500 (Professional) and $3,500 (Enterprise), included credits and extra credits at $0.010 each; edition feature lists sit behind 'See Details' and are not in the snapshot. Re-classed to true: C01, C02, C04, C05, C10, C11. C07 stays unverifiable (two unlabelled Starter prices). Consistency check: C13 and C14 stay wrong; the CRM page's free-plan limit (two users, 1,000 contacts) is explicit and like with like. Added: C34 (forecasting in paid tiers, split from the crm|5|Google AI Mode|2 line whose automation and reporting parts join C26) and the crm|5|Claude|1 'paid upgrades' line as a C26 instance; other gap and table lines are already covered from the same answers (C01, C08, C12) or are fit judgments, ratings or features. Reviewer: look first at C01 and C11, which read the $90 figure as the annual 'starts at' price because the snapshot text does not label which of $90 and $100 belongs to which billing option.",
+ "answer_record_ids": [
+  "crm|1|ChatGPT|1",
+  "crm|1|ChatGPT|2",
+  "crm|1|ChatGPT|3",
+  "crm|1|Claude|1",
+  "crm|1|Claude|2",
+  "crm|1|Claude|3",
+  "crm|1|Google AI Mode|1",
+  "crm|1|Google AI Mode|2",
+  "crm|1|Google AI Mode|3",
+  "crm|1|Google AI Overviews|1",
+  "crm|1|Google AI Overviews|2",
+  "crm|1|Google AI Overviews|3",
+  "crm|1|Perplexity|1",
+  "crm|1|Perplexity|2",
+  "crm|1|Perplexity|3",
+  "crm|10|ChatGPT|1",
+  "crm|10|ChatGPT|2",
+  "crm|10|ChatGPT|3",
+  "crm|10|Google AI Mode|1",
+  "crm|10|Google AI Mode|2",
+  "crm|10|Google AI Mode|3",
+  "crm|10|Google AI Overviews|1",
+  "crm|10|Google AI Overviews|2",
+  "crm|10|Perplexity|1",
+  "crm|2|ChatGPT|1",
+  "crm|2|ChatGPT|2",
+  "crm|2|ChatGPT|3",
+  "crm|2|Claude|1",
+  "crm|2|Claude|2",
+  "crm|2|Claude|3",
+  "crm|2|Google AI Mode|1",
+  "crm|2|Google AI Mode|2",
+  "crm|2|Google AI Mode|3",
+  "crm|2|Google AI Overviews|1",
+  "crm|2|Google AI Overviews|2",
+  "crm|2|Google AI Overviews|3",
+  "crm|2|Perplexity|1",
+  "crm|2|Perplexity|2",
+  "crm|2|Perplexity|3",
+  "crm|3|ChatGPT|1",
+  "crm|3|ChatGPT|2",
+  "crm|3|ChatGPT|3",
+  "crm|3|Claude|1",
+  "crm|3|Claude|2",
+  "crm|3|Claude|3",
+  "crm|3|Google AI Mode|1",
+  "crm|3|Google AI Mode|2",
+  "crm|3|Google AI Mode|3",
+  "crm|3|Google AI Overviews|1",
+  "crm|3|Google AI Overviews|2",
+  "crm|3|Google AI Overviews|3",
+  "crm|3|Perplexity|1",
+  "crm|3|Perplexity|2",
+  "crm|3|Perplexity|3",
+  "crm|4|Claude|1",
+  "crm|4|Claude|2",
+  "crm|4|Claude|3",
+  "crm|4|Perplexity|3",
+  "crm|5|ChatGPT|1",
+  "crm|5|ChatGPT|2",
+  "crm|5|ChatGPT|3",
+  "crm|5|Claude|1",
+  "crm|5|Claude|2",
+  "crm|5|Claude|3",
+  "crm|5|Google AI Mode|1",
+  "crm|5|Google AI Mode|2",
+  "crm|5|Google AI Mode|3",
+  "crm|5|Google AI Overviews|2",
+  "crm|5|Google AI Overviews|3",
+  "crm|5|Perplexity|1",
+  "crm|5|Perplexity|2",
+  "crm|5|Perplexity|3",
+  "crm|6|ChatGPT|1",
+  "crm|6|ChatGPT|2",
+  "crm|6|ChatGPT|3",
+  "crm|6|Claude|1",
+  "crm|6|Claude|2",
+  "crm|6|Claude|3",
+  "crm|6|Google AI Mode|1",
+  "crm|6|Google AI Mode|2",
+  "crm|6|Google AI Mode|3",
+  "crm|6|Google AI Overviews|1",
+  "crm|6|Google AI Overviews|2",
+  "crm|6|Google AI Overviews|3",
+  "crm|6|Perplexity|1",
+  "crm|6|Perplexity|2",
+  "crm|6|Perplexity|3",
+  "crm|7|ChatGPT|1",
+  "crm|7|ChatGPT|2",
+  "crm|7|ChatGPT|3",
+  "crm|7|Claude|1",
+  "crm|7|Claude|2",
+  "crm|7|Claude|3",
+  "crm|7|Google AI Mode|1",
+  "crm|7|Google AI Mode|2",
+  "crm|7|Google AI Mode|3",
+  "crm|7|Google AI Overviews|1",
+  "crm|7|Google AI Overviews|2",
+  "crm|7|Google AI Overviews|3",
+  "crm|7|Perplexity|1",
+  "crm|7|Perplexity|2",
+  "crm|7|Perplexity|3",
+  "crm|8|ChatGPT|1",
+  "crm|8|ChatGPT|2",
+  "crm|8|ChatGPT|3",
+  "crm|8|Claude|1",
+  "crm|8|Claude|2",
+  "crm|8|Claude|3",
+  "crm|8|Google AI Mode|1",
+  "crm|8|Google AI Mode|3",
+  "crm|8|Google AI Overviews|3",
+  "crm|8|Perplexity|2",
+  "crm|8|Perplexity|3"
+ ],
+ "named_count": 113
+}

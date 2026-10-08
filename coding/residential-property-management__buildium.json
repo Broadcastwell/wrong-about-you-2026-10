@@ -1,0 +1,3240 @@
+{
+ "vendor": "Buildium",
+ "slug": "buildium",
+ "category": "residential-property-management",
+ "coded_at": "2026-10-08T04:07:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.buildium.com/pricing/",
+   "key": "cf83c3500506a49f",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.buildium.com/",
+   "key": "57f1ba05a7af81da",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.buildium.com/marketplace/",
+   "key": "88cd211b8fec4a87",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://www.buildium.com/portfolios/residential-property-management/",
+   "key": "18e3cb42fa271623",
+   "used_for": "product (residential)"
+  },
+  {
+   "url": "https://www.buildium.com/features/ai-property-management-software/",
+   "key": "e4a3b38432914da2",
+   "used_for": "product (Lumina AI)"
+  },
+  {
+   "url": "https://www.buildium.com/features/rental-listing-syndication/",
+   "key": "94368e8f85942e44",
+   "used_for": "integrations (listing syndication)"
+  },
+  {
+   "url": "https://www.buildium.com/features/property-management-accounting/",
+   "key": "2663f4365ff8515a",
+   "used_for": "product (accounting)"
+  },
+  {
+   "url": "https://lula.life/articles/best-property-management-software",
+   "key": "369234200923a1ed",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://www.yardibreeze.com/blog/2026/03/best-property-management-software-50-units/",
+   "key": "1aa6f4fe45193822",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://www.turbotenant.com/property-management-software/best-property-management-software-for-small-landlords/",
+   "key": "ee5ae14fd8668af5",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://www.doorloop.com/blog/small-landlord-property-management-software",
+   "key": "8227da6d7d4beeab",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://www.shukrentals.com/learn/property-management-software-for-small-landlords",
+   "key": "4b53d25f0a621c49",
+   "used_for": "cause tracing (cited page, not own)"
+  },
+  {
+   "url": "https://www.leasense.com/blog/buildium-vs-appfolio-comparison-2026",
+   "key": "9926e92e088f082c",
+   "used_for": "cause tracing (cited page, not own)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Essential plan starts at $62 per month.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Essential starting at $62/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Essential starting at $62 per month.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|1",
+     "quote": "Essential starts at $62/month; Growth at $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|2",
+     "quote": "Essential starts at $62/month; Growth at $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|3",
+     "quote": "Essential starts at $62/month and Growth at $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "Essential plan is $62/month, Growth is $192/month, Premium is $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "its Essential plan starts at $62/month"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "Pricing tiers: Essential ~$62/month, Growth ~$192/month, Premium ~$400/month."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "Tiers are: Essential at $62/month, Growth at $192/month, and Premium at $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "Pricing: Essential $62/month, Growth $192/month, Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Essential starts at $62/month, Growth at $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "Essential starts at $62/month, Growth at $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "Advertised starting prices: Essential $62/month; Growth $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "Buildium uses flat monthly tiers starting at $62 with no unit minimum."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "Plans currently start at $62/month Essential, $192 Growth, and $400 Premium."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Essential starts at $62/month, Growth $192/month, Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Essential starts at $62/month, Growth $192/month, and Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "Buildium Essential starts at $62/month, with Growth at $192/month and a premium tier at $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "Small-to-mid companies (50–500 units) | $62/month"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "Small-to-mid, residential | $62/month"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Overviews|1",
+     "quote": "Starting Price: Around $62/month (usage-based)."
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Overviews|3",
+     "quote": "flexible tools for mixed portfolios starting around $62/month"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "Starts at $62/month; Growth at $192, Premium at $400."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|2",
+     "quote": "Plans start at $62/month"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "Plans start at $62/month, with Growth at $192 and Premium at $400."
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|2",
+     "quote": "Buildium's pricing starts at $62/month for the Essential plan"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|3",
+     "quote": "Mid-size residential | ~$62/mo"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|1",
+     "quote": "Mid-sized residential books | $62/month"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|2",
+     "quote": "Mid-sized residential teams | $62 – $400/mo"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Essential starts at $62/month, Growth $192/month, Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Essential starts at $62/month, Growth at $192, Premium at $400."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Essential starts at $62/month, Growth $192/month, Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Buildium starts at $62/month but has hidden fees for transactions and e-signing."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|1",
+     "quote": "Plans start with Essential (around $62/month), Growth (starts around $192/month), and Premium (starts around $400/month)."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Essential starts around $62/mo, Growth around $192/mo, and Premium around $400/mo"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "Transparent, tier-based pricing structure starting around $62/month for Essential, $192/month for Growth, and $400/month for Premium."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|1",
+     "quote": "Publicly published pricing starting around $62 per month with no minimum unit threshold."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|2",
+     "quote": "Publishes starting prices openly (plans begin around $62/month)"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|1",
+     "quote": "Buildium publishes starting plans beginning at $62/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|3",
+     "quote": "it starts around $62/month in Buildium's materials"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Essential starts at $62/month; Growth $192; Premium $400."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Essential from $62/month; Growth from $192; Premium from $400."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Essential $62/month; Growth $192/month; Premium $400/month, all starting prices."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "Starts at $62/month for the Essential plan, scaling up to Growth ($192/mo) and Premium ($400/mo) tiers"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Starts around $62/month for the Essential plan, scaling up to $192/month (Growth) and $400/month (Premium)."
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|2",
+     "quote": "Buildium uses tiered subscription pricing starting around $62/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|3",
+     "quote": "Tiered plans from $62 to $375+ per month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "Flat monthly tiers starting at $62/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|2",
+     "quote": "Buildium starts at $62/month with a 14-day free trial"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|3",
+     "quote": "Buildium pricing starts at $62/month on the Essential plan"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "The Growth plan starts at $192 per month.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Growth starting at $192/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Growth starting at $192 per month.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|1",
+     "quote": "Essential starts at $62/month; Growth at $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|2",
+     "quote": "Essential starts at $62/month; Growth at $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|3",
+     "quote": "Essential starts at $62/month and Growth at $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "Essential plan is $62/month, Growth is $192/month, Premium is $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "Pricing: Essential at $62/month, Growth at $192/month, Premium at $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "Plans run $62 (Essential), $192 (Growth), and $400 (Premium) per month"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Essential starts at $62/month, Growth at $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "Essential starts at $62/month, Growth at $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "Advertised starting prices: Essential $62/month; Growth $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "Pricing tiers: Essential ~$62/month, Growth ~$192/month, Premium ~$400/month."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "Tiers are: Essential at $62/month, Growth at $192/month, and Premium at $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "Plans currently start at $62/month Essential, $192 Growth, and $400 Premium."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Essential starts at $62/month, Growth $192/month, Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Essential starts at $62/month, Growth $192/month, and Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "Buildium Essential starts at $62/month, with Growth at $192/month and a premium tier at $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "The Essential Plan starts at $62/month for basic features, and the Growth Plan begins at $192/month. The Premium Plan includes more advanced features and begins at $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "The Essential Plan starts at $62/month for basic features, the Growth Plan begins at $192/month, and the Premium Plan begins at $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "Starts at $62/month; Growth at $192, Premium at $400."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "Plans start at $62/month, with Growth at $192 and Premium at $400."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Essential starts at $62/month, Growth $192/month, Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Essential starts at $62/month, Growth at $192, Premium at $400."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Essential starts at $62/month, Growth $192/month, Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|1",
+     "quote": "Plans start with Essential (around $62/month), Growth (starts around $192/month), and Premium (starts around $400/month)."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Essential starts around $62/mo, Growth around $192/mo, and Premium around $400/mo"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "Transparent, tier-based pricing structure starting around $62/month for Essential, $192/month for Growth, and $400/month for Premium."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Essential starts at $62/month; Growth $192; Premium $400."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Essential from $62/month; Growth from $192; Premium from $400."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Essential $62/month; Growth $192/month; Premium $400/month, all starting prices."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "Starts at $62/month for the Essential plan, scaling up to Growth ($192/mo) and Premium ($400/mo) tiers"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Starts around $62/month for the Essential plan, scaling up to $192/month (Growth) and $400/month (Premium)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The Premium plan starts at $400 per month.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Premium starting at $400/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Premium starting at $400 per month.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "Essential plan is $62/month, Growth is $192/month, Premium is $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "Pricing: Essential at $62/month, Growth at $192/month, Premium at $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "Plans run $62 (Essential), $192 (Growth), and $400 (Premium) per month"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "Pricing tiers: Essential ~$62/month, Growth ~$192/month, Premium ~$400/month."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "Tiers are: Essential at $62/month, Growth at $192/month, and Premium at $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "Plans currently start at $62/month Essential, $192 Growth, and $400 Premium."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Essential starts at $62/month, Growth $192/month, Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Essential starts at $62/month, Growth $192/month, and Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "Buildium Essential starts at $62/month, with Growth at $192/month and a premium tier at $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|2",
+     "quote": "The Premium Plan includes more advanced features and begins at $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "the Growth Plan begins at $192/month, and the Premium Plan begins at $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "Starts at $62/month; Growth at $192, Premium at $400."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "Plans start at $62/month, with Growth at $192 and Premium at $400."
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|2",
+     "quote": "Mid-sized residential teams | $62 – $400/mo"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Essential starts at $62/month, Growth $192/month, Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Essential starts at $62/month, Growth at $192, Premium at $400."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Essential starts at $62/month, Growth $192/month, Premium $400/month."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|1",
+     "quote": "Plans start with Essential (around $62/month), Growth (starts around $192/month), and Premium (starts around $400/month)."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Essential starts around $62/mo, Growth around $192/mo, and Premium around $400/mo"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "Transparent, tier-based pricing structure starting around $62/month for Essential, $192/month for Growth, and $400/month for Premium."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Essential starts at $62/month; Growth $192; Premium $400."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Essential from $62/month; Growth from $192; Premium from $400."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Essential $62/month; Growth $192/month; Premium $400/month, all starting prices."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "The Premium plan starts at $400/month and offers an open API"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Essential from $62/month, Growth from $192/month, and Premium from $400/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "Starts at $62/month for the Essential plan, scaling up to Growth ($192/mo) and Premium ($400/mo) tiers"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Starts around $62/month for the Essential plan, scaling up to $192/month (Growth) and $400/month (Premium)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "The Essential plan starts at $58 per month.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/",
+   "proof_quote": "The Essential plan starts at $58/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page FAQ states the Essential plan starts at $58 per month (the pricing page shows $62 without stating a billing basis for either figure).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "A property manager with 100 units pays ~$58/month on Buildium's Essential plan"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|1",
+     "quote": "Tiered subscription plans typically range from $58 to $375+ per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "The Growth plan (a tier) is priced at $183 per month.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/",
+   "proof_quote": "The Growth plan starts at $183/ month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page FAQ states the Growth plan starts at $183 per month.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "Buildium's Growth plan covers up to 50 units at a reported $183/month"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "Buildium's Growth plan covers up to 50 units at a reported $183 per month"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|2",
+     "quote": "Pricing starts around $55–$183+ per month depending on the exact tier"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "The Premium plan starts at $375 per month.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/",
+   "proof_quote": "The Premium plan starts at $375/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page FAQ states the Premium plan starts at $375 per month.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|1",
+     "quote": "Tiered subscription plans typically range from $58 to $375+ per month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|3",
+     "quote": "Tiered plans from $62 to $375+ per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Pricing starts at $55 per month.",
+   "class": "wrong",
+   "proof_url": "https://www.buildium.com/",
+   "proof_quote": "The Essential plan starts at $58/month",
+   "stale_change": null,
+   "causing_url": "https://www.shukrentals.com/learn/property-management-software-for-small-landlords",
+   "causing_type": "other",
+   "causing_quote": "The monthly base fee starts at $55 regardless of unit count",
+   "rationale": "The lowest plan's published starting price is $58 per month on the home page and $62 per month on the pricing page, so a starting price stated as $55 (or $55+, read as from $55) contradicts both figures; the approximate around $55 statements were moved to C83 in the pass-2 consistency check.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q1|Claude|1",
+     "quote": "Pricing starts at $55+/month."
+    },
+    {
+     "record_id": "residential-property-management|q1|Claude|2",
+     "quote": "Buildium starts at $55+/month base fees."
+    },
+    {
+     "record_id": "residential-property-management|q1|Claude|3",
+     "quote": "Buildium starts at $55+/month base fees."
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "The monthly base fee starts at $55 regardless of unit count"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Pricing starts at about $50 to $60 per month plus transaction fees.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages give point starting prices ($58 on the home page, $62 on the pricing page), so a $50 to $60 range is neither confirmed nor explicitly contradicted.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|3",
+     "quote": "~$50–$60/month + transaction fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Plans start at about $41 to $62 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The range contains the published $58 and $62 starting prices but its $41 floor matches no plan price; the pages give point prices, so the range is not settled.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "starting around $41–$62/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Incoming EFT costs $2.35 per transaction on the Essential plan.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Essential Incoming EFT: $2.35 per transaction",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Essential incoming EFT at $2.35 per transaction.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Essential lists $2.35 per incoming EFT, $99 per business bank account setup, and $5 per e-signature document."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Incoming EFT: $2.35/payment on Essential, $1.35 on Growth."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Essential currently lists incoming EFT at $2.35 per transaction"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Transaction fees ($2.35/incoming EFT on Essential)"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "$2.35 per transaction on Essential, $1.35 on Growth, and $0.60 on Premium"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Transaction fees ($2.35/incoming EFT on Essential)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Transaction fees ($2.35/incoming EFT on Essential)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Incoming EFT costs $1.35 per transaction on the Growth plan.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Growth Incoming EFT: $1.35 per transaction",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Growth incoming EFT at $1.35 per transaction.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Buildium Growth currently lists incoming EFT at $1.35 per transaction"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Incoming EFT: $2.35/payment on Essential, $1.35 on Growth."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "$2.35 per transaction on Essential, $1.35 on Growth, and $0.60 on Premium"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "Incoming EFT costs $0.60 per transaction on the Premium plan.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Premium Incoming EFT: First 12 months free, then $0.60",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Premium incoming EFT at $0.60 after the first 12 months free; the answer gives the standing rate and does not claim a first-year price.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "$2.35 per transaction on Essential, $1.35 on Growth, and $0.60 on Premium"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Bank account setup costs $99 per business bank account (Essential).",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Bank account setup fee: $99 per business bank account",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists a $99 setup fee per business bank account on Essential.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Essential lists $2.35 per incoming EFT, $99 per business bank account setup, and $5 per e-signature document."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Payment-processing bank-account setup: $99/account on Essential"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "bank setup at $99 per business bank account"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "bank setup fees ($99/account)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "bank setup fees ($99/account)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "bank setup fees ($99/account)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "The Growth plan includes the first 10 business bank accounts without a setup fee.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Growth: 10 free business bank accounts; $99 per additional bank account",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists 10 free business bank accounts on Growth.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Growth includes the first 10 accounts."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "eSignatures cost $5 per document on the Essential plan.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Essential $5 per document Growth $1 per document Premium Unlimited - All fees included",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists eSignature at $5 per document on Essential.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Essential lists $2.35 per incoming EFT, $99 per business bank account setup, and $5 per e-signature document."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "eSignatures: $5/document on Essential, $1 on Growth."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "e-signatures at $5 per document"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "eSignature fees ($5/doc on Essential)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "eSignature fees ($5/doc on Essential)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "eSignature fees ($5/doc on Essential)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "eSignatures cost $1 per document on the Growth plan.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Essential $5 per document Growth $1 per document Premium Unlimited - All fees included",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists eSignature at $1 per document on Growth.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "eSignatures: $5/document on Essential, $1 on Growth."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "eSignatures carry a per-use charge on the lower plans and are unlimited on the top plan.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Essential $5 per document Growth $1 per document Premium Unlimited - All fees included",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page charges per eSignature document on Essential and Growth and lists Premium as unlimited with all fees included.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "eSignatures | Paid add-on (Essential)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "eSignatures (tiered limits or unlimited depending on your plan)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Lower tiers charge extra for things like live phone support or bulk eSignatures."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "Payment processing, screening, eSignature and similar services are charged as separate fees that vary by plan.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Customize your subscription with the features and services you need. Additional fees apply for these features and services.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states additional fees apply for add-on services and lists per-plan rates for EFT, card payments, screening, eSignatures, bank setup and inspections.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|1",
+     "quote": "Essential has extra payment/e-signature charges"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "Certain features like electronic payments and tenant screening come with extra fees"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "payment and other usage fees vary by plan"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|3",
+     "quote": "~$50–$60/month + transaction fees"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "transaction/service fees vary by plan"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Buildium separately lists payment-processing, screening, eSignature, and some inspection fees, with costs varying by plan."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Buildium publishes separate charges for items such as payments, screening, and eSignatures, with rates varying by plan."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Buildium starts at $62/month but has hidden fees for transactions and e-signing."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Hidden fees | EFT, eSign, bank setup"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "watch out for per-transaction fees on lower tiers (like eSignatures and electronic funds transfers unless you are on higher tiers)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "per-transaction fees on rent payments, screening, and eSignatures"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "usage-based add-ons (like eSignatures on lower plans, tenant screening fees, and convenience fees)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "Tiered flat-rate base pricing + add-on/transaction fees"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Transaction fees for eSignatures, certain levels of tenant screening, and ePayments vary depending on your tier."
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|1",
+     "quote": "depending on the plan level (Essential, Growth, Premium) and extra transaction or bank setup fees"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "Transaction and onboarding costs need checking."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "Account for transaction and other service fees."
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "check transaction fees and required onboarding for Growth/Premium"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "transaction and other fees need budgeting"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|2",
+     "quote": "Compare payment and add-on fees, not just the subscription."
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "Transaction and add-on fees deserve close attention."
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|2",
+     "quote": "Compare payment, e-signature, and onboarding costs carefully."
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|3",
+     "quote": "Payment, e-signature, and onboarding charges need attention."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "| **Hidden costs** | Higher (transaction fees) | Feature-gating to Premier |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "Buildium publishes its plan prices openly (not quote only).",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Essential starting at $62/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The public pricing page lists a starting price for each of the three plans.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "these are advertised starting prices"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "these are advertised starting prices"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "Advertised starting prices: Essential $62/month; Growth $192/month"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "You want a well-rounded platform with a published starting price"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Mode|1",
+     "quote": "Buildium offers transparent, tiered subscription pricing"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Mode|2",
+     "quote": "transparent, flat-rate monthly pricing tiers"
+    },
+    {
+     "record_id": "residential-property-management|q4|Perplexity|1",
+     "quote": "Broad all-in-one toolset, strong accounting/leasing/maintenance features, transparent pricing, and no unit minimum."
+    },
+    {
+     "record_id": "residential-property-management|q4|Perplexity|3",
+     "quote": "resident/owner tools, and published pricing"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "published entry pricing and a trial before committing"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|1",
+     "quote": "Offers transparent, publicly listed tiered pricing."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Tiered, transparent subscription pricing"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "Transparent, tier-based pricing structure starting around $62/month for Essential"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|1",
+     "quote": "Publicly published pricing starting around $62 per month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|2",
+     "quote": "Publishes starting prices openly (plans begin around $62/month)"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|1",
+     "quote": "Buildium publishes starting plans beginning at $62/month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|2",
+     "quote": "it has published pricing"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|3",
+     "quote": "Published starting price; clearer and more transparent"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "it has a published entry price, a free trial"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "plans",
+   "claim": "Buildium sells three tiered plans: Essential, Growth and Premium.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Plans designed for every stage of growth Essential Growth Premium",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page presents three tiers named Essential, Growth and Premium.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|1",
+     "quote": "Pricing is tiered and predictable rather than strictly per-unit"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|3",
+     "quote": "it offers great tiered pricing"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Mode|1",
+     "quote": "Buildium offers transparent, tiered subscription pricing"
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|3",
+     "quote": "Buildium fits teams that want resident portals, work orders, vendor payments, and tiered plans."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Buildium publishes three plans"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Essential / Growth / Premium"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|1",
+     "quote": "Offers transparent, publicly listed tiered pricing."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Tiered, transparent subscription pricing"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "Transparent, tier-based pricing structure"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Buildium publishes three plans"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Buildium publishes three plans"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Buildium publishes three plans"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "scaling up to Growth ($192/mo) and Premium ($400/mo) tiers"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "tiered flat-rate subscription plans (Essential, Growth, Premium)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Tiered, flat-rate base subscription pricing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|1",
+     "quote": "depending on the plan level (Essential, Growth, Premium)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|2",
+     "quote": "Buildium uses tiered subscription pricing"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|3",
+     "quote": "Tiered plans from $62 to $375+ per month"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|2",
+     "quote": "Published starting price, flatter/tiered pricing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "Pricing is a flat monthly fee per tier, not charged per unit.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page gives only starting at prices per tier and does not state whether the price depends on unit count.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "The monthly base fee starts at $55 regardless of unit count"
+    },
+    {
+     "record_id": "residential-property-management|q10|Perplexity|2",
+     "quote": "with flat-fee pricing and solid accounting workflows"
+    },
+    {
+     "record_id": "residential-property-management|q10|Perplexity|3",
+     "quote": "who want solid accounting and a flat-fee model"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "Buildium uses flat monthly tiers starting at $62 with no unit minimum."
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "Buildium offers predictable flat-rate pricing accessible to smaller portfolios"
+    },
+    {
+     "record_id": "residential-property-management|q2|Google AI Mode|1",
+     "quote": "Pricing is tiered and predictable rather than strictly per-unit"
+    },
+    {
+     "record_id": "residential-property-management|q2|Perplexity|3",
+     "quote": "with predictable flat-fee pricing"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Mode|2",
+     "quote": "transparent, flat-rate monthly pricing tiers"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Flat-rate tiers"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Buildium structures its pricing as three flat monthly tiers, with a 10% annual-billing discount and no per-unit charge"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Flat monthly tiers ($62–$400+)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "prefer flat-rate pricing that's easy to budget"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "Buildium does not charge strictly per unit on all tiers"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Tiered, flat-rate base subscription pricing that scales with feature depth rather than strictly charging per door."
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "Flat monthly tiers starting at $62/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|2",
+     "quote": "it includes flat monthly pricing tiers plus an open API for custom integrations"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|3",
+     "quote": "uses flat monthly tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "pricing",
+   "claim": "Plan prices scale with the number of units (per-unit fees on top of a base).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page gives starting at prices and a call-in option above 5,000 units but does not state how price varies with unit count.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|1",
+     "quote": "Paid tiers start around $55/month and scale with your unit count."
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|2",
+     "quote": "scales up with your unit count"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|3",
+     "quote": "Pricing typically starts around $55/month plus per-unit fees"
+    },
+    {
+     "record_id": "residential-property-management|q3|Google AI Overviews|2",
+     "quote": "a dedicated Growth plan that scales with your unit count"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Flat-rate base + scales by units"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "pricing",
+   "claim": "Pricing is usage-based.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists tier starting prices and per-transaction add-on fees but does not describe the subscription itself as usage-based.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|Google AI Overviews|1",
+     "quote": "Starting Price: Around $62/month (usage-based)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "pricing",
+   "claim": "Buildium has no unit minimum.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the pages read states a unit minimum or the absence of one.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|1",
+     "quote": "with no strict unit minimums"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|2",
+     "quote": "Buildium uses flat monthly tiers starting at $62 with no unit minimum."
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "~$62/mo | None"
+    },
+    {
+     "record_id": "residential-property-management|q3|Claude|3",
+     "quote": "Buildium carries no unit minimum"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|1",
+     "quote": "$62/month | No unit minimum"
+    },
+    {
+     "record_id": "residential-property-management|q4|Google AI Overviews|2",
+     "quote": "No strict unit minimums for smaller tiers"
+    },
+    {
+     "record_id": "residential-property-management|q4|Perplexity|1",
+     "quote": "transparent pricing, and no unit minimum"
+    },
+    {
+     "record_id": "residential-property-management|q4|Perplexity|2",
+     "quote": "automation, integrations, and no unit minimum"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Buildium does not have a minimum-unit requirement"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Unit minimum | None | 50 units"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Unit Minimum | None | 50 units"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "No unit minimums, making it accessible for smaller portfolios or growing companies."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "No unit minimums, making it accessible for smaller or mid-sized portfolios"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|1",
+     "quote": "with no minimum unit threshold"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|2",
+     "quote": "imposes no minimum unit threshold"
+    },
+    {
+     "record_id": "residential-property-management|q7|Perplexity|2",
+     "quote": "No clear minimum listed by Buildium’s own materials"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "pricing",
+   "claim": "Buildium charges a monthly minimum.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages give starting prices per plan but do not describe a monthly minimum charge.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q1|Google AI Overviews|2",
+     "quote": "Platforms like AppFolio and Buildium are built for large portfolios and charge high monthly minimums"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|1",
+     "quote": "Buildium enforces monthly minimums"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "plans",
+   "claim": "The lower tiers have unit caps.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page does not state unit caps per tier.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "lower tiers have unit caps"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "plans",
+   "claim": "The Growth plan covers up to 50 units.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages do not state a unit allowance for the Growth plan.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "Buildium's Growth plan covers up to 50 units at a reported $183/month"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "Buildium's Growth plan covers up to 50 units at a reported $183 per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "pricing",
+   "claim": "Annual billing carries a 10% discount.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read do not state an annual-billing discount.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "with a 10% annual-billing discount"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "pricing",
+   "claim": "Contracts run 12 months with auto-renewal.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read do not state contract length or renewal terms.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|Claude|1",
+     "quote": "Buildium typically has a 12-month auto-renewal contract."
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "pricing",
+   "claim": "Buildium raised prices several times after the RealPage acquisition.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read document no price history.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Several price increases have followed the acquisition"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Since the RealPage acquisition, operators have reported repeated price increases and higher transaction fees."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "operators reporting 5–6 price increases in a 2.5-year window after RealPage acquired Buildium"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "operators reporting 5–6 price increases in a 2.5-year window after RealPage acquired Buildium"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "pricing",
+   "claim": "Buildium raised EFT transaction fees about 40% in 2023.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read document no dated fee change.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Third-party reviews document Buildium raising EFT transaction fees ~40% in 2023"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "document Buildium raising EFT transaction fees ~40% in 2023"
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "pricing",
+   "claim": "Transaction, bank setup and eSignature fees add 30 to 50% to the actual cost.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the fees but not their share of a typical bill.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "add 30–50% to the actual cost"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "add 30–50% to the actual cost"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "add 30–50% to the actual cost"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "pricing",
+   "claim": "At 100 units the real cost is about $340 per month once EFT and eSignature fees are added.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages publish no total cost for a given unit count; the figure depends on usage assumptions.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "Transaction fees push actual spend to roughly $340/month at 100 doors"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "Transaction fees push actual spend to roughly $340/month at 100 doors"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "the real Buildium cost at 100 doors lands closer to $340/month once EFT and eSignature fees are added"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "the real Buildium cost at 100 doors lands closer to $340/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "the real Buildium cost at 100 doors lands closer to $340/month"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "the real Buildium cost at 100 doors lands closer to $340/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "pricing",
+   "claim": "Estimated cost at 100 units is about $192 to $340 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages publish no price for a given unit count.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Claude|1",
+     "quote": "Ease of use, residential | ~$192–$340/mo"
+    },
+    {
+     "record_id": "residential-property-management|q2|Claude|3",
+     "quote": "Balanced features/price | ~$192–$340/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "pricing",
+   "claim": "Estimated cost at about 100 units is $180 to $250 per month (Growth tier plus unit scaling).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages publish no price for a given unit count.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|Google AI Overviews|2",
+     "quote": "~$180–$250/mo (Growth tier + unit scaling)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "pricing",
+   "claim": "Estimated cost at 50 units is $62 to $192 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The endpoints equal the Essential and Growth starting prices, but the pages publish no price for a given unit count.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|1",
+     "quote": "Mid-size managers | $62–$192/mo"
+    },
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "~$62–$192/mo | Full-featured, mid-size"
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "pricing",
+   "claim": "At 500 units the cost is about $0.37 per unit.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages publish no per-unit price or price for a given unit count.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "At 500 doors, you're paying $0.37/door"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "At 500 doors, you're paying ~$0.37/door"
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "pricing",
+   "claim": "Cost scales to about $2,000 per month for mid-size operators.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages publish no price for a given portfolio size.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Buildium scales to ~$2,000/month for mid-size operators"
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "pricing",
+   "claim": "Pricing for HOAs and condo (community association) management is quoted separately.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "If you have more than 5,000 units or are looking for pricing for community associations please call 877-396-7876.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ directs community association pricing to a sales call rather than the listed plans.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "HOA/Condo | Quoted separately"
+    }
+   ]
+  },
+  {
+   "claim_id": "C40",
+   "type": "pricing",
+   "claim": "Onboarding is a paid service, not free.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says onboarding is required for Growth and Premium but does not state a fee for it.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|2",
+     "quote": "though some advanced features or onboarding cost extra"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "Growth requires paid onboarding"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Free Implementation | ❌"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "Transaction and onboarding costs need checking."
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|2",
+     "quote": "Compare payment, e-signature, and onboarding costs carefully."
+    },
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|3",
+     "quote": "Payment, e-signature, and onboarding charges need attention."
+    }
+   ]
+  },
+  {
+   "claim_id": "C41",
+   "type": "free_tier",
+   "claim": "Buildium has no free plan.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/",
+   "proof_quote": "Buildium has three plans to choose from . The Essential plan starts at $58/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page FAQ says Buildium has three plans, the cheapest starting at $58 per month, so no plan is free (the free offer is a 14-day trial).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|2",
+     "quote": "Full-featured, mid-size | ❌"
+    }
+   ]
+  },
+  {
+   "claim_id": "C42",
+   "type": "free_tier",
+   "claim": "Buildium offers a free trial.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/",
+   "proof_quote": "Yes. Buildium offers a free 14-day trial for new users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page FAQ states Buildium offers a free trial.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "published entry pricing and a trial before committing"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "its trial makes hands-on evaluation possible"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Its trial is useful for testing your actual accounting and leasing scenarios."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Free trial | ✅ Yes"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "14-day, no credit card"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Buildium offers a 14-day trial using sample data."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Buildium offers a 14-day trial using sample data"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Free trial | ✅ 14 days"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "built-in screening, free trial, and stronger support"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "value a free trial"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "it has a published entry price, a free trial"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|2",
+     "quote": "Buildium starts at $62/month with a 14-day free trial"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|3",
+     "quote": "includes a 14-day free trial"
+    }
+   ]
+  },
+  {
+   "claim_id": "C43",
+   "type": "free_tier",
+   "claim": "The free trial lasts 14 days.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "When you sign up for a free 14-day trial you’ll be able to use sample data to see how Buildium handles your real-world tasks.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ describes a free 14-day trial with sample data.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "14-day trial; customized onboarding required for new Growth/Premium customers."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "14-day trial. Phone support in Growth/Premium"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "14-day trial. Phone support starts with Growth"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "14-day, no credit card"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Buildium offers a 14-day trial using sample data."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Buildium offers a 14-day trial using sample data"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Free trial | ✅ 14 days"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "14-day free trial, no credit card required"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|2",
+     "quote": "Buildium starts at $62/month with a 14-day free trial"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|3",
+     "quote": "includes a 14-day free trial"
+    }
+   ]
+  },
+  {
+   "claim_id": "C44",
+   "type": "free_tier",
+   "claim": "The free trial requires no credit card.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "It takes just 30 seconds. No credit card required.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states no credit card is required for the trial.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "14-day, no credit card"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "14-day free trial, no credit card required"
+    }
+   ]
+  },
+  {
+   "claim_id": "C45",
+   "type": "plans",
+   "claim": "The Open API requires the Premium plan.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Get everything in Growth plus Open API, insights-to-action, and the opportunity for money back in your pocket.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page describes Premium as everything in Growth plus Open API, so Open API is a Premium inclusion.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Open API requires Premium"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Open API requires Premium"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|1",
+     "quote": "Open API requires Premium"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "Open API access requires Premium"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Open API on Premium."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Open API included in Premium."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Open API requires Premium."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "custom integrations through the Open API require Premium"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Open API | Premium plan only"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Open API | Premium only"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Features an open API and Marketplace integrations primarily unlocked on the highest (Premium) tier."
+    }
+   ]
+  },
+  {
+   "claim_id": "C46",
+   "type": "plans",
+   "claim": "Open API access comes with the higher tiers.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Full AI and Automations suite, plus Open API",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Open API among Premium's highlights, the top tier.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|2",
+     "quote": "advanced automation and API access require higher tiers"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|1",
+     "quote": "Its open API and advanced analytics open up significantly on the higher-tier Growth and Premium packages."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|2",
+     "quote": "an open API on higher plans"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|1",
+     "quote": "Extensive third-party marketplace and open API (on higher tiers)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C47",
+   "type": "plans",
+   "claim": "Live phone support requires the Growth or Premium plan.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Live Phone Support is provided for customers who purchase a Growth or Premium plan.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ limits live phone support to Growth and Premium.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|ChatGPT|1",
+     "quote": "live phone support requires Growth or Premium"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "Growth adds live phone support"
+    },
+    {
+     "record_id": "residential-property-management|q4|ChatGPT|3",
+     "quote": "live phone support requires Growth or Premium"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "live phone support on Growth/Premium"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "14-day trial. Phone support in Growth/Premium"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "14-day trial. Phone support starts with Growth"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "live phone support requires Growth or Premium"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "live phone support requires Growth or Premium"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Growth/Premium add phone support and require onboarding"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Growth adds customization, reporting automation, enhanced tenant screening, business analytics, and a live phone line to support."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Growth adds customization, reporting automation, enhanced tenant screening, business analytics, and a live phone support line."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Growth adds customization, reporting automation, enhanced tenant screening, business analytics, and a live phone line for support."
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|1",
+     "quote": "standard ticket/phone support depending on your tier"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|3",
+     "quote": "Phone support is restricted to higher tiers (Growth/Premium)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "Ticket/academy on all plans; phone support on higher plans"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|2",
+     "quote": "Ticket/Academy on all plans; phone on higher plans"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|3",
+     "quote": "with phone support on higher tiers"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "I’d evaluate **Growth** if phone support and reporting automation matter."
+    }
+   ]
+  },
+  {
+   "claim_id": "C48",
+   "type": "plans",
+   "claim": "Ticket support is available on all plans, including Essential.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "All Buildium customers have access to Ticket Support",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ gives all customers access to ticket support.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Ticket support on all plans"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Essential has ticket support"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Essential has ticket support"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Essential has ticket support"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|1",
+     "quote": "Ticket/academy on all plans"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|2",
+     "quote": "Ticket/Academy on all plans"
+    },
+    {
+     "record_id": "residential-property-management|q8|Perplexity|3",
+     "quote": "Buildium's support includes ticketing and Academy resources on all plans"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "if your staff needs phone support rather than ticket support alone"
+    }
+   ]
+  },
+  {
+   "claim_id": "C49",
+   "type": "plans",
+   "claim": "Priority support is included with Premium.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Priority Support, designed to offer a fast track queue to our Customer Care team, is available for purchase with our Growth plan, but it is included as part of our Premium plan.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ states priority support is included in Premium.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "priority support included with Premium"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Premium includes priority support."
+    }
+   ]
+  },
+  {
+   "claim_id": "C50",
+   "type": "plans",
+   "claim": "New Growth and Premium customers must use the onboarding service.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "All new Buildium customers purchasing our Growth or Premium plan must use our customized Onboarding service to get started with Buildium.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ makes onboarding mandatory for new Growth and Premium customers.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|1",
+     "quote": "onboarding is required for Growth and Premium"
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|3",
+     "quote": "Growth requires paid onboarding"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "Growth and Premium require onboarding"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "required onboarding for Growth/Premium"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "customized onboarding required for new Growth/Premium customers"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "onboarding required for new customers on those tiers"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Growth and Premium also require onboarding."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Those plans require customized onboarding."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|2",
+     "quote": "Onboarding is required for new Growth/Premium customers."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Growth/Premium add phone support and require onboarding"
+    }
+   ]
+  },
+  {
+   "claim_id": "C51",
+   "type": "plans",
+   "claim": "Essential includes basic accounting, maintenance and leasing, standard and bulk reporting, and Buildium's AI assistant.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "All basic Accounting, Maintenance, & Leasing features Basic Communications & Buildium’s AI Assistant Standard & Bulk Reporting",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "These are the Essential plan highlights on the pricing page.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Essential covers basic accounting, maintenance and leasing, standard and bulk reporting, and Buildium's AI assistant."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Essential covers basic accounting, maintenance and leasing, standard and bulk reporting, and Buildium's AI assistant."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Essential covers basic accounting, maintenance, leasing, standard reporting, and Buildium's AI assistant."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "Accounting, maintenance, leasing, and reporting included in Essential."
+    }
+   ]
+  },
+  {
+   "claim_id": "C52",
+   "type": "plans",
+   "claim": "Growth and higher tiers add customization, reporting automation, enhanced screening, business analytics and more AI and automation.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Everything in Essential, plus more customization & reporting automation Enhanced Tenant Screening, lower cost eSignatures & EFT transactions AI-enhanced Communications and Business Analytics",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "These are the Growth plan highlights on the pricing page, and Premium adds the full AI and automation suite.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|1",
+     "quote": "higher tiers add analytics and customization"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|2",
+     "quote": "Growth adds reporting automation and business analytics"
+    },
+    {
+     "record_id": "residential-property-management|q3|ChatGPT|3",
+     "quote": "Growth adds reporting automation and business analytics to the core accounting, maintenance, and leasing tools."
+    },
+    {
+     "record_id": "residential-property-management|q4|Claude|2",
+     "quote": "higher-tier plans offering additional features, reporting, AI capabilities, and automation tools"
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|2",
+     "quote": "Higher tiers add reporting automation, analytics, and broader automation."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Higher tiers expand analytics and automation"
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|1",
+     "quote": "More customization, reporting automation, and business analytics sit in Growth and above."
+    },
+    {
+     "record_id": "residential-property-management|q8|ChatGPT|3",
+     "quote": "Growth adds reporting automation, customization, and business analytics."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Growth adds customization, reporting automation, enhanced tenant screening, business analytics, and a live phone line to support."
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Growth adds customization, reporting automation, enhanced tenant screening, business analytics, and a live phone support line."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Growth adds customization, reporting automation, enhanced tenant screening, business analytics, and a live phone line for support."
+    },
+    {
+     "record_id": "residential-property-management|q2|ChatGPT|2",
+     "quote": "I’d evaluate **Growth** if phone support and reporting automation matter."
+    }
+   ]
+  },
+  {
+   "claim_id": "C53",
+   "type": "plans",
+   "claim": "Premium includes the full AI and automation suite.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Full AI and Automations suite, plus Open API",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Premium plan highlights include the full AI and automations suite.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|1",
+     "quote": "Premium includes its full AI and automation suite."
+    },
+    {
+     "record_id": "residential-property-management|q7|ChatGPT|3",
+     "quote": "Premium includes the full AI/automation suite."
+    }
+   ]
+  },
+  {
+   "claim_id": "C54",
+   "type": "plans",
+   "claim": "Buildium's AI assistant Lumina is available only on the Premium tier.",
+   "class": "wrong",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Plan Highlights All basic Accounting, Maintenance, & Leasing features Basic Communications & Buildium’s AI Assistant",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The Essential plan highlights include Buildium's AI Assistant, which the pricing matrix lists under Lumina AI, and the AI page says Lumina AI is available as part of select Buildium plans, so the assistant is not limited to Premium (the AI page says only that all Lumina features are included with Premium).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Buildium's AI assistant Lumina is gated to the Premium tier only."
+    }
+   ]
+  },
+  {
+   "claim_id": "C55",
+   "type": "plans",
+   "claim": "Custom reports require Growth or higher.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing matrix lists Customized Reports but its per-plan check marks do not render in the snapshot text, and the plan highlights do not name custom reports.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Custom reports | Growth+"
+    }
+   ]
+  },
+  {
+   "claim_id": "C56",
+   "type": "plans",
+   "claim": "Marketplace integrations are mainly unlocked on the Premium tier.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing matrix lists Marketplace Integrations but its per-plan check marks do not render in the snapshot text.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Features an open API and Marketplace integrations primarily unlocked on the highest (Premium) tier."
+    }
+   ]
+  },
+  {
+   "claim_id": "C57",
+   "type": "plans",
+   "claim": "Lower tiers can buy live phone support for an extra charge.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page provides live phone support with Growth and Premium but does not say whether Essential can buy it.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|3",
+     "quote": "Lower tiers charge extra for things like live phone support or bulk eSignatures."
+    }
+   ]
+  },
+  {
+   "claim_id": "C58",
+   "type": "plans",
+   "claim": "Support is offered by phone, email and live chat depending on plan tier.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists ticket support by email and live phone support by tier but names no live chat channel.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|2",
+     "quote": "Phone, email, and live chat options depending on plan tier"
+    }
+   ]
+  },
+  {
+   "claim_id": "C59",
+   "type": "integrations",
+   "claim": "Buildium integrates with Zillow (Zillow Rental Manager listing syndication).",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/features/rental-listing-syndication/",
+   "proof_quote": "Buildium supports rental listing syndication to rental websites such as Zillow, Apartments.com, Apartment List, Dwellsy, RentPath, Zumper, and Rental Beast.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The listing syndication page names Zillow among the sites Buildium syndicates to.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Buildium also supports rental listing syndication to major sites such as Zillow and Apartments.com"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Buildium integrates with 10+ third-party tools, including Happy Property for inspections, Zillow Rental Manager, Tenant Turner, Apartments.com Rental Manager"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Buildium integrates with 10 third-party tools, including Happy Property for inspections, Zillow Rental Manager, Tenant Turner, Apartments.com"
+    }
+   ]
+  },
+  {
+   "claim_id": "C60",
+   "type": "integrations",
+   "claim": "Buildium integrates with Apartments.com (listing syndication).",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/features/rental-listing-syndication/",
+   "proof_quote": "Buildium supports rental listing syndication to rental websites such as Zillow, Apartments.com, Apartment List, Dwellsy, RentPath, Zumper, and Rental Beast.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The listing syndication page names Apartments.com among the sites Buildium syndicates to.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Buildium also supports rental listing syndication to major sites such as Zillow and Apartments.com"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Zillow Rental Manager, Tenant Turner, Apartments.com Rental Manager"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Zillow Rental Manager, Tenant Turner, Apartments.com, Dropbox Sign for e-signatures"
+    }
+   ]
+  },
+  {
+   "claim_id": "C61",
+   "type": "integrations",
+   "claim": "Buildium integrates with Tenant Turner.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Showings Coordinator, powered by Tenant Turner",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the Showings Coordinator add-on powered by Tenant Turner, and the Marketplace page lists Tenant Turner as a partner.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Zillow Rental Manager, Tenant Turner, Apartments.com Rental Manager"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Zillow Rental Manager, Tenant Turner, Apartments.com, Dropbox Sign for e-signatures"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|2",
+     "quote": "third-party add-ons like Showings Coordinator (powered by Tenant Turner)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C62",
+   "type": "integrations",
+   "claim": "Buildium integrates with Dropbox Sign for eSignatures.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "eSignature, powered by Dropbox Sign",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists eSignature powered by Dropbox Sign.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Dropbox Sign for e-signatures, Forte and PayNearMe for payments"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Dropbox Sign for e-signatures, and PayNearMe for payments"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Mode|2",
+     "quote": "eSignatures (via Dropbox Sign)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C63",
+   "type": "integrations",
+   "claim": "Buildium integrates with PayNearMe for (cash) payments.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Retail Cash Payments, powered by PayNearMe Residents can easily make cash rent payments at over 20,000 trusted locations nationwide.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists retail cash payments powered by PayNearMe.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Dropbox Sign for e-signatures, Forte and PayNearMe for payments"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Dropbox Sign for e-signatures, and PayNearMe for payments"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "Cash payments (PayNearMe) | ✅"
+    }
+   ]
+  },
+  {
+   "claim_id": "C64",
+   "type": "integrations",
+   "claim": "Buildium does not offer cash payments through PayNearMe.",
+   "class": "wrong",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Retail Cash Payments, powered by PayNearMe Residents can easily make cash rent payments at over 20,000 trusted locations nationwide.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page offers retail cash payments powered by PayNearMe, contradicting the table's cross for Buildium.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "Cash payments (PayNearMe) | ❌"
+    }
+   ]
+  },
+  {
+   "claim_id": "C65",
+   "type": "integrations",
+   "claim": "Buildium integrates with RevSpring.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Remote Check Printing, powered by RevSpring",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists remote check printing and EZMail powered by RevSpring.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "plus RevSpring and TransUnion Collections Management"
+    }
+   ]
+  },
+  {
+   "claim_id": "C66",
+   "type": "integrations",
+   "claim": "Buildium integrates with Happy Property for inspections.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names HappyCo as the inspections partner; no page read names Happy Property, so the named product is not settled.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "including Happy Property for inspections"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "including Happy Property for inspections"
+    }
+   ]
+  },
+  {
+   "claim_id": "C67",
+   "type": "integrations",
+   "claim": "Buildium integrates with Forte for payments.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names Forte; the Marketplace page shows a partial partner list.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Forte and PayNearMe for payments"
+    }
+   ]
+  },
+  {
+   "claim_id": "C68",
+   "type": "integrations",
+   "claim": "Buildium integrates with TransUnion Collections Management.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names TransUnion only for tenant screening; no page read names TransUnion Collections Management.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "plus RevSpring and TransUnion Collections Management"
+    }
+   ]
+  },
+  {
+   "claim_id": "C69",
+   "type": "integrations",
+   "claim": "Buildium integrates (native sync) with QuickBooks.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions QuickBooks.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Buildium genuinely wins on accounting depth and QuickBooks integration."
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "For property managers or accountants who rely on QuickBooks, Buildium's native sync is a decisive advantage."
+    }
+   ]
+  },
+  {
+   "claim_id": "C70",
+   "type": "integrations",
+   "claim": "Buildium has no QuickBooks integration.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions QuickBooks, so its absence is not settled either.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "QuickBooks integration | ❌ | ❌"
+    }
+   ]
+  },
+  {
+   "claim_id": "C71",
+   "type": "integrations",
+   "claim": "Buildium integrates with 10+ third-party tools.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Marketplace page lists partners by name with a Load More button but states no integration count.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|2",
+     "quote": "Buildium integrates with 10+ third-party tools"
+    }
+   ]
+  },
+  {
+   "claim_id": "C72",
+   "type": "integrations",
+   "claim": "Buildium integrates with 10 third-party tools.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Marketplace page lists partners by name with a Load More button but states no integration count to compare against.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "Buildium integrates with 10 third-party tools"
+    }
+   ]
+  },
+  {
+   "claim_id": "C73",
+   "type": "product_names",
+   "claim": "Buildium's AI product is named Lumina AI.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/features/ai-property-management-software/",
+   "proof_quote": "Lumina AI is Buildium’s intelligent automation suite built specifically for property management.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The AI page names Buildium's AI suite Lumina AI.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Buildium's AI assistant Lumina"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|2",
+     "quote": "Lumina AI for communication enhancements"
+    },
+    {
+     "record_id": "residential-property-management|q7|Google AI Mode|3",
+     "quote": "Features Lumina AI to assist with operational efficiencies."
+    }
+   ]
+  },
+  {
+   "claim_id": "C74",
+   "type": "product_names",
+   "claim": "Buildium's showing add-on is named Showings Coordinator (powered by Tenant Turner).",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Showings Coordinator, powered by Tenant Turner",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names the add-on Showings Coordinator, powered by Tenant Turner.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Google AI Overviews|2",
+     "quote": "third-party add-ons like Showings Coordinator (powered by Tenant Turner)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C75",
+   "type": "product_names",
+   "claim": "Buildium offers a service named Maintenance Contact Center.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/",
+   "proof_quote": "Maintenance Contact Center Satisfy residents while reducing property risk",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page navigation names the Maintenance Contact Center.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|1",
+     "quote": "In-app workflows + optional 24/7 live Maintenance Contact Center"
+    }
+   ]
+  },
+  {
+   "claim_id": "C76",
+   "type": "platforms",
+   "claim": "Buildium has mobile apps (for managers and residents).",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/",
+   "proof_quote": "Highly rated property manager and Resident Center apps",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page describes property manager and Resident Center mobile apps.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q6|Claude|1",
+     "quote": "Buildium is a top-rated alternative offering all-in-one real estate management software with accounting, leasing, and mobile apps."
+    },
+    {
+     "record_id": "residential-property-management|q6|Claude|2",
+     "quote": "It covers accounting, leasing, and mobile apps"
+    },
+    {
+     "record_id": "residential-property-management|q6|Claude|3",
+     "quote": "offering all-in-one real estate management software including accounting, leasing, and mobile apps"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Mobile app | ✅ | ✅ (mobile-first)"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|2",
+     "quote": "a weak mobile app and growing costs at scale are real drawbacks"
+    },
+    {
+     "record_id": "residential-property-management|q8|Google AI Overviews|3",
+     "quote": "highly rated mobile apps for both managers and tenants"
+    }
+   ]
+  },
+  {
+   "claim_id": "C77",
+   "type": "ownership",
+   "claim": "Buildium is owned by RealPage.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/",
+   "proof_quote": "©2026 Buildium, A RealPage Company",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The site footer identifies Buildium as a RealPage company.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q4|Google AI Mode|2",
+     "quote": "Owned by RealPage"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Buildium is owned by RealPage"
+    }
+   ]
+  },
+  {
+   "claim_id": "C78",
+   "type": "ownership",
+   "claim": "Buildium's parent RealPage is owned by private equity firm Thoma Bravo (taken private in 2021).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions Thoma Bravo or RealPage's ownership.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "RealPage was taken private by Thoma Bravo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C79",
+   "type": "acquisitions",
+   "claim": "RealPage acquired Buildium.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages state that Buildium is a RealPage company but no page read describes an acquisition.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Buildium is owned by RealPage, which acquired it"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|1",
+     "quote": "after RealPage acquired Buildium"
+    },
+    {
+     "record_id": "residential-property-management|q8|Claude|3",
+     "quote": "after RealPage acquired Buildium"
+    },
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "Since the RealPage acquisition"
+    }
+   ]
+  },
+  {
+   "claim_id": "C80",
+   "type": "acquisitions",
+   "claim": "RealPage acquired Buildium in 2019.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read dates an acquisition (the purchase price in the answer is out of scope).",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|1",
+     "quote": "Buildium is owned by RealPage, which acquired it for $580 million in 2019."
+    }
+   ]
+  },
+  {
+   "claim_id": "C81",
+   "type": "plans",
+   "claim": "The Essential tier caps units at 150.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page does not state a unit cap for Essential.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q7|Claude|3",
+     "quote": "The Essential tier caps units at 150."
+    }
+   ]
+  },
+  {
+   "claim_id": "C82",
+   "type": "pricing",
+   "claim": "Incoming ACH (EFT) rent payments are included without a per-transaction fee only on the Premium plan.",
+   "class": "true",
+   "proof_url": "https://www.buildium.com/pricing/",
+   "proof_quote": "Free inspections, eSignatures and first year free Incoming EFT transactions",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Premium is the only plan with fee-free incoming EFT (for the first 12 months, then $0.60), while Essential and Growth charge per incoming EFT; the answer does not state the 12-month limit.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Claude|3",
+     "quote": "ACH online rent payments are only included for those on the Premium plan."
+    }
+   ]
+  },
+  {
+   "claim_id": "C83",
+   "type": "pricing",
+   "claim": "Pricing starts around $55 per month (stated as an approximation).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Split from C07 in the pass-2 consistency check: an approximate starting price of around $55 sits within about 5% of the home page's $58 (the pricing page says $62, and the two own pages disagree), so it does not clearly understate the published price and is not settled.",
+   "instances": [
+    {
+     "record_id": "residential-property-management|q10|Google AI Mode|2",
+     "quote": "starting around $55/month for base tier needs"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|1",
+     "quote": "Paid tiers start around $55/month and scale with your unit count."
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|2",
+     "quote": "Pricing starts around $55–$183+ per month depending on the exact tier"
+    },
+    {
+     "record_id": "residential-property-management|q10|Google AI Overviews|3",
+     "quote": "Pricing typically starts around $55/month plus per-unit fees"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Seven own pages read, all HTTP 200 and not thin. The vendor's own pages disagree on list prices: the pricing page shows Essential, Growth and Premium starting at $62, $192 and $400 per month, while the home page FAQ shows $58, $183 and $375 per month; neither states a billing basis, so claims matching either set were classed true against the page that states them (C04 to C06 rest on the home page FAQ; a reviewer may treat that FAQ as an older own page). The pricing matrix renders its per-plan check marks as images, so plan gating was classed only from the plan highlights and FAQ text. No about, press or newsroom page is linked from the site, so the RealPage acquisition and its date are unverifiable even though the footer states Buildium is a RealPage company. The Marketplace page lists more than 50 partners before a Load More button but states no count, so the two integration-count claims are unverifiable. Six cited pages were read for causes (the 6-page cap): the $55 price was traced to a Shuk Rentals article; Lula, a Yardi Breeze blog post, TurboTenant, DoorLoop and Leasense did not carry the $55 or Lumina statements; the Lumina (C54) and PayNearMe (C64) causes are recorded as not found because the cap was reached before the other cited pages could be read. Hedged lines (may incur, can carry, can add up, can increase) and positioning, ratings, market share and the $580 million and $10.2 billion amounts were not coded. In two Google AI Overviews answers the table header omits the Buildium column name; the first value column was read as Buildium from the row content. The passages file drops lines under bold sub-headings (for example Claude's Pricing bullets) and table rows that do not repeat the vendor name, so the full answer text was also read for every Buildium-headed section and for the Buildium columns of the q7 and q8 comparison tables; instances found there are included. Pass 2 (8 Oct 2026): no browser snapshot exists for Buildium and no page was blocked or thin; the matrix check marks remain unreadable as text, and the other snapshots were searched again for QuickBooks, unit minimums, contract terms, annual discounts, Thoma Bravo, a 2019 date, Happy Property, Forte and live chat without settling any claim, so nothing was re-classed on new reads. The 32 gap lines add nothing new: each in-scope line about Buildium is already an instance (the $55+, $62 and flat-tier table cells), and the rest are positioning, advice, comparisons with Re-Leased or Yardi Breeze, or lines about DoorLoop, AppFolio, Propertyware and Rentec. The markdown and Google-style tables and Buildium-headed sections added instances only: nine to C18 (ChatGPT table cells and a q8 Claude 3 row naming transaction, payment, e-signature and add-on fees), three to C40 (onboarding costs), q2 ChatGPT 2 to C47 and C52 (evaluate Growth for phone support and reporting automation), q7 ChatGPT 2 to C48 (Essential ticket support alone), and q7 Perplexity 2 to C20 (tiered pricing) and C24 (no minimum listed in Buildium's own materials). Consistency check: C07 was split. The exact statements (Pricing starts at $55+/month, Buildium starts at $55+/month base fees, The monthly base fee starts at $55) stay wrong against both own figures ($58 and $62), with $55+ read as from $55 rather than a lower bound; the four Google answers that say around $55 moved to new claim C83, unverifiable, because an approximation within about 5% of the home page's $58 does not clearly understate it while the two own pages disagree. C54 (Lumina only on Premium) stays wrong: the Essential highlights list Buildium's AI Assistant and the AI page says Lumina AI is available as part of select Buildium plans. C64 (no PayNearMe cash payments) stays wrong: the pricing page offers Retail Cash Payments, powered by PayNearMe.",
+ "answer_record_ids": [
+  "residential-property-management|q1|Claude|1",
+  "residential-property-management|q1|Claude|2",
+  "residential-property-management|q1|Claude|3",
+  "residential-property-management|q1|Google AI Mode|2",
+  "residential-property-management|q1|Google AI Mode|3",
+  "residential-property-management|q1|Google AI Overviews|2",
+  "residential-property-management|q10|ChatGPT|1",
+  "residential-property-management|q10|ChatGPT|2",
+  "residential-property-management|q10|ChatGPT|3",
+  "residential-property-management|q10|Claude|1",
+  "residential-property-management|q10|Claude|2",
+  "residential-property-management|q10|Claude|3",
+  "residential-property-management|q10|Google AI Mode|1",
+  "residential-property-management|q10|Google AI Mode|2",
+  "residential-property-management|q10|Google AI Mode|3",
+  "residential-property-management|q10|Google AI Overviews|1",
+  "residential-property-management|q10|Google AI Overviews|2",
+  "residential-property-management|q10|Google AI Overviews|3",
+  "residential-property-management|q10|Perplexity|1",
+  "residential-property-management|q10|Perplexity|2",
+  "residential-property-management|q10|Perplexity|3",
+  "residential-property-management|q2|ChatGPT|1",
+  "residential-property-management|q2|ChatGPT|2",
+  "residential-property-management|q2|ChatGPT|3",
+  "residential-property-management|q2|Claude|1",
+  "residential-property-management|q2|Claude|2",
+  "residential-property-management|q2|Claude|3",
+  "residential-property-management|q2|Google AI Mode|1",
+  "residential-property-management|q2|Google AI Mode|2",
+  "residential-property-management|q2|Google AI Mode|3",
+  "residential-property-management|q2|Google AI Overviews|1",
+  "residential-property-management|q2|Google AI Overviews|2",
+  "residential-property-management|q2|Google AI Overviews|3",
+  "residential-property-management|q2|Perplexity|1",
+  "residential-property-management|q2|Perplexity|2",
+  "residential-property-management|q2|Perplexity|3",
+  "residential-property-management|q3|ChatGPT|1",
+  "residential-property-management|q3|ChatGPT|2",
+  "residential-property-management|q3|ChatGPT|3",
+  "residential-property-management|q3|Claude|1",
+  "residential-property-management|q3|Claude|2",
+  "residential-property-management|q3|Claude|3",
+  "residential-property-management|q3|Google AI Mode|1",
+  "residential-property-management|q3|Google AI Mode|2",
+  "residential-property-management|q3|Google AI Mode|3",
+  "residential-property-management|q3|Google AI Overviews|1",
+  "residential-property-management|q3|Google AI Overviews|2",
+  "residential-property-management|q3|Google AI Overviews|3",
+  "residential-property-management|q3|Perplexity|1",
+  "residential-property-management|q3|Perplexity|2",
+  "residential-property-management|q3|Perplexity|3",
+  "residential-property-management|q4|ChatGPT|1",
+  "residential-property-management|q4|ChatGPT|2",
+  "residential-property-management|q4|ChatGPT|3",
+  "residential-property-management|q4|Claude|1",
+  "residential-property-management|q4|Claude|2",
+  "residential-property-management|q4|Claude|3",
+  "residential-property-management|q4|Google AI Mode|1",
+  "residential-property-management|q4|Google AI Mode|2",
+  "residential-property-management|q4|Google AI Mode|3",
+  "residential-property-management|q4|Google AI Overviews|1",
+  "residential-property-management|q4|Google AI Overviews|2",
+  "residential-property-management|q4|Google AI Overviews|3",
+  "residential-property-management|q4|Perplexity|1",
+  "residential-property-management|q4|Perplexity|2",
+  "residential-property-management|q4|Perplexity|3",
+  "residential-property-management|q5|ChatGPT|1",
+  "residential-property-management|q5|ChatGPT|2",
+  "residential-property-management|q5|ChatGPT|3",
+  "residential-property-management|q5|Claude|1",
+  "residential-property-management|q5|Claude|2",
+  "residential-property-management|q5|Claude|3",
+  "residential-property-management|q5|Google AI Mode|1",
+  "residential-property-management|q5|Google AI Mode|2",
+  "residential-property-management|q5|Google AI Mode|3",
+  "residential-property-management|q5|Google AI Overviews|1",
+  "residential-property-management|q5|Google AI Overviews|2",
+  "residential-property-management|q5|Google AI Overviews|3",
+  "residential-property-management|q5|Perplexity|1",
+  "residential-property-management|q5|Perplexity|2",
+  "residential-property-management|q5|Perplexity|3",
+  "residential-property-management|q6|Claude|1",
+  "residential-property-management|q6|Claude|2",
+  "residential-property-management|q6|Claude|3",
+  "residential-property-management|q6|Perplexity|2",
+  "residential-property-management|q6|Perplexity|3",
+  "residential-property-management|q7|ChatGPT|1",
+  "residential-property-management|q7|ChatGPT|2",
+  "residential-property-management|q7|ChatGPT|3",
+  "residential-property-management|q7|Claude|1",
+  "residential-property-management|q7|Claude|2",
+  "residential-property-management|q7|Claude|3",
+  "residential-property-management|q7|Google AI Mode|1",
+  "residential-property-management|q7|Google AI Mode|2",
+  "residential-property-management|q7|Google AI Mode|3",
+  "residential-property-management|q7|Google AI Overviews|1",
+  "residential-property-management|q7|Google AI Overviews|2",
+  "residential-property-management|q7|Perplexity|1",
+  "residential-property-management|q7|Perplexity|2",
+  "residential-property-management|q7|Perplexity|3",
+  "residential-property-management|q8|ChatGPT|1",
+  "residential-property-management|q8|ChatGPT|2",
+  "residential-property-management|q8|ChatGPT|3",
+  "residential-property-management|q8|Claude|1",
+  "residential-property-management|q8|Claude|2",
+  "residential-property-management|q8|Claude|3",
+  "residential-property-management|q8|Google AI Mode|1",
+  "residential-property-management|q8|Google AI Mode|2",
+  "residential-property-management|q8|Google AI Mode|3",
+  "residential-property-management|q8|Google AI Overviews|1",
+  "residential-property-management|q8|Google AI Overviews|2",
+  "residential-property-management|q8|Google AI Overviews|3",
+  "residential-property-management|q8|Perplexity|1",
+  "residential-property-management|q8|Perplexity|2",
+  "residential-property-management|q8|Perplexity|3",
+  "residential-property-management|q9|ChatGPT|1",
+  "residential-property-management|q9|ChatGPT|2",
+  "residential-property-management|q9|ChatGPT|3",
+  "residential-property-management|q9|Google AI Overviews|2"
+ ],
+ "named_count": 119
+}

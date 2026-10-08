@@ -1,0 +1,267 @@
+{
+ "vendor": "Baker Hill",
+ "slug": "baker-hill",
+ "category": "loan-origination-software",
+ "coded_at": "2026-10-08T04:06:42Z",
+ "pages_read": [
+  {
+   "url": "https://www.bakerhill.com/",
+   "key": "aad5aa56fae97afb",
+   "used_for": "home (redirects to https://bakerhill.com/)"
+  },
+  {
+   "url": "https://bakerhill.com/news/baker-hill-launches-un-fy",
+   "key": "5d6c60f77eb36b66",
+   "used_for": "press: UN/FY launch, dated 2025-11-06"
+  },
+  {
+   "url": "https://bakerhill.com/unify",
+   "key": "a368078beeaa34ba",
+   "used_for": "product: UN/FY"
+  },
+  {
+   "url": "https://bakerhill.com/commercial-lending",
+   "key": "749afcf8d4685b13",
+   "used_for": "product: commercial lending"
+  },
+  {
+   "url": "https://bakerhill.com/our-company",
+   "key": "2fd56a0095e67e92",
+   "used_for": "about"
+  },
+  {
+   "url": "https://bakerhill.com/partners-integrations",
+   "key": "14999392131c201b",
+   "used_for": "integrations and hosting"
+  },
+  {
+   "url": "https://bakerhill.com/banks",
+   "key": "d016bd167a66f941",
+   "used_for": "cause check for C01 (own page cited by q1 ChatGPT 2; now names UN/FY, so not the cause)"
+  },
+  {
+   "url": "https://aloan.ai/compare/meridianlink-alternatives",
+   "key": "466e18a53e461b81",
+   "used_for": "cause for C01 (cited by seven answers carrying it)"
+  },
+  {
+   "url": "https://aloan.ai/compare/ncino-alternatives",
+   "key": "b317b035f7188d14",
+   "used_for": "cause check for C01 (does not carry the NextGen name)"
+  }
+ ],
+ "needs_browser_read": [],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "product_names",
+   "claim": "Baker Hill's loan origination platform is named Baker Hill NextGen.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Pass 2 re-classed this from stale: the vendor's November 6, 2025 release says the NextGen name will be retired in 2026 without giving a date, the partner page read on 8 Oct 2026 still says Microsoft Azure provides the channel foundation to Baker Hill NextGen, and the UN/FY page says it is built on NextGen, so the pages read do not show that the name had been retired by the 22 to 23 Sep 2026 capture date.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|ChatGPT|2",
+     "quote": "**Baker Hill NextGen** | Offers a modular platform that lets banks expand functionality as their needs evolve."
+    },
+    {
+     "record_id": "loan-origination-software|q10|Google AI Mode|1",
+     "quote": "Baker Hill NextGen®: Focuses intensely on commercial loan origination, complex deal structuring, and portfolio risk tracking."
+    },
+    {
+     "record_id": "loan-origination-software|q1|Perplexity|2",
+     "quote": "**Best overall for many community banks:** **Baker Hill NextGen**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|1",
+     "quote": "Abrigo (formerly Sageworks), Baker Hill NextGen, HES LoanBox, and LendFoundry"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|2",
+     "quote": "Abrigo (formerly Sageworks), Baker Hill NextGen, HES LoanBox, and LendFoundry"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|3",
+     "quote": "**Abrigo** (formerly Sageworks) and **Baker Hill NextGen**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Perplexity|1",
+     "quote": "**nCino**, **Baker Hill NextGen**, and **Abrigo**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Perplexity|2",
+     "quote": "**nCino**, **Baker Hill NextGen**, and **Abrigo** are the most common platform alternatives"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Perplexity|3",
+     "quote": "**Baker Hill NextGen**"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Claude|1",
+     "quote": "Baker Hill NextGen is an established loan origination and portfolio platform for community and regional banks."
+    },
+    {
+     "record_id": "loan-origination-software|q6|Google AI Mode|3",
+     "quote": "Offers Baker Hill NextGen, a robust cloud-based platform handling commercial, small business, and consumer loan origination"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Google AI Overviews|3",
+     "quote": "Baker Hill NextGen offers an integrated platform for loan origination, risk management, and smart data analytics"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Perplexity|1",
+     "quote": "**Abrigo**, **Baker Hill NextGen**, and **Aloan**"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Perplexity|2",
+     "quote": "**Best overall commercial-lending replacement:** **Abrigo** or **Baker Hill NextGen**"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Perplexity|3",
+     "quote": "| **Baker Hill NextGen** | Credit analysis and portfolio monitoring |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "product_names",
+   "claim": "Baker Hill's platform is named UN/FY (Baker Hill UN/FY).",
+   "class": "true",
+   "proof_url": "https://bakerhill.com/commercial-lending",
+   "proof_quote": "Baker Hill UN/FY Commercial Loan Origination",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The commercial lending page names the platform Baker Hill UN/FY, and the home page lists UN/FY as the all-in-one lending and risk platform.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|ChatGPT|1",
+     "quote": "**Baker Hill UN/FY**"
+    },
+    {
+     "record_id": "loan-origination-software|q6|ChatGPT|1",
+     "quote": "Its **UN/FY** platform brings together lending workflows, digital small-business lending, deposit account opening, and data-driven decisioning."
+    },
+    {
+     "record_id": "loan-origination-software|q6|ChatGPT|2",
+     "quote": "Its current **UN/FY** offering emphasizes centralized deal management, configurable workflows, document handling, and automated financial spreading."
+    },
+    {
+     "record_id": "loan-origination-software|q6|ChatGPT|3",
+     "quote": "**Baker Hill UN/FY**"
+    },
+    {
+     "record_id": "loan-origination-software|q6|Google AI Overviews|2",
+     "quote": "Baker Hill (UN/FY) | Regional & community portfolios | Native Microsoft Azure/Fabric architecture"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "product_names",
+   "claim": "UN/FY is Baker Hill's current offering and succeeds NextGen.",
+   "class": "true",
+   "proof_url": "https://bakerhill.com/news/baker-hill-launches-un-fy",
+   "proof_quote": "As part of this evolution, Baker Hill will retire the NextGen name in 2026, bringing the LOS suite under the UN/FY brand",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The launch release describes UN/FY as the evolution of Baker Hill's LOS for existing NextGen clients and states that the LOS suite moves under the UN/FY brand as the NextGen name is retired.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q6|ChatGPT|1",
+     "quote": "Ask for a demo of the current UN/FY offering"
+    },
+    {
+     "record_id": "loan-origination-software|q6|ChatGPT|2",
+     "quote": "how any NextGen-to-UN/FY transition affects implementation"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "platforms",
+   "claim": "Baker Hill's platform is cloud-based.",
+   "class": "true",
+   "proof_url": "https://bakerhill.com/partners-integrations",
+   "proof_quote": "Microsoft Azure enables Baker Hill to quickly deploy, scale, and manage our solutions across a vast array of Microsoft data centers.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The partners page states that Baker Hill deploys and manages its solutions on Microsoft Azure, the cloud platform, across Microsoft data centers.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q6|Google AI Mode|3",
+     "quote": "Offers Baker Hill NextGen, a robust cloud-based platform handling commercial, small business, and consumer loan origination alongside portfolio risk management."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "platforms",
+   "claim": "UN/FY is built on Microsoft Azure and Microsoft Fabric.",
+   "class": "true",
+   "proof_url": "https://bakerhill.com/unify",
+   "proof_quote": "With Microsoft Azure Cosmos DB and Microsoft Fabric at its core, this architecture keeps intelligence fresh and data in motion",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The UN/FY page states that Microsoft Azure Cosmos DB and Microsoft Fabric are at the core of its architecture.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q6|Google AI Overviews|2",
+     "quote": "Native Microsoft Azure/Fabric architecture"
+    }
+   ]
+  }
+ ],
+ "notes": "Six own pages read for classing plus three cited pages read in the first pass for the C01 cause (bakerhill.com/banks, an own page that now names UN/FY, and two aloan.ai comparison pages), all HTTP 200 and not thin. The first pass classed C01 stale on the vendor's November 6, 2025 release, which announces UN/FY and the retirement of the NextGen name in 2026 without a day, and recorded aloan.ai/compare/meridianlink-alternatives (a competitor comparison page, typed other, cited by seven of the fifteen answers carrying C01) as its cause. Pass 2 (8 Oct 2026) re-classed C01 to unverifiable and cleared its proof, stale_change and cause fields: the release dates the announcement, not the retirement, the partner page read on 8 Oct 2026 still names Baker Hill NextGen in the present tense, and the UN/FY page says it is built on NextGen, so the pages read do not show the name was retired by the 22 to 23 Sep 2026 capture date. C03 stays true because the release itself describes UN/FY as the evolution of the LOS for NextGen clients. No browser reads exist for this vendor, and the gaps file and the answers' tables and sub-headings add no in-scope statement. Not coded: the SOC 2 Type II and ISO 27001 statement on the home page (no answer makes a certification claim), capability descriptions, fit judgements and implementation times, and the q6 Claude 1 line that Baker Hill has no Salesforce dependency (a comparison with nCino).",
+ "answer_record_ids": [
+  "loan-origination-software|q1|ChatGPT|1",
+  "loan-origination-software|q1|ChatGPT|2",
+  "loan-origination-software|q1|ChatGPT|3",
+  "loan-origination-software|q1|Claude|1",
+  "loan-origination-software|q1|Claude|2",
+  "loan-origination-software|q1|Claude|3",
+  "loan-origination-software|q1|Google AI Mode|1",
+  "loan-origination-software|q1|Perplexity|1",
+  "loan-origination-software|q1|Perplexity|2",
+  "loan-origination-software|q1|Perplexity|3",
+  "loan-origination-software|q10|Google AI Mode|1",
+  "loan-origination-software|q2|Perplexity|1",
+  "loan-origination-software|q2|Perplexity|3",
+  "loan-origination-software|q5|Claude|1",
+  "loan-origination-software|q5|Claude|2",
+  "loan-origination-software|q5|Claude|3",
+  "loan-origination-software|q5|Google AI Mode|1",
+  "loan-origination-software|q5|Perplexity|1",
+  "loan-origination-software|q5|Perplexity|2",
+  "loan-origination-software|q5|Perplexity|3",
+  "loan-origination-software|q6|ChatGPT|1",
+  "loan-origination-software|q6|ChatGPT|2",
+  "loan-origination-software|q6|ChatGPT|3",
+  "loan-origination-software|q6|Claude|1",
+  "loan-origination-software|q6|Claude|2",
+  "loan-origination-software|q6|Claude|3",
+  "loan-origination-software|q6|Google AI Mode|1",
+  "loan-origination-software|q6|Google AI Mode|2",
+  "loan-origination-software|q6|Google AI Mode|3",
+  "loan-origination-software|q6|Google AI Overviews|1",
+  "loan-origination-software|q6|Google AI Overviews|2",
+  "loan-origination-software|q6|Google AI Overviews|3",
+  "loan-origination-software|q6|Perplexity|1",
+  "loan-origination-software|q6|Perplexity|2",
+  "loan-origination-software|q6|Perplexity|3",
+  "loan-origination-software|q7|Claude|3"
+ ],
+ "named_count": 36
+}

@@ -1,0 +1,1325 @@
+{
+ "vendor": "Frazer",
+ "slug": "frazer",
+ "category": "dealership-management-systems",
+ "coded_at": "2026-10-08T04:22:00Z",
+ "pages_read": [
+  {
+   "url": "https://frazer.com/",
+   "key": "1a196fe6d8de6123",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.frazer.com/frazer-pricing",
+   "key": "eccd76d43476cd19",
+   "used_for": "pricing (cited)"
+  },
+  {
+   "url": "https://frazer.com/frazer-system-requirements",
+   "key": "e85f60520322308f",
+   "used_for": "platforms (system requirements)"
+  },
+  {
+   "url": "https://frazer.com/frazer-company",
+   "key": "21789633117e4993",
+   "used_for": "about: thin ('Loading'), no text"
+  },
+  {
+   "url": "https://frazer.com/frazer-products",
+   "key": "374c22672f2257db",
+   "used_for": "product (Hosted Frazer, Sidekick app)"
+  },
+  {
+   "url": "https://voltra.ai/blog/best-dealer-management-systems-2026/",
+   "key": "562f7adfcdeff35e",
+   "used_for": "cause (cited page)"
+  },
+  {
+   "url": "https://softwarefinder.com/accounting-software/frazer",
+   "key": "c36bf55c45be281f",
+   "used_for": "cause (cited page)"
+  },
+  {
+   "url": "https://www.selecthub.com/p/dealer-management-systems/frazer/",
+   "key": "1af13970ae4ae955",
+   "used_for": "cause (cited page): HTTP 403, no text"
+  },
+  {
+   "url": "https://wifitalents.com/best/used-car-dealer-management-software/",
+   "key": "c1c1aa7fdcb6c5f4",
+   "used_for": "cause (cited page, statement not found)"
+  },
+  {
+   "url": "https://www.lotpop.com/7-best-used-car-dealer-software-tools-for-2026",
+   "key": "99c47ae8d91b1001",
+   "used_for": "cause (cited page, statement not found)"
+  },
+  {
+   "url": "https://www.viewpointanalysis.com/post/dealer-management-system-software-options-2026",
+   "key": "1f9a6722f6d7924e",
+   "used_for": "cause (cited page, statement not found)"
+  },
+  {
+   "url": "https://frazer.com/frazer-company",
+   "key": "21789633117e4993.browser",
+   "used_for": "pass 2 browser read of the company page (founded 1985, over 17,000 dealerships, cloud-based DMS with over 200 integrations)"
+  }
+ ],
+ "needs_browser_read": [],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Frazer Desktop costs $129 per month.",
+   "class": "true",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "DESKTOP Only $ 129 /month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Desktop at $129 per month.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "**$129/month desktop**; hosted starts at **$199/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|2",
+     "quote": "**$129/month desktop; hosted starts at $199/month**."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "**$129/month desktop**; hosted starts at **$199/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "**$129/month desktop; hosted starts at $199/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|2",
+     "quote": "**$129/month desktop; hosted starts at $199/month.**"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "**Published pricing:** $129/month desktop; hosted access starts at $199/month."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|2",
+     "quote": "Its published pricing is **$129/month for desktop** or **hosted starting at $199/month**."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|1",
+     "quote": "| Frazer Desktop, including accounting and BHPH | **$129** |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "Desktop: **$129/month**."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "**$129 desktop**, or **hosted starting at $199**, including BHPH and full accounting."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "The standard Desktop version is $129 per month (or $1,299 per year ), and the Cloud-hosted version starts at $199 per month."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|2",
+     "quote": "Frazer DMS | Desktop/Hosted Cloud | Low flat monthly fee (~$129) | Unbeatable compliance forms & phone support"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Frazer Hosted starts at $199 per month.",
+   "class": "true",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "HOSTED Starting At $ 199 /month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Hosted starting at $199 per month.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "**$129/month desktop**; hosted starts at **$199/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|2",
+     "quote": "**$129/month desktop; hosted starts at $199/month**."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "**$129/month desktop**; hosted starts at **$199/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "**$129/month desktop; hosted starts at $199/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|2",
+     "quote": "**$129/month desktop; hosted starts at $199/month.**"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "**Published pricing:** $129/month desktop; hosted access starts at $199/month."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|2",
+     "quote": "Its published pricing is **$129/month for desktop** or **hosted starting at $199/month**."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|1",
+     "quote": "| Frazer Hosted, including accounting and BHPH | **Starting at $199** |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "Hosted: **starting at $199/month**."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "**$129 desktop**, or **hosted starting at $199**, including BHPH and full accounting."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "The standard Desktop version is $129 per month (or $1,299 per year ), and the Cloud-hosted version starts at $199 per month."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|3",
+     "quote": "Price plans include a Desktop Version for $119/month and a Hosted Version starting at $199/month."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|2",
+     "quote": "Flat published rate (approx. $1,299/yr or $199/mo hosted)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Frazer can be paid yearly at $1,299 per year.",
+   "class": "true",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "$ 129 /month , $ 387 /quarter , or $ 1299 /year ($ 249 discount)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers a $1,299 yearly subscription option.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "The standard Desktop version is $129 per month (or $1,299 per year ), and the Cloud-hosted version starts at $199 per month."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|2",
+     "quote": "Flat published rate (approx. $1,299/yr or $199/mo hosted)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Frazer costs about $129 to $199 per month, flat.",
+   "class": "true",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "DESKTOP Only $ 129 /month Inventory Management Sales Processing Forms Printing Buy Here Pay Here Full Accounting Suite Access from Anywhere Request a Demo HOSTED Starting At $ 199 /month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Desktop at $129 per month and Hosted from $199 per month.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|1",
+     "quote": "Pricing Model | Flat monthly rate (~$129 to $199/mo) | Modular/stacked pricing ($99/mo base, scales to $250–$500+/mo with CRM/BHPH)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "Total Estimated Cost | $129 – $199/mo flat | $300 – $600+/mo depending on modules"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Frazer pricing starts at $99 per month.",
+   "class": "wrong",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "DESKTOP Only $ 129 /month",
+   "stale_change": null,
+   "causing_url": "https://voltra.ai/blog/best-dealer-management-systems-2026/",
+   "causing_type": "other",
+   "causing_quote": "Frazer at $99/month and DealerCenter's free tier are the cheapest credible options for small independent used car lots.",
+   "rationale": "The pricing page's lowest plan is Desktop at $129 per month (the yearly option works out to more than $99 a month), so a $99 monthly starting price contradicts it; the cited VoltrA blog carries the $99 figure.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Claude|1",
+     "quote": "Frazer pricing starts at $99/month."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Perplexity|2",
+     "quote": "with pricing around **$99/month**."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Frazer at $99/month is one of the cheapest credible options for small independent used car lots."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "Frazer at $99/month is one of the cheapest credible options for small independent used car lots."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "Frazer at $99/month is one of the cheapest credible options for small independent used car lots."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Frazer costs a flat $55 per month.",
+   "class": "wrong",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "DESKTOP Only $ 129 /month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page's lowest monthly price is $129 (Desktop); the six-page cause budget was spent on pages cited by other wrong claims, so the $55 figure was not traced.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|2",
+     "quote": "It costs a flat $55 per month and includes built-in accounting."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|3",
+     "quote": "known for flat-rate pricing (around $55/month)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Frazer costs about $600 per year.",
+   "class": "wrong",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "$ 129 /month , $ 387 /quarter , or $ 1299 /year ($ 249 discount)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page gives the yearly subscription as $1,299, not about $600; the likeliest cited source (SelectHub) answered 403 and the rest of the cause budget was spent, so the cause was not found.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "Frazer is widely praised for its affordability (~$600/year), excellent customer service, and straightforward functionality."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "The Frazer Desktop version costs $119 per month.",
+   "class": "wrong",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "DESKTOP Only $ 129 /month",
+   "stale_change": null,
+   "causing_url": "https://softwarefinder.com/accounting-software/frazer",
+   "causing_type": "directory",
+   "causing_quote": "The Frazer price plans include a Desktop Version for $119/month and a Hosted Version starting at $199/month.",
+   "rationale": "The pricing page lists the same plan (Desktop) on the same monthly basis at $129, not $119; the cited Software Finder listing carries $119.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Claude|3",
+     "quote": "Price plans include a Desktop Version for $119/month and a Hosted Version starting at $199/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Frazer pricing starts at $199 per month for the base plan (single location).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Re-classed from wrong in pass 2: the pricing page lists two plans, Desktop at $129 per month and Hosted starting at $199 per month, and defines no 'base plan' or single-location price; the answers present Frazer as a cloud-based DMS, whose published cloud (Hosted) price does start at $199, so the claim is not explicitly contradicted like with like.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Claude|1",
+     "quote": "Starts at $199/month for the base plan (single location)."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Claude|2",
+     "quote": "Pricing starts at around **$199/month** for a single location."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Claude|3",
+     "quote": "Starts at $199/month for the base plan."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Frazer costs about $215 per month (flat).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Hosted pricing starts at $199 and the page does not list higher Hosted prices, so a $215 configuration is neither confirmed nor contradicted.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|2",
+     "quote": "Very affordable flat monthly fee (~$215/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Frazer is priced as a flat-rate subscription with no per-user or add-on module charges for core features.",
+   "class": "true",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "DESKTOP Only $ 129 /month Inventory Management Sales Processing Forms Printing Buy Here Pay Here Full Accounting Suite",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page gives one subscription price that includes all core modules and states there are no setup costs or hidden fees.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|1",
+     "quote": "Flat monthly fee, desktop-based with cloud backup."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|1",
+     "quote": "Flat, highly affordable monthly fee"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|2",
+     "quote": "Very affordable flat monthly fee (~$215/mo)"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|3",
+     "quote": "Frazer | Independent used car lots | Flat monthly fee | Incredibly easy to learn and use; stellar customer support."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|1",
+     "quote": "Exceptional value with highly affordable flat-rate monthly pricing rather than charging per-user or per-deal."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|3",
+     "quote": "Frazer DMS provides extremely predictable, flat-rate monthly pricing without hidden user fees."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|1",
+     "quote": "Extremely affordable flat-rate pricing with built-in accounting and easy lender integrations"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|2",
+     "quote": "famous for simple workflows and flat-rate pricing"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|3",
+     "quote": "featuring straightforward flat-rate pricing and reliable local or hosted setups"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|1",
+     "quote": "with flat monthly pricing and built-in accounting reconciliation"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|2",
+     "quote": "It costs a flat $55 per month and includes built-in accounting."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|3",
+     "quote": "known for flat-rate pricing (around $55/month)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|1",
+     "quote": "Frazer is famous for its simple, low, flat-rate pricing with no surprise add-on modules for core features."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|2",
+     "quote": "Pricing Structure | Tiered/modular pricing based on features | One flat, published monthly subscription"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|3",
+     "quote": "Pricing Style | Tiered / Modular quotes | Public, flat-rate predictable"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "Pricing: Transparent flat-rate subscription."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|2",
+     "quote": "Flat published rate (approx. $1,299/yr or $199/mo hosted)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|3",
+     "quote": "Pricing Model | Modular, per-subscription & pay-per-use add-ons | Flat published subscription rate"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|1",
+     "quote": "| Pricing shape | Modular, can climb with add-ons | More predictable flat pricing |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|2",
+     "quote": "| Pricing shape | Modular; base price can rise with add-ons | Flat subscription; generally cheaper and easier to budget |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "Frazer publishes its pricing (transparent, public price list).",
+   "class": "true",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "Frazer Pricing Simple. Reliable. Smart. Affordable . DESKTOP Only $ 129 /month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Frazer has a public pricing page listing its plan prices.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "For small BHPH dealers, Frazer's transparent monthly pricing eliminates quote games"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|2",
+     "quote": "Pricing Structure | Tiered/modular pricing based on features | One flat, published monthly subscription"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|3",
+     "quote": "Pricing Style | Tiered / Modular quotes | Public, flat-rate predictable"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "Pricing: Transparent flat-rate subscription."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|2",
+     "quote": "Flat published rate (approx. $1,299/yr or $199/mo hosted)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|3",
+     "quote": "Pricing Model | Modular, per-subscription & pay-per-use add-ons | Flat published subscription rate"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|3",
+     "quote": "Published pricing is flatter and generally lower, especially for very small operations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Frazer is sold under a perpetual license model.",
+   "class": "wrong",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "Frazer is a subscription software, with several different options to subscribe.",
+   "stale_change": null,
+   "causing_url": "https://voltra.ai/blog/best-dealer-management-systems-2026/",
+   "causing_type": "other",
+   "causing_quote": "Frazer runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers.",
+   "rationale": "The pricing page states that Frazer is subscription software paid monthly, quarterly or yearly; the cited VoltrA blog carries the perpetual-license sentence the answers repeat.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Claude|1",
+     "quote": "Frazer runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Frazer runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "Frazer runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "It runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Frazer has no setup costs.",
+   "class": "true",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "there are no setup costs or hidden fees",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states there are no setup costs or hidden fees.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "it advertises free unlimited support and no setup costs."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "it advertises free unlimited support and no setup costs."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "Advertises no setup costs and free, unlimited customer support."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "There are no hidden setup costs."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "plans",
+   "claim": "Frazer includes free, unlimited customer support.",
+   "class": "true",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "backed by free and unlimited world class customer support",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states Frazer is backed by free and unlimited customer support.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "it advertises free unlimited support and no setup costs."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "it advertises free unlimited support and no setup costs."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "Advertises no setup costs and free, unlimited customer support."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|1",
+     "quote": "flat monthly pricing that includes unlimited support and built-in accounting"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "over 200 finance and marketing integrations, and unlimited customer service."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "plans",
+   "claim": "The Frazer subscription includes inventory, sales processing, forms, full accounting and BHPH (not separate modules).",
+   "class": "true",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "DESKTOP Only $ 129 /month Inventory Management Sales Processing Forms Printing Buy Here Pay Here Full Accounting Suite",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists inventory management, sales processing, forms printing, Buy Here Pay Here and the full accounting suite in both the Desktop and Hosted plans, and its comparison table marks BHPH and Accounting as included.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "Accounting and BHPH are included in its subscription"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|2",
+     "quote": "Accounting and buy-here-pay-here functionality are included."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "Its listed subscription includes sales processing, forms, full accounting, and BHPH functionality."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "Includes inventory, sales paperwork, accounting and buy-here-pay-here."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|2",
+     "quote": "Includes inventory, sales processing, forms, accounting, and BHPH."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "Includes inventory, sales processing, forms, buy-here-pay-here (BHPH), and a full accounting suite."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|2",
+     "quote": "A budget-focused option with inventory, sales processing, BHPH, and accounting."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|1",
+     "quote": "BHPH and accounting are bundled rather than separate modules."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "BHPH is included rather than a separate module."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "BHPH and accounting are included rather than separate modules."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|3",
+     "quote": "It features robust built-in accounting at no extra cost"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|1",
+     "quote": "It includes full accounting at no extra cost"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|2",
+     "quote": "It includes basic accounting at no extra cost"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|2",
+     "quote": "It costs a flat $55 per month and includes built-in accounting."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "plans",
+   "claim": "The hosted option costs more than the desktop version.",
+   "class": "true",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "DESKTOP Only $ 129 /month Inventory Management Sales Processing Forms Printing Buy Here Pay Here Full Accounting Suite Access from Anywhere Request a Demo HOSTED Starting At $ 199 /month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Desktop at $129 and Hosted from $199 per month.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|2",
+     "quote": "though they offer hosted cloud options at a higher rate"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "Frazer includes a database of over 70,000 forms.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read say 'Thousands of Free Forms' and give no count, so 70,000 is neither confirmed nor contradicted.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|2",
+     "quote": "It features an incredibly robust database of over 70,000 state-compliant forms"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "includes a database of over 70,000 forms"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "Forms Library | 70,000+ included free | Included / eContract transaction fees apply"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "customer_counts",
+   "claim": "Frazer serves more than 19,000 dealers.",
+   "class": "true",
+   "proof_url": "https://frazer.com/",
+   "proof_quote": "America's DMS, trusted by More Than 19,000 Used Car Dealers across all 50 States.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states Frazer is trusted by more than 19,000 used car dealers.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Claude|1",
+     "quote": "Frazer is a dealer management system built specifically for independent used car dealers, serving more than 19,000 dealers across all 50 states."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Claude|2",
+     "quote": "serving more than 19,000 dealers across all fifty states."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Claude|3",
+     "quote": "serving more than 19,000 dealers across all fifty states."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|1",
+     "quote": "Frazer has **19,000+ dealers and 30+ years in the market**"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "Has 19,000+ dealers and 30+ years in the market"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|3",
+     "quote": "Has 19,000+ dealers and 30+ years in the market."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "customer_counts",
+   "claim": "Frazer serves dealers in all 50 states.",
+   "class": "true",
+   "proof_url": "https://frazer.com/",
+   "proof_quote": "America's DMS, trusted by More Than 19,000 Used Car Dealers across all 50 States.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states Frazer's dealers are spread across all 50 states.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Claude|1",
+     "quote": "Frazer is a dealer management system built specifically for independent used car dealers, serving more than 19,000 dealers across all 50 states."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Claude|2",
+     "quote": "serving more than 19,000 dealers across all fifty states."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Claude|3",
+     "quote": "serving more than 19,000 dealers across all fifty states."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "customer_counts",
+   "claim": "Frazer is trusted by over 20,000 dealers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages state 'More Than 19,000' dealers, a lower bound that neither confirms nor contradicts over 20,000.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|1",
+     "quote": "deeply trusted by over 20,000 dealers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "customer_counts",
+   "claim": "Frazer handles roughly 22,000 dealers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages state 'More Than 19,000' dealers, a lower bound that neither confirms nor contradicts roughly 22,000.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Claude|1",
+     "quote": "Frazer runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Frazer runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "Frazer runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "It runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "founding",
+   "claim": "Frazer has served independent dealers since 1985.",
+   "class": "true",
+   "proof_url": "https://frazer.com/",
+   "proof_quote": "Since 1985, Frazer has been helping independent car dealers achieve success",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page dates Frazer's service to independent dealers from 1985.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Claude|1",
+     "quote": "Frazer has been serving independent dealers since 1985."
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "founding",
+   "claim": "Frazer has been in the market for 30+ years.",
+   "class": "true",
+   "proof_url": "https://frazer.com/",
+   "proof_quote": "Since 1985, Frazer has been helping independent car dealers achieve success",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Serving dealers since 1985 means more than 30 years in the market.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Claude|1",
+     "quote": "Frazer has **19,000+ dealers and 30+ years in the market**"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "Has 19,000+ dealers and 30+ years in the market"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|3",
+     "quote": "Has 19,000+ dealers and 30+ years in the market."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "platforms",
+   "claim": "Frazer is Windows desktop software (installed on local PCs).",
+   "class": "true",
+   "proof_url": "https://frazer.com/frazer-system-requirements",
+   "proof_quote": "Minimum System Requirements Microsoft Windows 11 or Windows 10",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The system requirements page requires Windows 11 or 10, and the pricing page offers a Desktop plan.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Claude|1",
+     "quote": "Frazer runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Frazer runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "Frazer runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "It runs on Windows desktops with a perpetual license model and handles roughly 22,000 dealers."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Perplexity|2",
+     "quote": "it is described as a fit for *very small lots* and a *Windows-based workflow*"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Perplexity|3",
+     "quote": "you mainly need a basic, Windows-based used-car DMS"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|1",
+     "quote": "Flat monthly fee, desktop-based with cloud backup."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|1",
+     "quote": "Architecture: Historically a desktop-based software, though they offer a \"Hosted Frazer\" option for remote cloud access."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|2",
+     "quote": "The base product is traditionally desktop-installed rather than purely cloud-native (though they offer hosted cloud options at a higher rate)."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|3",
+     "quote": "Frazer | Low, flat-rate pricing; rock-solid reliability | Desktop-first or Hosted | Cash / Retail / Standard BHPH"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|3",
+     "quote": "Worth evaluating for a used-car-focused DMS, with both desktop and hosted options."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "Demo the desktop/hosted experience to see whether it suits your team."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "Decide whether its desktop/hosted setup suits how your staff works."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "Frazer isn’t desktop-only—it offers a hosted cloud version."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "**Frazer** is primarily a Windows desktop application."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|1",
+     "quote": "Platform Type | Traditional desktop or hosted cloud | Cloud-native web and mobile app"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|2",
+     "quote": "Platform Type | Cloud-based (web and mobile app) | Windows desktop-centered"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|3",
+     "quote": "It is traditionally a desktop-installed application (though hosted/cloud versions are available)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "Primary Delivery | Desktop app (Cloud hosted optional) | Cloud-first / Mobile app friendly"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|2",
+     "quote": "Platform Type | Cloud-native, mobile-friendly app | Traditional Windows desktop (hosted options available)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|3",
+     "quote": "Platform Type | Cloud-native / Browser & Mobile app | Windows desktop-centered (Hosted option available)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|1",
+     "quote": "| Deployment | Cloud/web-based | Desktop/hosted option |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|2",
+     "quote": "prefer a simpler desktop/hosted workflow"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|3",
+     "quote": "while Frazer is more desktop/hosted"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "platforms",
+   "claim": "Frazer is available as a cloud-based (hosted) DMS.",
+   "class": "true",
+   "proof_url": "https://frazer.com/",
+   "proof_quote": "Hosted Frazer is a cloud-based version of Frazer DMS enhanced to offer more accessibility and location independence.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page describes Hosted Frazer as a cloud-based version of Frazer DMS on a remote cloud server; the q1 Claude answers call Frazer a cloud-based DMS without noting that the base product is Windows desktop, but the cloud version exists.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Claude|1",
+     "quote": "It is a comprehensive cloud-based DMS designed for independent used car dealers"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Claude|2",
+     "quote": "It is a comprehensive cloud-based DMS designed specifically for independent used car dealers"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Claude|3",
+     "quote": "It is a comprehensive cloud-based DMS designed specifically for independent used car dealers"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|1",
+     "quote": "It can run locally on a simple office PC or via their secure cloud-hosted option."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|1",
+     "quote": "Architecture: Historically a desktop-based software, though they offer a \"Hosted Frazer\" option for remote cloud access."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|2",
+     "quote": "The base product is traditionally desktop-installed rather than purely cloud-native (though they offer hosted cloud options at a higher rate)."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|3",
+     "quote": "Frazer | Low, flat-rate pricing; rock-solid reliability | Desktop-first or Hosted | Cash / Retail / Standard BHPH"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|3",
+     "quote": "Worth evaluating for a used-car-focused DMS, with both desktop and hosted options."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|3",
+     "quote": "featuring straightforward flat-rate pricing and reliable local or hosted setups"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|1",
+     "quote": "Its hosted option provides remote access."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "Frazer isn’t desktop-only—it offers a hosted cloud version."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "it offers hosted access and a mobile inventory app"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|1",
+     "quote": "Frazer's hosted DMS provides online access, automatic updates, enhanced security, and reduced IT costs, with partnerships spanning over 200 industry tools."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "(Note: Frazer does offer a hosted/cloud option as an add-on.)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|1",
+     "quote": "Platform Type | Traditional desktop or hosted cloud | Cloud-native web and mobile app"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|2",
+     "quote": "Mobile/Remote Use | Excellent mobile app and browser access | Limited remote access (requires hosted/remote desktop setup)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|3",
+     "quote": "It is traditionally a desktop-installed application (though hosted/cloud versions are available)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "Primary Delivery | Desktop app (Cloud hosted optional) | Cloud-first / Mobile app friendly"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|2",
+     "quote": "Platform Type | Cloud-native, mobile-friendly app | Traditional Windows desktop (hosted options available)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|3",
+     "quote": "Platform Type | Cloud-native / Browser & Mobile app | Windows desktop-centered (Hosted option available)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|1",
+     "quote": "| Deployment | Cloud/web-based | Desktop/hosted option |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|2",
+     "quote": "prefer a simpler desktop/hosted workflow"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|3",
+     "quote": "while Frazer is more desktop/hosted"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "platforms",
+   "claim": "Frazer has no cloud version (Windows desktop only).",
+   "class": "wrong",
+   "proof_url": "https://frazer.com/",
+   "proof_quote": "Hosted Frazer is a cloud-based version of Frazer DMS enhanced to offer more accessibility and location independence.",
+   "stale_change": null,
+   "causing_url": "https://voltra.ai/blog/best-dealer-management-systems-2026/",
+   "causing_type": "other",
+   "causing_quote": "There's no cloud version. It runs on Windows desktop.",
+   "rationale": "The answer's comparison table marks Frazer as not cloud ('Cloud?' column: '❌ Windows desktop'), but the home page describes Hosted Frazer as a cloud-based version; the cited VoltrA blog says there is no cloud version.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Claude|1",
+     "quote": "| **Frazer** | Budget-conscious lots | ~$99/mo | ❌ Windows desktop |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "platforms",
+   "claim": "Frazer has a mobile inventory app (Frazer Sidekick).",
+   "class": "true",
+   "proof_url": "https://frazer.com/frazer-products",
+   "proof_quote": "The Frazer Sidekick Mobile App is designed to complement the Frazer DMS and enables users to view inventory listings, photos, pricing and other vehicle and inventory information.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page describes the Frazer Sidekick mobile app for inventory.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "it offers hosted access and a mobile inventory app"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "platforms",
+   "claim": "Frazer lacks native cloud-first mobile applications.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Frazer publishes a native companion mobile app (Sidekick), but the claim's 'cloud-first' qualifier is not something the pages address, so it is not compared like with like.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|2",
+     "quote": "lacks native cloud-first mobile applications"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "platforms",
+   "claim": "Frazer lacks a native web-browser architecture.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The system requirements list Windows only and exclude Chromebooks and Macs, which suggests no browser version, but no page states it, and classing it would require inference.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|3",
+     "quote": "it lacks a fully native, modern web-browser architecture"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "integrations",
+   "claim": "Frazer has over 200 integrations (industry partners).",
+   "class": "true",
+   "proof_url": "https://www.frazer.com/frazer-pricing",
+   "proof_quote": "Frazer has partnered with over 200 industry leaders",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states over 200 integrations with industry partners.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Claude|1",
+     "quote": "Frazer's hosted DMS provides online access, automatic updates, enhanced security, and reduced IT costs, with partnerships spanning over 200 industry tools."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "over 200 finance and marketing integrations, and unlimited customer service."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|1",
+     "quote": "connects with over 200 third-party services for marketing, finance, GPS, and vehicle history."
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "integrations",
+   "claim": "Frazer integrates with QuickBooks.",
+   "class": "true",
+   "proof_url": "https://frazer.com/",
+   "proof_quote": "Effortlessly transfer data to your QuickBooks account.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists a QuickBooks Transfer feature.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|3",
+     "quote": "easy QuickBooks integration"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "integrations",
+   "claim": "Frazer integrates with Dealer Car Search.",
+   "class": "true",
+   "proof_url": "https://frazer.com/",
+   "proof_quote": "Frazer connects directly to your Dealer Car Search website",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states Frazer connects directly to Dealer Car Search websites.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|3",
+     "quote": "Basic CRM features, relies on integrations/partners like Dealer Car Search"
+    }
+   ]
+  }
+ ],
+ "notes": "Four own pages read with text (home, pricing, system requirements, products), all HTTP 200. The company page https://frazer.com/frazer-company rendered only 'Loading' (thin) and is listed in needs_browser_read; the founding and dealer-count claims it might bear on are already settled by the home page. Six cited pages were read for causes (the per-vendor maximum): the VoltrA blog carries the $99 price, the perpetual license and 'no cloud version' (C05, C13, C27); Software Finder carries the $119 Desktop price (C08); SelectHub answered 403; WifiTalents, LotPop and ViewpointAnalysis did not carry the $199 starting price. C06 ($55) and C07 (~$600/year) have cause not found because the budget was spent. Judgement calls: (1) C09 ('starts at $199 for the base plan') is wrong because the cheapest plan is Desktop at $129; the answers seem to have conflated the Hosted starting price; (2) C26 groups the q1 Claude 'comprehensive cloud-based DMS' lines with hosted-option lines as true, since the vendor publishes a cloud-based version, while C27 (no cloud version) is wrong; (3) C11 flat-rate pricing is true although several of its instances also carry a wrong price ($55, ~$215), which is coded separately. Lower-bound counts above 'More Than 19,000' (over 20,000; roughly 22,000) are unverifiable. Out of scope or hedged, not coded: review ratings, '~40 employees', 'annual price increases' (reviewer complaints), 'Real-world costs ... often', the q3 claim that Frazer is tailored to powersports (positioning, not one of the 13 types), and 'no options to run a service center' (feature). Pass 2 (8 Oct 2026): https://frazer.com/frazer-company was read once in a real browser (key 21789633117e4993.browser) and removed from needs_browser_read. It says the journey began in 1985 with founder Michael Frazer, 'Serving Over 17,000 Dealerships Nationwide', and 'Our cloud-based DMS boasts over 200 integrations'; no answer names the founder or a headquarters, and no claim had been left unverifiable for want of this page, so nothing was re-classed on it. Reviewer note: the company page's 'over 17,000' differs from the home and pricing pages' 'More Than 19,000'; both are lower bounds, so C19 (more than 19,000) stays true on the home page and C21 and C22 stay unverifiable. Consistency check: C09 ('starts at $199 for the base plan, single location') is re-classed from wrong to unverifiable, superseding judgement call (1): the page defines no base plan, and the answers describe Frazer as cloud-based, whose Hosted plan does start at $199. C05 ($99 a month) and C06 ($55 a month) against a lowest published monthly price of $129, C07 (~$600 a year against $1,299 a year), C08 (Desktop $119 against Desktop $129), C13 (perpetual license against 'subscription software') and C27 (no cloud version against 'Hosted Frazer is a cloud-based version') stay wrong: each is contradicted on the vendor's own page on the same basis. Completeness: two instances added from comparison tables and sub-headed lines: dealership-management-systems|q2|Claude|1 to C31 (over 200 integrations) and dealership-management-systems|q8|Perplexity|3 to C12 (published pricing). Other uncovered cells repeat claims already listed for the same answer or are opinions and feature descriptions.",
+ "answer_record_ids": [
+  "dealership-management-systems|q1|ChatGPT|1",
+  "dealership-management-systems|q1|ChatGPT|2",
+  "dealership-management-systems|q1|ChatGPT|3",
+  "dealership-management-systems|q1|Claude|1",
+  "dealership-management-systems|q1|Claude|2",
+  "dealership-management-systems|q1|Claude|3",
+  "dealership-management-systems|q1|Google AI Mode|1",
+  "dealership-management-systems|q1|Google AI Mode|2",
+  "dealership-management-systems|q1|Google AI Mode|3",
+  "dealership-management-systems|q1|Google AI Overviews|1",
+  "dealership-management-systems|q1|Perplexity|1",
+  "dealership-management-systems|q1|Perplexity|2",
+  "dealership-management-systems|q1|Perplexity|3",
+  "dealership-management-systems|q2|ChatGPT|1",
+  "dealership-management-systems|q2|ChatGPT|2",
+  "dealership-management-systems|q2|ChatGPT|3",
+  "dealership-management-systems|q2|Claude|1",
+  "dealership-management-systems|q2|Google AI Mode|1",
+  "dealership-management-systems|q2|Google AI Mode|2",
+  "dealership-management-systems|q2|Google AI Mode|3",
+  "dealership-management-systems|q2|Google AI Overviews|1",
+  "dealership-management-systems|q2|Google AI Overviews|2",
+  "dealership-management-systems|q2|Google AI Overviews|3",
+  "dealership-management-systems|q2|Perplexity|1",
+  "dealership-management-systems|q2|Perplexity|2",
+  "dealership-management-systems|q2|Perplexity|3",
+  "dealership-management-systems|q3|Claude|1",
+  "dealership-management-systems|q3|Claude|3",
+  "dealership-management-systems|q4|Claude|3",
+  "dealership-management-systems|q5|ChatGPT|3",
+  "dealership-management-systems|q6|ChatGPT|2",
+  "dealership-management-systems|q6|ChatGPT|3",
+  "dealership-management-systems|q6|Claude|1",
+  "dealership-management-systems|q6|Claude|2",
+  "dealership-management-systems|q6|Claude|3",
+  "dealership-management-systems|q6|Google AI Mode|1",
+  "dealership-management-systems|q6|Google AI Mode|2",
+  "dealership-management-systems|q6|Google AI Mode|3",
+  "dealership-management-systems|q6|Google AI Overviews|1",
+  "dealership-management-systems|q6|Google AI Overviews|2",
+  "dealership-management-systems|q6|Google AI Overviews|3",
+  "dealership-management-systems|q6|Perplexity|1",
+  "dealership-management-systems|q6|Perplexity|2",
+  "dealership-management-systems|q6|Perplexity|3",
+  "dealership-management-systems|q8|ChatGPT|1",
+  "dealership-management-systems|q8|ChatGPT|2",
+  "dealership-management-systems|q8|ChatGPT|3",
+  "dealership-management-systems|q8|Claude|1",
+  "dealership-management-systems|q8|Claude|2",
+  "dealership-management-systems|q8|Claude|3",
+  "dealership-management-systems|q8|Google AI Mode|1",
+  "dealership-management-systems|q8|Google AI Mode|2",
+  "dealership-management-systems|q8|Google AI Mode|3",
+  "dealership-management-systems|q8|Google AI Overviews|1",
+  "dealership-management-systems|q8|Google AI Overviews|2",
+  "dealership-management-systems|q8|Google AI Overviews|3",
+  "dealership-management-systems|q8|Perplexity|1",
+  "dealership-management-systems|q8|Perplexity|2",
+  "dealership-management-systems|q8|Perplexity|3"
+ ],
+ "named_count": 59
+}

@@ -1,0 +1,869 @@
+{
+ "vendor": "Fieldwire",
+ "slug": "fieldwire",
+ "category": "construction-project-management",
+ "coded_at": "2026-10-08T04:05:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.fieldwire.com/pricing",
+   "key": "6ef8b1ac01e6fb59",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.fieldwire.com/",
+   "key": "9bc668c6b687a29b",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.fieldwire.com/about-us/",
+   "key": "fc6ec8057c3e1811",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.fieldwire.com/integrations/",
+   "key": "2a0b81a2e66d343f",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://www.fieldwire.com/press/",
+   "key": "2b452f539cc3181b",
+   "used_for": "press"
+  },
+  {
+   "url": "https://www.fieldwire.com/integrations/primavera/p6/",
+   "key": "4a03a6b9db7c848e",
+   "used_for": "integrations (individual integration page, Primavera P6; pass 2, directory loads by script)"
+  },
+  {
+   "url": "https://www.fieldwire.com/integrations/sage-intacct/",
+   "key": "26566fb026591f13",
+   "used_for": "integrations (individual integration page, Sage Intacct, with related Viewpoint Vista and Spectrum entries; pass 2, directory loads by script)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Pro plan costs $39 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/pricing",
+   "proof_quote": "Pro $ 39 per user / month billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Pro at $39 per user per month billed annually, the same plan and billing basis as the claim.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "Annual-billing rates are **$39/user/month for Pro**"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|2",
+     "quote": "**Pro starts at $39/user/month billed annually**"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Pro starts at **$39/user/month billed annually**"
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|1",
+     "quote": "published annual-billing rates are **$39, $64, or $89 per user/month**"
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "**$39/user/month** for Pro or **$89/user/month** for Business Plus, billed annually."
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|1",
+     "quote": "Annual-billing prices list **$39/user/month for Pro**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "The Business plan costs $64 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/pricing",
+   "proof_quote": "Business $ 64 per user / month billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Business at $64 per user per month billed annually, the same plan and billing basis as the claim.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "**$64 for Business**"
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|1",
+     "quote": "published annual-billing rates are **$39, $64, or $89 per user/month**"
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|1",
+     "quote": "**$64 for Business**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The Business Plus plan costs $89 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/pricing",
+   "proof_quote": "Business Plus $ 89 per user / month billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Business Plus at $89 per user per month billed annually, the same plan and billing basis as the claim.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "**$89 for Business Plus**"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|2",
+     "quote": "RFIs and submittals require **Business Plus at $89/user/month annually**"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Business Plus at **$89/user/month annually**"
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|1",
+     "quote": "published annual-billing rates are **$39, $64, or $89 per user/month**"
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "**$39/user/month** for Pro or **$89/user/month** for Business Plus, billed annually."
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|3",
+     "quote": "listed at **$89/user/month billed annually**"
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|1",
+     "quote": "**$89 for Business Plus**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Paid plans start at $39 per user per month (billing basis not stated).",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/pricing",
+   "proof_quote": "Pro $ 39 per user / month billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Pro is the lowest paid plan on the pricing page at $39 per user per month (billed annually), so the stated paid starting price matches; the answer does not claim a monthly-billing price.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q4|Claude|2",
+     "quote": "with a free tier offering a low-risk entry point and paid plans starting at $39/user/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Pricing is per user (per user per month).",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/pricing",
+   "proof_quote": "Users | 5 | Pay per user | Pay per user | Pay per user |",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states pay per user on every paid plan and quotes each plan per user per month; the word add-on in one answer describes positioning beside a main platform, not a price fact.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "Per user (add-on)"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Per user/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Pricing is tiered.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/pricing",
+   "proof_quote": "Usage | Basic | Pro | Business | Business Plus |",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page compares four tiers: Basic, Pro, Business and Business Plus.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|2",
+     "quote": "| **Fieldwire** | Field crew task & blueprint management | Tiered |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "free_tier",
+   "claim": "Fieldwire has a free plan (Basic).",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/pricing",
+   "proof_quote": "Basic $ 0 per user / month For small teams wanting to try out Fieldwire's core features. START FOR FREE",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the Basic plan at $0 per user per month.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "Free Basic plan supports up to **5 users, 3 projects, and 100 sheets**."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|2",
+     "quote": "Limited free plan;"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Free tier allows **5 users, 3 projects, and 100 sheets**."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|1",
+     "quote": "Field crews & site teams | Free plan available"
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Fieldwire provides a free plan for up to five users focused on task management and field coordination"
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "A limited free plan is available."
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|2",
+     "quote": "with a free tier offering a low-risk entry point and paid plans starting at $39/user/month."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|2",
+     "quote": "Field/on-site teams | Free basic plan"
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|3",
+     "quote": "Field/job site coordination | Free basic plan"
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|1",
+     "quote": "A limited free tier is available."
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|2",
+     "quote": "A focused field-management option with a free entry tier."
+    },
+    {
+     "record_id": "construction-project-management|q6|Claude|2",
+     "quote": "with strong offline capabilities and a genuine free tier."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "free_tier",
+   "claim": "The free plan allows up to 5 users.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/pricing",
+   "proof_quote": "Users | 5 | Pay per user | Pay per user | Pay per user |",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plan comparison table gives the Basic (free) plan 5 users.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "Free Basic plan supports up to **5 users, 3 projects, and 100 sheets**."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Free tier allows **5 users, 3 projects, and 100 sheets**."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Fieldwire provides a free plan for up to five users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "free_tier",
+   "claim": "The free plan allows up to 3 projects.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/pricing",
+   "proof_quote": "Projects | 3 | Unlimited | Unlimited | Unlimited |",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plan comparison table gives the Basic (free) plan 3 projects.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "Free Basic plan supports up to **5 users, 3 projects, and 100 sheets**."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Free tier allows **5 users, 3 projects, and 100 sheets**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "free_tier",
+   "claim": "The free plan allows up to 100 sheets.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/pricing",
+   "proof_quote": "Sheets | 100 | Unlimited | Unlimited | Unlimited |",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plan comparison table gives the Basic (free) plan 100 sheets.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "Free Basic plan supports up to **5 users, 3 projects, and 100 sheets**."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "Free tier allows **5 users, 3 projects, and 100 sheets**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "plans",
+   "claim": "RFIs, submittals, change orders and budgets require the Business Plus plan.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/pricing",
+   "proof_quote": "BUY BUSINESS PLUS View features All Business features, and: RFIs Submittals Change Orders Budget",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists RFIs, Submittals, Change Orders and Budget as the features Business Plus adds over Business (the table marks submittal management, RFIs, change orders and budget for Business Plus only).",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|1",
+     "quote": "RFIs, submittals, change orders, and budgets require Business Plus."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|2",
+     "quote": "RFIs and submittals require **Business Plus at $89/user/month annually**"
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "RFIs, submittals, change orders, and budgets require Business Plus at **$89/user/month annually**"
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|1",
+     "quote": "its Business Plus tier adds RFIs, submittals, change orders, and budgets."
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "RFIs, submittals, change orders, and budgets require **Business Plus**."
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|3",
+     "quote": "RFIs, submittals, change orders, and budgets are on **Business Plus**"
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|1",
+     "quote": "RFIs, submittals, change orders, and budgets require Business Plus"
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|2",
+     "quote": "several project-management features require Business Plus."
+    },
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|3",
+     "quote": "RFIs, submittals, change orders, and budgets are in **Business Plus**, not the entry-level paid plan."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "plans",
+   "claim": "Forms and BIM viewing come with higher tiers, not the free entry tier.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/pricing",
+   "proof_quote": "BUY BUSINESS View features All Pro features, and: Custom forms App integrations BIM viewer Custom task fields",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page adds custom forms and the BIM viewer at the Business tier; the Basic (free) feature list does not include them.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q6|ChatGPT|2",
+     "quote": "Higher tiers add forms, BIM viewing, RFIs, submittals, change orders, and budgets."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "product_names",
+   "claim": "The product is named Fieldwire by Hilti.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/",
+   "proof_quote": "Fieldwire by Hilti",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's home page carries the name Fieldwire by Hilti.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|2",
+     "quote": "**Fieldwire by Hilti**"
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|1",
+     "quote": "**Fieldwire by Hilti**"
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|1",
+     "quote": "**Fieldwire by Hilti**"
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|2",
+     "quote": "**Fieldwire by Hilti**"
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|3",
+     "quote": "**Fieldwire by Hilti**"
+    },
+    {
+     "record_id": "construction-project-management|q4|Google AI Mode|1",
+     "quote": "Fieldwire by Hilti | Field execution, subs, and foremen"
+    },
+    {
+     "record_id": "construction-project-management|q4|Google AI Mode|2",
+     "quote": "Fieldwire by Hilti: A streamlined, highly rated mobile-first application"
+    },
+    {
+     "record_id": "construction-project-management|q4|Google AI Mode|3",
+     "quote": "Fieldwire (by Hilti): Best for field-first execution and ease of use."
+    },
+    {
+     "record_id": "construction-project-management|q4|Google AI Overviews|1",
+     "quote": "Fieldwire by Hilti: Best for field-heavy execution teams"
+    },
+    {
+     "record_id": "construction-project-management|q4|Google AI Overviews|2",
+     "quote": "Fieldwire by Hilti: Best for mobile-first field execution"
+    },
+    {
+     "record_id": "construction-project-management|q4|Perplexity|1",
+     "quote": "**Fieldwire by Hilti**, **Buildertrend**, **Contractor Foreman**"
+    },
+    {
+     "record_id": "construction-project-management|q4|Perplexity|2",
+     "quote": "**Fieldwire by Hilti**, **Buildertrend**, **Contractor Foreman**"
+    },
+    {
+     "record_id": "construction-project-management|q4|Perplexity|3",
+     "quote": "**Best for field teams:** **Fieldwire by Hilti**"
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|3",
+     "quote": "**Fieldwire (by Hilti)**"
+    },
+    {
+     "record_id": "construction-project-management|q6|Claude|1",
+     "quote": "**Fieldwire by Hilti**"
+    },
+    {
+     "record_id": "construction-project-management|q6|Claude|2",
+     "quote": "**Fieldwire by Hilti**"
+    },
+    {
+     "record_id": "construction-project-management|q6|Claude|3",
+     "quote": "**Fieldwire by Hilti**"
+    },
+    {
+     "record_id": "construction-project-management|q6|Google AI Mode|3",
+     "quote": "Fieldwire by Hilti (Best for Field Execution)"
+    },
+    {
+     "record_id": "construction-project-management|q6|Google AI Overviews|2",
+     "quote": "Fieldwire (by Hilti): Best for task management, punch lists, and on-site team collaboration."
+    },
+    {
+     "record_id": "construction-project-management|q6|Perplexity|2",
+     "quote": "**Fieldwire by Hilti**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "ownership",
+   "claim": "Fieldwire is owned by Hilti (part of Hilti).",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/",
+   "proof_quote": "Fieldwire is part of Hilti Construction Software",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states that Fieldwire is part of Hilti Construction Software.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q4|Google AI Mode|2",
+     "quote": "Owned by Hilti."
+    },
+    {
+     "record_id": "construction-project-management|q4|Google AI Mode|3",
+     "quote": "Owned by Hilti."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|2",
+     "quote": "Fieldwire, now part of Hilti, is construction project management software for field coordination."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|3",
+     "quote": "Fieldwire, now part of Hilti, is construction project management software for field coordination."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "acquisitions",
+   "claim": "Fieldwire was acquired by Hilti.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/press/",
+   "proof_quote": "Fieldwire + Hilti acquisition announcement Blog • November 16, 2021 The acquisition will further Hilti’s mission to drive outstanding field productivity",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's press page lists its own blog announcement of the Hilti acquisition.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Fieldwire is used on over 1,000,000 projects worldwide and was acquired by Hilti Group."
+    },
+    {
+     "record_id": "construction-project-management|q6|Claude|3",
+     "quote": "Hilti acquired Fieldwire in 2021"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "acquisitions",
+   "claim": "Hilti acquired Fieldwire in 2021.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/press/",
+   "proof_quote": "Fieldwire + Hilti acquisition announcement Blog • November 16, 2021 The acquisition will further Hilti’s mission to drive outstanding field productivity",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The press page dates the vendor's acquisition announcement to November 16, 2021.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q6|Claude|3",
+     "quote": "Hilti acquired Fieldwire in 2021"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "customer_counts",
+   "claim": "Fieldwire is used on over 1,000,000 projects worldwide.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/about-us/",
+   "proof_quote": "Fieldwire powers more than 4,000,000 commercial, industrial, heavy-civil and residential projects worldwide.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page states more than 4,000,000 projects, which satisfies the lower bound of over 1,000,000; the answer understates the published figure but does not contradict it, and no dated change to the count is published.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Fieldwire is used on over 1,000,000 projects worldwide"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "integrations",
+   "claim": "Fieldwire integrates with Procore.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory renders client side, so its snapshot names no partners; the two individual integration pages read in pass 2 (Primavera P6, Sage Intacct) and their related-integration lists do not name Procore, and no other page read names it. Absence from the pages read is not a contradiction.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "integrates with Procore, Sage, Viewpoint, CMiC, and Oracle Primavera P6"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "integrates with Procore, Sage, Viewpoint, CMiC, and Oracle Primavera P6"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "integrations",
+   "claim": "Fieldwire integrates with Sage.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/integrations/sage-intacct/",
+   "proof_quote": "Fieldwire & Sage Intacct Automatically import costs from Sage as Budget’s actual costs in Fieldwire (beta).",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Pass 2 re-class from unverifiable: the vendor's own Sage Intacct integration page, read because the directory loads by script, describes importing costs from Sage into Fieldwire budgets; the answer names Sage without a product, and Sage Intacct is a Sage product named as such on the page.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "integrates with Procore, Sage, Viewpoint, CMiC, and Oracle Primavera P6"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "integrates with Procore, Sage, Viewpoint, CMiC, and Oracle Primavera P6"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "integrations",
+   "claim": "Fieldwire integrates with Viewpoint.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/integrations/sage-intacct/",
+   "proof_quote": "Viewpoint Vista Project data, Budget [API required] Seamlessly import key information from Viewpoint Vista into Fieldwire to kick off projects faster and ensure data consistency.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Pass 2 re-class from unverifiable: the related-integrations list on the vendor's own Sage Intacct integration page lists Viewpoint Vista (and Viewpoint Spectrum) integrations that import project data into Fieldwire.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "integrates with Procore, Sage, Viewpoint, CMiC, and Oracle Primavera P6"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "integrates with Procore, Sage, Viewpoint, CMiC, and Oracle Primavera P6"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "integrations",
+   "claim": "Fieldwire integrates with CMiC.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory renders client side, so its snapshot names no partners; the two individual integration pages read in pass 2 (Primavera P6, Sage Intacct) and their related-integration lists do not name CMiC, and no other page read names it. Absence from the pages read is not a contradiction.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "integrates with Procore, Sage, Viewpoint, CMiC, and Oracle Primavera P6"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "integrates with Procore, Sage, Viewpoint, CMiC, and Oracle Primavera P6"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "integrations",
+   "claim": "Fieldwire integrates with Oracle Primavera P6.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/integrations/primavera/p6/",
+   "proof_quote": "Fieldwire & Primavera P6 Upload Primavera P6 files to create and update tasks in Fieldwire",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Pass 2 re-class from unverifiable: the vendor's own Primavera P6 integration page, read because the directory loads by script, describes uploading Primavera P6 files to create and update Fieldwire tasks.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "integrates with Procore, Sage, Viewpoint, CMiC, and Oracle Primavera P6"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "integrates with Procore, Sage, Viewpoint, CMiC, and Oracle Primavera P6"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "platforms",
+   "claim": "Fieldwire runs on iPhone and iPad (iOS).",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/",
+   "proof_quote": "Platforms iPhone iPad Android",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists iPhone and iPad under Platforms.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q4|Claude|1",
+     "quote": "all run from iPad, iPhone, or Android"
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|3",
+     "quote": "all run from iPad, iPhone, or Android"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "platforms",
+   "claim": "Fieldwire runs on Android.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/",
+   "proof_quote": "Platforms iPhone iPad Android",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists Android under Platforms.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q4|Claude|1",
+     "quote": "all run from iPad, iPhone, or Android"
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|3",
+     "quote": "all run from iPad, iPhone, or Android"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "platforms",
+   "claim": "Fieldwire has a mobile app.",
+   "class": "true",
+   "proof_url": "https://www.fieldwire.com/",
+   "proof_quote": "Available on the App Store Get it on Google Play",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Added in pass 2 under the clarification that 'has a mobile app' is a platforms claim: the home page offers the app on the App Store and Google Play and lists iPhone, iPad and Android under Platforms.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|1",
+     "quote": "Mobile application is purpose-built for the field, not adapted from a desktop tool, so crews actually use it on site."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Its mobile application is purpose-built for the field, not adapted from a desktop tool, so crews actually use it on site."
+    },
+    {
+     "record_id": "construction-project-management|q3|Google AI Mode|1",
+     "quote": "Strengths: Exceptionally strong mobile app for foremen and field crews."
+    },
+    {
+     "record_id": "construction-project-management|q4|Google AI Mode|2",
+     "quote": "Pros: Incredible blueprint markup tools, fast performance, and an intuitive mobile app."
+    },
+    {
+     "record_id": "construction-project-management|q4|Google AI Mode|3",
+     "quote": "widely praised for its exceptional drawing markup tools and mobile app performance on the jobsite"
+    },
+    {
+     "record_id": "construction-project-management|q6|Claude|1",
+     "quote": "Fieldwire's mobile app facilitates real-time updates and communication from the field, ensuring everyone stays informed and connected."
+    }
+   ]
+  }
+ ],
+ "notes": "Five own pages read in pass 1, all HTTP 200 and not thin. The pricing page was already in the cache from an earlier read (key 6ef8b1ac01e6fb59) and was reused, not refetched. The integrations page (key 2a0b81a2e66d343f) renders its partner directory client side, so its text snapshot names no partners. Pass 2 (8 Oct 2026): no browser snapshot exists for Fieldwire; under the clarification for script-loaded directories, two individual integration pages were read once with fetch-once (Primavera P6, key 4a03a6b9db7c848e; Sage Intacct, key 26566fb026591f13; seven pages in all). They settle C19 (Sage), C20 (Viewpoint, from the Sage page's related list of Viewpoint Vista and Spectrum) and C22 (Primavera P6), re-classed from unverifiable to true. C18 (Procore) and C21 (CMiC) stay unverifiable: neither appears on any page read; for the reviewer only, the raw HTML of the directory has no Procore or CMiC entry, which was not used to class. Pass 2 also added C25 (has a mobile app, six instances) because the clarifications make 'has a mobile app' a platforms claim; pass 1 had treated generic mobile mentions as capabilities. 'Mobile-first', 'mobile access' and offline lines were still not coded. Gap lines and tables added nothing else: the table cells 'Free (up to 5 users)', 'Free / $39/user/mo' and 'Free tier + paid plans' repeat claims their answers already carry, and the Foundation integration line is about eSub. No claim is wrong or stale, so no cited page was read for causes. C17 (over 1,000,000 projects) is classed true as a lower bound of the published more than 4,000,000. One cited own page (staging.fieldwire.com) was not read.",
+ "answer_record_ids": [
+  "construction-project-management|q2|Claude|1",
+  "construction-project-management|q2|Claude|2",
+  "construction-project-management|q2|Claude|3",
+  "construction-project-management|q2|Google AI Mode|1",
+  "construction-project-management|q2|Google AI Mode|2",
+  "construction-project-management|q2|Google AI Mode|3",
+  "construction-project-management|q2|Google AI Overviews|3",
+  "construction-project-management|q3|ChatGPT|1",
+  "construction-project-management|q3|ChatGPT|2",
+  "construction-project-management|q3|ChatGPT|3",
+  "construction-project-management|q3|Claude|1",
+  "construction-project-management|q3|Claude|2",
+  "construction-project-management|q3|Claude|3",
+  "construction-project-management|q3|Google AI Mode|1",
+  "construction-project-management|q3|Google AI Mode|2",
+  "construction-project-management|q3|Google AI Mode|3",
+  "construction-project-management|q3|Google AI Overviews|1",
+  "construction-project-management|q3|Google AI Overviews|2",
+  "construction-project-management|q3|Google AI Overviews|3",
+  "construction-project-management|q3|Perplexity|1",
+  "construction-project-management|q3|Perplexity|2",
+  "construction-project-management|q3|Perplexity|3",
+  "construction-project-management|q4|ChatGPT|1",
+  "construction-project-management|q4|ChatGPT|2",
+  "construction-project-management|q4|ChatGPT|3",
+  "construction-project-management|q4|Claude|1",
+  "construction-project-management|q4|Claude|2",
+  "construction-project-management|q4|Claude|3",
+  "construction-project-management|q4|Google AI Mode|1",
+  "construction-project-management|q4|Google AI Mode|2",
+  "construction-project-management|q4|Google AI Mode|3",
+  "construction-project-management|q4|Google AI Overviews|1",
+  "construction-project-management|q4|Google AI Overviews|2",
+  "construction-project-management|q4|Google AI Overviews|3",
+  "construction-project-management|q4|Perplexity|1",
+  "construction-project-management|q4|Perplexity|2",
+  "construction-project-management|q4|Perplexity|3",
+  "construction-project-management|q5|Claude|1",
+  "construction-project-management|q5|Claude|2",
+  "construction-project-management|q5|Claude|3",
+  "construction-project-management|q5|Google AI Mode|2",
+  "construction-project-management|q5|Perplexity|1",
+  "construction-project-management|q5|Perplexity|2",
+  "construction-project-management|q5|Perplexity|3",
+  "construction-project-management|q6|ChatGPT|1",
+  "construction-project-management|q6|ChatGPT|2",
+  "construction-project-management|q6|ChatGPT|3",
+  "construction-project-management|q6|Claude|1",
+  "construction-project-management|q6|Claude|2",
+  "construction-project-management|q6|Claude|3",
+  "construction-project-management|q6|Google AI Mode|1",
+  "construction-project-management|q6|Google AI Mode|2",
+  "construction-project-management|q6|Google AI Mode|3",
+  "construction-project-management|q6|Google AI Overviews|2",
+  "construction-project-management|q6|Perplexity|1",
+  "construction-project-management|q6|Perplexity|2",
+  "construction-project-management|q6|Perplexity|3"
+ ],
+ "named_count": 57
+}

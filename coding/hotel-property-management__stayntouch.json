@@ -1,0 +1,586 @@
+{
+ "vendor": "Stayntouch",
+ "slug": "stayntouch",
+ "category": "hotel-property-management",
+ "coded_at": "2026-10-08T04:02:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.stayntouch.com/",
+   "key": "aa87f0476cadaafa",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.stayntouch.com/easier-pricing/",
+   "key": "4df9efbf158a117d",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.stayntouch.com/cloud-pms/",
+   "key": "7f151b58023d63e5",
+   "used_for": "product: cloud PMS"
+  },
+  {
+   "url": "https://www.stayntouch.com/integrations/",
+   "key": "63bb47a540dadbfa",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://www.stayntouch.com/blog/best-independent-boutique-hotel-pms/",
+   "key": "825ad5e0cf885458",
+   "used_for": "own blog cited by answers"
+  },
+  {
+   "url": "https://www.stayntouch.com/front-desk/",
+   "key": "f0f2e2f51c33fe88",
+   "used_for": "product: front desk (tablet and mobile check)"
+  },
+  {
+   "url": "https://www.stayntouch.com/company/",
+   "key": "a40b6a17a3739b1e",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.stayntouch.com/blog/best-multi-property-hotel-pms/",
+   "key": "f8cdda9c0f05af50",
+   "used_for": "own blog cited by 18 answers (multi-property), read in pass 2"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Stayntouch pricing is quote-based or custom.",
+   "class": "true",
+   "proof_url": "https://www.stayntouch.com/easier-pricing/",
+   "proof_quote": "Bundled Product Suite Stayntouch 2.0 A complete tech suite to streamline operations, simplify payments, optimize distribution revenue, and enhance the guest experience. Request Pricing",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the core PMS and the bundled suite with Request Pricing and no published price; the multi-property blog gives a custom quote for chain plans.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q10|Claude|2",
+     "quote": "| Stayntouch | Mid-size hotel groups | ⭐⭐⭐⭐⭐ | Quote-based |"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|1",
+     "quote": "| Stayntouch | Guest-centric, 30–350 rooms | Custom |"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "| Stayntouch | Mobile/tablet-first teams | Custom pricing |"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|3",
+     "quote": "| Stayntouch | Lifestyle/boutique, 30–350 rooms | Custom |"
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Overviews|3",
+     "quote": "Stayntouch | Mobile management | Quote-based / custom | Color-coded cross-property oversight"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Stayntouch pricing runs around $800 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no price (Request Pricing only) and the multi-property blog gives only a custom quote for chain plans, so a monthly figure cannot be checked.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Google AI Overviews|1",
+     "quote": "Pricing runs around $800/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "product_names",
+   "claim": "Stayntouch's training program is named Stayntouch Academy.",
+   "class": "true",
+   "proof_url": "https://www.stayntouch.com/blog/best-independent-boutique-hotel-pms/",
+   "proof_quote": "Stayntouch Academy delivers role-based, on-demand training tailored to each department.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's own blog page names Stayntouch Academy as its training offering in the same words.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Claude|3",
+     "quote": "Stayntouch Academy delivers role-based, on-demand training tailored to each department."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "integrations",
+   "claim": "Stayntouch offers 1,400+ integrations at no extra cost.",
+   "class": "true",
+   "proof_url": "https://www.stayntouch.com/",
+   "proof_quote": "Seamless integration with over 1400 interfaces at no extra cost.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states over 1400 interfaces at no extra cost, and the cloud PMS page a library of 1400+ integrations.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q10|Claude|1",
+     "quote": "With 1,400+ free integrations, 100% system uptime, and a 96% customer retention rate"
+    },
+    {
+     "record_id": "hotel-property-management|q10|Claude|2",
+     "quote": "With 1,400+ free integrations, 100% system uptime, and a 96% customer retention rate"
+    },
+    {
+     "record_id": "hotel-property-management|q10|Claude|3",
+     "quote": "With 1,400+ free integrations, 100% system uptime, and a 96% customer retention rate"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "integrations",
+   "claim": "Stayntouch integrates with SynXis.",
+   "class": "true",
+   "proof_url": "https://www.stayntouch.com/integrations/",
+   "proof_quote": "Central Reservation Systems Cubilis Dedge Amadeus /TravelClick iHotelier Staah Sabre /Synxis",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations hub lists Sabre SynXis among its central reservation system integrations.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q6|Google AI Mode|1",
+     "quote": "seamless integrations/rate-mapping (like SynXis)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "platforms",
+   "claim": "Stayntouch is a cloud-based (cloud-native) PMS.",
+   "class": "true",
+   "proof_url": "https://www.stayntouch.com/cloud-pms/",
+   "proof_quote": "Our cloud-native PMS, hosted on AWS, ensures superior performance, top-notch security, a scalable architecture, and 100% uptime.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The cloud PMS page describes the product as a cloud-native PMS hosted on AWS.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q10|Claude|1",
+     "quote": "Stayntouch delivers enterprise-grade multi-property management through a cloud-native platform"
+    },
+    {
+     "record_id": "hotel-property-management|q10|Claude|2",
+     "quote": "Stayntouch delivers enterprise-grade multi-property management through a cloud-native platform"
+    },
+    {
+     "record_id": "hotel-property-management|q10|Claude|3",
+     "quote": "Stayntouch delivers enterprise-grade multi-property management through a cloud-native platform"
+    },
+    {
+     "record_id": "hotel-property-management|q10|Google AI Mode|1",
+     "quote": "Stayntouch specializes in enterprise-grade, multi-property cloud management"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|1",
+     "quote": "combines a 100% cloud-native platform with a mobile-first design"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|3",
+     "quote": "Stayntouch combines a 100% cloud-native platform with a mobile-first design"
+    },
+    {
+     "record_id": "hotel-property-management|q4|ChatGPT|3",
+     "quote": "Cloud PMS with mobile staff workflows"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|1",
+     "quote": "A mobile-first and cloud-hosted PMS"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|2",
+     "quote": "A mobile-first and cloud-native PMS designed for operational flexibility."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Overviews|2",
+     "quote": "offering fast onboarding and strong cloud reliability."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Overviews|3",
+     "quote": "A flexible cloud PMS praised for fast staff onboarding"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Perplexity|1",
+     "quote": "multi-property groups that want a modern cloud PMS."
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|3",
+     "quote": "Offers a mobile-oriented cloud PMS"
+    },
+    {
+     "record_id": "hotel-property-management|q6|ChatGPT|1",
+     "quote": "Focuses on cloud hotel operations"
+    },
+    {
+     "record_id": "hotel-property-management|q6|ChatGPT|3",
+     "quote": "Its cloud PMS emphasizes mobile hotel operations and guest self-service."
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Overviews|1",
+     "quote": "A mobile-first, cloud hotel PMS built for teams"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Overviews|2",
+     "quote": "and flexible cloud operations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "platforms",
+   "claim": "Stayntouch is a mobile (mobile-optimized) PMS that staff can use on mobile devices away from the front desk.",
+   "class": "true",
+   "proof_url": "https://www.stayntouch.com/cloud-pms/",
+   "proof_quote": "Escape the front desk and meet your guests wherever they are on your property with a mobile optimized PMS.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The cloud PMS page calls the product a mobile optimized PMS and says it gives staff mobile flexibility anywhere on property.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Claude|1",
+     "quote": "It's a great option for boutique hotels looking for a modern, mobile-friendly PMS."
+    },
+    {
+     "record_id": "hotel-property-management|q10|Google AI Mode|1",
+     "quote": "Fully mobile-optimized interface (staff can check guests in via tablet anywhere)"
+    },
+    {
+     "record_id": "hotel-property-management|q10|Google AI Mode|2",
+     "quote": "Enterprise-grade multi-property controls with tablet/mobile check-in that reduces labor overhead across portfolio sites."
+    },
+    {
+     "record_id": "hotel-property-management|q10|Google AI Mode|3",
+     "quote": "It allows staff to manage operations from tablets or mobile devices on the floor"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|1",
+     "quote": "a mobile-first design that lets staff work from anywhere on the property."
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "Stayntouch is built for hotel teams that want to run the front desk from a tablet or phone, replacing the fixed front desk setup."
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|3",
+     "quote": "a mobile-first design that lets staff work from anywhere on the property instead of remaining behind the front desk."
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Mode|2",
+     "quote": "It features an intuitive, touch-centric interface that staff can run entirely on tablets or mobile devices"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Overviews|1",
+     "quote": "for its mobile-first design."
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Overviews|2",
+     "quote": "Mobile check-in and staff mobility on an iPad or phone."
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Overviews|3",
+     "quote": "Tablet- and mobile-optimized interface"
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Mode|1",
+     "quote": "staff mobility (tablet check-ins, mobile housekeeping management) is a core brand pillar"
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Mode|2",
+     "quote": "It allows staff to check guests in via mobile tablets anywhere on the property."
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Mode|3",
+     "quote": "allows staff to check guests in from tablets or mobile devices."
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Overviews|1",
+     "quote": "Tablet and mobile-operated check-in"
+    },
+    {
+     "record_id": "hotel-property-management|q4|ChatGPT|1",
+     "quote": "Offers mobile check-in/out, mobile housekeeping, multi-property management"
+    },
+    {
+     "record_id": "hotel-property-management|q4|ChatGPT|2",
+     "quote": "Supports mobile staff workflows and guest check-in/out"
+    },
+    {
+     "record_id": "hotel-property-management|q4|ChatGPT|3",
+     "quote": "Cloud PMS with mobile staff workflows"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "StayNTouch Cloud PMS is a mobile hotel PMS with seamless guest-facing solutions"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "StayNTouch Cloud PMS is a mobile hotel PMS with seamless guest-facing solutions"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "StayNTouch Cloud PMS is a mobile hotel PMS with seamless guest-facing solutions"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|1",
+     "quote": "A mobile-first and cloud-hosted PMS designed to let staff manage operations"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|2",
+     "quote": "A mobile-first and cloud-native PMS designed for operational flexibility."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|3",
+     "quote": "It offers full tablet- and mobile-based PMS functionality"
+    },
+    {
+     "record_id": "hotel-property-management|q5|ChatGPT|3",
+     "quote": "Offers a mobile-oriented cloud PMS"
+    },
+    {
+     "record_id": "hotel-property-management|q5|Google AI Mode|3",
+     "quote": "entirely via tablets or mobile devices."
+    },
+    {
+     "record_id": "hotel-property-management|q5|Google AI Overviews|3",
+     "quote": "Tablet and mobile-optimized PMS allowing complete staff mobility"
+    },
+    {
+     "record_id": "hotel-property-management|q6|ChatGPT|1",
+     "quote": "enabling staff to serve guests anywhere on the property"
+    },
+    {
+     "record_id": "hotel-property-management|q6|ChatGPT|2",
+     "quote": "Supports mobile guest check-in/out, staff mobility"
+    },
+    {
+     "record_id": "hotel-property-management|q6|ChatGPT|3",
+     "quote": "Its cloud PMS emphasizes mobile hotel operations and guest self-service."
+    },
+    {
+     "record_id": "hotel-property-management|q6|Claude|1",
+     "quote": "StayNTouch is a fully mobile PMS for chains"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Claude|2",
+     "quote": "Stayntouch runs check-in, front desk, and multi-property reporting from any device"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Claude|3",
+     "quote": "StayNTouch Cloud PMS is a mobile hotel PMS with seamless guest-facing solutions"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Mode|1",
+     "quote": "wanting an intuitive, mobile-centric PMS."
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Mode|2",
+     "quote": "Fully mobile/tablet front desk capabilities"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Overviews|1",
+     "quote": "A mobile-first, cloud hotel PMS built for teams"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Overviews|2",
+     "quote": "A mobile-first property management choice"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "platforms",
+   "claim": "Staff can run Stayntouch on tablets.",
+   "class": "true",
+   "proof_url": "https://www.stayntouch.com/blog/best-multi-property-hotel-pms/",
+   "proof_quote": "Mobile-first tablet architecture is less suited for complex full-service resorts, casinos, and vacation homes",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Re-classed in pass 2: the vendor's own multi-property blog, read in pass 2, lists under Stayntouch's own cons a mobile-first tablet architecture, which settles that the product runs on tablets.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q10|Google AI Mode|1",
+     "quote": "staff can check guests in via tablet anywhere"
+    },
+    {
+     "record_id": "hotel-property-management|q10|Google AI Mode|2",
+     "quote": "tablet/mobile check-in"
+    },
+    {
+     "record_id": "hotel-property-management|q10|Google AI Mode|3",
+     "quote": "It allows staff to manage operations from tablets or mobile devices on the floor"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "Stayntouch is built for hotel teams that want to run the front desk from a tablet or phone"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Mode|2",
+     "quote": "staff can run entirely on tablets or mobile devices"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Overviews|1",
+     "quote": "Enables staff to check guests in via tablet from anywhere on the property"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Overviews|3",
+     "quote": "Tablet- and mobile-optimized interface"
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Mode|1",
+     "quote": "tablet check-ins, mobile housekeeping management"
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Mode|2",
+     "quote": "It allows staff to check guests in via mobile tablets anywhere on the property."
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Mode|3",
+     "quote": "allows staff to check guests in from tablets or mobile devices."
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Overviews|1",
+     "quote": "Tablet and mobile-operated check-in"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "StayNTouch supports tablet workflows for check-in, room moves, payments, and departures"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|3",
+     "quote": "It offers full tablet- and mobile-based PMS functionality"
+    },
+    {
+     "record_id": "hotel-property-management|q5|Google AI Mode|3",
+     "quote": "entirely via tablets or mobile devices."
+    },
+    {
+     "record_id": "hotel-property-management|q5|Google AI Overviews|3",
+     "quote": "Tablet and mobile-optimized PMS allowing complete staff mobility"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Mode|2",
+     "quote": "Fully mobile/tablet front desk capabilities"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "platforms",
+   "claim": "Stayntouch runs on the iPad.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read names the iPad or iOS; the multi-property blog says tablet architecture without naming a device.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Google AI Overviews|2",
+     "quote": "Mobile check-in and staff mobility on an iPad or phone."
+    }
+   ]
+  }
+ ],
+ "notes": "Seven own pages read in pass 1, all HTTP 200 and not thin: home, pricing (easier-pricing), cloud PMS, integrations hub, front desk, company and the own blog post on independent boutique hotel PMS cited by twelve answers. No claim is wrong or stale, so no cited page was read for causes. The pricing page shows two integration counts in its plan columns (1,400+ and 1,100+); the home and cloud PMS pages say 1400, so C04 is true. Mobile and tablet were split: C07 (mobile) is true; C09 (iPad) is unverifiable; answers that say tablets or mobile devices carry both C07 and C08. Lines that only recommend Stayntouch for mobile-first operations, awards (TravelTech Breakthrough), uptime, the 96 percent retention rate, room-count and group-size targets, ratings and the product heading StayNTouch Cloud PMS (a name mention) were not coded. Feature names (Room Diary, Safe Mode) were treated as feature descriptions, not module names. Pass 2 (8 Oct 2026): no browser reads exist for this vendor. One more own page was read once with fetch-once: the multi-property blog (best-multi-property-hotel-pms), cited by 18 answers and the source of the Claude q10 wording; its Stayntouch cons line names a mobile-first tablet architecture, so C08 (tablets) moved from unverifiable to true. The same page lists Stayntouch as Bethesda, MD (2012) with a custom quote for chain plans, but no answer states the headquarters or founding year, so no claim was added. Gap lines were about the category or other vendors, or named no third-party product (integrates with most CRM and RMS platforms), and were not coded; one instance was added to C07 (q6 ChatGPT run 1, staff serve guests anywhere on the property). No answer has a comparison table with Stayntouch as a column header. No claim is wrong or stale, so the consistency check changed nothing.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "hotel-property-management|q1|Claude|1",
+  "hotel-property-management|q1|Claude|3",
+  "hotel-property-management|q10|ChatGPT|3",
+  "hotel-property-management|q10|Claude|1",
+  "hotel-property-management|q10|Claude|2",
+  "hotel-property-management|q10|Claude|3",
+  "hotel-property-management|q10|Google AI Mode|1",
+  "hotel-property-management|q10|Google AI Mode|2",
+  "hotel-property-management|q10|Google AI Mode|3",
+  "hotel-property-management|q10|Perplexity|1",
+  "hotel-property-management|q10|Perplexity|2",
+  "hotel-property-management|q10|Perplexity|3",
+  "hotel-property-management|q2|Claude|1",
+  "hotel-property-management|q2|Claude|2",
+  "hotel-property-management|q2|Claude|3",
+  "hotel-property-management|q2|Google AI Mode|2",
+  "hotel-property-management|q2|Google AI Mode|3",
+  "hotel-property-management|q2|Google AI Overviews|1",
+  "hotel-property-management|q2|Google AI Overviews|2",
+  "hotel-property-management|q2|Google AI Overviews|3",
+  "hotel-property-management|q2|Perplexity|1",
+  "hotel-property-management|q2|Perplexity|2",
+  "hotel-property-management|q2|Perplexity|3",
+  "hotel-property-management|q3|ChatGPT|1",
+  "hotel-property-management|q3|ChatGPT|2",
+  "hotel-property-management|q3|ChatGPT|3",
+  "hotel-property-management|q3|Claude|2",
+  "hotel-property-management|q3|Google AI Mode|1",
+  "hotel-property-management|q3|Google AI Mode|2",
+  "hotel-property-management|q3|Google AI Mode|3",
+  "hotel-property-management|q3|Google AI Overviews|1",
+  "hotel-property-management|q3|Google AI Overviews|3",
+  "hotel-property-management|q3|Perplexity|1",
+  "hotel-property-management|q3|Perplexity|2",
+  "hotel-property-management|q3|Perplexity|3",
+  "hotel-property-management|q4|ChatGPT|1",
+  "hotel-property-management|q4|ChatGPT|2",
+  "hotel-property-management|q4|ChatGPT|3",
+  "hotel-property-management|q4|Claude|1",
+  "hotel-property-management|q4|Claude|2",
+  "hotel-property-management|q4|Claude|3",
+  "hotel-property-management|q4|Google AI Mode|1",
+  "hotel-property-management|q4|Google AI Mode|2",
+  "hotel-property-management|q4|Google AI Mode|3",
+  "hotel-property-management|q4|Google AI Overviews|1",
+  "hotel-property-management|q4|Google AI Overviews|2",
+  "hotel-property-management|q4|Google AI Overviews|3",
+  "hotel-property-management|q4|Perplexity|1",
+  "hotel-property-management|q4|Perplexity|2",
+  "hotel-property-management|q4|Perplexity|3",
+  "hotel-property-management|q5|ChatGPT|2",
+  "hotel-property-management|q5|ChatGPT|3",
+  "hotel-property-management|q5|Google AI Mode|3",
+  "hotel-property-management|q5|Google AI Overviews|3",
+  "hotel-property-management|q6|ChatGPT|1",
+  "hotel-property-management|q6|ChatGPT|2",
+  "hotel-property-management|q6|ChatGPT|3",
+  "hotel-property-management|q6|Claude|1",
+  "hotel-property-management|q6|Claude|2",
+  "hotel-property-management|q6|Claude|3",
+  "hotel-property-management|q6|Google AI Mode|1",
+  "hotel-property-management|q6|Google AI Mode|2",
+  "hotel-property-management|q6|Google AI Overviews|1",
+  "hotel-property-management|q6|Google AI Overviews|2",
+  "hotel-property-management|q6|Google AI Overviews|3",
+  "hotel-property-management|q6|Perplexity|1",
+  "hotel-property-management|q6|Perplexity|2",
+  "hotel-property-management|q6|Perplexity|3"
+ ],
+ "named_count": 68
+}

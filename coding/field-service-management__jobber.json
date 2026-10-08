@@ -1,0 +1,1171 @@
+{
+ "vendor": "Jobber",
+ "slug": "jobber",
+ "category": "field-service-management",
+ "coded_at": "2026-10-08T04:16:00Z",
+ "pages_read": [
+  {
+   "url": "https://getjobber.com/",
+   "key": "311ce14a401de197",
+   "used_for": "home (HTTP 403, blocked at the edge; no usable text)"
+  },
+  {
+   "url": "https://www.getjobber.com/pricing/",
+   "key": "ccb5eca38f675b1a",
+   "used_for": "pricing (HTTP 403, blocked at the edge; no usable text)"
+  },
+  {
+   "url": "https://help.getjobber.com/en/articles/the-core-plan",
+   "key": "2cefbf2c5c30544a",
+   "used_for": "Core plan help article (HTTP 403, blocked at the edge; no usable text)"
+  },
+  {
+   "url": "https://www.getjobber.com/",
+   "key": "f4bc50c87b3ba5f3",
+   "used_for": "home (browser read): app store listings, Jobber Academy, free trial"
+  },
+  {
+   "url": "https://www.getjobber.com/pricing/",
+   "key": "ccb5eca38f675b1a",
+   "used_for": "pricing (browser read): one-user plan prices and plan inclusions"
+  },
+  {
+   "url": "https://help.getjobber.com/en/articles/the-core-plan",
+   "key": "2cefbf2c5c30544a",
+   "used_for": "Core plan help article (browser read): Core limits, client hub"
+  },
+  {
+   "url": "https://www.getjobber.com/features/field-service-management-software/",
+   "key": "4d3461cb4c390516",
+   "used_for": "product page (browser read)"
+  },
+  {
+   "url": "https://hulotrade.com/blog/housecall-pro-vs-jobber-hvac-comparison",
+   "key": "b1e9706f84425c9f",
+   "used_for": "cause trace for C03 (cited page, not own; does not carry $39)"
+  },
+  {
+   "url": "https://tofu.com/blog/jobber-vs-housecall-pro",
+   "key": "d020b7b306f2c3fa",
+   "used_for": "cause trace for C03 (cited page, not own; does not carry $39)"
+  },
+  {
+   "url": "https://www.fieldpulse.com/resources/blog/housecall-pro-vs-jobber",
+   "key": "814c63ec3deee27a",
+   "used_for": "cause trace for C03 (cited page, not own; carries the $39 Core price)"
+  },
+  {
+   "url": "https://fieldservicesoftware.io/best-field-service-software/best-software-for-hvac-field-service-companies/",
+   "key": "e7bf792200ed9e85",
+   "used_for": "cause trace for C13 (cited page, read in this study for Housecall Pro; does not carry the Jobber range)"
+  },
+  {
+   "url": "https://founding.dev/blog/best-field-service-management-software",
+   "key": "d31db3d400dfb8a0",
+   "used_for": "cause trace for C13 (cited page, read in this study for Housecall Pro; does not carry the Jobber range)"
+  },
+  {
+   "url": "https://www.housecallpro.com/industries/hvac-software/",
+   "key": "c0f0cbaa4dc43329",
+   "used_for": "cause trace for C13 (cited page, read in this study for Housecall Pro; does not carry the Jobber range)"
+  },
+  {
+   "url": "https://www.bdrco.com/blog/hvac-business-software-guide/",
+   "key": "4d2703d7fd3e8634",
+   "used_for": "cause trace for C13 (cited page, read in this study for Housecall Pro; HTTP 403)"
+  },
+  {
+   "url": "https://www.reddit.com/r/HVAC/comments/10l9qm0/best_software_prices_for_new_hvac_company_6_techs/",
+   "key": "8aec1f2a84e75090",
+   "used_for": "cause trace for C13 (cited page; robots.txt disallowed, not fetched)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Core plan (the entry price) costs $29 per month billed annually, for one user.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "Core 1 user For the pro who wants to build and grow their business on one easy-to-use platform. $49/mo $ 29 /mo Billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists Core for one user at $29/mo billed annually, and the starting prices given without a billing basis match the same $29 entry price (page title: Plans Starting at $29/Month).",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|1",
+     "quote": "Core is $29/month billed annually or $49 month-to-month for one user."
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|2",
+     "quote": "Core for one user is $29/month billed annually, or $49/month with no commitment."
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|3",
+     "quote": "Core starts at $29/month billed annually for one user"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "$49/month, or $29/month billed annually"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "Core costs $49/month without a commitment, or $29/month billed annually, for one user."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "$49/month without commitment, or $29/month billed annually"
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|1",
+     "quote": "Starts at $29/month billed annually for 1 user."
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|3",
+     "quote": "Jobber: from $29/month billed annually for one user."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "Core's regular price is $29/month billed annually or $49 month-to-month, for one user"
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|2",
+     "quote": "Core starts at $29/month billed annually for one user"
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|3",
+     "quote": "Core for one user lists $49/month without a commitment, or $29/month billed annually."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "| Jobber Core | $49 | $29 | 1 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "| Jobber Core | 1 | $49 | $29 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Jobber Core, one user: $49/month without a commitment, or $29/month billed annually."
+    },
+    {
+     "record_id": "field-service-management|q7|Perplexity|3",
+     "quote": "one source lists Jobber starting at $29/month annually"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|2",
+     "quote": "| Jobber | Budget-friendly solo use | ~$29/mo |"
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|2",
+     "quote": "Jobber starts at $29/month"
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|3",
+     "quote": "Jobber starts at $29/month with a polished mobile experience."
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|1",
+     "quote": "Jobber has the lowest entry price at $29/month for a single user."
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|2",
+     "quote": "| Jobber | All-around small/mid-sized teams | From ~$29/mo |"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|3",
+     "quote": "Jobber has the lowest entry price at $29/month for a single user."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "The Core plan costs $49 per month without a commitment (month-to-month), for one user.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "Core 1 user For the pro who wants to build and grow their business on one easy-to-use platform. $49/mo $ 29 /mo Billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists Core for one user at $49/mo beside the $29/mo billed-annually price, under a Monthly or Annual billing toggle, so $49 is the month-to-month price.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|1",
+     "quote": "Core is $29/month billed annually or $49 month-to-month for one user."
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|2",
+     "quote": "Core for one user is $29/month billed annually, or $49/month with no commitment."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "$49/month, or $29/month billed annually"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "Core costs $49/month without a commitment, or $29/month billed annually, for one user."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "$49/month without commitment, or $29/month billed annually"
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "Core's regular price is $29/month billed annually or $49 month-to-month, for one user"
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|3",
+     "quote": "Core for one user lists $49/month without a commitment, or $29/month billed annually."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "| Jobber Core | $49 | $29 | 1 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "| Jobber Core | 1 | $49 | $29 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Jobber Core, one user: $49/month without a commitment, or $29/month billed annually."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The Core plan starts at $39 per month.",
+   "class": "wrong",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "Core 1 user For the pro who wants to build and grow their business on one easy-to-use platform. $49/mo $ 29 /mo Billed annually",
+   "stale_change": null,
+   "causing_url": "https://www.fieldpulse.com/resources/blog/housecall-pro-vs-jobber",
+   "causing_type": "other",
+   "causing_quote": "Core - $39/month for 1 user.",
+   "rationale": "The pricing page (browser read) lists the one-user Core plan at $49/mo, or $29/mo billed annually; $39 matches neither billing basis for the same plan, and the page shows no dated price change.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Claude|1",
+     "quote": "Jobber Core starts at $39/month with clean client management"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "Jobber Core starts at $39/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "The most useful features start at $119 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The claim names no plan, and the browser read of the pricing page captured only the one-user prices ($29, $99 and $149 billed annually; $49, $139 and $199 monthly), not team-size prices, so $119 is not explicitly contradicted like for like.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Claude|1",
+     "quote": "the most useful features start at $119/month"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "the most useful features start at $119/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "The Connect plan starts at $99 per month billed annually, for one user.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "Connect 1 user For pros who want to automate tasks and turn repeat work into more 5-star visits. $139/mo $ 99 /mo Billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists Connect for one user at $99/mo billed annually.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "you'll need Connect, which starts at $99/month billed annually for one user"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "require Connect, starting at $99/month billed annually"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "$139/month without commitment, or $99/month billed annually"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "The Connect plan costs $139 per month without a commitment, for one user.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "Connect 1 user For pros who want to automate tasks and turn repeat work into more 5-star visits. $139/mo $ 99 /mo Billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists Connect for one user at $139/mo beside the $99/mo billed-annually price, under a Monthly or Annual billing toggle, so $139 is the month-to-month price.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "$139/month without commitment, or $99/month billed annually"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "The Connect plan for a team of five users costs $149 per month billed annually.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of the pricing page captured only the one-user (Just me) prices; the five-user Connect price was not shown, so the pages read do not settle it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "| Jobber Connect—team | $199 | $149 | 5 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "| Jobber Connect | 5 | $199 | $149 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Jobber Connect, five users: $199/month without a commitment, or $149/month billed annually."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "The Connect plan for a team of five users costs $199 per month without a commitment.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of the pricing page captured only the one-user (Just me) prices; the five-user Connect price was not shown, so the pages read do not settle it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "| Jobber Connect—team | $199 | $149 | 5 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "| Jobber Connect | 5 | $199 | $149 |"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Jobber Connect, five users: $199/month without a commitment, or $149/month billed annually."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "The Connect plan for 10 users costs $229 per month billed annually.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of the pricing page captured only the one-user (Just me) prices; the 10-user Connect price was not shown, so the pages read do not settle it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|2",
+     "quote": "Connect currently lists $299/month for 10 users without commitment, or $229/month billed annually."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "The Connect plan for 10 users costs $299 per month without a commitment.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of the pricing page captured only the one-user (Just me) prices; the 10-user Connect price was not shown, so the pages read do not settle it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|2",
+     "quote": "Connect currently lists $299/month for 10 users without commitment, or $229/month billed annually."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "The Grow plan's 15-user tier costs $399 per month billed annually.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of the pricing page captured only the one-user (Just me) prices; the 15-user Grow price was not shown, so the pages read do not settle it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|1",
+     "quote": "The published 15-user tier is $399/month billed annually or $499/month without a commitment"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "The Grow plan's 15-user tier costs $499 per month without a commitment.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of the pricing page captured only the one-user (Just me) prices; the 15-user Grow price was not shown, so the pages read do not settle it.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|ChatGPT|1",
+     "quote": "The published 15-user tier is $399/month billed annually or $499/month without a commitment"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Pricing ranges from about $65 to about $267 per month (advanced growth tiers around $267).",
+   "class": "wrong",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "Core 1 user For the pro who wants to build and grow their business on one easy-to-use platform. $49/mo $ 29 /mo Billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The answer gives $65 as the starting price, but the pricing page (browser read, title Plans Starting at $29/Month) lists the entry plan, Core for one user, at $49/mo or $29/mo billed annually, below $65 on either billing basis; the $267 upper end is not shown.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Google AI Overviews|3",
+     "quote": "Jobber | $65–$267/mo | Small team quoting & invoicing |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Jobber sells tiered plans (bundled feature tiers).",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "Grow 1 user For contractors who want to win bigger jobs and grow more profitably. $199/mo $ 149 /mo Billed annually Try Jobber For Free All Connect features, plus:",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists three tiers, Core, Connect and Grow, each including the features of the tier below.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Google AI Overviews|3",
+     "quote": "Pricing: Tiered plans ranging from basic setups up to around $267/mo for advanced growth tiers."
+    },
+    {
+     "record_id": "field-service-management|q5|Google AI Mode|2",
+     "quote": "robust bundled feature tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Jobber offers monthly billing with a one-year commitment, distinct from cancel-anytime monthly billing.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of the pricing page shows only Monthly and Annual billing and the FAQ question on contract commitments without its answer, so the pages read do not settle a monthly billing option with a one-year commitment.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "Jobber also offers monthly billing with a one-year commitment; that is different from cancel-anytime monthly billing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "Jobber offers separate solo-user pricing for Connect.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "Connect 1 user For pros who want to automate tasks and turn repeat work into more 5-star visits. $139/mo $ 99 /mo Billed annually",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) prices plans by a team-size selector and, with Just me selected, lists Connect for one user at its own price.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "Jobber also offers separate solo-user Connect pricing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "plans",
+   "claim": "QuickBooks Online sync is not in Core; it requires Connect or a higher plan.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "All Core features, plus: Send automated client reminders Collect payments automatically Standardize job documentation with checklists Automate quote and invoice follow-ups Sync with QuickBooks Online Track time and expenses",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists Sync with QuickBooks Online among the features Connect adds to Core, not among Core's key features.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|1",
+     "quote": "QuickBooks Online sync, automated reminders, and checklists are listed under Connect rather than Core"
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|2",
+     "quote": "QuickBooks Online sync and automated follow-ups require Connect or higher"
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|3",
+     "quote": "QuickBooks Online sync requires Connect or higher"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "Lower cost, but automated reminders and QuickBooks integration require an upgrade."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "QuickBooks Online sync, automated appointment reminders, and automated quote/invoice follow-ups require Connect"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "QuickBooks sync and the reminders/follow-ups listed above require Connect or higher."
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|1",
+     "quote": "QuickBooks sync and job costing require higher tiers"
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "QuickBooks sync and follow-up automation require Connect or higher."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|2",
+     "quote": "QuickBooks integration, automated follow-ups, job costing, and other features require higher plans"
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|3",
+     "quote": "QuickBooks integration requires Connect or above"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "Connect includes automated quote/invoice follow-ups, reminders, and QuickBooks Online sync"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "unless you need QuickBooks sync and follow-up automation, which move you to Connect"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Connect includes automated reminders, quote/invoice follow-ups, QuickBooks Online sync, and time/expense tracking."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "Automated reminders and quote or invoice follow-ups (automation) require Connect or a higher plan.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "All Core features, plus: Send automated client reminders Collect payments automatically Standardize job documentation with checklists Automate quote and invoice follow-ups Sync with QuickBooks Online Track time and expenses",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists automated client reminders and automated quote and invoice follow-ups among the features Connect adds to Core, and Grow adds custom workflow automations.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|1",
+     "quote": "QuickBooks Online sync, automated reminders, and checklists are listed under Connect rather than Core"
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|2",
+     "quote": "QuickBooks Online sync and automated follow-ups require Connect or higher"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "Lower cost, but automated reminders and QuickBooks integration require an upgrade."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "QuickBooks Online sync, automated appointment reminders, and automated quote/invoice follow-ups require Connect"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "QuickBooks sync and the reminders/follow-ups listed above require Connect or higher."
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|1",
+     "quote": "automated follow-ups on higher plans"
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|2",
+     "quote": "Higher tiers add workflow automation and job costing."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "QuickBooks sync and follow-up automation require Connect or higher."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|2",
+     "quote": "QuickBooks integration, automated follow-ups, job costing, and other features require higher plans"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "Connect includes automated quote/invoice follow-ups, reminders, and QuickBooks Online sync"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "Connect explicitly includes automated quote and invoice follow-ups, reminders, and automatic payment collection."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Connect includes automated reminders, quote/invoice follow-ups, QuickBooks Online sync, and time/expense tracking."
+    },
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|3",
+     "quote": "Advanced automation features require stepping up to higher tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "plans",
+   "claim": "Checklists are in Connect, not Core.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "All Core features, plus: Send automated client reminders Collect payments automatically Standardize job documentation with checklists Automate quote and invoice follow-ups Sync with QuickBooks Online Track time and expenses",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists checklists among the features Connect adds to Core.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|1",
+     "quote": "QuickBooks Online sync, automated reminders, and checklists are listed under Connect rather than Core"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "But if you need automated customer reminders, checklists, or QuickBooks Online sync, you'll need Connect"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "You need QuickBooks Online sync, automated reminders and follow-ups, and checklists."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "plans",
+   "claim": "Job costing requires the Grow plan or higher.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "All Connect features, plus: Customize quotes with rich visuals and reviews Upsell services with optional line items Track time automatically Track profitability with job costing Connect with customers through two-way SMS Build custom workflow automations",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists job costing among the features Grow adds to Connect.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|2",
+     "quote": "job costing requires Grow or higher"
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|1",
+     "quote": "QuickBooks sync and job costing require higher tiers"
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|2",
+     "quote": "Higher tiers add workflow automation and job costing."
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|3",
+     "quote": "Job costing requires Grow or Plus"
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|2",
+     "quote": "QuickBooks integration, automated follow-ups, job costing, and other features require higher plans"
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|3",
+     "quote": "job costing and two-way SMS require Grow or above"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "Grow adds job costing and advanced quoting"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "Jobber lists it in Grow"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Job costing and two-way SMS require Grow or higher."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "plans",
+   "claim": "Two-way SMS requires the Grow plan or higher.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "All Connect features, plus: Customize quotes with rich visuals and reviews Upsell services with optional line items Track time automatically Track profitability with job costing Connect with customers through two-way SMS Build custom workflow automations",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists two-way SMS among the features Grow adds to Connect.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|ChatGPT|3",
+     "quote": "job costing and two-way SMS require Grow or above"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Job costing and two-way SMS require Grow or higher."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "plans",
+   "claim": "Connect includes time and expense tracking.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "All Core features, plus: Send automated client reminders Collect payments automatically Standardize job documentation with checklists Automate quote and invoice follow-ups Sync with QuickBooks Online Track time and expenses",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists Track time and expenses among Connect's features.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Connect includes automated reminders, quote/invoice follow-ups, QuickBooks Online sync, and time/expense tracking."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "plans",
+   "claim": "Grow adds advanced quoting.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "All Connect features, plus: Customize quotes with rich visuals and reviews Upsell services with optional line items Track time automatically Track profitability with job costing Connect with customers through two-way SMS Build custom workflow automations",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists quote customization with rich visuals and optional line items among the features Grow adds to Connect, which is the advanced quoting the answer names.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "Grow adds job costing and advanced quoting"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "plans",
+   "claim": "Connect includes automatic payment collection.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "All Core features, plus: Send automated client reminders Collect payments automatically Standardize job documentation with checklists Automate quote and invoice follow-ups Sync with QuickBooks Online Track time and expenses",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists Collect payments automatically among Connect's features.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "Connect explicitly includes automated quote and invoice follow-ups, reminders, and automatic payment collection."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "plans",
+   "claim": "The Core plan includes scheduling, quotes, invoices and online payments.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "Key features: Book and schedule jobs online Send professional quotes Send invoices and receive online payments",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists online booking and scheduling, quotes, invoices and online payments among Core's key features.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "It covers scheduling, quotes, invoices, online payments, and customer management"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "You want the essentials: booking, scheduling, quotes, invoices, and online payments."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "Its entry plan costs less and includes scheduling, quotes, invoices, and online payments."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "Core covers scheduling, quotes, invoices, and online payments at a lower starting price."
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Core includes scheduling, quotes, invoices, and online payments, with a lower entry price."
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|2",
+     "quote": "Core plan (1 user) starts at $29/month billed annually, including scheduling, quotes, invoices, and online payments."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "plans",
+   "claim": "The Core plan supports one user with unlimited quotes, jobs and invoices.",
+   "class": "true",
+   "proof_url": "https://help.getjobber.com/en/articles/the-core-plan",
+   "proof_quote": "The Core plan supports one user and an unlimited number of quotes, jobs, and invoices.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Core plan help article (browser read, updated 13 Aug 2026, before the capture date) states it word for word.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "It supports one user with unlimited quotes, jobs, and invoices."
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "free_tier",
+   "claim": "Jobber offers a free trial.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "Try Jobber for free now. Pick a plan later. Put Jobber to work for you. No credit card required.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) offers a free trial with no credit card required.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|1",
+     "quote": "Pick two of the platforms above (like Jobber or Housecall Pro) and take advantage of their free trials."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "Trial Jobber first, but don't prepay for a year yet."
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "integrations",
+   "claim": "Jobber integrates with QuickBooks (QuickBooks Online sync).",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/pricing/",
+   "proof_quote": "All Core features, plus: Send automated client reminders Collect payments automatically Standardize job documentation with checklists Automate quote and invoice follow-ups Sync with QuickBooks Online Track time and expenses",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) lists Sync with QuickBooks Online as a Connect feature.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|ChatGPT|1",
+     "quote": "QuickBooks Online sync, automated reminders, and checklists are listed under Connect rather than Core"
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|2",
+     "quote": "QuickBooks Online sync and automated follow-ups require Connect or higher"
+    },
+    {
+     "record_id": "field-service-management|q1|ChatGPT|3",
+     "quote": "QuickBooks Online sync requires Connect or higher"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|1",
+     "quote": "Lower cost, but automated reminders and QuickBooks integration require an upgrade."
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|2",
+     "quote": "QuickBooks Online sync, automated appointment reminders, and automated quote/invoice follow-ups require Connect"
+    },
+    {
+     "record_id": "field-service-management|q10|ChatGPT|3",
+     "quote": "QuickBooks sync and the reminders/follow-ups listed above require Connect or higher."
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|2",
+     "quote": "Your biggest needs are scheduling, quoting, invoicing, automated follow-ups, and QuickBooks Online integration."
+    },
+    {
+     "record_id": "field-service-management|q2|ChatGPT|3",
+     "quote": "Your priorities are scheduling, customer reminders, quote follow-ups, invoicing, and QuickBooks Online integration."
+    },
+    {
+     "record_id": "field-service-management|q4|ChatGPT|1",
+     "quote": "QuickBooks sync and job costing require higher tiers"
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "QuickBooks sync and follow-up automation require Connect or higher."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|2",
+     "quote": "QuickBooks integration, automated follow-ups, job costing, and other features require higher plans"
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|3",
+     "quote": "QuickBooks integration requires Connect or above"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|1",
+     "quote": "Connect includes automated quote/invoice follow-ups, reminders, and QuickBooks Online sync"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|2",
+     "quote": "unless you need QuickBooks sync and follow-up automation, which move you to Connect"
+    },
+    {
+     "record_id": "field-service-management|q7|ChatGPT|3",
+     "quote": "Connect includes automated reminders, quote/invoice follow-ups, QuickBooks Online sync, and time/expense tracking."
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "platforms",
+   "claim": "Jobber has a mobile app (mobile tools).",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/",
+   "proof_quote": "4.8 13,861 App Store reviews 4.5 4,883 Google Play Reviews",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (browser read) shows the Jobber app's App Store and Google Play review counts.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Google AI Overviews|3",
+     "quote": "offering intuitive mobile apps, fast setup, and solid scheduling tools tailored for smaller teams"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|1",
+     "quote": "Jobber's mobile app puts your full schedule, client details, invoicing, and payments in your pocket."
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "Jobber's mobile app puts your full schedule, client details, invoicing, and payments in your pocket."
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|3",
+     "quote": "Jobber starts at $29/month with a polished mobile experience."
+    },
+    {
+     "record_id": "field-service-management|q5|Perplexity|1",
+     "quote": "strong scheduling, quoting, invoicing, payments, and a polished mobile app"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|1",
+     "quote": "customer communication, marketing tools, and mobile tools all in one place"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|2",
+     "quote": "customer communication, marketing tools, and mobile tools in one place"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|3",
+     "quote": "customer communication, marketing tools, and mobile tools in one place"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "product_names",
+   "claim": "Client Hub is Jobber's customer portal for approving quotes and paying online.",
+   "class": "true",
+   "proof_url": "https://help.getjobber.com/en/articles/the-core-plan",
+   "proof_quote": "clients can use the form by logging into client hub",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Core plan help article (browser read) names client hub as the place Jobber's clients log in, which settles the naming fact; the portal's functions are capability detail and are not coded.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Google AI Mode|1",
+     "quote": "It also features a \"Client Hub\" where customers can approve quotes and pay bills online."
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "product_names",
+   "claim": "Jobber Academy is Jobber's training resource with video tutorials for trade businesses.",
+   "class": "true",
+   "proof_url": "https://www.getjobber.com/",
+   "proof_quote": "Jobber Academy Expert advice, entrepreneur success stories, best practices, and tools to run smarter, more efficient service businesses.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (browser read) names Jobber Academy as Jobber's advice and best-practice resource for service businesses, which settles the naming fact; the video tutorial count is a feature detail and is not coded.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Claude|1",
+     "quote": "their 'Jobber Academy' provides over 100 video tutorials specifically for trade businesses"
+    },
+    {
+     "record_id": "field-service-management|q10|Claude|3",
+     "quote": "their 'Jobber Academy' provides over 100 video tutorials specifically for trade businesses"
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "plans",
+   "claim": "Jobber has a Plus plan above Grow.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of the pricing page captured only the one-user plans (Core, Connect, Grow); team-size plans were not shown, so the pages read neither show nor rule out a Plus plan.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q4|ChatGPT|3",
+     "quote": "Job costing requires Grow or Plus"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "pricing",
+   "claim": "Pricing ranges from $29 to $699 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The $29 lower end matches the published entry price, but the browser read of the pricing page captured only one-user prices (up to $199/mo), so the $699 upper end is not settled.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q4|Claude|1",
+     "quote": "Starting at $29–$699/month."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Pass 2 (8 Oct 2026): the four Jobber pages blocked to the fetch tool (home, pricing, the Core plan help article and the field service product page) were each read once in a real browser; those snapshots settle 23 of the first 31 claims (21 true, 2 wrong). The pricing snapshot shows the one-user (Just me) view only, with a Monthly or Annual toggle: Core $49/mo or $29/mo billed annually, Connect $139/mo or $99/mo, Grow $199/mo or $149/mo; $49, $139 and $199 are read as the month-to-month prices because they sit beside the billed-annually price under that toggle (the page's own line says save up to 25% with annual billing, which does not fit Core's $49 to $29; reviewer may want to confirm). Team-size prices (five, 10 and 15 users) were not captured, so C07 to C12 and the new C32 and C33 stay unverifiable. C03 ($39 Core) is wrong; its cause is a FieldPulse comparison blog that both answers cite. C13 ($65 starting price) is wrong on its lower end; no cited page read carries it (fieldservicesoftware.io, founding.dev and the Housecall Pro HVAC page were read for Housecall Pro and do not, bdrco answered 403, Reddit is disallowed by robots.txt, and getjobber.com/industries/hvac/ was not requested because that host blocked the fetch tool twice). C04 ($119 for the most useful features) names no plan, so it stays unverifiable. Added in pass 2: C32 (Plus plan) and C33 ($29 to $699 range), and a C25 instance from a Claude answer. Hedged lines, capability claims (route optimization, offline mode, financing) and G2 rankings were not coded.",
+ "answer_record_ids": [
+  "field-service-management|q1|ChatGPT|1",
+  "field-service-management|q1|ChatGPT|2",
+  "field-service-management|q1|ChatGPT|3",
+  "field-service-management|q1|Google AI Mode|1",
+  "field-service-management|q1|Google AI Overviews|3",
+  "field-service-management|q1|Perplexity|3",
+  "field-service-management|q10|ChatGPT|1",
+  "field-service-management|q10|ChatGPT|2",
+  "field-service-management|q10|ChatGPT|3",
+  "field-service-management|q10|Claude|1",
+  "field-service-management|q10|Claude|2",
+  "field-service-management|q10|Claude|3",
+  "field-service-management|q10|Google AI Mode|1",
+  "field-service-management|q10|Google AI Mode|3",
+  "field-service-management|q2|ChatGPT|1",
+  "field-service-management|q2|ChatGPT|2",
+  "field-service-management|q2|ChatGPT|3",
+  "field-service-management|q4|ChatGPT|1",
+  "field-service-management|q4|ChatGPT|2",
+  "field-service-management|q4|ChatGPT|3",
+  "field-service-management|q4|Claude|1",
+  "field-service-management|q4|Claude|2",
+  "field-service-management|q4|Claude|3",
+  "field-service-management|q4|Google AI Mode|2",
+  "field-service-management|q4|Google AI Mode|3",
+  "field-service-management|q4|Perplexity|1",
+  "field-service-management|q4|Perplexity|2",
+  "field-service-management|q4|Perplexity|3",
+  "field-service-management|q5|ChatGPT|1",
+  "field-service-management|q5|ChatGPT|2",
+  "field-service-management|q5|ChatGPT|3",
+  "field-service-management|q5|Claude|1",
+  "field-service-management|q5|Claude|2",
+  "field-service-management|q5|Claude|3",
+  "field-service-management|q5|Google AI Mode|2",
+  "field-service-management|q5|Perplexity|1",
+  "field-service-management|q5|Perplexity|2",
+  "field-service-management|q5|Perplexity|3",
+  "field-service-management|q6|Claude|1",
+  "field-service-management|q6|Perplexity|1",
+  "field-service-management|q6|Perplexity|2",
+  "field-service-management|q6|Perplexity|3",
+  "field-service-management|q7|ChatGPT|1",
+  "field-service-management|q7|ChatGPT|2",
+  "field-service-management|q7|ChatGPT|3",
+  "field-service-management|q7|Google AI Overviews|1",
+  "field-service-management|q7|Perplexity|1",
+  "field-service-management|q7|Perplexity|2",
+  "field-service-management|q7|Perplexity|3",
+  "field-service-management|q9|Google AI Overviews|2"
+ ],
+ "named_count": 50
+}

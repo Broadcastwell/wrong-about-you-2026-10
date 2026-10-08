@@ -1,0 +1,1480 @@
+{
+ "vendor": "HawkSoft",
+ "slug": "hawksoft",
+ "category": "insurance-agency-management",
+ "coded_at": "2026-10-08T04:24:00Z",
+ "pages_read": [
+  {
+   "url": "https://hawksoft.com/",
+   "key": "7a3642e4d8934442",
+   "used_for": "home (redirects to https://www.hawksoft.com/)"
+  },
+  {
+   "url": "https://www.hawksoft.com/agency-management-system/",
+   "key": "2f8735cbfa709d8d",
+   "used_for": "product (agency management system, terms, platforms)"
+  },
+  {
+   "url": "https://www.hawksoft.com/6/faq.html",
+   "key": "a78e62d419056638",
+   "used_for": "HawkSoft 6 FAQ (price, user minimum, platforms)"
+  },
+  {
+   "url": "https://www.hawksoft.com/about/story/",
+   "key": "8b3227afd36601f0",
+   "used_for": "about (founding, ownership, headquarters)"
+  },
+  {
+   "url": "https://www.hawksoft.com/about/partners/",
+   "key": "5f63d85504883b39",
+   "used_for": "integrations (partners)"
+  },
+  {
+   "url": "https://www.hawksoft.com/stories/insights/ezlynx",
+   "key": "8409bd82e982fa32",
+   "used_for": "HawkSoft vs EZLynx page (cited by answers)"
+  },
+  {
+   "url": "https://www.hawksoft.com/carriers/",
+   "key": "80aa019ed722f60f",
+   "used_for": "carrier documentation (carrier count)"
+  },
+  {
+   "url": "https://agencymate.com/insights/insurance-agency-management-system/",
+   "key": "436de4ea94554688",
+   "used_for": "cause tracing for C03 (cited by the answers; read once under the EZLynx cause tracing, not refetched)"
+  },
+  {
+   "url": "https://www.deelo.ai/blog/best-insurance-agent-software-2026",
+   "key": "4b266aed56063c04",
+   "used_for": "cause tracing for C04 (cited by the answer)"
+  },
+  {
+   "url": "https://ustechautomations.com/resources/blog/best-marketing-automation-software-insurance-agencies-2026",
+   "key": "a89357bd78b91d4a",
+   "used_for": "cause tracing for C04 (cited by the answer)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "HawkSoft 6 retails at $99 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/6/faq.html",
+   "proof_quote": "For example, if your agency is currently paying $70/user, your price will only go up by $29/user to the $99/user retail price.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The HawkSoft 6 FAQ gives a $99 per user retail price, in a passage that prices per user per month.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|1",
+     "quote": "HawkSoft 6 retails at $99 per user per month, with no user minimum."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "HawkSoft has no user minimum (the former three-user minimum is gone).",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/6/faq.html",
+   "proof_quote": "One benefit of moving to HawkSoft 6 is that the 3-user minimum license requirement goes away.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ states the three-user minimum license requirement goes away on HawkSoft 6, onto which all new customers are onboarded.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|1",
+     "quote": "HawkSoft 6 retails at $99 per user per month, with no user minimum."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Perplexity|1",
+     "quote": "combines high user satisfaction with transparent pricing, month-to-month terms, and no user minimums."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Perplexity|2",
+     "quote": "transparent pricing, month-to-month terms, and no user minimum"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Perplexity|3",
+     "quote": "transparent pricing, month-to-month terms, and no user minimums."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|2",
+     "quote": "Its cloud FAQ also says the old three-user minimum is gone—relevant for your two-person agency."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "HawkSoft costs about $130 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.hawksoft.com/6/faq.html",
+   "proof_quote": "For example, if your agency is currently paying $70/user, your price will only go up by $29/user to the $99/user retail price.",
+   "stale_change": null,
+   "causing_url": "https://agencymate.com/insights/insurance-agency-management-system/",
+   "causing_type": "other",
+   "causing_quote": "Pricing: Approximately $130/user/month.",
+   "rationale": "HawkSoft's published per-user retail price is $99 per user per month (the FAQ answers a monthly-bill question in per user per month terms), not about $130; the figure appears verbatim on the agencymate.com comparison article cited by two of the answers.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|Claude|1",
+     "quote": "Pricing is approximately $130/user/month."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|3",
+     "quote": "Approximately $130/user/month."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|2",
+     "quote": "HawkSoft | Best Overall (Strong workflows & customer service) | ~$130 / user / month |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "HawkSoft costs about $130 to $250 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.hawksoft.com/6/faq.html",
+   "proof_quote": "For example, if your agency is currently paying $70/user, your price will only go up by $29/user to the $99/user retail price.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The published per-user retail price of $99 per user per month lies below the whole stated range (the table column is Estimated Price / Month); the two readable cited pages (deelo.ai, ustechautomations.com) do not carry the figure and the cited Reddit threads are disallowed by robots.txt.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|1",
+     "quote": "HawkSoft | Personal & Small Commercial (Workflow King) | ~$130–$250 per user |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "HawkSoft costs $95 to $140 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/6/faq.html",
+   "proof_quote": "For example, if your agency is currently paying $70/user, your price will only go up by $29/user to the $99/user retail price.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The published $99 per user retail price falls inside the stated range.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "HawkSoft delivers the strongest value below $3M agency revenue at $95–$140 per user per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "HawkSoft has a flat-fee option from $499 per month for agencies under 5 users.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No HawkSoft page read in this study mentions a flat-fee option.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "with a flat-fee option starting at $499/month for agencies under 5 users."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "HawkSoft charges a flat base fee plus about $95 to $150 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages give a $99 per user retail price but say nothing of a flat base fee, so the claim as a whole is not settled.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|1",
+     "quote": "HawkSoft | Independent & Agile Teams | Flat base + ~$95–$150/user/month |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "HawkSoft starts at $250 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "HawkSoft publishes a per-user price, not a monthly starting price per agency; the pages do not state a $250 entry point.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|2",
+     "quote": "HawkSoft starts at $250 per month."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|2",
+     "quote": "Starts at $250/month."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "EZLynx starts at $350 per month and HawkSoft starts at $250 per month"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "EZLynx starts at $350 per month and HawkSoft starts at $250 per month"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "HawkSoft starts at **$250/month**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "HawkSoft (HawkSoft CMS) starts at $109 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages give a $99 per user retail price; a $109 monthly starting price is neither stated nor directly comparable.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q6|Claude|1",
+     "quote": "HawkSoft CMS starts at $109.00 per month and offers a free trial and free version."
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|2",
+     "quote": "HawkSoft CMS starts at $109.00 per month and offers a free trial and free version."
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|3",
+     "quote": "HawkSoft CMS starts at $109.00 per month and offers a free trial and free version."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "HawkSoft costs about $3,000 to $8,000 a year.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages give a per-user price only; an annual agency total depends on user count and add-ons and is not stated.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|1",
+     "quote": "HawkSoft is widely considered the top winner for independent P&C agencies, with annual costs ranging from $3,000 to $8,000."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|2",
+     "quote": "HawkSoft is widely considered the winner for independent P&C agencies, with annual pricing ranging from $3,000 to $8,000."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|3",
+     "quote": "HawkSoft is widely considered the winner for independent P&C agencies, with annual pricing of $3,000 to $8,000."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "HawkSoft wins for independent P&C agencies at $3,000–$8,000/year."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|3",
+     "quote": "HawkSoft wins for independent P&C agencies in the $3,000–$8,000/year range"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "HawkSoft wins for independent P&C agencies at $3,000 to $8,000 per year."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|2",
+     "quote": "**Pricing:** Typically $3,000–$8,000/year for independent P&C agencies."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|3",
+     "quote": "HawkSoft typically runs $3,000 to $8,000 per year"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|1",
+     "quote": "with an annual cost of $3,000 to $8,000"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|3",
+     "quote": "Annual cost: $3,000 to $8,000."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "HawkSoft is priced by custom quote.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "HawkSoft has no pricing page; the FAQ mentions a $99 per user retail price, which does not state whether sales quotes are custom, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|2",
+     "quote": "Custom / tiered pricing"
+    },
+    {
+     "record_id": "insurance-agency-management|q3|Claude|1",
+     "quote": "| **HawkSoft** | Multi-line independent agencies | Quote-based |"
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Google AI Mode|1",
+     "quote": "HawkSoft | Traditional P&C | Policy management | Custom quote"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "HawkSoft pricing is tiered.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read in this study names pricing tiers.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|2",
+     "quote": "Custom / tiered pricing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "HawkSoft is priced as a monthly per-user subscription.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/6/faq.html",
+   "proof_quote": "Agencies using local server installations will see a price increase of up to $39/user/month depending on their current pricing, not to exceed the current retail price for HawkSoft 6.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ prices HawkSoft 6 per user per month, and the product page describes a base subscription.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|Claude|1",
+     "quote": "Most independent agency-focused platforms — including HawkSoft and QQCatalyst — use this model."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "HawkSoft requires no term commitment beyond 30 days (month-to-month terms).",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/agency-management-system/",
+   "proof_quote": "Our sales agreement doesn't require a term-based commitment beyond 30 days",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page states that the sales agreement requires no term-based commitment beyond 30 days.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|1",
+     "quote": "its published terms say no commitment beyond 30 days and no early-termination or data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|3",
+     "quote": "Its published terms say no commitment beyond 30 days and no early-termination or data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Mode|1",
+     "quote": "Providers like HawkSoft stand out for short 30-day commitments and straightforward data portability."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Overviews|3",
+     "quote": "Key feature: Flexible 30-day agreement terms without punitive long-term lock-ins."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Perplexity|1",
+     "quote": "combines high user satisfaction with transparent pricing, month-to-month terms, and no user minimums."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Perplexity|2",
+     "quote": "transparent pricing, month-to-month terms, and no user minimum"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Perplexity|3",
+     "quote": "transparent pricing, month-to-month terms, and no user minimums."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|ChatGPT|1",
+     "quote": "a subscription without a commitment beyond 30 days"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|ChatGPT|3",
+     "quote": "its stated agreement requires no commitment beyond 30 days."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|1",
+     "quote": "Why it fits: Exceptional customer support and flexible month-to-month contract terms with no termination fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|3",
+     "quote": "It also advertises a 30-day commitment rather than a long-term contract."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|1",
+     "quote": "HawkSoft states that its agreement requires no commitment beyond 30 days and has no data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|1",
+     "quote": "Publishes a policy of no term-based lock-in, 30-day departure notice, and no data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "it advertises no term commitment beyond 30 days and no early-termination or data-extraction fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "HawkSoft has no contract (a no-contract, contract-free model).",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/agency-management-system/",
+   "proof_quote": "Some companies offer suspiciously low introductory offers and lock you into long-term contracts before you can tell if the system is a good fit for your agency. HawkSoft doesn't play these games",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Read as no long-term contract, the claim matches the product page, which rejects long-term contracts and caps any term commitment at 30 days; the same page does refer to a sales agreement, so a literal no-contract reading would not hold.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "HawkSoft's no-contract model and agency-owned data policy set it apart from most AMS platforms"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|2",
+     "quote": "HawkSoft's no-contract model and agency-owned data policy set it apart from most AMS platforms"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|3",
+     "quote": "HawkSoft's no-contract model and agency-owned data policy set it apart from most AMS platforms"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|2",
+     "quote": "Family-owned, contract-free, transparent pricing, and famously intuitive."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "HawkSoft offers no contracts and no termination fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "HawkSoft charges no early-termination fees.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/agency-management-system/",
+   "proof_quote": "we don't hold your data hostage with early termination fees or data extraction fees if you choose to leave.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page states HawkSoft charges no early termination fees.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|1",
+     "quote": "its published terms say no commitment beyond 30 days and no early-termination or data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|2",
+     "quote": "HawkSoft advertises on-demand data export and no early-termination or data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|3",
+     "quote": "Its published terms say no commitment beyond 30 days and no early-termination or data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "it advertises no term commitment beyond 30 days and no early-termination or data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "HawkSoft offers no contracts and no termination fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|1",
+     "quote": "flexible month-to-month contract terms with no termination fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "HawkSoft charges no data-extraction fees.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/agency-management-system/",
+   "proof_quote": "we don't hold your data hostage with early termination fees or data extraction fees if you choose to leave.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page states HawkSoft charges no data extraction fees.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|1",
+     "quote": "its published terms say no commitment beyond 30 days and no early-termination or data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|2",
+     "quote": "HawkSoft advertises on-demand data export and no early-termination or data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|3",
+     "quote": "Its published terms say no commitment beyond 30 days and no early-termination or data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|1",
+     "quote": "HawkSoft states that its agreement requires no commitment beyond 30 days and has no data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|1",
+     "quote": "Publishes a policy of no term-based lock-in, 30-day departure notice, and no data-extraction fees."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "it advertises no term commitment beyond 30 days and no early-termination or data-extraction fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "HawkSoft's agreement allows a proposal to specify a term commitment.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The agreement itself was not read; the product page caps term commitment at 30 days but says nothing of proposal-specific terms.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|2",
+     "quote": "its agreement says the proposal can specify a term commitment."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "plans",
+   "claim": "All core features are included in one base subscription, with add-ons and integrations on top.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/agency-management-system/",
+   "proof_quote": "We include all core features in one base subscription and offer add-ons and integrations to help your agency scale as you grow.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page states that all core features are in one base subscription, with add-ons and integrations offered.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "with all core features in one base subscription."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|3",
+     "quote": "with all core features in one base subscription."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "with all core features in one base subscription and add-ons on top."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "with all core features in one base subscription."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "with all core features in one base subscription."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|1",
+     "quote": "HawkSoft distinguishes included core capabilities from optional paid services."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|2",
+     "quote": "HawkSoft describes a core subscription with additional add-ons and integrations."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "HawkSoft describes a base subscription plus optional add-ons and integrations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "free_tier",
+   "claim": "HawkSoft offers a free trial.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read offer a demo but say nothing of a free trial of HawkSoft itself; the free trials on the partners page belong to partner products.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q6|Claude|1",
+     "quote": "HawkSoft CMS starts at $109.00 per month and offers a free trial and free version."
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|2",
+     "quote": "HawkSoft CMS starts at $109.00 per month and offers a free trial and free version."
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|3",
+     "quote": "HawkSoft CMS starts at $109.00 per month and offers a free trial and free version."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "free_tier",
+   "claim": "HawkSoft offers a free version.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions a free version; the FAQ gives only a paid per-user retail price, which does not rule a free version out explicitly.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q6|Claude|1",
+     "quote": "HawkSoft CMS starts at $109.00 per month and offers a free trial and free version."
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|2",
+     "quote": "HawkSoft CMS starts at $109.00 per month and offers a free trial and free version."
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|3",
+     "quote": "HawkSoft CMS starts at $109.00 per month and offers a free trial and free version."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "founding",
+   "claim": "HawkSoft was founded in 1995.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/about/story/",
+   "proof_quote": "HawkSoft is privately-owned by the same group that founded it in 1995.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The story page gives 1995 as the founding year.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "HawkSoft, an independent company founded in 1995 and based in Canby, Oregon"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "HawkSoft, an independent company founded in 1995 and based in Canby, Oregon"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "HawkSoft is an independent company founded in 1995 and based in Canby, Oregon"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "founding",
+   "claim": "HawkSoft was created by independent insurance agents.",
+   "class": "true",
+   "proof_url": "https://hawksoft.com/",
+   "proof_quote": "Created by independent agents, HawkSoft continues to evolve as a cutting-edge system that powers thousands of agencies.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states HawkSoft was created by independent agents.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Overviews|1",
+     "quote": "HawkSoft: Built by independent agents; excellent for minimizing Errors & Omissions (E&O) risks via robust client interaction logs."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Overviews|3",
+     "quote": "Core strengths: Built by independent agents with robust local data handling and QuickBooks integration."
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "headquarters",
+   "claim": "HawkSoft is based in Canby, Oregon.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/about/story/",
+   "proof_quote": "Today, HawkSoft employs more than 150 people nationwide who work from home or from our 15,000-square-foot headquarters in Canby, Oregon.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The story page places HawkSoft's headquarters in Canby, Oregon.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "HawkSoft, an independent company founded in 1995 and based in Canby, Oregon"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "HawkSoft, an independent company founded in 1995 and based in Canby, Oregon"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "HawkSoft is an independent company founded in 1995 and based in Canby, Oregon"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "ownership",
+   "claim": "HawkSoft is an independent, privately owned company.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/about/story/",
+   "proof_quote": "HawkSoft is privately-owned by the same group that founded it in 1995.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The story page states HawkSoft is privately owned by its founding group, and the home page says it is independently owned.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Mode|2",
+     "quote": "It is independently owned, highly praised for customer support"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "HawkSoft, an independent company founded in 1995"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "HawkSoft, an independent company founded in 1995"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "HawkSoft is an independent company founded in 1995"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "ownership",
+   "claim": "HawkSoft is family-owned.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/agency-management-system/",
+   "proof_quote": "As a private, family-owned business created by an independent agent in 1995",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page describes HawkSoft as a private, family-owned business.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "HawkSoft remains privately and family-owned."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "HawkSoft is a privately (family) owned company that listens to their customers"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|2",
+     "quote": "Family-owned, contract-free, transparent pricing, and famously intuitive."
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "platforms",
+   "claim": "HawkSoft's full feature set runs in a native Windows desktop application.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/agency-management-system/",
+   "proof_quote": "The desktop app delivers the full, comprehensive set of HawkSoft features on your office workstation or anywhere you take your laptop. Native Windows app installed on your office PC or laptop",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page states the full feature set is in a native Windows desktop app.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|1",
+     "quote": "full functionality uses a **Windows desktop application**"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|2",
+     "quote": "Its full functionality runs through a **Windows desktop app**"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|3",
+     "quote": "Full functionality uses a **Windows desktop app**"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|1",
+     "quote": "its full feature set runs through a Windows desktop app"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|2",
+     "quote": "its complete feature set runs through a Windows desktop application"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|ChatGPT|3",
+     "quote": "Full functionality uses a Windows desktop application"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|2",
+     "quote": "Its full feature set uses a **Windows desktop app**"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|3",
+     "quote": "Full functionality uses a Windows desktop app"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|1",
+     "quote": "Full functionality uses a Windows desktop app"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|2",
+     "quote": "its full feature set runs in a Windows desktop application"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|1",
+     "quote": "the full AMS is a desktop application"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|2",
+     "quote": "Full functionality uses a Windows desktop application with cloud-stored data"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "HawkSoft’s full feature set runs in a native Windows application"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Mode|3",
+     "quote": "running a fast, native desktop application for heavy daily operations"
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Google AI Overviews|3",
+     "quote": "Users praise it as a stable, comprehensive desktop-based agency management system with high long-term retention rates."
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "platforms",
+   "claim": "Selected HawkSoft features are accessible in a web browser.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/agency-management-system/",
+   "proof_quote": "Key data, reporting, and management features will be available via browser login so you can access them from any device.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page states that key features are available via browser login while the desktop app holds the full set.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|1",
+     "quote": "browser access covers selected functions rather than the entire system."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|2",
+     "quote": "with selected features available through a browser."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|3",
+     "quote": "browser access covers a subset of features."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|1",
+     "quote": "with selected capabilities accessible through a browser."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|2",
+     "quote": "browser access provides a subset."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|ChatGPT|3",
+     "quote": "browser access covers a subset."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|2",
+     "quote": "browser access covers selected functions."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|3",
+     "quote": "browser access offers a subset of features."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|1",
+     "quote": "browser access covers a subset."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|2",
+     "quote": "browser access covers a subset."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|1",
+     "quote": "selected features are browser-accessible."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|2",
+     "quote": "selected features are browser-accessible."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "with browser access positioned for selected functions—not full desktop parity."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Mode|3",
+     "quote": "storing data securely in the cloud with browser-based reporting and tasks."
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "platforms",
+   "claim": "HawkSoft is a hybrid of a desktop app and cloud-stored data.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/agency-management-system/",
+   "proof_quote": "Our unique cloud platform combines the powerful performance and efficiency of a desktop app with the convenience of cloud-based data that can be accessed from anywhere, on any device.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page describes a desktop app combined with cloud-based data.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "a hybrid desktop-plus-cloud architecture."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "a hybrid desktop-plus-cloud architecture."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "a hybrid desktop-plus-cloud architecture."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|1",
+     "quote": "HawkSoft 6 stores data in the cloud, but the full AMS is a desktop application"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|2",
+     "quote": "Full functionality uses a Windows desktop application with cloud-stored data"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|ChatGPT|2",
+     "quote": "Confirm that its accounting approach and desktop-plus-cloud architecture match how you intend to operate."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Overviews|1",
+     "quote": "Overview: A hybrid-cloud agency management system (AMS)"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Mode|3",
+     "quote": "It utilizes a hybrid approach—running a fast, native desktop application for heavy daily operations while storing data securely in the cloud"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Overviews|2",
+     "quote": "Hybrid (native desktop app + cloud reporting/access)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "platforms",
+   "claim": "HawkSoft is not a fully browser-based AMS.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/6/faq.html",
+   "proof_quote": "No – HawkSoft 6 is not a 100% web-based management system.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The HawkSoft 6 FAQ states it is not a 100% web-based management system.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|1",
+     "quote": "**HawkSoft is not entirely browser-based:**"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|2",
+     "quote": "HawkSoft’s cloud platform is not the same thing as a fully browser-based AMS."
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "platforms",
+   "claim": "HawkSoft is compatible with Windows and Mac computers.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/6/faq.html",
+   "proof_quote": "Will HawkSoft 6 work on a Mac? Yes, but it will require the help of other solutions.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ answers yes to Mac use, with the caveat that HawkSoft 6 is built for Windows and runs on a Mac through a Windows environment the agency sets up; HawkSoft's own EZLynx comparison page carries the answer's sentence word for word.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "HawkSoft is Windows and Mac compatible, so employees who work from home have access from their Windows or Mac computer."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Mode|3",
+     "quote": "often via hosted environments like Parallels if you're multi-location or Mac-based"
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "integrations",
+   "claim": "HawkSoft integrates with QuickBooks for operating accounting.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/agency-management-system/",
+   "proof_quote": "For operating accounting, we integrate with the #1 small-business accounting platform: QuickBooks.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page states HawkSoft integrates with QuickBooks for operating accounting.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|ChatGPT|1",
+     "quote": "Confirm that its QuickBooks-based operating-accounting approach and desktop/browser feature split suit your team."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|ChatGPT|2",
+     "quote": "It offers commercial workflows, certificates, commission management, and QuickBooks integration for operating accounting."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|ChatGPT|3",
+     "quote": "Operating accounting integrates with QuickBooks."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|1",
+     "quote": "Operating accounting integrates with QuickBooks, so validate the complete accounting setup."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "phone integration, QuickBooks integration, and batch email/text marketing"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|3",
+     "quote": "phone integration, QuickBooks integration, and batch email/text marketing"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "phone integration, QuickBooks integration, and batch email and text marketing"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "phone integration, QuickBooks integration, and batch email and text marketing"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "phone integration, QuickBooks integration, and batch email and text marketing"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Overviews|1",
+     "quote": "Accounting and Management: Excellent agency bill commission management and QuickBooks integration."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Overviews|2",
+     "quote": "Robust agency bill commission management & QuickBooks sync"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Overviews|3",
+     "quote": "Core strengths: Built by independent agents with robust local data handling and QuickBooks integration."
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "integrations",
+   "claim": "HawkSoft integrates with EZLynx's rater (a one-way bridge sending policy data from HawkSoft to EZLynx).",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/about/partners/",
+   "proof_quote": "One-Way Integration is available with EZLynx. Policy data can be bridged from HawkSoft to EZLynx.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The partners page lists a one-way integration that bridges policy data from HawkSoft to EZLynx.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|1",
+     "quote": "rating runs through third-party integrations such as EZLynx Rating or PL Rating."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "Agency management with a broad integration ecosystem, including connections to PL Rating, TurboRater, and EZLynx’s rater."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|1",
+     "quote": "HawkSoft lists a one-way bridge sending policy data to EZLynx."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|2",
+     "quote": "its EZLynx connection bridges policy data one way into EZLynx."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "HawkSoft lists a **one-way bridge from HawkSoft to EZLynx** for policy data."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Mode|3",
+     "quote": "HawkSoft integrates with outside raters (including EZLynx's rating engine or Vertafore/Force, etc.)."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Google AI Overviews|2",
+     "quote": "it bridges smoothly with third-party raters (including the EZLynx rating engine)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "integrations",
+   "claim": "HawkSoft integrates with PL Rating.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/about/partners/",
+   "proof_quote": "2-Way Integration is available for PL Rating by Vertafore.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The partners page lists a two-way PL Rating integration.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|1",
+     "quote": "rating runs through third-party integrations such as EZLynx Rating or PL Rating."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "Agency management with a broad integration ecosystem, including connections to PL Rating, TurboRater, and EZLynx’s rater."
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "integrations",
+   "claim": "HawkSoft integrates with TurboRater.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/about/partners/",
+   "proof_quote": "2-Way Integration is available with ITC TurboRater by Zywave.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The partners page lists a two-way ITC TurboRater integration.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "Agency management with a broad integration ecosystem, including connections to PL Rating, TurboRater, and EZLynx’s rater."
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "integrations",
+   "claim": "HawkSoft integrates with AgencyZoom.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/about/partners/",
+   "proof_quote": "Manage leads in AgencyZoom with data sent from your HawkSoft account that triggers email and text automation.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The partners page lists AgencyZoom as a two-way API integration.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "Its partner ecosystem includes integrations with AgencyZoom, InsuredMine, Agency Revolution, and others."
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "integrations",
+   "claim": "HawkSoft integrates with InsuredMine.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/about/partners/",
+   "proof_quote": "Expand the functionality with InsuredMine's CRM and automated workflows that assist agents with sales, engagement, analytics, and mobility.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The partners page lists InsuredMine as a two-way API integration.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "Its partner ecosystem includes integrations with AgencyZoom, InsuredMine, Agency Revolution, and others."
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "integrations",
+   "claim": "HawkSoft integrates with Agency Revolution.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/about/partners/",
+   "proof_quote": "Agency Revolution Two-way API Integrated",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The partners page lists Agency Revolution as a two-way API integration.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|3",
+     "quote": "Its partner ecosystem includes integrations with AgencyZoom, InsuredMine, Agency Revolution, and others."
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "integrations",
+   "claim": "HawkSoft integrates with (downloads from) over 300 carriers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read gives a carrier count; the carrier documentation page has none.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "with strong integrations to over 300 carriers"
+    },
+    {
+     "record_id": "insurance-agency-management|q3|Claude|1",
+     "quote": "It features automated policy downloads from over 300 carriers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C40",
+   "type": "product_names",
+   "claim": "The current version of the system is named HawkSoft 6.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/6/faq.html",
+   "proof_quote": "HawkSoft 6 is available now, and the majority of our customers are on this platform. All new customers are onboarded on HawkSoft 6.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ names HawkSoft 6 as the current platform for all new customers.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|1",
+     "quote": "HawkSoft 6 retails at $99 per user per month, with no user minimum."
+    },
+    {
+     "record_id": "insurance-agency-management|q7|ChatGPT|1",
+     "quote": "HawkSoft 6 stores data in the cloud, but the full AMS is a desktop application"
+    }
+   ]
+  },
+  {
+   "claim_id": "C41",
+   "type": "product_names",
+   "claim": "HawkSoft's reporting module is named the Agency Intelligence reporting suite.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/agency-management-system/",
+   "proof_quote": "With HawkSoft's built-in Agency Intelligence ™ reporting suite",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page names the built-in Agency Intelligence reporting suite.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|1",
+     "quote": "the Agency Intelligence reporting suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|2",
+     "quote": "the Agency Intelligence reporting suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "the Agency Intelligence reporting suite"
+    }
+   ]
+  },
+  {
+   "claim_id": "C42",
+   "type": "product_names",
+   "claim": "HawkSoft's cloud platform is named HawkSoft Cloud.",
+   "class": "true",
+   "proof_url": "https://www.hawksoft.com/6/faq.html",
+   "proof_quote": "“HawkSoft Cloud”: a data storage and delivery platform, and a cornerstone of HawkSoft’s future.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ names HawkSoft Cloud; the answer describes it as a project still in progress, while the FAQ says HawkSoft 6 on HawkSoft Cloud is already live, but that timing is not one of the coded types.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q7|Claude|3",
+     "quote": "HawkSoft Cloud project, which will eliminate the need for online hosting partners"
+    }
+   ]
+  }
+ ],
+ "notes": "Seven own pages read on hawksoft.com, all HTTP 200 and not thin. HawkSoft has no pricing page; the HawkSoft 6 FAQ gives a $99 per user retail price, used to class C01 and C05 true and C03 and C04 wrong. C03 ($130 per user) is traced to the agencymate.com comparison article (read under the EZLynx cause tracing, cited by q4 Claude run 1 and q10 Google AI Overviews run 2). C04 cause not found: deelo.ai and ustechautomations.com do not carry it and the cited Reddit threads are disallowed by robots.txt (not requested). Monthly agency totals and annual figures ($250, $109, $3,000 to $8,000) are unverifiable because the vendor prices per user. C15 (no contract) is read as no long-term contract; C31 (Windows and Mac compatible) is classed true on the FAQ's qualified yes. Not coded: review ratings and satisfaction scores, the opinion transparent pricing, features (no built-in rater, open API, e-signature, phone integration), statements whose subject is another vendor (InsuredMine's integration list), hedged lines, and the q10 Google AI Overviews run 3 comparison table, whose header lists two vendors over three data columns so the HawkSoft contract cell cannot be attributed. Pass 2 (8 Oct 2026): no browser reads exist for this vendor and no claim was unverifiable because of a blocked or thin page, so nothing was re-classed; the only free trials on the pages read belong to partner products (partners page), so C20 stays unverifiable. Gap lines were price table cells already coded for the same answers (C05, C10), fit opinions, open API and generic partner-integration lines with no named product, or about other vendors; pairing HawkSoft with AgencyZoom (q6 Claude run 2) was read as usage, not an integration statement. Comparison tables with HawkSoft as a column header (q7 ChatGPT runs 1 and 2, q7 Claude runs 1 and 3) carry only facts already coded for those answers. One instance added: q7 AI Mode run 3 (Mac-based agencies run it via hosted environments like Parallels) to C31. Consistency check: C03 and C04 stay wrong; the FAQ answers a monthly-bill question with a $99 per user retail price for HawkSoft 6, the only edition sold to new customers, so both figures are per user per month against per user per month and the contradiction is explicit.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "insurance-agency-management|q1|ChatGPT|1",
+  "insurance-agency-management|q1|ChatGPT|2",
+  "insurance-agency-management|q1|ChatGPT|3",
+  "insurance-agency-management|q1|Claude|1",
+  "insurance-agency-management|q1|Claude|2",
+  "insurance-agency-management|q1|Claude|3",
+  "insurance-agency-management|q1|Google AI Mode|1",
+  "insurance-agency-management|q1|Google AI Mode|2",
+  "insurance-agency-management|q1|Google AI Mode|3",
+  "insurance-agency-management|q1|Google AI Overviews|1",
+  "insurance-agency-management|q1|Google AI Overviews|2",
+  "insurance-agency-management|q1|Google AI Overviews|3",
+  "insurance-agency-management|q1|Perplexity|1",
+  "insurance-agency-management|q1|Perplexity|2",
+  "insurance-agency-management|q1|Perplexity|3",
+  "insurance-agency-management|q10|ChatGPT|1",
+  "insurance-agency-management|q10|ChatGPT|2",
+  "insurance-agency-management|q10|Claude|1",
+  "insurance-agency-management|q10|Claude|2",
+  "insurance-agency-management|q10|Claude|3",
+  "insurance-agency-management|q10|Google AI Mode|1",
+  "insurance-agency-management|q10|Google AI Mode|2",
+  "insurance-agency-management|q10|Google AI Mode|3",
+  "insurance-agency-management|q10|Google AI Overviews|1",
+  "insurance-agency-management|q10|Google AI Overviews|2",
+  "insurance-agency-management|q10|Google AI Overviews|3",
+  "insurance-agency-management|q2|ChatGPT|1",
+  "insurance-agency-management|q2|ChatGPT|2",
+  "insurance-agency-management|q2|ChatGPT|3",
+  "insurance-agency-management|q2|Claude|1",
+  "insurance-agency-management|q2|Claude|2",
+  "insurance-agency-management|q2|Claude|3",
+  "insurance-agency-management|q2|Google AI Mode|1",
+  "insurance-agency-management|q2|Google AI Mode|2",
+  "insurance-agency-management|q2|Google AI Mode|3",
+  "insurance-agency-management|q2|Google AI Overviews|1",
+  "insurance-agency-management|q2|Google AI Overviews|2",
+  "insurance-agency-management|q2|Google AI Overviews|3",
+  "insurance-agency-management|q2|Perplexity|1",
+  "insurance-agency-management|q2|Perplexity|2",
+  "insurance-agency-management|q2|Perplexity|3",
+  "insurance-agency-management|q3|Claude|1",
+  "insurance-agency-management|q4|ChatGPT|1",
+  "insurance-agency-management|q4|ChatGPT|2",
+  "insurance-agency-management|q4|ChatGPT|3",
+  "insurance-agency-management|q4|Claude|1",
+  "insurance-agency-management|q4|Claude|2",
+  "insurance-agency-management|q4|Claude|3",
+  "insurance-agency-management|q4|Google AI Mode|1",
+  "insurance-agency-management|q4|Google AI Mode|2",
+  "insurance-agency-management|q4|Google AI Mode|3",
+  "insurance-agency-management|q4|Google AI Overviews|1",
+  "insurance-agency-management|q4|Google AI Overviews|2",
+  "insurance-agency-management|q4|Google AI Overviews|3",
+  "insurance-agency-management|q4|Perplexity|1",
+  "insurance-agency-management|q4|Perplexity|2",
+  "insurance-agency-management|q4|Perplexity|3",
+  "insurance-agency-management|q5|ChatGPT|1",
+  "insurance-agency-management|q5|ChatGPT|2",
+  "insurance-agency-management|q5|ChatGPT|3",
+  "insurance-agency-management|q5|Claude|1",
+  "insurance-agency-management|q5|Claude|2",
+  "insurance-agency-management|q5|Claude|3",
+  "insurance-agency-management|q5|Google AI Mode|1",
+  "insurance-agency-management|q5|Google AI Mode|2",
+  "insurance-agency-management|q5|Google AI Mode|3",
+  "insurance-agency-management|q5|Google AI Overviews|3",
+  "insurance-agency-management|q5|Perplexity|1",
+  "insurance-agency-management|q5|Perplexity|2",
+  "insurance-agency-management|q5|Perplexity|3",
+  "insurance-agency-management|q6|ChatGPT|2",
+  "insurance-agency-management|q6|Claude|1",
+  "insurance-agency-management|q6|Claude|2",
+  "insurance-agency-management|q6|Claude|3",
+  "insurance-agency-management|q6|Google AI Mode|1",
+  "insurance-agency-management|q6|Google AI Mode|2",
+  "insurance-agency-management|q6|Google AI Mode|3",
+  "insurance-agency-management|q6|Google AI Overviews|1",
+  "insurance-agency-management|q6|Google AI Overviews|3",
+  "insurance-agency-management|q6|Perplexity|1",
+  "insurance-agency-management|q6|Perplexity|2",
+  "insurance-agency-management|q6|Perplexity|3",
+  "insurance-agency-management|q7|ChatGPT|1",
+  "insurance-agency-management|q7|ChatGPT|2",
+  "insurance-agency-management|q7|ChatGPT|3",
+  "insurance-agency-management|q7|Claude|1",
+  "insurance-agency-management|q7|Claude|2",
+  "insurance-agency-management|q7|Claude|3",
+  "insurance-agency-management|q7|Google AI Mode|1",
+  "insurance-agency-management|q7|Google AI Mode|2",
+  "insurance-agency-management|q7|Google AI Mode|3",
+  "insurance-agency-management|q7|Google AI Overviews|1",
+  "insurance-agency-management|q7|Google AI Overviews|2",
+  "insurance-agency-management|q7|Google AI Overviews|3",
+  "insurance-agency-management|q7|Perplexity|1",
+  "insurance-agency-management|q7|Perplexity|2",
+  "insurance-agency-management|q7|Perplexity|3"
+ ],
+ "named_count": 97
+}

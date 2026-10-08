@@ -1,0 +1,913 @@
+{
+ "vendor": "Dealertrack",
+ "slug": "dealertrack",
+ "category": "dealership-management-systems",
+ "coded_at": "2026-10-08T04:22:00Z",
+ "pages_read": [
+  {
+   "url": "https://dealertrack.com/",
+   "key": "9cdaf0b764413b95",
+   "used_for": "home (canonical domain): redirected to a login page, thin"
+  },
+  {
+   "url": "https://us.dealertrack.com/content/dealertrack/en/dealer-management-solutions.html",
+   "key": "ea70fd06ec8ff5ff",
+   "used_for": "product (DMS overview, cited); footer headquarters"
+  },
+  {
+   "url": "https://us.dealertrack.com/content/dealertrack/en/about.html",
+   "key": "60b514ca8b6b6f84",
+   "used_for": "about (ownership)"
+  },
+  {
+   "url": "https://us.dealertrack.com/content/dealertrack/en/integrations.html",
+   "key": "dd6c7bc32750e1cd",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://us.dealertrack.com/content/dealertrack/en/dealer-management-solutions/switching.html",
+   "key": "2a65a941e16f9759",
+   "used_for": "pricing (switching and savings)"
+  },
+  {
+   "url": "https://us.dealertrack.com/content/dealertrack/en/dealer-management-solutions/platform.html",
+   "key": "ed7ff7bb6ee740c7",
+   "used_for": "product (cloud platform, cited)"
+  },
+  {
+   "url": "https://www.cbinsights.com/company/reynolds-and-reynolds/alternatives-competitors",
+   "key": "e541b87e0ac4fb90",
+   "used_for": "cause (cited page, statement not found)"
+  },
+  {
+   "url": "https://www.owler.com/company/reyrey/competitors",
+   "key": "5b555c4aa98e735a",
+   "used_for": "cause (cited page): network timeout, no text"
+  },
+  {
+   "url": "https://sumble.com/tech/reynolds-reynolds",
+   "key": "1d12c7e5d2755e58",
+   "used_for": "cause (cited page, statement not found)"
+  },
+  {
+   "url": "https://digitaldealershipsystem.com/top-alternatives-reynolds-reynolds-reporting-dealership-analytics/",
+   "key": "b9d8021063f9f343",
+   "used_for": "cause (cited page, statement not found)"
+  },
+  {
+   "url": "https://www.demandlocal.com/blog/reynolds-reynolds-alternatives/",
+   "key": "be51dbca43be7bd6",
+   "used_for": "cause (cited page, statement not found)"
+  },
+  {
+   "url": "https://dealertrack.com/",
+   "key": "9cdaf0b764413b95.browser",
+   "used_for": "pass 2 browser read of the home page (redirected to us.dealertrack.com): Cox Automotive backing, cloud-based DMS, 375 OEMs and 1,500 lenders"
+  }
+ ],
+ "needs_browser_read": [],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "ownership",
+   "claim": "Dealertrack is owned by Cox Automotive (a Cox Automotive brand).",
+   "class": "true",
+   "proof_url": "https://us.dealertrack.com/content/dealertrack/en/about.html",
+   "proof_quote": "Lori is President of Retail Solutions for Cox Automotive, overseeing the growth and strategic direction of powerhouse brands including Autotrader®, Kelley Blue Book®, Dealertrack®, Dealer.com, VinSolutions, and Xtime.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Dealertrack's about page presents Dealertrack as a Cox Automotive brand, and its DMS page describes the product as backed by Cox Automotive.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "Cox Automotive's DMS runs about 2,000 rooftops."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "Cox Automotive's DMS runs about 2,000 rooftops."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "Dealertrack connects to all of them natively because they're all owned by the same parent company."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|1",
+     "quote": "though heavily backed by Cox Automotive infrastructure"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|2",
+     "quote": "Because it is owned by Cox Automotive"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|1",
+     "quote": "It's a Cox Automotive product widely used at smaller franchise stores."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Claude|1",
+     "quote": "Its family of brands includes Autotrader®, Dealer.com®, Dealertrack®, Kelley Blue Book®, Manheim®, VinSolutions®, vAuto®, and Xtime®"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Mode|2",
+     "quote": "Dealertrack DMS: Powered by Cox Automotive"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Mode|3",
+     "quote": "Backed by Cox Automotive, it offers robust functionality"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|3",
+     "quote": "Overview: Backed by Cox Automotive, it integrates smoothly with extensive financing networks."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|1",
+     "quote": "Dealertrack (now part of Cox Automotive) provides DMS and other solutions that compete directly with Reynolds & Reynolds."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|2",
+     "quote": "Dealertrack (now part of Cox Automotive) provides DMS and other solutions that compete directly with Reynolds & Reynolds."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "Part of Cox Automotive's extensive portfolio"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|1",
+     "quote": "A flexible, web-based DMS option backed by Cox Automotive"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|2",
+     "quote": "Dealertrack: A widely used web-based DMS and lender network platform owned by Cox Automotive."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|3",
+     "quote": "Cox Automotive Dealertrack: A robust, widely used web-based DMS platform backed by Cox Automotive."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|1",
+     "quote": "Cox-backed Dealertrack"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|1",
+     "quote": "Its cloud-based DMS supports third-party integrations through Opentrack and connects with other Cox products."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|3",
+     "quote": "It offers a cloud-based DMS, an open integration platform, and connections to other Cox products."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "product_names",
+   "claim": "The product is named as Cox Automotive's: Dealertrack DMS (Cox Automotive), Cox Automotive Dealertrack.",
+   "class": "true",
+   "proof_url": "https://us.dealertrack.com/content/dealertrack/en/dealer-management-solutions/platform.html",
+   "proof_quote": "Dealertrack DMS by Cox Automotive offers open integration, a user-friendly cloud platform, and seamless connectivity with other Cox products",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The platform page names the product 'Dealertrack DMS by Cox Automotive'.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|1",
+     "quote": "Cox Automotive / Dealertrack DMS - Best for Ecosystem Synergy"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|2",
+     "quote": "Cox Automotive / Dealertrack DMS"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|3",
+     "quote": "2. Dealertrack DMS (Cox Automotive)"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|2",
+     "quote": "3. Dealertrack DMS (Cox Automotive) — Best for Value & Ecosystem Integration"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|3",
+     "quote": "4. Dealertrack DMS (Cox Automotive)"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|1",
+     "quote": "Dealertrack DMS (Cox Automotive)"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Mode|3",
+     "quote": "Dealertrack DMS (Cox Automotive): Best for integrated workflows."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|1",
+     "quote": "**Dealertrack (Cox Automotive)**"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|2",
+     "quote": "**Dealertrack (Cox Automotive)**"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "Dealertrack DMS (Cox Automotive)"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|1",
+     "quote": "Dealertrack (Cox Automotive): A flexible, web-based DMS option"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|2",
+     "quote": "Dealertrack (Cox Automotive): Widely used for mid-size to large franchise dealerships."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|3",
+     "quote": "Cox Automotive Dealertrack | Strong F&I, titling, registration, and inventory integration | Cloud / Web-Based"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|1",
+     "quote": "Dealertrack (Cox Automotive): A widely used web-based DMS and lender network platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|3",
+     "quote": "Cox Automotive Dealertrack: A robust, widely used web-based DMS platform"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "founding",
+   "claim": "Dealertrack was founded in 2001.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read gives Dealertrack's founding year.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q5|Claude|2",
+     "quote": "Dealertrack was founded in 2001 and is headquartered in New Hyde Park, New York."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "headquarters",
+   "claim": "Dealertrack is headquartered in New Hyde Park, New York.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Re-classed from wrong in pass 2: the only address on Dealertrack's pages is the site footer 'HEADQUARTERS COX AUTOMOTIVE 6205 PEACHTREE DUNWOODY RD. ATLANTA, GA 30328', which is the parent company's headquarters, and no page read says Dealertrack itself is headquartered there or anywhere else, so there is no explicit contradiction.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q5|Claude|2",
+     "quote": "Dealertrack was founded in 2001 and is headquartered in New Hyde Park, New York."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "customer_counts",
+   "claim": "Dealertrack DMS runs about 2,000 rooftops.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states how many rooftops run Dealertrack DMS (the pages give install rates, not a base count).",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "Cox Automotive's DMS runs about 2,000 rooftops."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "Cox Automotive's DMS runs about 2,000 rooftops."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "product_names",
+   "claim": "Opentrack is Dealertrack's integration (third-party certification) program.",
+   "class": "true",
+   "proof_url": "https://us.dealertrack.com/content/dealertrack/en/dealer-management-solutions.html",
+   "proof_quote": "Dealertrack DMS maximizes flexibility with OpenTrack, our industry-leading, third-party certification program.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page names OpenTrack as Dealertrack's third-party certification program.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "The Opentrack integration framework and 350+ partners make it one of the more open platforms in the market."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "The Opentrack integration framework and 350+ partners make it one of the more open platforms in the market."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "the Opentrack integration framework connects to 360+ third-party vendors"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|3",
+     "quote": "the Opentrack integration framework and massive partner network"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|1",
+     "quote": "Its cloud-based DMS supports third-party integrations through Opentrack and connects with other Cox products."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "Dealertrack DMS with its OpenTrack integration program"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "integrations",
+   "claim": "Dealertrack has 350+ integration partners.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages state that Opentrack connects to '275+ certified partners'; a lower bound of 275 neither confirms nor explicitly contradicts 350+.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "| **Dealertrack** | Cloud-hybrid | Cox ecosystem users | High (350+ partners) | Moderate |"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "The Opentrack integration framework and 350+ partners make it one of the more open platforms in the market."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "integrations",
+   "claim": "Opentrack connects to 360+ third-party vendors.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages state that Opentrack connects to '275+ certified partners'; a lower bound of 275 neither confirms nor explicitly contradicts 360+.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "the Opentrack integration framework connects to 360+ third-party vendors"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "integrations",
+   "claim": "Dealertrack integrates with VinSolutions.",
+   "class": "true",
+   "proof_url": "https://us.dealertrack.com/content/dealertrack/en/integrations.html",
+   "proof_quote": "Dealertrack DMS connected with VinSolutions creates process efficiencies, reduces repetitive tasks, and enhances customer satisfaction and profits",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page describes the Dealertrack DMS integration with VinSolutions.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "if you're already on VinSolutions, vAuto, Xtime, and Dealer.com, Dealertrack connects natively to all of them."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "if you're already on VinSolutions, vAuto, Xtime, and Dealer.com, Dealertrack connects natively to all of them."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "If your store already uses VinSolutions, vAuto, Xtime, or Dealer.com, Dealertrack connects to all of them natively"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|1",
+     "quote": "Dealertrack’s cloud-based DMS combined with the Cox Automotive ecosystem (including VinSolutions CRM and vAuto inventory tools)"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|2",
+     "quote": "If your group already heavily relies on Cox tools—like vAuto for inventory or VinSolutions for CRM—Dealertrack's cloud-based accounting and DMS backbone offer a smoother, more unified workflow with fewer friction points."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|3",
+     "quote": "If you already leverage (or want to leverage) Cox Automotive tools like VinSolutions (CRM), vAuto (inventory), and Xtime (fixed ops), Dealertrack connects natively."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|1",
+     "quote": "seamless data sharing if your stores use vAuto or VinSolutions"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|2",
+     "quote": "it features native, seamless integration with elite enterprise-level tools like vAuto (for multi-store inventory optimization) and VinSolutions (for centralized BDC management)"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|3",
+     "quote": "If you are already cutting checks for VinSolutions and vAuto, Dealertrack bridges the data instantly."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|1",
+     "quote": "Offers a cloud-based DMS, an open integration platform, and connections to the broader Cox ecosystem, including VinSolutions."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|3",
+     "quote": "Cloud-based DMS with third-party integrations and connections to Cox products such as VinSolutions, vAuto, and Xtime."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|1",
+     "quote": "Particularly worth evaluating if you already use VinSolutions or Xtime."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|1",
+     "quote": "heavily integrated with digital retailing, credit applications, and robust VinSolutions CRM tools"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "integrations",
+   "claim": "Dealertrack integrates with vAuto.",
+   "class": "true",
+   "proof_url": "https://us.dealertrack.com/content/dealertrack/en/integrations.html",
+   "proof_quote": "Integrated With vAuto DMS Create more Sales Opportunities Dealers with Xtime Schedule, VinSolutions CRM, and vAuto Provision, can add Dealertrack DMS",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists Dealertrack DMS as integrated with vAuto.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "if you're already on VinSolutions, vAuto, Xtime, and Dealer.com, Dealertrack connects natively to all of them."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "if you're already on VinSolutions, vAuto, Xtime, and Dealer.com, Dealertrack connects natively to all of them."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "If your store already uses VinSolutions, vAuto, Xtime, or Dealer.com, Dealertrack connects to all of them natively"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|1",
+     "quote": "Dealertrack’s cloud-based DMS combined with the Cox Automotive ecosystem (including VinSolutions CRM and vAuto inventory tools)"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|2",
+     "quote": "If your group already heavily relies on Cox tools—like vAuto for inventory or VinSolutions for CRM—Dealertrack's cloud-based accounting and DMS backbone offer a smoother, more unified workflow with fewer friction points."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|3",
+     "quote": "If you already leverage (or want to leverage) Cox Automotive tools like VinSolutions (CRM), vAuto (inventory), and Xtime (fixed ops), Dealertrack connects natively."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|1",
+     "quote": "seamless data sharing if your stores use vAuto or VinSolutions"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|2",
+     "quote": "it features native, seamless integration with elite enterprise-level tools like vAuto (for multi-store inventory optimization) and VinSolutions (for centralized BDC management)"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|3",
+     "quote": "If you are already cutting checks for VinSolutions and vAuto, Dealertrack bridges the data instantly."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|3",
+     "quote": "Cloud-based DMS with third-party integrations and connections to Cox products such as VinSolutions, vAuto, and Xtime."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "As part of Cox Automotive, Dealertrack integrates with vAuto (inventory), Xtime (service scheduling), Manheim (wholesale), Autotrader (listings), and Dealer.com (websites)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "integrations",
+   "claim": "Dealertrack integrates with Xtime.",
+   "class": "true",
+   "proof_url": "https://us.dealertrack.com/content/dealertrack/en/integrations.html",
+   "proof_quote": "Integrated with Xtime DMS Increase service lane efficiencies and customer satisfaction.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists Dealertrack DMS as integrated with Xtime.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "if you're already on VinSolutions, vAuto, Xtime, and Dealer.com, Dealertrack connects natively to all of them."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "if you're already on VinSolutions, vAuto, Xtime, and Dealer.com, Dealertrack connects natively to all of them."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "If your store already uses VinSolutions, vAuto, Xtime, or Dealer.com, Dealertrack connects to all of them natively"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|3",
+     "quote": "If you already leverage (or want to leverage) Cox Automotive tools like VinSolutions (CRM), vAuto (inventory), and Xtime (fixed ops), Dealertrack connects natively."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|3",
+     "quote": "Cloud-based DMS with third-party integrations and connections to Cox products such as VinSolutions, vAuto, and Xtime."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|1",
+     "quote": "Particularly worth evaluating if you already use VinSolutions or Xtime."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "As part of Cox Automotive, Dealertrack integrates with vAuto (inventory), Xtime (service scheduling), Manheim (wholesale), Autotrader (listings), and Dealer.com (websites)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "integrations",
+   "claim": "Dealertrack integrates with Dealer.com.",
+   "class": "true",
+   "proof_url": "https://us.dealertrack.com/content/dealertrack/en/integrations.html",
+   "proof_quote": "Integrated With Dealer.com F&I Speed Deals and Elevate Customer Experience",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists a Dealer.com integration (with Dealertrack F&I).",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "if you're already on VinSolutions, vAuto, Xtime, and Dealer.com, Dealertrack connects natively to all of them."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|2",
+     "quote": "if you're already on VinSolutions, vAuto, Xtime, and Dealer.com, Dealertrack connects natively to all of them."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Claude|3",
+     "quote": "If your store already uses VinSolutions, vAuto, Xtime, or Dealer.com, Dealertrack connects to all of them natively"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|3",
+     "quote": "A flexible, cloud-based alternative to CDK and Reynolds that shines if your group heavily relies on Cox Automotive's outer loop (VinSolutions CRM, vAuto inventory, and Dealer.com websites)."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "As part of Cox Automotive, Dealertrack integrates with vAuto (inventory), Xtime (service scheduling), Manheim (wholesale), Autotrader (listings), and Dealer.com (websites)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "integrations",
+   "claim": "Dealertrack integrates with Autotrader.",
+   "class": "true",
+   "proof_url": "https://us.dealertrack.com/content/dealertrack/en/integrations.html",
+   "proof_quote": "Integrated With Autotrader F&I Enable Flexible Paths to Purchase",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists an Autotrader integration (with Dealertrack F&I).",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "As part of Cox Automotive, Dealertrack integrates with vAuto (inventory), Xtime (service scheduling), Manheim (wholesale), Autotrader (listings), and Dealer.com (websites)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "integrations",
+   "claim": "Dealertrack integrates with Manheim.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Manheim appears on the pages only as another Cox Automotive brand in the site header and leadership bios; no page read describes a Dealertrack integration with Manheim.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "As part of Cox Automotive, Dealertrack integrates with vAuto (inventory), Xtime (service scheduling), Manheim (wholesale), Autotrader (listings), and Dealer.com (websites)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "integrations",
+   "claim": "Dealertrack's lender network runs via RouteOne.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions RouteOne.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|3",
+     "quote": "Digital Financing: Massive native lender network via RouteOne/Dealertrack structures."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "platforms",
+   "claim": "Dealertrack DMS is cloud-based (web-based).",
+   "class": "true",
+   "proof_url": "https://us.dealertrack.com/content/dealertrack/en/dealer-management-solutions.html",
+   "proof_quote": "Empower your team to access real-time data and manage operations from anywhere, on any device, with Dealertrack’s cloud-based dealer management system.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page describes Dealertrack's cloud-based dealer management system accessible from any device.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Overviews|2",
+     "quote": "Dealertrack DMS: A powerful, cloud-based platform with robust open integrations and strong lender networks"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Overviews|3",
+     "quote": "Dealertrack DMS: A strong cloud-based alternative"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|ChatGPT|3",
+     "quote": "Dealertrack documents both, alongside cloud access and reporting."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|1",
+     "quote": "Dealertrack’s cloud-based DMS combined with the Cox Automotive ecosystem"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Mode|2",
+     "quote": "Dealertrack's cloud-based accounting and DMS backbone"
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|2",
+     "quote": "Dealertrack DMS provides a highly reliable, cloud-first middle ground."
+    },
+    {
+     "record_id": "dealership-management-systems|q10|Google AI Overviews|3",
+     "quote": "A flexible, cloud-based alternative to CDK and Reynolds"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|1",
+     "quote": "If you want cloud simplicity, Dealertrack DMS is a solid option."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|1",
+     "quote": "Offers a cloud-based DMS, an open integration platform, and connections to the broader Cox ecosystem, including VinSolutions."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|2",
+     "quote": "A cloud-based DMS covering accounting, parts, service, and business-office workflows"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|3",
+     "quote": "Cloud-based DMS with third-party integrations and connections to Cox products such as VinSolutions, vAuto, and Xtime."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|1",
+     "quote": "Its cloud-based DMS supports third-party integrations through Opentrack and connects with other Cox products."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|ChatGPT|3",
+     "quote": "It offers a cloud-based DMS, an open integration platform, and connections to other Cox products."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "If you want cloud simplicity, look at Dealertrack DMS or Dominion VUE."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|1",
+     "quote": "A flexible, web-based DMS option backed by Cox Automotive"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Mode|3",
+     "quote": "Cox Automotive Dealertrack | Strong F&I, titling, registration, and inventory integration | Cloud / Web-Based"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|1",
+     "quote": "Dealertrack (Cox Automotive): A widely used web-based DMS and lender network platform"
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|2",
+     "quote": "Dealertrack: A widely used web-based DMS and lender network platform owned by Cox Automotive."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Google AI Overviews|3",
+     "quote": "Cox Automotive Dealertrack: A robust, widely used web-based DMS platform"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "platforms",
+   "claim": "Dealertrack DMS has a cloud-hybrid architecture.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages call the DMS cloud-based; none says whether any part runs on premise, so 'hybrid' is neither confirmed nor contradicted.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q10|Claude|1",
+     "quote": "| **Dealertrack** | Cloud-hybrid | Cox ecosystem users | High (350+ partners) | Moderate |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "Dealertrack pricing is custom and quote-based.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages publish no prices and route buyers to a sales representative, but none states how Dealertrack prices or quotes.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Claude|1",
+     "quote": "| **Dealertrack DMS** | Small franchised stores | Custom pricing | ✅ Yes |"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|1",
+     "quote": "Dealertrack DMS | Franchise dealerships | Custom quote | Strong user ease-of-use | Higher cost tiers"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|3",
+     "quote": "Dealertrack DMS | Franchise dealerships | Strong Cox Automotive integration | Request a quote"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "Dealertrack runs a savings program (Switch and Save) for dealers switching their DMS.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The switching page invites dealers to calculate savings on third-party data fees ('Stop Paying for Access— Start Saving with Dealertrack') but names no Switch and Save program or switching offer.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q4|Claude|1",
+     "quote": "The Switch and Save Program offers at least 50% savings for dealers switching from qualifying competitors including ADP Elite, ADP Drive, Reynolds Power, Reynolds UCS, and ERA."
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Claude|3",
+     "quote": "For cost-focused mid-size operations, Dealertrack's savings program offers documented value."
+    },
+    {
+     "record_id": "dealership-management-systems|q5|Claude|3",
+     "quote": "For cost-focused mid-size operations, Dealertrack's savings program offers documented value."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "pricing",
+   "claim": "The Switch and Save Program offers at least 50% savings to dealers switching from qualifying competitors (ADP Elite, ADP Drive, Reynolds Power, Reynolds UCS, ERA).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states a percentage saving or lists qualifying competitor systems for a switching offer.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q4|Claude|1",
+     "quote": "The Switch and Save Program offers at least 50% savings for dealers switching from qualifying competitors including ADP Elite, ADP Drive, Reynolds Power, Reynolds UCS, and ERA."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "Dealertrack does not list its pricing publicly.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read, including the browser read of the home page, show no prices and route buyers to a sales representative, but none states whether or where Dealertrack publishes pricing, so the absence of prices on the pages read neither confirms nor contradicts the claim.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Claude|1",
+     "quote": "Pricing is not publicly listed and can be higher than Frazer or DealerCenter."
+    }
+   ]
+  }
+ ],
+ "notes": "The canonical home https://dealertrack.com/ redirected to a Cox Automotive login page (thin, 32 characters) and is listed in needs_browser_read, though a browser read may show the same login; the vendor's marketing site is us.dealertrack.com (an alias domain in page-candidates), where five own pages were read, all HTTP 200 and not thin, three of them the pages the answers cite or link to. Judgement calls: (1) C04 headquarters is classed wrong because the footer of Dealertrack's own DMS page gives 'HEADQUARTERS COX AUTOMOTIVE ... ATLANTA, GA'; a reviewer may read that as the parent's address and prefer unverifiable. No page dates a move, so stale is not available. Cause tracing for C04 read the cited CB Insights, Sumble, DigitalDealershipSystem and DemandLocal pages (none carries the New Hyde Park statement; Sumble carries 'Dealertrack (now part of Cox Automotive)'); the cited Owler page failed with a network timeout and was not retried, so the cause is recorded as not found. (2) Partner counts 350+ and 360+ (C07, C08) are unverifiable against the vendor's '275+ certified partners' because both figures are lower bounds. (3) 'Backed by', 'powered by' and 'part of Cox Automotive' lines are coded as ownership (C01), and '(Cox Automotive)' name pairings as X-by-Y naming (C02), mirroring the vendor's own 'Dealertrack DMS by Cox Automotive'. The 'now part of Cox Automotive' lines were not coded as an acquisition because no page read documents one. Passages about DealerCenter's RouteOne/Dealertrack lender access were not coded (statements about another vendor). Out of scope: G2 ratings, 'easiest-to-use' rankings, 'started as an F&I platform', Cox Automotive's own 40,000-client count. Pass 2 (8 Oct 2026): https://dealertrack.com/ was read once in a real browser (key 9cdaf0b764413b95.browser); it redirected through the Cox login host to the us.dealertrack.com home page and was removed from needs_browser_read. It states Cox Automotive backing, a cloud-based DMS and 'over 375 OEMs and 1,500 lenders', which settles none of the unverifiable claims (375 OEMs is not an integration-partner count, so C07 and C08 stay unverifiable). Consistency check: C04 (New Hyde Park headquarters) is re-classed from wrong to unverifiable, because the footer address is labelled as Cox Automotive's headquarters and no page says Dealertrack is headquartered there; judgement call (1) above is superseded, and the cause tracing it describes no longer applies. Completeness: one new claim, C21 'pricing is not publicly listed' (dealership-management-systems|q2|Claude|1), unverifiable. The other gap lines and table cells are about other vendors, opinions, feature descriptions, ratings, or repeat claims already listed for the same answer (cloud, Cox integrations, custom quote).",
+ "answer_record_ids": [
+  "dealership-management-systems|q1|ChatGPT|1",
+  "dealership-management-systems|q1|ChatGPT|3",
+  "dealership-management-systems|q1|Google AI Mode|1",
+  "dealership-management-systems|q1|Google AI Overviews|2",
+  "dealership-management-systems|q1|Google AI Overviews|3",
+  "dealership-management-systems|q10|ChatGPT|1",
+  "dealership-management-systems|q10|ChatGPT|2",
+  "dealership-management-systems|q10|ChatGPT|3",
+  "dealership-management-systems|q10|Claude|1",
+  "dealership-management-systems|q10|Claude|2",
+  "dealership-management-systems|q10|Claude|3",
+  "dealership-management-systems|q10|Google AI Mode|1",
+  "dealership-management-systems|q10|Google AI Mode|2",
+  "dealership-management-systems|q10|Google AI Mode|3",
+  "dealership-management-systems|q10|Google AI Overviews|1",
+  "dealership-management-systems|q10|Google AI Overviews|2",
+  "dealership-management-systems|q10|Google AI Overviews|3",
+  "dealership-management-systems|q10|Perplexity|1",
+  "dealership-management-systems|q10|Perplexity|2",
+  "dealership-management-systems|q2|ChatGPT|1",
+  "dealership-management-systems|q2|Claude|1",
+  "dealership-management-systems|q4|ChatGPT|1",
+  "dealership-management-systems|q4|ChatGPT|2",
+  "dealership-management-systems|q4|ChatGPT|3",
+  "dealership-management-systems|q4|Claude|1",
+  "dealership-management-systems|q4|Claude|2",
+  "dealership-management-systems|q4|Claude|3",
+  "dealership-management-systems|q4|Google AI Mode|1",
+  "dealership-management-systems|q4|Google AI Mode|2",
+  "dealership-management-systems|q4|Google AI Mode|3",
+  "dealership-management-systems|q4|Google AI Overviews|1",
+  "dealership-management-systems|q4|Google AI Overviews|2",
+  "dealership-management-systems|q4|Google AI Overviews|3",
+  "dealership-management-systems|q4|Perplexity|1",
+  "dealership-management-systems|q4|Perplexity|2",
+  "dealership-management-systems|q4|Perplexity|3",
+  "dealership-management-systems|q5|ChatGPT|1",
+  "dealership-management-systems|q5|ChatGPT|2",
+  "dealership-management-systems|q5|ChatGPT|3",
+  "dealership-management-systems|q5|Claude|1",
+  "dealership-management-systems|q5|Claude|2",
+  "dealership-management-systems|q5|Claude|3",
+  "dealership-management-systems|q5|Google AI Mode|1",
+  "dealership-management-systems|q5|Google AI Mode|2",
+  "dealership-management-systems|q5|Google AI Mode|3",
+  "dealership-management-systems|q5|Google AI Overviews|1",
+  "dealership-management-systems|q5|Google AI Overviews|2",
+  "dealership-management-systems|q5|Google AI Overviews|3",
+  "dealership-management-systems|q5|Perplexity|1",
+  "dealership-management-systems|q5|Perplexity|2",
+  "dealership-management-systems|q5|Perplexity|3",
+  "dealership-management-systems|q6|ChatGPT|1",
+  "dealership-management-systems|q6|ChatGPT|2",
+  "dealership-management-systems|q6|ChatGPT|3",
+  "dealership-management-systems|q6|Claude|1",
+  "dealership-management-systems|q6|Claude|2",
+  "dealership-management-systems|q6|Claude|3",
+  "dealership-management-systems|q6|Google AI Mode|1",
+  "dealership-management-systems|q6|Google AI Mode|2",
+  "dealership-management-systems|q6|Google AI Mode|3",
+  "dealership-management-systems|q6|Google AI Overviews|1",
+  "dealership-management-systems|q6|Google AI Overviews|2",
+  "dealership-management-systems|q6|Google AI Overviews|3",
+  "dealership-management-systems|q6|Perplexity|1",
+  "dealership-management-systems|q6|Perplexity|2",
+  "dealership-management-systems|q6|Perplexity|3",
+  "dealership-management-systems|q8|Google AI Mode|1"
+ ],
+ "named_count": 67
+}

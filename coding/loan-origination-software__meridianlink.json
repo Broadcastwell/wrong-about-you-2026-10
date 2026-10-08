@@ -1,0 +1,853 @@
+{
+ "vendor": "MeridianLink",
+ "slug": "meridianlink",
+ "category": "loan-origination-software",
+ "coded_at": "2026-10-08T04:10:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.meridianlink.com/",
+   "key": "8c6b91002f921642",
+   "used_for": "home (product list)"
+  },
+  {
+   "url": "https://www.meridianlink.com/products/",
+   "key": "ce0f8556b015bd2e",
+   "used_for": "products overview (cloud, sold separately, MeridianLink One, integration count)"
+  },
+  {
+   "url": "https://www.meridianlink.com/products/consumer-lending-software/",
+   "key": "18ad17ab99dd96c3",
+   "used_for": "product: MeridianLink Consumer"
+  },
+  {
+   "url": "https://www.meridianlink.com/products/mortgage-software/",
+   "key": "3a12c705cb85e34b",
+   "used_for": "product: MeridianLink Mortgage"
+  },
+  {
+   "url": "https://www.meridianlink.com/products/digital-account-opening/",
+   "key": "f89148cd16145e82",
+   "used_for": "product: MeridianLink Opening"
+  },
+  {
+   "url": "https://www.meridianlink.com/about-meridianlink/",
+   "key": "a60f087894d4a984",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.meridianlink.com/marketplace/partners/",
+   "key": "e9b9b2da0b1d38a9",
+   "used_for": "integrations (partner marketplace)"
+  },
+  {
+   "url": "https://www.meridianlink.com/trademarks/",
+   "key": "e92c31b3021a517f",
+   "used_for": "legal: trademarks (product names)"
+  }
+ ],
+ "needs_browser_read": [],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "product_names",
+   "claim": "MeridianLink has a consumer lending product named MeridianLink Consumer.",
+   "class": "true",
+   "proof_url": "https://www.meridianlink.com/products/consumer-lending-software/",
+   "proof_quote": "MeridianLink Consumer is a cloud-based loan origination system (LOS) that empowers banks and credit unions to deliver a seamless, fully digital consumer lending experience.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The consumer lending product page names the product MeridianLink Consumer.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|ChatGPT|1",
+     "quote": "**MeridianLink Consumer**"
+    },
+    {
+     "record_id": "loan-origination-software|q1|ChatGPT|2",
+     "quote": "MeridianLink Consumer would be my first for a consumer-focused bank."
+    },
+    {
+     "record_id": "loan-origination-software|q1|ChatGPT|3",
+     "quote": "If consumer lending dominates, put **MeridianLink Consumer** on the first-round shortlist instead."
+    },
+    {
+     "record_id": "loan-origination-software|q1|Claude|3",
+     "quote": "MeridianLink Consumer (rebranded from LoansPQ) is a U.S. consumer LOS used predominantly by credit unions and community banks."
+    },
+    {
+     "record_id": "loan-origination-software|q2|ChatGPT|1",
+     "quote": "I'd start with MeridianLink Consumer and compare it directly with Origence arc OS."
+    },
+    {
+     "record_id": "loan-origination-software|q2|ChatGPT|2",
+     "quote": "My starting choice would be **MeridianLink Consumer for broad consumer lending**"
+    },
+    {
+     "record_id": "loan-origination-software|q2|ChatGPT|3",
+     "quote": "My provisional pick is **MeridianLink Consumer** for broad consumer-lending needs"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Claude|1",
+     "quote": "MeridianLink Consumer, rebranded from LoansPQ, is a U.S. consumer LOS used predominantly by credit unions and community banks."
+    },
+    {
+     "record_id": "loan-origination-software|q2|Claude|2",
+     "quote": "MeridianLink Consumer, rebranded from LoansPQ, is a U.S. consumer LOS used predominantly by credit unions and community banks."
+    },
+    {
+     "record_id": "loan-origination-software|q2|Claude|3",
+     "quote": "MeridianLink Consumer (rebranded from LoansPQ) is a U.S. consumer LOS used predominantly by credit unions and community banks."
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|1",
+     "quote": "MeridianLink (MeridianLink Consumer & Mortgage)"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|2",
+     "quote": "MeridianLink (MeridianLink Consumer/Mortgage)"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|3",
+     "quote": "MeridianLink (MeridianLink Consumer/Mortgage)"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Overviews|1",
+     "quote": "MeridianLink Consumer & Mortgage"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Overviews|2",
+     "quote": "MeridianLink Consumer offers robust centralized intake across digital and branch channels."
+    },
+    {
+     "record_id": "loan-origination-software|q4|Google AI Mode|2",
+     "quote": "Integrates seamlessly if you already use MeridianLink Consumer for auto loans, credit cards, or HELOCs"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|1",
+     "quote": "It integrates with MeridianLink Consumer, Mortgage, and DecisionLender"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|2",
+     "quote": "Consumer/LoansPQ, Mortgage/LendingQB, Opening, or something else"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|3",
+     "quote": "Consumer/LoansPQ, Opening, Mortgage, or something else"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|1",
+     "quote": "The best overall MeridianLink Consumer alternative is LendingPad."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|2",
+     "quote": "The best overall MeridianLink Consumer alternative is LendingPad."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|3",
+     "quote": "The best overall MeridianLink Consumer alternative is **LendingPad**."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Mode|3",
+     "quote": "(e.g., MeridianLink Consumer, Mortgage, or Opening)"
+    },
+    {
+     "record_id": "loan-origination-software|q6|ChatGPT|2",
+     "quote": "**MeridianLink Consumer** | Consumer-focused banks and credit unions"
+    },
+    {
+     "record_id": "loan-origination-software|q6|ChatGPT|3",
+     "quote": "**MeridianLink Consumer** | **Consumer-heavy banks and credit unions**"
+    },
+    {
+     "record_id": "loan-origination-software|q7|ChatGPT|2",
+     "quote": "MeridianLink Consumer emphasizes configurable decisioning, omnichannel applications, cross-selling, and application-to-funding automation."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Mode|1",
+     "quote": "MeridianLink (comprising MeridianLink Consumer and Mortgage)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "product_names",
+   "claim": "MeridianLink Consumer was renamed from LoansPQ (formerly LoansPQ).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The trademarks page lists LoansPQ as a MeridianLink mark, but no page read states that MeridianLink Consumer was renamed from LoansPQ or dates such a change, so the rename is not settled.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|Claude|3",
+     "quote": "MeridianLink Consumer (rebranded from LoansPQ)"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Claude|1",
+     "quote": "MeridianLink Consumer, rebranded from LoansPQ, is a U.S. consumer LOS"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Claude|2",
+     "quote": "MeridianLink Consumer, rebranded from LoansPQ, is a U.S. consumer LOS"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Claude|3",
+     "quote": "MeridianLink Consumer (rebranded from LoansPQ)"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|1",
+     "quote": "Consumer/LoansPQ, Mortgage/LendingQB, Opening, or something else"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|2",
+     "quote": "Consumer/LoansPQ, Mortgage/LendingQB, Opening, or something else"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|3",
+     "quote": "Consumer/LoansPQ, Opening, Mortgage, or something else"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "product_names",
+   "claim": "MeridianLink has a mortgage product named MeridianLink Mortgage.",
+   "class": "true",
+   "proof_url": "https://www.meridianlink.com/products/mortgage-software/",
+   "proof_quote": "MeridianLink Mortgage is a cloud-native and 100% browser-based technology with robust and configurable workflow automation that empowers lenders to swiftly scale their business.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The mortgage product page names the product MeridianLink Mortgage.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|1",
+     "quote": "MeridianLink (MeridianLink Consumer & Mortgage)"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|2",
+     "quote": "MeridianLink (MeridianLink Consumer/Mortgage)"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|3",
+     "quote": "MeridianLink (MeridianLink Consumer/Mortgage)"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Overviews|1",
+     "quote": "MeridianLink Consumer & Mortgage"
+    },
+    {
+     "record_id": "loan-origination-software|q4|ChatGPT|2",
+     "quote": "**MeridianLink Mortgage** | Banks, credit unions, and independent mortgage banks"
+    },
+    {
+     "record_id": "loan-origination-software|q4|ChatGPT|3",
+     "quote": "Bank or credit union:** Start with **MeridianLink Mortgage**."
+    },
+    {
+     "record_id": "loan-origination-software|q4|Claude|2",
+     "quote": "**MeridianLink Mortgage**"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Claude|3",
+     "quote": "**MeridianLink Mortgage**"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Google AI Mode|2",
+     "quote": "MeridianLink Mortgage"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Google AI Mode|3",
+     "quote": "MeridianLink Mortgage: Ideal for financial institutions like banks and credit unions"
+    },
+    {
+     "record_id": "loan-origination-software|q4|Perplexity|2",
+     "quote": "**MeridianLink Mortgage**, **Mortgage Cadence**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|1",
+     "quote": "Replacing MeridianLink Mortgage"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|2",
+     "quote": "**Replacing MeridianLink Mortgage**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|3",
+     "quote": "Consumer/LoansPQ, Opening, Mortgage, or something else"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|1",
+     "quote": "The best overall alternative to MeridianLink Mortgage is Encompass Digital Mortgage Solution"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|2",
+     "quote": "The best overall alternative to MeridianLink Mortgage is Encompass Digital Mortgage Solution"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|3",
+     "quote": "The best overall alternative to MeridianLink Mortgage is **Encompass Digital Mortgage Solution**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Mode|1",
+     "quote": "which specific MeridianLink product you currently use (Consumer LOS, Mortgage, or Opening)"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Mode|3",
+     "quote": "(e.g., MeridianLink Consumer, Mortgage, or Opening)"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Perplexity|3",
+     "quote": "If you're replacing **MeridianLink Mortgage**, the clearest head-to-head is **Encompass**"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Mode|1",
+     "quote": "MeridianLink (comprising MeridianLink Consumer and Mortgage)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "product_names",
+   "claim": "MeridianLink Mortgage is the former LendingQB (Mortgage/LendingQB).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The trademarks page lists LendingQB as a MeridianLink mark, but no page read states that MeridianLink Mortgage was renamed from LendingQB or dates such a change.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|1",
+     "quote": "Consumer/LoansPQ, Mortgage/LendingQB, Opening, or something else"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|2",
+     "quote": "Consumer/LoansPQ, Mortgage/LendingQB, Opening, or something else"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "product_names",
+   "claim": "MeridianLink has an account opening product named MeridianLink Opening.",
+   "class": "true",
+   "proof_url": "https://www.meridianlink.com/products/digital-account-opening/",
+   "proof_quote": "With MeridianLink Opening, your team and consumers can benefit from faster applications, fewer clicks, and smoother workflows.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The digital account opening product page names the product MeridianLink Opening.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|1",
+     "quote": "Replacing MeridianLink Opening"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|2",
+     "quote": "**Replacing MeridianLink Opening specifically**"
+    },
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|3",
+     "quote": "Consumer/LoansPQ, Opening, Mortgage, or something else"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Mode|1",
+     "quote": "which specific MeridianLink product you currently use (Consumer LOS, Mortgage, or Opening)"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Google AI Mode|3",
+     "quote": "(e.g., MeridianLink Consumer, Mortgage, or Opening)"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Perplexity|2",
+     "quote": "the nearest like-for-like swap for MeridianLink Opening."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Perplexity|3",
+     "quote": "positioned as a faster, lower-cost replacement for MeridianLink Opening."
+    },
+    {
+     "record_id": "loan-origination-software|q7|ChatGPT|2",
+     "quote": "MeridianLink Opening directly targets digital onboarding, identity verification, funding, and core integration."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|3",
+     "quote": "MeridianLink Opening consolidates digital account opening, identity verification, and e-signatures into one platform"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Mode|1",
+     "quote": "MeridianLink Opening provides strong deposit-growth tools with robust online application workflows."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|2",
+     "quote": "Strong integrated digital opening suite (MeridianLink Opening)"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|3",
+     "quote": "Robust digital deposit account opening ( MeridianLink Opening)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "product_names",
+   "claim": "MeridianLink's connected platform is named MeridianLink One.",
+   "class": "true",
+   "proof_url": "https://www.meridianlink.com/products/consumer-lending-software/",
+   "proof_quote": "One Powerful Platform MeridianLink One Unlock your potential by bringing together digital lending and deposit account opening",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product pages present MeridianLink One as the platform that brings together digital lending and deposit account opening.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|ChatGPT|1",
+     "quote": "Its products are sold separately, even when connected within MeridianLink One"
+    },
+    {
+     "record_id": "loan-origination-software|q7|ChatGPT|3",
+     "quote": "Account opening, consumer lending, and customer engagement are central to MeridianLink One."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|1",
+     "quote": "MeridianLink One is a comprehensive, cloud-based banking software solution tailored for financial institutions"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|2",
+     "quote": "MeridianLink One is a comprehensive, cloud-based banking software solution tailored for financial institutions"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|3",
+     "quote": "MeridianLink One is a comprehensive, cloud-based banking software solution tailored for community banks and credit unions"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|3",
+     "quote": "Feature | MeridianLink One | nCino Cloud Banking"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "product_names",
+   "claim": "MeridianLink has a product named CreditAPI (MeridianLink CreditAPI).",
+   "class": "true",
+   "proof_url": "https://www.meridianlink.com/trademarks/",
+   "proof_quote": "CreditAPI ® DecisionLender ® Lean Banking ® Lean Lending ® LendingQB ® LoansPQ ® MeridianLink ®",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The trademarks page lists CreditAPI first in its list of registered or unregistered trademarks or service marks of MeridianLink, which settles the naming; the page does not describe what the product does or whether it is still sold.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q5|Claude|1",
+     "quote": "The best MeridianLink CreditAPI alternatives include Plaid."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|2",
+     "quote": "Plaid is one of the best alternatives to MeridianLink CreditAPI"
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|3",
+     "quote": "It is one of the best alternatives to **MeridianLink CreditAPI**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "product_names",
+   "claim": "MeridianLink has a component named Access (described in the answers as the shared data layer connecting its products).",
+   "class": "true",
+   "proof_url": "https://www.meridianlink.com/",
+   "proof_quote": "Access Configurable banking application software to drive loan and deposit growth.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists Access among MeridianLink's products, which settles the name; the home page describes Access as configurable banking application software, and the answers' description of it as a shared data layer is a capability description not classed here.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q2|Claude|1",
+     "quote": "through a shared data layer the vendor calls Access."
+    },
+    {
+     "record_id": "loan-origination-software|q2|Claude|2",
+     "quote": "through a shared data layer the vendor calls Access."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "product_names",
+   "claim": "DecisionLender is a MeridianLink product.",
+   "class": "true",
+   "proof_url": "https://www.meridianlink.com/",
+   "proof_quote": "DecisionLender® Indirect lending software to deliver faster decisions, smoother dealer experiences, and stronger booking rates.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists DecisionLender among MeridianLink's products.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|1",
+     "quote": "It integrates with MeridianLink Consumer, Mortgage, and DecisionLender"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "integrations",
+   "claim": "MeridianLink integrates with Blend.",
+   "class": "true",
+   "proof_url": "https://www.meridianlink.com/marketplace/partners/",
+   "proof_quote": "Accurate Group Alpharank Blend Conductiv",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Blend appears in the partner list of the MeridianLink Marketplace page, which presents its partner integrations.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q5|ChatGPT|1",
+     "quote": "It integrates with MeridianLink Consumer, Mortgage, and DecisionLender, so it can be a complement rather than a wholesale replacement."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "integrations",
+   "claim": "MeridianLink integrates with hundreds of third-party vendors.",
+   "class": "true",
+   "proof_url": "https://www.meridianlink.com/products/",
+   "proof_quote": "Provides seamless integrations with hundreds of vetted third-party providers",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page states integrations with hundreds of vetted third-party providers.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|1",
+     "quote": "a heavily proven, highly integrated ecosystem with hundreds of third-party vendors."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "platforms",
+   "claim": "MeridianLink's software is cloud-based (SaaS).",
+   "class": "true",
+   "proof_url": "https://www.meridianlink.com/products/",
+   "proof_quote": "Cloud-based technology solutions that give financial institutions the power to connect to better",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page describes MeridianLink's products as cloud-based technology solutions, and the Consumer and Mortgage pages call those products cloud-based.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q1|Google AI Overviews|3",
+     "quote": "MeridianLink | Consumer & Mortgage | Cloud / Integrated | Moderate | High-volume retail & indirect"
+    },
+    {
+     "record_id": "loan-origination-software|q2|Google AI Mode|1",
+     "quote": "It provides a robust, highly stable SaaS-based multi-channel platform for consumer lending, mortgage, and account opening."
+    },
+    {
+     "record_id": "loan-origination-software|q4|ChatGPT|3",
+     "quote": "End-to-end SaaS mortgage LOS within a broader ecosystem covering account opening, consumer lending, and reporting."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|1",
+     "quote": "MeridianLink is a leading provider of lending, account opening, and digital banking solutions, offering cloud-based software for financial institutions."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|2",
+     "quote": "MeridianLink is a leading provider of lending, account opening, and digital banking solutions, offering cloud-based software for financial institutions."
+    },
+    {
+     "record_id": "loan-origination-software|q5|Claude|3",
+     "quote": "MeridianLink is a leading provider of lending, account opening, and digital banking solutions, offering cloud-based software for financial institutions."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|1",
+     "quote": "MeridianLink One is a comprehensive, cloud-based banking software solution"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|2",
+     "quote": "MeridianLink One is a comprehensive, cloud-based banking software solution"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|3",
+     "quote": "MeridianLink provides cloud loan origination and digital account opening focused on U.S. community banks and credit unions"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Mode|1",
+     "quote": "While both are top-tier cloud banking and loan origination platforms, they were built with very different DNA."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Mode|3",
+     "quote": "Platform Architecture | Proprietary cloud platform | Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|1",
+     "quote": "Cloud-based multi-product origination suite"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|2",
+     "quote": "Platform Architecture | Proprietary cloud platform | Built natively on Salesforce"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Google AI Overviews|3",
+     "quote": "Core architecture | Configurable proprietary multi-product cloud engine"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "platforms",
+   "claim": "MeridianLink Mortgage is browser-based.",
+   "class": "true",
+   "proof_url": "https://www.meridianlink.com/products/mortgage-software/",
+   "proof_quote": "MeridianLink Mortgage is a cloud-native and 100% browser-based technology",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The mortgage product page states that MeridianLink Mortgage is 100% browser-based.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q4|ChatGPT|2",
+     "quote": "Browser-based LOS with configurable automation, open APIs, native pricing, and support for retail, wholesale, and correspondent channels."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "platforms",
+   "claim": "MeridianLink's service is hosted by MeridianLink.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read call the products cloud-based but do not say who hosts them.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|Claude|2",
+     "quote": "Being a SaaS-based service hosted by MeridianLink, users report confidence that sensitive data is secure."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Pricing starts at about $175 per month on a subscription.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read publishes a MeridianLink price or a pricing page, so the starting price is neither confirmed nor contradicted.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|Claude|1",
+     "quote": "~$175/month (subscription)"
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|2",
+     "quote": "Starts from $175/month (subscription)."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|3",
+     "quote": "Starts ~$175/month (subscription)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "MeridianLink products are sold separately, even when connected within MeridianLink One.",
+   "class": "true",
+   "proof_url": "https://www.meridianlink.com/products/",
+   "proof_quote": "While each product and service is sold separately, many of the products and services can be connected and integrated within the MeridianLink",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The products page states that each product and service is sold separately while many can be connected within the MeridianLink One platform.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|ChatGPT|1",
+     "quote": "Its products are sold separately, even when connected within MeridianLink One"
+    },
+    {
+     "record_id": "loan-origination-software|q7|ChatGPT|2",
+     "quote": "MeridianLink explicitly says its products and services are sold separately"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "MeridianLink pricing is quote-based.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states how MeridianLink prices are given; the pages offer demos and contact forms but no statement that pricing is by quote.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|Perplexity|1",
+     "quote": "though pricing is quote-based"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "customer_counts",
+   "claim": "MeridianLink serves more than 2,000 financial institutions.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home and about pages show customer counters whose numbers are not in the page text, and no page read states a customer count.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|Claude|1",
+     "quote": "MeridianLink's strength is consumer and mortgage origination across 2,000+ financial institutions."
+    },
+    {
+     "record_id": "loan-origination-software|q7|Claude|2",
+     "quote": "MeridianLink's strength is consumer and mortgage origination across 2,000+ financial institutions."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "customer_counts",
+   "claim": "MeridianLink served approximately 2,000 financial institutions as of December 31, 2024.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read states a customer count or a dated count; the investor filings that may carry it were not among the pages read.",
+   "instances": [
+    {
+     "record_id": "loan-origination-software|q7|Claude|3",
+     "quote": "MeridianLink runs on approximately 2,000 financial institutions as of December 31, 2024"
+    }
+   ]
+  }
+ ],
+ "notes": "Eight own pages read, all HTTP 200 and not thin; the eight-page limit is reached. The home and about pages carry customer, partner and application counters whose numbers are not in the page text, so the two customer count claims are unverifiable. The trademarks page lists CreditAPI, LendingQB and LoansPQ as MeridianLink marks; it settles the CreditAPI name (C07) but not the LoansPQ and LendingQB renames (C02, C04), which no page read states or dates. Not coded: name mentions of OpenClose as a stand-alone alternative (q4 Claude 2 and 3), capability lists, implementation times, review ratings, and lines labelled as cost proxies or estimated cost (q1 Google AI Overviews 3, q2 Google AI Overviews 1 and 3, including a $1,500 to $5,000+ per month proxy range); the hedged $175 claims (C15) were coded because they are stated as the starting price. No claim is wrong or stale, so no cited page was read for causes. Pass 2 (8 Oct 2026): no browser snapshots exist for MeridianLink and no claim was unverifiable because a page was blocked or thin; a re-read of the about and home snapshots confirms the counters carry labels only (Customers, partners, years of service) with no numbers, so C18 and C19 stay unverifiable. The about page states 'Founded in 1998', but no answer makes a founding claim. The 29 gap lines are capability, decisioning, implementation and fit descriptions, unnamed bureau or core integrations, recommendations, and lines about other vendors (Abrigo formerly Sageworks, OpenClose, nCino on Salesforce); nothing added. The table and sub-heading scan of the full answers (q1, q2, q4 to q7 tables, the Google pipe tables, the MeridianLink pros and cons sections) found only lines already coded in answers that already carry the claim (the $175 table cells for C15, 'Proprietary cloud' and 'Built on' cells for C12) or out of scope (Salesforce dependency 'No' as a comparison, ratings, implementation times, cost opinions); nothing added. No wrong or stale claim to check.",
+ "answer_record_ids": [
+  "loan-origination-software|q1|ChatGPT|1",
+  "loan-origination-software|q1|ChatGPT|2",
+  "loan-origination-software|q1|ChatGPT|3",
+  "loan-origination-software|q1|Claude|1",
+  "loan-origination-software|q1|Claude|2",
+  "loan-origination-software|q1|Claude|3",
+  "loan-origination-software|q1|Google AI Mode|1",
+  "loan-origination-software|q1|Google AI Mode|2",
+  "loan-origination-software|q1|Google AI Mode|3",
+  "loan-origination-software|q1|Google AI Overviews|1",
+  "loan-origination-software|q1|Google AI Overviews|2",
+  "loan-origination-software|q1|Google AI Overviews|3",
+  "loan-origination-software|q1|Perplexity|1",
+  "loan-origination-software|q1|Perplexity|2",
+  "loan-origination-software|q1|Perplexity|3",
+  "loan-origination-software|q2|ChatGPT|1",
+  "loan-origination-software|q2|ChatGPT|2",
+  "loan-origination-software|q2|ChatGPT|3",
+  "loan-origination-software|q2|Claude|1",
+  "loan-origination-software|q2|Claude|2",
+  "loan-origination-software|q2|Claude|3",
+  "loan-origination-software|q2|Google AI Mode|1",
+  "loan-origination-software|q2|Google AI Mode|2",
+  "loan-origination-software|q2|Google AI Mode|3",
+  "loan-origination-software|q2|Google AI Overviews|1",
+  "loan-origination-software|q2|Google AI Overviews|2",
+  "loan-origination-software|q2|Google AI Overviews|3",
+  "loan-origination-software|q2|Perplexity|1",
+  "loan-origination-software|q2|Perplexity|2",
+  "loan-origination-software|q2|Perplexity|3",
+  "loan-origination-software|q4|ChatGPT|2",
+  "loan-origination-software|q4|ChatGPT|3",
+  "loan-origination-software|q4|Claude|2",
+  "loan-origination-software|q4|Claude|3",
+  "loan-origination-software|q4|Google AI Mode|2",
+  "loan-origination-software|q4|Google AI Mode|3",
+  "loan-origination-software|q4|Perplexity|2",
+  "loan-origination-software|q5|ChatGPT|1",
+  "loan-origination-software|q5|ChatGPT|2",
+  "loan-origination-software|q5|ChatGPT|3",
+  "loan-origination-software|q5|Claude|1",
+  "loan-origination-software|q5|Claude|2",
+  "loan-origination-software|q5|Claude|3",
+  "loan-origination-software|q5|Google AI Mode|1",
+  "loan-origination-software|q5|Google AI Mode|2",
+  "loan-origination-software|q5|Google AI Mode|3",
+  "loan-origination-software|q5|Google AI Overviews|1",
+  "loan-origination-software|q5|Google AI Overviews|2",
+  "loan-origination-software|q5|Google AI Overviews|3",
+  "loan-origination-software|q5|Perplexity|1",
+  "loan-origination-software|q5|Perplexity|2",
+  "loan-origination-software|q5|Perplexity|3",
+  "loan-origination-software|q6|ChatGPT|1",
+  "loan-origination-software|q6|ChatGPT|2",
+  "loan-origination-software|q6|ChatGPT|3",
+  "loan-origination-software|q6|Claude|1",
+  "loan-origination-software|q6|Claude|2",
+  "loan-origination-software|q6|Claude|3",
+  "loan-origination-software|q6|Google AI Mode|2",
+  "loan-origination-software|q6|Google AI Mode|3",
+  "loan-origination-software|q6|Google AI Overviews|1",
+  "loan-origination-software|q6|Google AI Overviews|2",
+  "loan-origination-software|q6|Perplexity|2",
+  "loan-origination-software|q7|ChatGPT|1",
+  "loan-origination-software|q7|ChatGPT|2",
+  "loan-origination-software|q7|ChatGPT|3",
+  "loan-origination-software|q7|Claude|1",
+  "loan-origination-software|q7|Claude|2",
+  "loan-origination-software|q7|Claude|3",
+  "loan-origination-software|q7|Google AI Mode|1",
+  "loan-origination-software|q7|Google AI Mode|2",
+  "loan-origination-software|q7|Google AI Mode|3",
+  "loan-origination-software|q7|Google AI Overviews|1",
+  "loan-origination-software|q7|Google AI Overviews|2",
+  "loan-origination-software|q7|Google AI Overviews|3",
+  "loan-origination-software|q7|Perplexity|1",
+  "loan-origination-software|q7|Perplexity|2",
+  "loan-origination-software|q7|Perplexity|3",
+  "loan-origination-software|q9|Google AI Mode|3",
+  "loan-origination-software|q9|Google AI Overviews|2",
+  "loan-origination-software|q9|Google AI Overviews|3"
+ ],
+ "named_count": 81
+}

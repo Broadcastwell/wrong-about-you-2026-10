@@ -1,0 +1,846 @@
+{
+ "vendor": "JobTread",
+ "slug": "jobtread",
+ "category": "construction-project-management",
+ "coded_at": "2026-10-08T04:06:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.jobtread.com/",
+   "key": "9a8b00144f3efbb3",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.jobtread.com/pricing",
+   "key": "f0c58fd8aa3246e3",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.jobtread.com/who-we-serve/home-builders",
+   "key": "aa30414c3602290c",
+   "used_for": "product page (home builders), also checked as a cited own page for C06"
+  },
+  {
+   "url": "https://foreman.co/blog/procore-alternatives-small-contractors",
+   "key": "e3561378b7d4c34c",
+   "used_for": "cause check (C09)"
+  },
+  {
+   "url": "https://projul.com/blog/best-procore-alternatives/",
+   "key": "21b849b22b32ae34",
+   "used_for": "cause check (C09, C15), does not carry the claims"
+  },
+  {
+   "url": "https://buildern.com/resources/blog/construction-management-software-for-small-businesses/",
+   "key": "d4640bf9c9abd4b7",
+   "used_for": "cause check (C06, C07), does not mention JobTread"
+  },
+  {
+   "url": "https://tryobra.com/guides/buildertrend-alternatives",
+   "key": "b5fc70b781f19686",
+   "used_for": "cause check (C07), does not carry the claim"
+  },
+  {
+   "url": "https://www.fieldwire.com/blog/best-construction-management-software/",
+   "key": "57f003df5cadead5",
+   "used_for": "cause check (C06), does not mention JobTread"
+  },
+  {
+   "url": "https://thedigitalprojectmanager.com/tools/best-construction-project-management-software/",
+   "key": "b6ac00a96ba0d273",
+   "used_for": "cause check (C07), HTTP 403"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "JobTread costs $199 per month, including one internal user.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "$199 per month + $20/month per internal user",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists $199 per month plus $20 per additional internal user, and its user table marks the first internal user as included; the $199 figure is the monthly-plan price, matching these answers, which give no annual basis.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|1",
+     "quote": "$199/month, including one internal user; additional users 2–10 are $20/month each."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "$199/month including one internal user, then $20 per additional user for users 2–10."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|3",
+     "quote": "Starts at $199/month, with one internal user included; additional internal users 2–10 cost $20 each/month."
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "$199/month plus $20/month per user."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "JobTread lists a $199/month base including one internal user, with users 2–10 at $20 each/month."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "Published monthly pricing starts at $199 with one internal user included"
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "$199/month includes one internal user; additional users initially cost $20/month each, with volume discounts."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "$199/month includes one internal user; users 2–10 add $20 each/month."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "$199/month including one internal user; users 2–10 add $20/month each."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|3",
+     "quote": "$199/month includes one internal user; additional users 2–10 cost $20 each/month."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "$199/month includes one internal user; additional users 2–10 are $20 each/month."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "$199/month includes one internal user; users 2–10 add $20/month each."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "$199/month includes one internal user; additional users 2–10 cost $20/month each."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Additional internal users cost $20 per month each (users 2 to 10).",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "Internal Users Monthly Plan Annual Plan 1 Included Included 2-10 $20 each $16 each",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing table lists users 2 to 10 at $20 each per month on the monthly plan ($16 on the annual plan); the headline also says $20/month per internal user. Two Claude answers attach this rate to an annual-billing sentence, which the reviewer may want to see.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|1",
+     "quote": "$199/month, including one internal user; additional users 2–10 are $20/month each."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "$199/month including one internal user, then $20 per additional user for users 2–10."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|3",
+     "quote": "additional internal users 2–10 cost $20 each/month."
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "$199/month plus $20/month per user."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "JobTread lists a $199/month base including one internal user, with users 2–10 at $20 each/month."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "additional users are tiered, starting at $20/month."
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "additional users initially cost $20/month each, with volume discounts."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "users 2–10 add $20 each/month."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "users 2–10 add $20/month each."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|3",
+     "quote": "additional users 2–10 cost $20 each/month."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "additional users 2–10 are $20 each/month."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "users 2–10 add $20/month each."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "additional users 2–10 cost $20/month each."
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|2",
+     "quote": "with additional users at $20/month each."
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|3",
+     "quote": "with additional users at $20/month each."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "JobTread is priced per (internal) user.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "All features are included with your JobTread subscription. You simply pay based on the number of internal users you have.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ states that customers pay based on the number of internal users.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|1",
+     "quote": "pricing is published and per-user"
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|1",
+     "quote": "| JobTread | Cost tracking depth | Per user |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Additional-user prices are tiered, with volume discounts at higher user counts.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "Tiered price breaks begin after 10 users.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states that tiered price breaks begin after 10 users.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "additional users are tiered, starting at $20/month."
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "additional users initially cost $20/month each, with volume discounts."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "JobTread publishes its pricing.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "$199 per month + $20/month per internal user",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes list prices.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|1",
+     "quote": "pricing is published and per-user"
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "QuickBooks Online integration, with published pricing."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "Published monthly pricing starts at $199 with one internal user included"
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|1",
+     "quote": "with pricing published at roughly $159/month billed annually for the first user"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "JobTread pricing is a custom quote.",
+   "class": "wrong",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "$199 per month + $20/month per internal user",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes a fixed list price and a per-user price table with a self-serve sign up, not a quote. Of the answer's cited pages, the fieldwire.com and buildern.com blogs do not mention JobTread and the vendor's home builders page carries no quote language; the rest were not read within the cause budget.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Google AI Overviews|2",
+     "quote": "Value-focused / custom quote"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "JobTread starts at about $99 per month.",
+   "class": "wrong",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "$199 per month + $20/month per internal user No contract & no setup fees Free implementation, training, and support Includes every feature - no hidden fees Save 20% on an annual subscription",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The single published plan is $199 per month, with 20% off on annual billing (about $159 per month), so no entry price near $99 exists. Of the cited pages read, buildern.com does not mention JobTread, tryobra.com gives about $200 a month, and thedigitalprojectmanager.com answered 403.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|3",
+     "quote": "| JobTread | Simple workflows & proposals | ~$99/mo |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "On annual billing JobTread costs about $159 per month for the first user.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "$199 per month + $20/month per internal user No contract & no setup fees Free implementation, training, and support Includes every feature - no hidden fees Save 20% on an annual subscription",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page gives $199 per month with 20% saved on an annual subscription, which is $159.20 per month; the answers state roughly or about $159 on annual billing.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|1",
+     "quote": "roughly $159/month billed annually for the first user, additional users cheaper"
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|1",
+     "quote": "with pricing published at roughly $159/month billed annually for the first user"
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|2",
+     "quote": "JobTread starts at $159/month on an annual plan and includes estimating, budgeting, and a customer portal in one package."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|3",
+     "quote": "It starts at $159/month on an annual plan and includes estimating, budgeting, and a customer portal in one package"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "JobTread starts at $199 per month billed annually for one internal user.",
+   "class": "wrong",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "$199 per month + $20/month per internal user No contract & no setup fees Free implementation, training, and support Includes every feature - no hidden fees Save 20% on an annual subscription",
+   "stale_change": null,
+   "causing_url": "https://foreman.co/blog/procore-alternatives-small-contractors",
+   "causing_type": "other",
+   "causing_quote": "JobTread starts at $199 per month (billed annually) plus $20 per additional internal user",
+   "rationale": "Compared like with like on annual billing: the $199 headline is the monthly-plan price (its $20 per user matches the monthly column of the user table, where annual is $16), and an annual subscription saves 20%, so annual billing is about $159, not $199. The cited competitor blog states $199 billed annually.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q10|Claude|1",
+     "quote": "Pricing starts at $199/month billed annually for one internal user."
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|2",
+     "quote": "Starts at $199/month billed annually for one internal user, with additional users at $20/month each."
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|3",
+     "quote": "Pricing starts at $199/month billed annually for one internal user, with additional users at $20/month each."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "The JobTread base plan starts around $159 to $199 per month.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "$199 per month + $20/month per internal user No contract & no setup fees Free implementation, training, and support Includes every feature - no hidden fees Save 20% on an annual subscription",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The base price is $199 per month on monthly billing and 20% less (about $159) on annual billing, which is the stated range.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q10|Google AI Mode|3",
+     "quote": "Starts around $159–$199/mo base plan"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "An annual subscription saves 20%.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "Save 20% on an annual subscription",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states a 20% saving on an annual subscription.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "Annual subscriptions save 20%; customer/vendor portals are free."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "All features included, with a 20% annual discount."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "JobTread has no contract and no setup fees.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "No contract & no setup fees",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states no contract and no setup fees.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "It offers clear, transparent pricing with no contract or setup fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "The monthly subscription has a 30-day money-back guarantee.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "30-day money-back guarantee for monthly subscription",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states a 30-day money-back guarantee for the monthly subscription.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|3",
+     "quote": "No free trial, but a 30-day money-back guarantee applies to monthly subscriptions."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "No free trial; the monthly subscription has a 30-day money-back guarantee."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "No free trial. The monthly subscription has a 30-day money-back guarantee."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "There’s no free trial; the monthly subscription has a 30-day money-back guarantee."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "free_tier",
+   "claim": "JobTread has no free trial.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "We don't offer a free trial because we assign every client a Customer Success Manager",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ states that JobTread does not offer a free trial.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|3",
+     "quote": "No free trial, but a 30-day money-back guarantee applies to monthly subscriptions."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "No free trial; the monthly subscription has a 30-day money-back guarantee."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "No free trial. The monthly subscription has a 30-day money-back guarantee."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "There’s no free trial; the monthly subscription has a 30-day money-back guarantee."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "free_tier",
+   "claim": "JobTread offers a free trial.",
+   "class": "wrong",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "We don't offer a free trial because we assign every client a Customer Success Manager",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ states that JobTread does not offer a free trial (it offers a 30-day money-back guarantee instead). The answer groups JobTread with three tools that 'all offer free trials'; the cited pages read (projul.com, foreman.co) do not say JobTread has a free trial, and foreman.co says it offers a money-back guarantee period.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q10|Claude|2",
+     "quote": "All four offer free trials — run a real past project through your top 2 picks before committing!"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "plans",
+   "claim": "Every JobTread subscription includes all features (no feature tiers or add-ons).",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "Will I need to pay for an upgraded plan to unlock all the features? No. All features are included with your JobTread subscription.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ states that all features are included and no upgraded plan is needed.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|1",
+     "quote": "It includes those features without requiring a higher-tier plan."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "All features and implementation/training included"
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|3",
+     "quote": "All features included."
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "All features are included in the subscription."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "all features are included."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "All features included, with a 20% annual discount."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|3",
+     "quote": "All features included; customer and vendor portal users are free."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|2",
+     "quote": "includes estimating, budgeting, and a customer portal in one package."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|3",
+     "quote": "with no feature gating by tier, which is rare."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "with all features included rather than separate feature tiers."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "All features and implementation/training are included"
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "All features and implementation/training are included, so you don’t need to select several modules."
+    },
+    {
+     "record_id": "construction-project-management|q10|Google AI Mode|1",
+     "quote": "it includes built-in, on-screen takeoff and crystal-clear budget workflows without extra add-on costs."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "plans",
+   "claim": "Implementation and training are included at no extra cost.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "Free implementation, training, and support",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists free implementation, training and support.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "All features and implementation/training included"
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "Implementation and training are included too."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "All features and implementation/training are included"
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "All features and implementation/training are included, so you don’t need to select several modules."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "Customer, subcontractor and vendor portal users are free.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "No. Your JobTread subscription includes unlimited, free customer and vendor portal users such as suppliers, subcontractors, and customers.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ states that customer and vendor portal users, including subcontractors, are free.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|1",
+     "quote": "Customer and subcontractor portal users are free."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "customer and subcontractor portal users are free."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|3",
+     "quote": "Customer and subcontractor portal users are free"
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "with free external portal users."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "External portal users are free."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "customer/vendor portals are free."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|3",
+     "quote": "customer and vendor portal users are free."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "Customer and subcontractor portal users are free."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "customer and subcontractor portal users are free."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "plans",
+   "claim": "External (subcontractor and client) portal users are unlimited.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "Unlimited customer and vendor portal users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists unlimited customer and vendor portal users.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q5|Google AI Overviews|2",
+     "quote": "unlimited external portal users for subs and clients."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "plans",
+   "claim": "JobTread is sold in subscription tiers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers one all-features subscription, billed monthly or annually, with tiered per-user price breaks; it is not clear whether 'subscription tiers' means those user price breaks or feature plans, so the line is neither confirmed nor contradicted.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q5|Google AI Overviews|2",
+     "quote": "Combines comprehensive job finances, sales, and estimating with transparent subscription tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "Three internal users cost $239 per month (monthly billing).",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "Internal Users Monthly Plan Annual Plan 1 Included Included 2-10 $20 each $16 each",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "On the monthly plan the $199 base includes the first user and users 2 to 10 are $20 each, so three users are $199 + $40 = $239.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "Three internal users would be $239/month."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "Three internal users would be $239/month."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "Three full-access users would be $239/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "pricing",
+   "claim": "Ten internal users cost $379 per month on monthly billing.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "Internal Users Monthly Plan Annual Plan 1 Included Included 2-10 $20 each $16 each",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "On the monthly plan the $199 base includes the first user and users 2 to 10 are $20 each, so ten users are $199 + $180 = $379.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "That makes 10 internal users $379/month on monthly billing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "integrations",
+   "claim": "JobTread integrates with QuickBooks Online.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "Integrations QuickBooks Online SRS Distribution Home Depot",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The site's integrations menu lists QuickBooks Online.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "homeowner selections, and QuickBooks Online integration"
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "Estimating, budgets, change orders, scheduling, portals, and QuickBooks Online integration, with published pricing."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|1",
+     "quote": "and it integrates with QuickBooks."
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "platforms",
+   "claim": "JobTread has a mobile app.",
+   "class": "true",
+   "proof_url": "https://www.jobtread.com/pricing",
+   "proof_quote": "Sub & Vendor Portals Specifications Mobile App Workflows",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The site's feature list includes a Mobile App among its project management features.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Google AI Mode|2",
+     "quote": "a smooth mobile app experience for field crews."
+    }
+   ]
+  }
+ ],
+ "notes": "Three own pages read, all HTTP 200 and not thin (home, pricing, home builders). Six cited pages read for causes (the per-vendor maximum); thedigitalprojectmanager.com answered 403 and is a cause candidate only, so it is not in needs_browser_read. Judgement calls: C08 and C10 are classed true and C09 wrong on the pricing page's '$199 per month' plus 'Save 20% on an annual subscription' (20% off $199 is $159.20); the snapshot does not print $159 itself. For the reviewer only: the raw pricing HTML carries data-annual-users=\"159,16,12,8,4\" and data-monthly-users=\"199,20,15,10,5\", which agree, but this was not used to class. C02 includes two Claude answers that attach the $20 user rate to an annual-billing sentence; the published $20 is the monthly-plan rate ($16 annual). C07 cause not found: no cited page read carries a $99 price. Derived configuration prices (C21, C22) are coded as pricing statements because they state a price; they follow from the published table. Evaluative 'transparent pricing' lines and review ratings were not coded. Pass 2 (8 Oct 2026): no browser snapshot exists for JobTread and no claim was unverifiable for a blocked or thin page, so nothing was re-classed. The gap lines and tables added no claim: the table cells 'From ~$159/mo', '$159/mo', '$199/mo + $20/user', '~$199/mo' and '~$199+/mo' restate prices the same answers already carry in prose (C01, C02, C08, C09), the comparison tables with JobTread as a column header list features only, and the rest are features or about other vendors. Consistency check: C06 (custom quote against a published list price and per-user table), C07 (about $99 against $199 monthly or about $159 annual), C09 ($199 billed annually against the page's monthly-plan headline, whose $20 user rate the table puts in the Monthly Plan column, with 20% off annual) and C15 (free trial against 'We don't offer a free trial') stay wrong; each contradiction is on the vendor's own pricing page for the same single plan.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "construction-project-management|q1|ChatGPT|1",
+  "construction-project-management|q1|ChatGPT|2",
+  "construction-project-management|q1|ChatGPT|3",
+  "construction-project-management|q1|Claude|1",
+  "construction-project-management|q1|Claude|2",
+  "construction-project-management|q1|Claude|3",
+  "construction-project-management|q1|Google AI Mode|2",
+  "construction-project-management|q1|Google AI Mode|3",
+  "construction-project-management|q1|Google AI Overviews|2",
+  "construction-project-management|q1|Google AI Overviews|3",
+  "construction-project-management|q1|Perplexity|1",
+  "construction-project-management|q1|Perplexity|2",
+  "construction-project-management|q1|Perplexity|3",
+  "construction-project-management|q10|ChatGPT|1",
+  "construction-project-management|q10|ChatGPT|2",
+  "construction-project-management|q10|ChatGPT|3",
+  "construction-project-management|q10|Claude|1",
+  "construction-project-management|q10|Claude|2",
+  "construction-project-management|q10|Claude|3",
+  "construction-project-management|q10|Google AI Mode|1",
+  "construction-project-management|q10|Google AI Mode|2",
+  "construction-project-management|q10|Google AI Mode|3",
+  "construction-project-management|q10|Google AI Overviews|1",
+  "construction-project-management|q10|Google AI Overviews|2",
+  "construction-project-management|q10|Google AI Overviews|3",
+  "construction-project-management|q10|Perplexity|1",
+  "construction-project-management|q10|Perplexity|2",
+  "construction-project-management|q2|ChatGPT|2",
+  "construction-project-management|q2|ChatGPT|3",
+  "construction-project-management|q2|Perplexity|1",
+  "construction-project-management|q2|Perplexity|2",
+  "construction-project-management|q2|Perplexity|3",
+  "construction-project-management|q3|Google AI Mode|2",
+  "construction-project-management|q4|ChatGPT|2",
+  "construction-project-management|q4|ChatGPT|3",
+  "construction-project-management|q5|ChatGPT|1",
+  "construction-project-management|q5|ChatGPT|2",
+  "construction-project-management|q5|ChatGPT|3",
+  "construction-project-management|q5|Claude|1",
+  "construction-project-management|q5|Claude|2",
+  "construction-project-management|q5|Claude|3",
+  "construction-project-management|q5|Google AI Mode|1",
+  "construction-project-management|q5|Google AI Mode|2",
+  "construction-project-management|q5|Google AI Mode|3",
+  "construction-project-management|q5|Google AI Overviews|2",
+  "construction-project-management|q5|Google AI Overviews|3",
+  "construction-project-management|q5|Perplexity|1",
+  "construction-project-management|q5|Perplexity|2",
+  "construction-project-management|q5|Perplexity|3",
+  "construction-project-management|q7|Google AI Overviews|1"
+ ],
+ "named_count": 50
+}

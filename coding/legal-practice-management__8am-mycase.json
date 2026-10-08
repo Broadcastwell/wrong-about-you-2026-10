@@ -1,0 +1,1875 @@
+{
+ "vendor": "8am MyCase",
+ "slug": "8am-mycase",
+ "category": "legal-practice-management",
+ "coded_at": "2026-10-08T04:06:42Z",
+ "pages_read": [
+  {
+   "url": "https://mycase.com/",
+   "key": "e0aa18e1b90b75e7",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.mycase.com/pricing",
+   "key": "07d7d9a471ae7c25",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.mycase.com/about-us/",
+   "key": "48ebf12bfaf5b673",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.mycase.com/integrations/",
+   "key": "553169144f51dbb1",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://www.mycase.com/features/mobile-app/",
+   "key": "442f99d182457659",
+   "used_for": "platforms"
+  },
+  {
+   "url": "https://www.mycase.com/comparison/mycase-vs-clio",
+   "key": "75f7e621fa14281d",
+   "used_for": "own comparison page (also a cause)"
+  },
+  {
+   "url": "https://www.mycase.com/in-the-news/",
+   "key": "a21417a21d971472",
+   "used_for": "press"
+  },
+  {
+   "url": "https://www.8am.com/",
+   "key": "346a65ffe92276d0",
+   "used_for": "parent company home (8am product names)"
+  },
+  {
+   "url": "https://www.mycase.com/blog/legal-case-management/best-legal-practice-management-software/",
+   "key": "43d3f4c86a3adc7a",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://www.accountingatelier.com/blog/clio-vs-mycase",
+   "key": "7bfa2faa6510aa28",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://www.counselstack.io/blog/best-clio-alternatives-2026",
+   "key": "c075871b9dc43ee6",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://www.mycase.com/comparison/mycase-vs-smokeball/",
+   "key": "a92abd2b4bc8d38c",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://legalstackreview.com/best-practice-management.html",
+   "key": "226078b282252eb1",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://ustechautomations.com/resources/blog/clio-vs-mycase-legal-practice-management-comparison-2026",
+   "key": "606efafe389a3d38",
+   "used_for": "cause check (cited)"
+  },
+  {
+   "url": "https://www.quickbase.com/blog/best-legal-case-practice-management-software",
+   "key": "68b69fc252a14079",
+   "used_for": "cause check (cited; snapshot taken once under the cosmolex budget, reused)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "MyCase Basic costs $50 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Basic plan is $50 per user/month (billed annually) or $60 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ gives Basic at $50 per user per month billed annually.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "MyCase Basic is $50/month with annual billing"
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|3",
+     "quote": "Basic: $50/month annually or $60 monthly"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "Basic: $50/user/month annually or $60 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "Basic: $50; Pro: $100 per user/month, billed annually ($60/$120 monthly)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Basic: $50/user/month billed annually, or $60 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|1",
+     "quote": "Basic $50, Pro $100, Advanced $130/user/month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "Basic $50, Pro $100, and Advanced $130 per user/month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|1",
+     "quote": "Basic is $50/user/month annually"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Basic $50, Pro $100, Advanced $130 per user/month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Basic $50, Pro $100, Advanced $130 per user/month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Basic $50, Pro $100, Advanced $130 per user/month, billed annually."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "MyCase Basic costs $60 per user per month billed monthly.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Basic plan is $50 per user/month (billed annually) or $60 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ gives Basic at $60 per user per month billed monthly.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|3",
+     "quote": "Basic: $50/month annually or $60 monthly"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "Basic: $50/user/month annually or $60 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "Basic: $50; Pro: $100 per user/month, billed annually ($60/$120 monthly)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Basic: $50/user/month billed annually, or $60 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "Monthly billing is $60, $120, and $150 respectively."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Monthly billing is $60/$120/$150."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Monthly billing is $60/$120/$150."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Monthly billing is $60 / $120 / $150."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "MyCase Pro costs $100 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Pro plan is $100 per user/month (billed annually) or $120 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ gives Pro at $100 per user per month billed annually.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "$100/user/month billed annually, or $120 monthly"
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "Pro: $100/user/month billed annually, or $120 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|3",
+     "quote": "Pro: $100/month annually or $120 monthly"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "$100/user/month billed annually, or $120 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "MyCase Pro: $100/user/month billed annually"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|3",
+     "quote": "Pro is $100/user/month billed annually, or $120 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "Pro: $100 annually or $120 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "Basic: $50; Pro: $100 per user/month, billed annually ($60/$120 monthly)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Pro: $100/user/month annually, or $120 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|1",
+     "quote": "Basic $50, Pro $100, Advanced $130/user/month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "Basic $50, Pro $100, and Advanced $130 per user/month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|1",
+     "quote": "but Pro is $100 and Advanced is $130"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Basic $50, Pro $100, Advanced $130 per user/month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Basic $50, Pro $100, Advanced $130 per user/month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Basic $50, Pro $100, Advanced $130 per user/month, billed annually."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "MyCase Pro costs $120 per user per month billed monthly.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Pro plan is $100 per user/month (billed annually) or $120 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ gives Pro at $120 per user per month billed monthly.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "$100/user/month billed annually, or $120 monthly"
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "Pro: $100/user/month billed annually, or $120 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|3",
+     "quote": "Pro: $100/month annually or $120 monthly"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "$100/user/month billed annually, or $120 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "Month-to-month pricing is $120/user/month."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|3",
+     "quote": "Pro is $100/user/month billed annually, or $120 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "Pro: $100 annually or $120 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "Basic: $50; Pro: $100 per user/month, billed annually ($60/$120 monthly)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Pro: $100/user/month annually, or $120 monthly."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "Monthly billing is $60, $120, and $150 respectively."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Monthly billing is $60/$120/$150."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Monthly billing is $60/$120/$150."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Monthly billing is $60 / $120 / $150."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "MyCase Advanced costs $130 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Advanced plan is $130 per user/month (billed annually) or $150 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ gives Advanced at $130 per user per month billed annually.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|1",
+     "quote": "Basic $50, Pro $100, Advanced $130/user/month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "Basic $50, Pro $100, and Advanced $130 per user/month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|1",
+     "quote": "but Pro is $100 and Advanced is $130"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Basic $50, Pro $100, Advanced $130 per user/month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Basic $50, Pro $100, Advanced $130 per user/month, billed annually."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Basic $50, Pro $100, Advanced $130 per user/month, billed annually."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "MyCase Advanced costs $150 per user per month billed monthly.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Advanced plan is $130 per user/month (billed annually) or $150 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ gives Advanced at $150 per user per month billed monthly.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "Monthly billing is $60, $120, and $150 respectively."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Monthly billing is $60/$120/$150."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Monthly billing is $60/$120/$150."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Monthly billing is $60 / $120 / $150."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Monthly billing costs more than annual billing.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "Pay Yearly (Save up to 16%) Your practice isn't going anywhere. Save up to 16% by paying for the year upfront.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page shows each plan priced higher on monthly billing and states that yearly payment saves up to 16%.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|1",
+     "quote": "Monthly billing is higher."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "MyCase Pro for 3 to 5 users costs $300 to $500 per month on annual billing.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Pro plan is $100 per user/month (billed annually) or $120 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "At the published $100 per user per month on annual billing, 3 to 5 Pro users come to $300 to $500 per month.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "MyCase Pro for 3–5 total users is $300–$500 per month equivalent with annual billing"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "making it $300–$500/month equivalent for 3–5 users."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|3",
+     "quote": "MyCase Pro for 3–5 users is $300–$500 per month on annual billing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Three MyCase Pro users cost $3,600 per year on annual billing.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Pro plan is $100 per user/month (billed annually) or $120 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Three users at the published $100 per user per month on annual billing come to $3,600 per year.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "three MyCase Pro users cost $3,600/year on annual billing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "The MyCase Accounting add-on costs $39 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Accounting Full financial clarity, built right in $39 USD/user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the MyCase Accounting enhancement at $39 per user per month.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Full accounting is a separate $39/user/month add-on."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Its Accounting enhancement is advertised at an additional $39 per user/month."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Accounting is listed separately at $39/user/month."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Full accounting is listed separately at $39 per user/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "MyCase starts at $50 per user per month (billing basis not stated).",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Basic plan is $50 per user/month (billed annually) or $60 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Basic, the lowest plan, is $50 per user per month on annual billing, which matches the stated starting price; the answers do not claim a monthly-billing price.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "Starting at ~$50/month"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "Starting at $50/month"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|1",
+     "quote": "Starting at $50"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|3",
+     "quote": "Starting at $50/user/month (Pro plans around $89/user)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "MyCase starts at about $39 to $50 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Basic plan is $50 per user/month (billed annually) or $60 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The published entry price, Basic at $50 per user per month billed annually, falls within the stated range, so the range is not contradicted.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Perplexity|2",
+     "quote": "About $39–$50/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Google AI Overviews|1",
+     "quote": "built-in trust accounting tools starting around $39–$50 per user per month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "MyCase base plans start around $49 to $50 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Basic plan is $50 per user/month (billed annually) or $60 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The published Basic price of $50 per user per month billed annually falls within the stated range.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|2",
+     "quote": "Both cloud-based platforms start around $49 to $50 per user per month for base plans"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "MyCase is priced per user.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "Your monthly subscription rate depends on the number of active firm users you have added to your account.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page prices every plan per user per month and ties the subscription rate to the number of active users.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Google AI Overviews|1",
+     "quote": "at a predictable, affordable flat per-user price tier"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "MyCase pricing is tiered.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Basic $60 USD per user/month MyCase Pro $120 USD per user/month MyCase Advanced $150 USD per user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists three tiers: Basic, Pro and Advanced.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|1",
+     "quote": "transparent tiered pricing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "MyCase starts at $39 per user per month (billing basis not stated).",
+   "class": "wrong",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Basic plan is $50 per user/month (billed annually) or $60 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "https://www.mycase.com/comparison/mycase-vs-clio/",
+   "causing_type": "own page",
+   "causing_quote": "MyCase pricing provides a better value for your investment, starting at $39/user/month for cloud-based case management",
+   "rationale": "The pricing page puts the lowest plan, Basic, at $50 per user per month annually or $60 monthly, so no plan starts at $39; the vendor's own Clio comparison FAQ still says starting at $39, and that page is cited by one answer carrying the claim.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Google AI Overviews|2",
+     "quote": "Pricing starts around $39 per user per month."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "Starts at $39/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "| **MyCase** | Value, client communication | ~$39/user/mo |"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Google AI Overviews|2",
+     "quote": "Starting Price: Around $39/user/month (Basic plan)."
+    },
+    {
+     "record_id": "legal-practice-management|q4|Google AI Overviews|3",
+     "quote": "competitive starting price (~$39/user/month)"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|3",
+     "quote": "Starts at $39/month per user."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "More affordable entry price ($39/user/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "MyCase Basic costs $39 per user per month billed annually.",
+   "class": "wrong",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Basic plan is $50 per user/month (billed annually) or $60 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "https://www.accountingatelier.com/blog/clio-vs-mycase",
+   "causing_type": "other",
+   "causing_quote": "MyCase starts at $39 per user per month (Basic, billed annually) or $49 billed monthly, with Pro at $89 and Advanced at $109 annually.",
+   "rationale": "The pricing page gives Basic at $50 per user per month billed annually, contradicting $39 on the same plan and billing basis.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "MyCase Basic at $39 per user per month annually"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "MyCase Basic at $39 per user per month annually"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "MyCase Basic at $39/user/month (billed annually)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "| Entry-level | ~$49/user/mo | ~$39/user/mo (annual) |"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "MyCase starts at $39/user/month (billed annually)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "MyCase starts at $49 per user per month (billing basis not stated).",
+   "class": "wrong",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Basic plan is $50 per user/month (billed annually) or $60 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "https://legalstackreview.com/best-practice-management.html",
+   "causing_type": "review site",
+   "causing_quote": "Starting price $49/mo Free trial 10 days",
+   "rationale": "The lowest published price is Basic at $50 per user per month annually or $60 monthly, so no billing basis gives the exact $49 start these three answers state; the approximate \"Starts around $49\" instance was moved to C55 in pass 2.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "Starts at $49/user/month with a 10-day free trial available."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "Starts at $49/user/month with a 10-day free trial"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "Starts at $49/user/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "MyCase Basic costs $49 per user per month billed monthly.",
+   "class": "wrong",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Basic plan is $50 per user/month (billed annually) or $60 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "https://www.accountingatelier.com/blog/clio-vs-mycase",
+   "causing_type": "other",
+   "causing_quote": "MyCase starts at $39 per user per month (Basic, billed annually) or $49 billed monthly",
+   "rationale": "The pricing page gives Basic at $60 per user per month on monthly billing, contradicting $49 on the same plan and billing basis.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "MyCase starts at $39/user/month (billed annually) or $49 billed monthly"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "pricing",
+   "claim": "MyCase starts at about $39 to $49 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Pass 2 re-classed this from wrong: the range is stated as approximate and its upper end is one dollar below the published entry price (Basic at $50 per user per month billed annually), so the pricing page does not clearly contradict it, and because $50 lies just outside the range it cannot be classed true either.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|3",
+     "quote": "starting around $39–$49 per user/month depending on billing cycles"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|1",
+     "quote": "Both start around $39–$49 per user per month"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|3",
+     "quote": "MyCase: Starting price is around $39–$49 per user per month (billed annually)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "MyCase Pro costs $89 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Pro plan is $100 per user/month (billed annually) or $120 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "https://www.accountingatelier.com/blog/clio-vs-mycase",
+   "causing_type": "other",
+   "causing_quote": "MyCase starts at $39 per user per month (Basic, billed annually) or $49 billed monthly, with Pro at $89 and Advanced at $109 annually.",
+   "rationale": "The pricing page gives Pro at $100 per user per month annually or $120 monthly, so $89 matches neither billing basis.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "most firms will need the Pro tier at ~$89/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "its mid-tier Pro plan ($89/user/month)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "its mid-tier Pro plan ($89/user/month)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "its mid-tier Pro plan ($89/user/month)"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|1",
+     "quote": "Pricing: Pro plans start around $89 per user/month."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|2",
+     "quote": "Pro plan starting at $89/mo"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|3",
+     "quote": "Pro plans around $89/user"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "| Mid | $89/user/mo (Essentials) | $89/user/mo (Pro) |"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "| Mid-tier | $89/user/mo | $89/user/mo |"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "with Pro at $89 and Advanced at $109 annually"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "pricing",
+   "claim": "MyCase Advanced (the top tier) costs $109 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Advanced plan is $130 per user/month (billed annually) or $150 per user/month (billed monthly)",
+   "stale_change": null,
+   "causing_url": "https://www.accountingatelier.com/blog/clio-vs-mycase",
+   "causing_type": "other",
+   "causing_quote": "MyCase starts at $39 per user per month (Basic, billed annually) or $49 billed monthly, with Pro at $89 and Advanced at $109 annually.",
+   "rationale": "The pricing page gives Advanced at $130 per user per month annually or $150 monthly, so $109 matches neither billing basis.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "| Advanced | $119/user/mo (Advanced) | $109/user/mo (Advanced) |"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "| Top tier | $129+/user/mo | $109/user/mo |"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "with Pro at $89 and Advanced at $109 annually"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "pricing",
+   "claim": "MyCase ranges from $39 to about $89 per user per month across tiers.",
+   "class": "wrong",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Basic $50 USD per user/month MyCase Pro $100 USD per user/month MyCase Advanced $130 USD per user/month",
+   "stale_change": null,
+   "causing_url": "https://www.quickbase.com/blog/best-legal-case-practice-management-software",
+   "causing_type": "other",
+   "causing_quote": "MyCase ranges from $39 to approximately $89 per user per month across tiers.",
+   "rationale": "On annual billing the published tiers run from $50 to $130 per user per month (and $60 to $150 monthly), contradicting both ends of the stated range.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "MyCase ranges from $39 to approximately $89 per user per month across tiers."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|3",
+     "quote": "| **MyCase** | Solos, simplicity & value | ~$39–$89 |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "pricing",
+   "claim": "A 5-attorney firm pays about $5,500 to $7,500 per year for MyCase.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The claim names no plan or billing period, so the published per-plan prices cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "| **MyCase** | Ease of use, client communication | ~$5,500–$7,500 |"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "A 5-attorney firm will pay approximately $5,500–$7,500/year for MyCase."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "versus $5,500–$7,500/year for MyCase or PracticePanther"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "pricing",
+   "claim": "8am CASEpeer starts around $65 to $89 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the pages read in this study publishes CASEpeer pricing.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|Claude|1",
+     "quote": "Starting around $65–$89/user/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "free_tier",
+   "claim": "MyCase offers a 10-day free trial.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase offers a 10 day no-cost trial of our legal practice management solution.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page FAQ states a 10 day no-cost trial.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "Starts at $49/user/month with a 10-day free trial available."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "Starts at $49/user/month with a 10-day free trial"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "plans",
+   "claim": "MyCase Pro includes intake forms and legal CRM, automated workflows, unlimited e-signatures, document generation, two-way texting and chat, and AI features.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "Everything in Basic Unlimited eSignature and Document Generation Automated Workflows Client Intake Forms and Legal CRM 2-Way Texting, Chat, and Call Log Premium Billing, Invoicing, and Reporting 8am IQ Writing and Document Assistant",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Pro column of the pricing page lists each of these items, including the 8am IQ writing and document assistant; each answer names a subset of them.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "Includes intake forms, lead management, unlimited e-signatures, automated workflows, and two-way texting."
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "You want intake, client texting, e-signatures, and automated workflows in one clearly priced plan."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "You want intake forms, texting, e-signatures, document generation, and automated workflows in one subscription."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "Includes intake/CRM, automated workflows, two-way texting, unlimited e-signatures, and document generation."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|3",
+     "quote": "You want intake forms, a legal CRM, two-way texting, document generation, e-signatures, and automated workflows in one subscription."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "Pro adds intake forms, lead management, automated workflows, unlimited e-signatures, and two-way texting."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "Pro combines case management, intake/CRM, automated workflows, unlimited e-signatures, document generation, and two-way texting."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Pro adds intake forms, lead management, automated workflows, unlimited e-signatures, document generation, and two-way texting."
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "its mid-tier Pro plan ($89/user/month) includes AI features, two-way texting, and eSignature"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "its mid-tier Pro plan ($89/user/month) includes AI features, two-way texting, and eSignature"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "its mid-tier Pro plan ($89/user/month) includes AI features, two-way texting, and eSignature"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|1",
+     "quote": "Pro combines intake forms, CRM, automated workflows, two-way texting, document generation, and unlimited e-signatures."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "Its Pro plan combines intake forms, CRM, automated workflows, two-way texting, document generation, and unlimited e-signatures."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|3",
+     "quote": "Pro adds intake forms, automated workflows, two-way texting, and document generation."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|1",
+     "quote": "Its Pro plan combines intake forms, legal CRM, automated workflows, document generation, e-signatures, and two-way texting."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|3",
+     "quote": "Its Pro tier combines intake forms, CRM, two-way texting, chat, automated workflows, e-signatures, and document generation."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Includes intake forms, lead tracking, two-way texting, unlimited e-signatures, and automated workflows."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Includes intake forms, CRM, two-way texting, automated workflows, and unlimited e-signatures."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Includes intake forms, legal CRM, two-way texting, unlimited e-signatures, and automated workflows."
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "plans",
+   "claim": "MyCase Basic has a limited client portal.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "Unlimited Document Storage Client Portal (Limited)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Basic column of the pricing page lists Client Portal (Limited).",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "Basic is cheaper but omits those Pro features and has a limited client portal."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|1",
+     "quote": "Basic has a limited client portal"
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "Basic has a limited client portal"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|1",
+     "quote": "Basic has a limited client portal"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|3",
+     "quote": "Basic has a limited portal"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "plans",
+   "claim": "Intake, two-way texting, e-signatures and workflow automation are not in Basic; they come with Pro or higher.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "Everything in Basic Unlimited eSignature and Document Generation Automated Workflows Client Intake Forms and Legal CRM 2-Way Texting, Chat, and Call Log",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists these items as what Pro adds to Basic, and the Basic feature list does not include them.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "the intake and automation features above are in Pro"
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "Basic is cheaper but omits those Pro features and has a limited client portal."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "helpful features like advanced integrations, texting, intake automation, and eSignature are available only on higher-priced tiers."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "helpful features like advanced integrations, texting, intake automation, and eSignature are available only on higher-priced tiers."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "helpful features like advanced integrations, texting, intake automation, and eSignature are available only on higher-priced tiers."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|2",
+     "quote": "omits many of those automation and intake features"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "Basic leaves out many of those capabilities"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|3",
+     "quote": "the communication and automation features that make it appealing require Pro or higher."
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "plans",
+   "claim": "Advanced document automation requires the Advanced plan.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "Everything in MyCase Pro 8am IQ Case Assistant 8am IQ Discovery Assistant (OCR) New Advanced Document Automation",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Advanced Document Automation among the items the Advanced plan adds to Pro.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "advanced document automation requires the Advanced tier."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|1",
+     "quote": "Advanced document automation requires Advanced"
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|3",
+     "quote": "Advanced document automation requires Advanced"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "plans",
+   "claim": "MyCase Advanced includes split billing.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "Desktop Drive (PC & Mac) Conflict Check Tracking Split Billing Open API",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Advanced column of the pricing page lists Split Billing.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "MyCase Advanced also offers split billing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "plans",
+   "claim": "Full accounting (MyCase Accounting) is a separately priced add-on, not included in the plans.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Accounting Full financial clarity, built right in $39 USD/user/month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists MyCase Accounting under Enhancements with its own per-user price, separate from the Basic, Pro and Advanced plans.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "Full accounting is a separate add-on."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "Full accounting is a separate add-on"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "Full MyCase Accounting is separately priced"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|3",
+     "quote": "Full accounting is an extra-cost add-on."
+    },
+    {
+     "record_id": "legal-practice-management|q4|ChatGPT|3",
+     "quote": "Full accounting is a separate $39/user/month add-on."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|3",
+     "quote": "Full accounting costs extra."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|1",
+     "quote": "full accounting is an additional charge."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|3",
+     "quote": "full accounting is an additional subscription."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "its fuller Accounting product is a paid enhancement"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "MyCase lists full accounting as an additional subscription."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "its full accounting product costs extra"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "plans",
+   "claim": "Trust accounting is included in the MyCase plans.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "Case and Contact Management Time Entry, Invoicing and Trust Accounting",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Basic column of the pricing page lists Trust Accounting, and Pro and Advanced include everything in Basic.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "MyCase includes basic trust accounting"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "MyCase includes trust-accounting features"
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "plans",
+   "claim": "Intake is included in the MyCase product at no extra charge (not a separate add-on).",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "Everything in Basic Unlimited eSignature and Document Generation Automated Workflows Client Intake Forms and Legal CRM",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Intake forms and the legal CRM are part of the Pro plan (and Advanced), and the pricing page sells no separate intake add-on; its only paid enhancements are LawPay Payments and MyCase Accounting.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "MyCase includes basic intake features in the main product at no extra charge."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "MyCase includes basic intake features in the main product at no extra charge."
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "plans",
+   "claim": "Billing, client portal, document management and case management are included without per-feature add-ons.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "Case and Contact Management Time Entry, Invoicing and Trust Accounting Online Payments with Next-Day Deposits New Customizable Reporting New Unlimited Document Storage Client Portal (Limited)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Basic plan already lists case management, invoicing, document storage and the client portal, so these come with every plan.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "its all-inclusive pricing model includes billing, client portal, document management, and case management without per-feature add-ons."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "its all-inclusive pricing model includes billing, client portal, document management, and case management without per-feature add-ons."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "its all-inclusive pricing model includes billing, client portal, document management, and case management without per-feature add-ons."
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "plans",
+   "claim": "E-signatures and a client portal are included even in the lower tiers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page shows the client portal (limited) in Basic and unlimited eSignature in Pro, but the snapshot does not show whether Basic has any e-signature allowance, and the claim does not say which tiers it means.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "MyCase includes e-signatures and a client portal even in lower tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "product_names",
+   "claim": "CASEpeer is an 8am product named 8am CASEpeer (CASEpeer by 8am).",
+   "class": "true",
+   "proof_url": "https://www.8am.com/",
+   "proof_quote": "Built for personal injury law firms, 8am CasePeer combines intuitive workflows, collaboration tools, and financial intelligence",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The 8am home page names the personal injury product 8am CasePeer.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|Claude|1",
+     "quote": "8am CASEpeer"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Claude|2",
+     "quote": "CASEpeer (8am CASEpeer)"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Claude|3",
+     "quote": "CASEpeer (by 8am)"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "CASEpeer (now 8am CASEpeer)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "product_names",
+   "claim": "8am IQ is 8am's AI product.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "8am IQ Writing and Document Assistant",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing and home pages name the built-in AI tools 8am IQ; the launch timing in the answer is out of scope.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|Claude|2",
+     "quote": "The platform recently launched 8am IQ, embedding generative AI throughout the system."
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "product_names",
+   "claim": "The MyCase AI writing and document assistant is named MyCase IQ.",
+   "class": "wrong",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "8am IQ Writing and Document Assistant",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page names the same writing and document assistant 8am IQ, and no page read uses the name MyCase IQ or dates a rename, so the claim is wrong rather than stale.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "MyCase IQ handles writing and document assistance at accessible pricing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C40",
+   "type": "product_names",
+   "claim": "MyCase Accounting is a MyCase product.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase Accounting Full financial clarity, built right in",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers an enhancement named MyCase Accounting.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "Full MyCase Accounting is separately priced"
+    }
+   ]
+  },
+  {
+   "claim_id": "C41",
+   "type": "integrations",
+   "claim": "MyCase Pro offers 70+ integrations.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "8am IQ Writing and Document Assistant 70+ Integrations",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Pro column of the pricing page lists 70+ Integrations.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Advertises 300+ integrations versus MyCase Pro’s 70+."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Advertises 250+ integrations, versus 70+ on MyCase Pro."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Advertises 250+ integrations, versus 70+ on MyCase Pro."
+    }
+   ]
+  },
+  {
+   "claim_id": "C42",
+   "type": "integrations",
+   "claim": "MyCase integrates with QuickBooks (QuickBooks Online).",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/integrations/",
+   "proof_quote": "QuickBooks Sync MyCase with your QuickBooks account to export data to your QuickBooks online account",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists a QuickBooks integration that syncs to QuickBooks Online.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|2",
+     "quote": "Unlike Clio or MyCase which often integrate with QuickBooks for business accounting"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Google AI Overviews|2",
+     "quote": "Full financial ledger reporting still requires a QuickBooks Online integration."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "MyCase covers the basics with Microsoft Outlook, Google Calendar, QuickBooks, and Mailchimp"
+    }
+   ]
+  },
+  {
+   "claim_id": "C43",
+   "type": "integrations",
+   "claim": "MyCase integrates with Microsoft Outlook.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/integrations/",
+   "proof_quote": "Microsoft Outlook Sync MyCase with your Outlook calendar and link emails to MyCase contacts, leads, and cases without leaving Outlook.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists a Microsoft Outlook integration.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "MyCase covers the basics with Microsoft Outlook, Google Calendar, QuickBooks, and Mailchimp"
+    }
+   ]
+  },
+  {
+   "claim_id": "C44",
+   "type": "integrations",
+   "claim": "MyCase integrates with Google Calendar.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/integrations/",
+   "proof_quote": "Google Calendar Sync MyCase with your Google calendar for 2-way sync of calendar information.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists a Google Calendar integration.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "MyCase covers the basics with Microsoft Outlook, Google Calendar, QuickBooks, and Mailchimp"
+    }
+   ]
+  },
+  {
+   "claim_id": "C45",
+   "type": "integrations",
+   "claim": "MyCase integrates with Mailchimp.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/integrations/",
+   "proof_quote": "Mailchimp Sync your contacts’ information directly into Mailchimp to avoid duplicate data entry.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists a Mailchimp integration.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "MyCase covers the basics with Microsoft Outlook, Google Calendar, QuickBooks, and Mailchimp"
+    }
+   ]
+  },
+  {
+   "claim_id": "C46",
+   "type": "integrations",
+   "claim": "MyCase integrates with Zapier.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/integrations/",
+   "proof_quote": "Zapier Connect your software applications to automate your firm workflows.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page lists a Zapier integration.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "MyCase has limited integrations but remains powerful with its built-in features and Zapier connectivity."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "MyCase has limited integrations but remains powerful with its built-in features and Zapier connectivity."
+    }
+   ]
+  },
+  {
+   "claim_id": "C47",
+   "type": "integrations",
+   "claim": "MyCase payments run through LawPay.",
+   "class": "true",
+   "proof_url": "https://mycase.com/",
+   "proof_quote": "Payments, powered by 8am LawPay Accept debit, credit, eCheck and client fee financing through Affirm.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states that MyCase payments are powered by 8am LawPay.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|1",
+     "quote": "Integrated payments via LawPay offer next-day access to funds for credit/debit/eChecks."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|2",
+     "quote": "MyCase features integrated payment processing (via LawPay)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C48",
+   "type": "platforms",
+   "claim": "MyCase is cloud based.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/features/mobile-app/",
+   "proof_quote": "Our cloud-based technology gives your firm the flexibility to work wherever you need without sacrificing efficiency or productivity.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's mobile app page describes MyCase as cloud-based technology.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "MyCase is a widely adopted cloud-based legal practice management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "MyCase is a widely adopted cloud-based legal practice management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "MyCase is a widely adopted cloud-based legal practice management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "MyCase is a widely adopted cloud-based legal practice management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "MyCase is a widely adopted cloud-based legal practice management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "MyCase is a widely adopted cloud-based legal practice management platform"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "MyCase is a cloud-based legal management solution"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "MyCase is a cloud-based legal management solution"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "Both platforms are cloud-based, mobile-ready, and offer a secure client portal to simplify communication and client management."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "Both are excellent cloud-based practice management platforms"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|2",
+     "quote": "Both cloud-based platforms start around $49 to $50 per user per month for base plans"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Perplexity|3",
+     "quote": "wanting accessible, cloud-based practice management"
+    }
+   ]
+  },
+  {
+   "claim_id": "C49",
+   "type": "platforms",
+   "claim": "MyCase is available on mobile (mobile-ready).",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/features/mobile-app/",
+   "proof_quote": "Our mobile-friendly app is available on Android and iOS.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The mobile app page states the app is available on Android and iOS.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "Both platforms are cloud-based, mobile-ready, and offer a secure client portal to simplify communication and client management."
+    }
+   ]
+  },
+  {
+   "claim_id": "C50",
+   "type": "customer_counts",
+   "claim": "MyCase is used by 15,000+ firms.",
+   "class": "true",
+   "proof_url": "https://mycase.com/",
+   "proof_quote": "Join 19,000+ firms that trust MyCase to run a more profitable, efficient practice.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states 19,000+ firms, which satisfies the stated lower bound of 15,000+ (true as written under the lower-bound rule).",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "Used by 15,000+ firms"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "Used by 15,000+ firms"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "Used by 15,000+ firms"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "Used by 15,000+ firms"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Used by 15,000+ firms"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "Used by 15,000+ firms"
+    }
+   ]
+  },
+  {
+   "claim_id": "C51",
+   "type": "customer_counts",
+   "claim": "MyCase serves approximately 16,000 law firms.",
+   "class": "wrong",
+   "proof_url": "https://mycase.com/",
+   "proof_quote": "Join 19,000+ firms that trust MyCase to run a more profitable, efficient practice.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The home page states 19,000+ firms; an approximate 16,000 is a point estimate at least 3,000 below that published floor, so it clearly understates rather than rounds, and no page read dates a change in the count.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "It serves approximately 16,000 law firms and has differentiated on an all-inclusive pricing model."
+    }
+   ]
+  },
+  {
+   "claim_id": "C52",
+   "type": "free_tier",
+   "claim": "MyCase offers a free trial of 7 to 14 days.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "MyCase offers a 10 day no-cost trial of our legal practice management solution.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The published 10 day no-cost trial falls within the stated 7 to 14 day range.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "All three top platforms offer free trials (7–14 days)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C53",
+   "type": "plans",
+   "claim": "MyCase Basic includes the client portal.",
+   "class": "true",
+   "proof_url": "https://www.mycase.com/pricing",
+   "proof_quote": "Unlimited Document Storage Client Portal (Limited)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Basic column of the pricing page lists Client Portal (Limited), so the Basic plan includes a client portal; the answers do not say the portal is unlimited.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "MyCase Basic at $39 per user per month annually, which includes the client portal"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "MyCase Basic at $39 per user per month annually, which includes the client portal"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "MyCase Basic at $39/user/month (billed annually), which includes the client portal"
+    }
+   ]
+  },
+  {
+   "claim_id": "C54",
+   "type": "pricing",
+   "claim": "8am CASEpeer is priced by custom quote.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the pages read in this study publishes CASEpeer pricing or says how CASEpeer is priced.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "| CASEpeer | Personal injury | Custom |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C55",
+   "type": "pricing",
+   "claim": "MyCase starts around $49 per user per month (approximate; billing basis not stated).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The published entry price is Basic at $50 per user per month billed annually; an approximate \"around $49\" is within a dollar of it, so the pricing page neither matches it exactly nor clearly contradicts it (moved from C18 in pass 2).",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "Starts around $49/user/month."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Eight own pages read (mycase.com home, pricing, about, integrations, mobile app, Clio comparison, in the news, and the parent 8am.com home for 8am product names), all HTTP 200 and not thin; six cited pages read for causes, all HTTP 200 (page budget of 14 now used). The pricing page (Basic $50/$60, Pro $100/$120, Advanced $130/$150 per user per month, annual/monthly) is treated as the vendor's published price. Two of the vendor's own comparison pages still say plans start at $39 per user per month (mycase-vs-clio FAQ, and mycase-vs-smokeball, which is cited only by answers that state $50); the $39 claims are classed wrong against the pricing page and C16 names the own comparison page as cause. C21 (Pro $89): counselstack.io, cited by the q4 Claude answers, also carries $89 for Pro; accountingatelier was recorded as the cause. Passages missed several bullets and table rows (q1 and q5 Claude pricing lines, q4 ChatGPT 3 plan bullets, q7 Claude price tables), so the full answer texts of the vendor's sections were read. CASEpeer-only answers (q3 Claude) name the vendor through the 8am alias: their naming and pricing statements were coded (C25, C37, C38); CASEpeer features were not. Not coded as statements: hedged lines (\"may require higher-tier plans\"; q4 Perplexity 3's \"the sources point to MyCase Basic at about $39 ... depending on the tier and source\"), vague tier bundling (\"lower or mid-tier packages\", \"foundational packages\", \"major tiers\"), promotional descriptors (\"flat-rate pricing\", \"flat-fee value\"), ratings, the 2024 AI launch year, payment feature descriptions, and use of the vendor name \"8am MyCase\". C12 and C13 (ranges $39 to $50 and $49 to $50) are classed true because the published $50 entry price falls in the range; C34 (intake at no extra charge) is true because intake is in Pro with no separate intake add-on, though Basic lacks it. Pages read later for other vendors in this category also carry MyCase statements: quickbase.com (cited by q2 Claude 2) carries the $39 to $89 range and is recorded as the cause of C23; PracticePanther's own blog (practicepanther.com/blog/best-legal-practice-management-software, cited by q2 Claude 1, q4 Claude 2 and 3, q5 Claude 3) says MyCase starts at $39/month per user, and rev.com (cited by q1 Claude 1 to 3) says MyCase starts at $49/user/mo with a 10-day trial; C16 and C18 keep the causes recorded above. C52 (free trials of 7 to 14 days) was added at the end in a completeness pass. Pass 2 (8 Oct 2026): no browser reads exist for this vendor and no claim was unverifiable because of a blocked page. Added C53 (Basic includes the client portal, q4 Claude), C54 (CASEpeer priced by custom quote, q6 Claude 2 table) and C55. Consistency check: C20 (about $39 to $49) re-classed from wrong to unverifiable because the approximate range ends a dollar below the published $50 entry price, and its cause was cleared; the q5 Claude 2 instance of C18 ('Starts around $49') moved to the new unverifiable C55 for the same reason, leaving C18 with the three answers that state an exact $49. The other wrong claims were kept: the price claims C16, C17, C18, C19, C21, C22 and C23 are contradicted by the pricing page on the same plan and billing basis (C16 and C17 although the vendor's own Clio and Smokeball comparison pages still say plans start at $39, billed annually on the Smokeball page), C39 because the pricing and home pages name the same assistant 8am IQ, and C51 (approximately 16,000 firms) because it understates the published 19,000+ by at least 3,000. The remaining gap and table lines are fit, comparison or capability statements, or rows already covered by an instance of the same answer. Not coded: the q6 Claude 1 heading 'Assembly Neos (CASEpeer)', which pairs two products without a naming fact.",
+ "answer_record_ids": [
+  "legal-practice-management|q1|ChatGPT|1",
+  "legal-practice-management|q1|ChatGPT|2",
+  "legal-practice-management|q1|ChatGPT|3",
+  "legal-practice-management|q1|Claude|1",
+  "legal-practice-management|q1|Claude|2",
+  "legal-practice-management|q1|Claude|3",
+  "legal-practice-management|q1|Google AI Mode|1",
+  "legal-practice-management|q1|Google AI Mode|2",
+  "legal-practice-management|q1|Google AI Mode|3",
+  "legal-practice-management|q1|Google AI Overviews|1",
+  "legal-practice-management|q1|Google AI Overviews|2",
+  "legal-practice-management|q1|Google AI Overviews|3",
+  "legal-practice-management|q1|Perplexity|1",
+  "legal-practice-management|q1|Perplexity|2",
+  "legal-practice-management|q1|Perplexity|3",
+  "legal-practice-management|q10|Perplexity|3",
+  "legal-practice-management|q2|ChatGPT|1",
+  "legal-practice-management|q2|ChatGPT|2",
+  "legal-practice-management|q2|ChatGPT|3",
+  "legal-practice-management|q2|Claude|1",
+  "legal-practice-management|q2|Claude|2",
+  "legal-practice-management|q2|Claude|3",
+  "legal-practice-management|q2|Google AI Mode|2",
+  "legal-practice-management|q2|Google AI Mode|3",
+  "legal-practice-management|q2|Google AI Overviews|1",
+  "legal-practice-management|q2|Google AI Overviews|2",
+  "legal-practice-management|q2|Perplexity|1",
+  "legal-practice-management|q2|Perplexity|2",
+  "legal-practice-management|q2|Perplexity|3",
+  "legal-practice-management|q3|Claude|1",
+  "legal-practice-management|q3|Claude|2",
+  "legal-practice-management|q3|Claude|3",
+  "legal-practice-management|q3|Google AI Mode|2",
+  "legal-practice-management|q3|Google AI Mode|3",
+  "legal-practice-management|q3|Google AI Overviews|3",
+  "legal-practice-management|q3|Perplexity|1",
+  "legal-practice-management|q4|ChatGPT|1",
+  "legal-practice-management|q4|ChatGPT|2",
+  "legal-practice-management|q4|ChatGPT|3",
+  "legal-practice-management|q4|Claude|1",
+  "legal-practice-management|q4|Claude|2",
+  "legal-practice-management|q4|Claude|3",
+  "legal-practice-management|q4|Google AI Mode|1",
+  "legal-practice-management|q4|Google AI Mode|2",
+  "legal-practice-management|q4|Google AI Mode|3",
+  "legal-practice-management|q4|Google AI Overviews|1",
+  "legal-practice-management|q4|Google AI Overviews|2",
+  "legal-practice-management|q4|Google AI Overviews|3",
+  "legal-practice-management|q4|Perplexity|1",
+  "legal-practice-management|q4|Perplexity|2",
+  "legal-practice-management|q4|Perplexity|3",
+  "legal-practice-management|q5|ChatGPT|1",
+  "legal-practice-management|q5|ChatGPT|2",
+  "legal-practice-management|q5|ChatGPT|3",
+  "legal-practice-management|q5|Claude|1",
+  "legal-practice-management|q5|Claude|2",
+  "legal-practice-management|q5|Claude|3",
+  "legal-practice-management|q5|Google AI Mode|1",
+  "legal-practice-management|q5|Google AI Mode|2",
+  "legal-practice-management|q5|Google AI Mode|3",
+  "legal-practice-management|q5|Google AI Overviews|1",
+  "legal-practice-management|q5|Google AI Overviews|2",
+  "legal-practice-management|q5|Google AI Overviews|3",
+  "legal-practice-management|q5|Perplexity|1",
+  "legal-practice-management|q5|Perplexity|2",
+  "legal-practice-management|q5|Perplexity|3",
+  "legal-practice-management|q6|ChatGPT|1",
+  "legal-practice-management|q6|ChatGPT|2",
+  "legal-practice-management|q6|ChatGPT|3",
+  "legal-practice-management|q6|Claude|1",
+  "legal-practice-management|q6|Claude|2",
+  "legal-practice-management|q6|Claude|3",
+  "legal-practice-management|q6|Google AI Mode|1",
+  "legal-practice-management|q6|Google AI Mode|2",
+  "legal-practice-management|q6|Google AI Mode|3",
+  "legal-practice-management|q6|Google AI Overviews|1",
+  "legal-practice-management|q6|Google AI Overviews|2",
+  "legal-practice-management|q6|Google AI Overviews|3",
+  "legal-practice-management|q6|Perplexity|1",
+  "legal-practice-management|q6|Perplexity|2",
+  "legal-practice-management|q6|Perplexity|3",
+  "legal-practice-management|q7|ChatGPT|1",
+  "legal-practice-management|q7|ChatGPT|2",
+  "legal-practice-management|q7|ChatGPT|3",
+  "legal-practice-management|q7|Claude|1",
+  "legal-practice-management|q7|Claude|2",
+  "legal-practice-management|q7|Claude|3",
+  "legal-practice-management|q7|Google AI Mode|1",
+  "legal-practice-management|q7|Google AI Mode|2",
+  "legal-practice-management|q7|Google AI Mode|3",
+  "legal-practice-management|q7|Google AI Overviews|1",
+  "legal-practice-management|q7|Google AI Overviews|2",
+  "legal-practice-management|q7|Google AI Overviews|3",
+  "legal-practice-management|q7|Perplexity|1",
+  "legal-practice-management|q7|Perplexity|2",
+  "legal-practice-management|q7|Perplexity|3"
+ ],
+ "named_count": 96
+}

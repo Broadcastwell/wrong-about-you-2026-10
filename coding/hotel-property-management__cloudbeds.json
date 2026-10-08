@@ -1,0 +1,1074 @@
+{
+ "vendor": "Cloudbeds",
+ "slug": "cloudbeds",
+ "category": "hotel-property-management",
+ "coded_at": "2026-10-08T04:15:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.cloudbeds.com/pricing/",
+   "key": "c62e10c341ff7354",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.cloudbeds.com/",
+   "key": "9b5e03aea166e2b7",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.cloudbeds.com/channel-manager/",
+   "key": "829c8e995419e343",
+   "used_for": "product: channel manager"
+  },
+  {
+   "url": "https://www.cloudbeds.com/property-management-system/",
+   "key": "33406b42b4b43599",
+   "used_for": "product: PMS"
+  },
+  {
+   "url": "https://www.cloudbeds.com/revenue-management-system/",
+   "key": "e338549041478bca",
+   "used_for": "product: revenue management"
+  },
+  {
+   "url": "https://www.cloudbeds.com/our-story/",
+   "key": "3786b4ea4203580a",
+   "used_for": "about"
+  },
+  {
+   "url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/27279213107739-Groups-module-What-it-does-and-how-to-get-started",
+   "key": "54a5e69c2b0dd945",
+   "used_for": "help center: groups module (HTTP 403 on the fetch; read once in a real browser, 54a5e69c2b0dd945.browser.txt, used for C17)"
+  },
+  {
+   "url": "https://hoteltechinsight.com/pms-vs/cloudbeds-vs-mews/",
+   "key": "ddc8042a4fb497b2",
+   "used_for": "cause tracing (C25)"
+  },
+  {
+   "url": "https://www.teenvaai.com/blogs/cloudbeds-vs-mews-hotel-pms-comparison-2026",
+   "key": "637be2ed6eb57732",
+   "used_for": "cause tracing (C25)"
+  },
+  {
+   "url": "https://www.travelaiagent.com/compare/cloudbeds-vs-mews-pms",
+   "key": "8c50db8eb776fd5d",
+   "used_for": "cause tracing (C25), HTTP 404"
+  },
+  {
+   "url": "https://hoteltechreport.com/compare/cloudbeds-myfrontdesk-vs-mews",
+   "key": "f2d7a4a8cc8315c1",
+   "used_for": "cause tracing (C25), HTTP 403"
+  },
+  {
+   "url": "https://hoteltechinsight.com/pms/cloudbeds/",
+   "key": "6bd68fd7e1d2ba12",
+   "used_for": "cause tracing (C25)"
+  },
+  {
+   "url": "https://hotelsystemsguide.com/cloudbeds-review/",
+   "key": "6e5397d10854395c",
+   "used_for": "cause tracing (C25)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Cloudbeds pricing is quote-based or custom (no public list price).",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "Cloudbeds Pricing Plans Flex Build your own tech stack Request a quote",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Every plan on the pricing page (Flex, One, Experience, Enterprise) carries Request a quote and no published price.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|1",
+     "quote": "Pricing is quote-based."
+    },
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|2",
+     "quote": "Pricing is quote-based."
+    },
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|3",
+     "quote": "Pricing is quote-based."
+    },
+    {
+     "record_id": "hotel-property-management|q2|ChatGPT|3",
+     "quote": "Pricing is quote-based; confirm which guest-messaging and other add-ons are included."
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|1",
+     "quote": "| Cloudbeds | All-in-one platform | Custom |"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|3",
+     "quote": "| Cloudbeds | All-in-one, independent hotels | Custom |"
+    },
+    {
+     "record_id": "hotel-property-management|q3|Claude|1",
+     "quote": "| Cloudbeds | All-in-one distribution & bookings | Custom |"
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Overviews|3",
+     "quote": "Cloudbeds | Unified operations | Quote-based / custom"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Overviews|1",
+     "quote": "Custom pricing is typically around $300 to $600+ per month."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "Pricing lacks transparency, as custom quotes hinder quick comparisons."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "Pricing lacks transparency, with custom quotes hindering quick comparisons."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Cloudbeds is priced as a subscription.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read describe quote-based plans but do not state the billing model as a subscription.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q10|Claude|2",
+     "quote": "| Cloudbeds | Growing independent groups | ⭐⭐⭐ | Subscription |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Pricing starts at roughly $15 per room per month for the entry tier.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no price for any plan (all are Request a quote), so a per-room figure cannot be checked.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Claude|2",
+     "quote": "Pricing starts at roughly USD $15 per room per month for the entry tier."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "Starts at roughly USD $15 per room per month for the entry tier."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "The entry tier costs roughly $15 to $17 per room per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no price for any plan (all are Request a quote), so a per-room figure cannot be checked.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|Claude|1",
+     "quote": "Both platforms ship at roughly the same entry tier (USD $15–17 per room per month)"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "Both ship at roughly the same entry tier (USD $15–17 per room per month)"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "Both ship at roughly the same entry tier (USD $15–17 per room per month)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Cloudbeds costs between $150 and $800 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no price for any plan, so a monthly range cannot be checked.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "mid-range platforms like Cloudbeds and Mews range from $150–$800/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Custom pricing is typically around $300 to $600+ per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no price for any plan, so a typical monthly figure cannot be checked.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Google AI Overviews|1",
+     "quote": "Custom pricing is typically around $300 to $600+ per month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "plans",
+   "claim": "The One plan bundles the PMS, payments, channel manager and booking engine.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "Everything in One Cloudbeds PMS, Cloudbeds Payments, Marketplace, Channel Manager, and Booking Engine.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page defines One as Cloudbeds PMS, Cloudbeds Payments, Marketplace, Channel Manager and Booking Engine.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|1",
+     "quote": "Its One plan combines the PMS, payments, channel manager, and direct-booking engine, with a broad integration marketplace."
+    },
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|2",
+     "quote": "Its One plan combines the PMS, payments, channel manager, and direct booking engine, with an extensive integration marketplace."
+    },
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|3",
+     "quote": "Its One plan bundles the PMS, payments, channel manager, and direct-booking engine."
+    },
+    {
+     "record_id": "hotel-property-management|q2|ChatGPT|3",
+     "quote": "Its One plan bundles the PMS, channel manager, and booking engine."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Its One plan bundles the PMS, payments, native channel manager, and booking engine."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Its One plan bundles these with payments."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|3",
+     "quote": "Its One plan explicitly bundles those components."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "plans",
+   "claim": "The Flex (entry) plan does not include Cloudbeds' own booking and distribution bundle; it is bring your own distribution.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "Cloudbeds Pricing Plans Flex Build your own tech stack Request a quote Bring your own distribution Use your preferred CRS or channel manager partner.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Flex as bring your own distribution, while Cloudbeds Distribution, Channel Manager and Booking Engine are listed under One.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|1",
+     "quote": "Specify One, rather than assuming the entry plan includes booking and distribution tools."
+    },
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|2",
+     "quote": "Check the exact package: the Flex plan does not include the same distribution bundle."
+    },
+    {
+     "record_id": "hotel-property-management|q1|ChatGPT|3",
+     "quote": "The Flex plan does not include the same distribution bundle, so check exactly what you're buying."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Note that the Flex plan instead lets you bring your own distribution."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "However, its Flex plan is designed for an external distribution provider, so compare the actual package quoted."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|3",
+     "quote": "However, its entry-level Flex plan lets you bring your own distribution—so check the actual package quoted."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "plans",
+   "claim": "Flex is the entry-level plan.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "Everything in Flex Cloudbeds PMS, Cloudbeds Payments, and Marketplace.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Flex is the first plan on the pricing page and the One plan is described as Everything in Flex plus more, so Flex is the base tier.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|3",
+     "quote": "its entry-level Flex plan lets you bring your own distribution"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "plans",
+   "claim": "Multi-property functionality is included across all Cloudbeds plans.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "All of the core Cloudbeds features required to run your business are available with every plan, including, but not limited to, the Cloudbeds Property Management System, Multi-property, Payments",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Multi-property among the features available with every plan.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Cloudbeds lists multi-property functionality across its plans; Mews offers group-focused Portfolio and Brand packages."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|3",
+     "quote": "Cloudbeds also includes multi-property functionality across its plans"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "plans",
+   "claim": "The PMS, channel manager, booking engine and payments are bundled in a single subscription.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "Everything in One Cloudbeds PMS, Cloudbeds Payments, Marketplace, Channel Manager, and Booking Engine.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The One plan on the pricing page includes the PMS, Payments, Channel Manager and Booking Engine in one plan.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "The platform bundles PMS, channel manager (Cloudbeds Distribution), booking engine, and Cloudbeds Payments into a single subscription, making it ideal for properties that want a one-vendor stack."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "The platform bundles PMS, channel manager (Cloudbeds Distribution), booking engine, and Cloudbeds Payments into a single subscription"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "bundles PMS, channel manager (Cloudbeds Distribution), booking engine, and Cloudbeds Payments into a single subscription."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Mode|3",
+     "quote": "It bundles the PMS, a robust channel manager, a booking engine, and integrated payment processing into a single subscription"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|1",
+     "quote": "The platform bundles PMS, channel manager (Cloudbeds Distribution), booking engine, and Cloudbeds Payments into a single subscription"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "It bundles PMS, channel manager (Cloudbeds Distribution), booking engine, and Cloudbeds Payments into a single subscription"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "The platform bundles PMS, channel manager (Cloudbeds Distribution), booking engine, and Cloudbeds Payments into a single subscription"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "plans",
+   "claim": "A premium support offering provides faster response times and phone support.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "Premium Support Available for customers who want a faster response time and phone support.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Premium Support for customers who want a faster response time and phone support.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q9|ChatGPT|3",
+     "quote": "Clarify support tiers: for example, Cloudbeds lists faster response times and phone support under its premium-support offering."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "product_names",
+   "claim": "Cloudbeds' distribution product (channel manager) is named Cloudbeds Distribution.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "One The original unified platform Request a quote Cloudbeds Distribution included",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names Cloudbeds Distribution as included in One, with the Channel Manager and Booking Engine listed under it.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "channel manager (Cloudbeds Distribution)"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "channel manager (Cloudbeds Distribution)"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "channel manager (Cloudbeds Distribution)"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|1",
+     "quote": "channel manager (Cloudbeds Distribution)"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "channel manager (Cloudbeds Distribution)"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "channel manager (Cloudbeds Distribution)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "product_names",
+   "claim": "Cloudbeds' payments product is named Cloudbeds Payments.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "Everything in Flex Cloudbeds PMS, Cloudbeds Payments, and Marketplace.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names the payments product Cloudbeds Payments.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Claude|1",
+     "quote": "and Cloudbeds Payments into a single subscription"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "and Cloudbeds Payments into a single subscription"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "and Cloudbeds Payments into a single subscription"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|1",
+     "quote": "and Cloudbeds Payments into a single subscription"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "and Cloudbeds Payments into a single subscription"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "and Cloudbeds Payments into a single subscription"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "product_names",
+   "claim": "Cloudbeds' built-in channel manager is myallocator.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read call the product Cloudbeds Channel Manager and never mention myallocator or a dated rename, so neither a contradiction nor a documented change is available.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q5|Google AI Mode|1",
+     "quote": "While Cloudbeds has its own built-in channel manager (myallocator)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "product_names",
+   "claim": "Cloudbeds' built-in revenue management tool is named Pricing Intelligence Engine.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The revenue management page names the product Cloudbeds RMS and the pricing page names a Revenue Intelligence add-on; neither mentions Pricing Intelligence Engine or a dated rename.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q10|Google AI Mode|1",
+     "quote": "built-in revenue management tools (Pricing Intelligence Engine)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "product_names",
+   "claim": "Cloudbeds has a newer Groups and Events module, documented as a limited release.",
+   "class": "true",
+   "proof_url": "https://myfrontdesk.cloudbeds.com/hc/en-us/articles/27279213107739-Groups-module-What-it-does-and-how-to-get-started",
+   "proof_quote": "The Groups and Events module offers enhanced features including multi-property profiles, event-level billing, quotes, and rooming list management. It is currently in limited release.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's help center Groups module article (blocked on the fetch, read once in a browser) says a newer version, the Groups and Events module, is available and is currently in limited release.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q10|ChatGPT|1",
+     "quote": "Cloudbeds' redesigned Groups and Events module is currently documented as being in limited release"
+    },
+    {
+     "record_id": "hotel-property-management|q3|ChatGPT|1",
+     "quote": "its newer Groups and Events module is currently documented as being in limited release."
+    },
+    {
+     "record_id": "hotel-property-management|q3|ChatGPT|2",
+     "quote": "Its documentation currently describes the newer Groups and Events module as a limited release"
+    },
+    {
+     "record_id": "hotel-property-management|q3|ChatGPT|3",
+     "quote": "Cloudbeds' documentation currently describes its newer Groups and Events module as limited release."
+    },
+    {
+     "record_id": "hotel-property-management|q6|ChatGPT|1",
+     "quote": "Its redesigned Groups and Events module is currently documented as limited release."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "product_names",
+   "claim": "Cloudbeds' AI forecasting model is named Signals.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "Cloudbeds Signals Hospitality's first foundation AI model.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names Cloudbeds Signals as the vendor's AI model, and the home page says Revenue Intelligence is powered by Signals AI.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q6|Claude|2",
+     "quote": "Cloudbeds also offers the strongest forecasting engine through its causal AI model, Signals."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "product_names",
+   "claim": "Cloudbeds offers training through Cloudbeds University.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "Cloudbeds University Training designed to minimize time and maximize engagement.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page names Cloudbeds University as the vendor's training offering.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|Claude|1",
+     "quote": "along with training through Cloudbeds University"
+    },
+    {
+     "record_id": "hotel-property-management|q10|Google AI Overviews|3",
+     "quote": "Onboarding new staff is fast through Cloudbeds University."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "integrations",
+   "claim": "Cloudbeds' channel manager connects to Booking.com.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/channel-manager/",
+   "proof_quote": "Connect directly to 450+ global, regional, and niche OTAs — including Booking.com, Airbnb, Vrbo, and Expedia.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The channel manager page names Booking.com among the connected OTAs.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Google AI Mode|2",
+     "quote": "built-in channel management for OTAs (Booking.com, Expedia, Airbnb)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "integrations",
+   "claim": "Cloudbeds' channel manager connects to Expedia.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/channel-manager/",
+   "proof_quote": "Connect directly to 450+ global, regional, and niche OTAs — including Booking.com, Airbnb, Vrbo, and Expedia.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The channel manager page names Expedia among the connected OTAs.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Google AI Mode|2",
+     "quote": "built-in channel management for OTAs (Booking.com, Expedia, Airbnb)"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Overviews|1",
+     "quote": "Connects to 300+ OTAs (Online Travel Agencies) like Expedia and Airbnb to prevent overbookings"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "integrations",
+   "claim": "Cloudbeds' channel manager connects to Airbnb.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/channel-manager/",
+   "proof_quote": "Connect directly to 450+ global, regional, and niche OTAs — including Booking.com, Airbnb, Vrbo, and Expedia.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The channel manager page names Airbnb among the connected OTAs.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Google AI Mode|2",
+     "quote": "built-in channel management for OTAs (Booking.com, Expedia, Airbnb)"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Overviews|1",
+     "quote": "Connects to 300+ OTAs (Online Travel Agencies) like Expedia and Airbnb to prevent overbookings"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "integrations",
+   "claim": "Cloudbeds connects to more than 300 OTAs or booking channels.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/property-management-system/",
+   "proof_quote": "From expanding visibility across 300+ distribution channels to increasing direct bookings",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PMS page states 300+ distribution channels and the channel manager page states 450+ OTAs, so 300+ is true as written (lower bound).",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Google AI Overviews|1",
+     "quote": "Connects to 300+ OTAs (Online Travel Agencies) like Expedia and Airbnb to prevent overbookings"
+    },
+    {
+     "record_id": "hotel-property-management|q2|Google AI Overviews|3",
+     "quote": "Connects smoothly to over 300 OTAs"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Overviews|1",
+     "quote": "a single system for the front desk, payments, and 300+ booking channels"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "integrations",
+   "claim": "Cloudbeds has 400+ integrations.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "Cloudbeds connects with 400+ integration partners via API, so you can customize your setup without compromising simplicity.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states 400+ integration partners (the home page says 450+), so 400+ is true as written.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|1",
+     "quote": "Mews advertises 1,000+ integrations versus Cloudbeds' 400+."
+    },
+    {
+     "record_id": "hotel-property-management|q7|ChatGPT|2",
+     "quote": "Mews advertises 1,000+ integrations versus Cloudbeds' 400+."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "integrations",
+   "claim": "Cloudbeds has about 190 integrations.",
+   "class": "wrong",
+   "proof_url": "https://www.cloudbeds.com/",
+   "proof_quote": "With 450+ integrations powered by our API, Cloudbeds gives you the freedom to extend your platform your way.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "Consistency check (pass 2): the home page states 450+ integrations, the same unit as the claim, and the pricing page 400+ integration partners, so about 190 clearly understates the published count; six cited pages were checked and none carried the 190 figure.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q7|Claude|1",
+     "quote": "Mews offers 335+ integrations compared to Cloudbeds' 190."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "compared to Cloudbeds' ~190, giving it a broader marketplace ecosystem."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "Mews offers 335+ integrations, compared to Cloudbeds' ~190."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "customer_counts",
+   "claim": "Cloudbeds is used by properties in 150 countries.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/property-management-system/",
+   "proof_quote": "Cloudbeds' hospitality management software is used by leading properties in 150 countries.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PMS page states the same figure, and the home page says 150+ countries.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q2|Claude|1",
+     "quote": "Cloudbeds' hospitality management software is used by leading properties in 150 countries, including independent hotels, hotel groups, hostels, boutique hotels, and resorts."
+    },
+    {
+     "record_id": "hotel-property-management|q2|Claude|3",
+     "quote": "Cloudbeds' hospitality management software is used by leading properties in 150 countries, including independent hotels, hotel groups, hostels, boutique hotels, and resorts."
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "platforms",
+   "claim": "Cloudbeds is a cloud-based PMS.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/property-management-system/",
+   "proof_quote": "Since Cloudbeds is cloud-based, you can check your daily operations remotely from anywhere in the world with an Internet connection",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PMS page states that Cloudbeds is cloud-based.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Google AI Overviews|1",
+     "quote": "top cloud-based platforms like Cloudbeds and Mews lead the industry for lean teams and boutique properties."
+    },
+    {
+     "record_id": "hotel-property-management|q10|Claude|3",
+     "quote": "It is best for hotels and hotel groups wanting a cloud PMS with multi-property and channel management"
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Overviews|3",
+     "quote": "they combine multi-property control with robust cloud automation and open APIs."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "Cloudbeds is one of the largest cloud PMS platforms by independent-hotel installed base."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Claude|3",
+     "quote": "It is one of the largest cloud PMS platforms by independent-hotel installed base"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Overviews|2",
+     "quote": "cloud-native platforms like Cloudbeds for all-in-one property control"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Overviews|3",
+     "quote": "are cloud-native platforms like Cloudbeds and Mews"
+    },
+    {
+     "record_id": "hotel-property-management|q4|Perplexity|2",
+     "quote": "bundles PMS, channel manager, booking engine, and payments in one cloud platform"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Overviews|1",
+     "quote": "Cloudbeds and Oracle Hospitality OPERA, which offer modern cloud flexibility"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Overviews|2",
+     "quote": "and an intuitive cloud interface."
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Overviews|3",
+     "quote": "each offering modern cloud features and streamlined property management."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|1",
+     "quote": "Both Mews and Cloudbeds are among the most widely deployed cloud-based Property Management Systems (PMS) in the independent hotel market."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "both are among the top cloud PMS platforms for independent hotels"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "both are excellent cloud-based PMS platforms"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Google AI Mode|1",
+     "quote": "Both are top-tier, cloud-based property management systems (PMS)"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Google AI Mode|2",
+     "quote": "Both are top-tier cloud property management systems (PMS)"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Google AI Mode|3",
+     "quote": "Both are top-tier cloud property management systems (PMS)"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Google AI Overviews|3",
+     "quote": "both are top-tier cloud-based property management systems (PMS)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "platforms",
+   "claim": "Cloudbeds has a mobile app.",
+   "class": "true",
+   "proof_url": "https://www.cloudbeds.com/pricing/",
+   "proof_quote": "Mobile App Everything you need to manage your property on-the-go.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists a Mobile App among the features included with all plans.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q1|Google AI Mode|3",
+     "quote": "into a single interface with a great mobile app."
+    },
+    {
+     "record_id": "hotel-property-management|q1|Google AI Overviews|3",
+     "quote": "plus a mobile app for remote management."
+    },
+    {
+     "record_id": "hotel-property-management|q3|Claude|1",
+     "quote": "plus a mobile app that lets staff manage reservations away from the desk."
+    },
+    {
+     "record_id": "hotel-property-management|q3|Claude|2",
+     "quote": "plus a mobile app that lets staff manage reservations away from the desk."
+    },
+    {
+     "record_id": "hotel-property-management|q3|Claude|3",
+     "quote": "plus a mobile app that lets staff manage reservations away from the desk."
+    },
+    {
+     "record_id": "hotel-property-management|q3|Google AI Overviews|1",
+     "quote": "and intuitive mobile app access."
+    },
+    {
+     "record_id": "hotel-property-management|q4|Google AI Overviews|3",
+     "quote": "direct booking engine, and intuitive mobile app."
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Overviews|1",
+     "quote": "and a handy mobile app"
+    },
+    {
+     "record_id": "hotel-property-management|q6|Google AI Overviews|3",
+     "quote": "direct booking controls, and mobile access"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|1",
+     "quote": "A frequent criticism is that the mobile app lacks enough operational depth for staff on the move"
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|2",
+     "quote": "A frequent criticism is that the mobile app lacks enough operational depth for staff on the move."
+    },
+    {
+     "record_id": "hotel-property-management|q7|Claude|3",
+     "quote": "A frequent criticism is that the mobile app lacks enough operational depth for staff on the move"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "pricing",
+   "claim": "Cloudbeds costs $150 to $400 per month depending on room count and features.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Added in pass 2 from a vendor sub-heading line; the pricing page publishes no price for any plan (all are Request a quote), so a monthly range cannot be checked.",
+   "instances": [
+    {
+     "record_id": "hotel-property-management|q4|Claude|2",
+     "quote": "$150–400 monthly depending on room count and features."
+    }
+   ]
+  }
+ ],
+ "notes": "Seven own pages read: pricing, home, channel manager, PMS, revenue management and our-story (all HTTP 200, not thin) and the help center Groups module article cited by four answers, which answered HTTP 403 on the fetch and was then read once in a real browser (pass 2); C17 is classed true from that browser snapshot. All plans on the pricing page are Request a quote, so every dollar figure (C03 to C06, C29) is unverifiable, not wrong. C15 (myallocator) and C16 (Pricing Intelligence Engine) are names the pages read never use; with no dated rename on an own page they are unverifiable rather than stale. Integration counts differ between own pages (pricing 400+, home and PMS 450+); C24 (400+) is true as a lower bound and C25 (about 190) is wrong against both. Cause tracing for C25: six cited pages read (hoteltechinsight comparison and product page, teenvaai, hotelsystemsguide: no 190 figure; travelaiagent HTTP 404; hoteltechreport.com/compare/cloudbeds-myfrontdesk-vs-mews HTTP 403, not readable, so it may carry the figure but could not be checked); cause recorded as not found. The page budget for this vendor now stands at 13 of 14. Generic mobile app mentions (including review complaints that presuppose the app) and cloud mentions are coded as platforms claims per the 8 Oct clarification. Ratings, installed-base and market position lines, hedged advice and comparison lines were not coded. Pass 2 (8 Oct 2026): C17 unverifiable to true (browser read); the gap lines are feature descriptions, rankings, comparisons or about other vendors, so none was added; tables and vendor sub-headings added C29 ($150 to $400 monthly, q4 Claude 2) and a C03 instance (q4 Claude 3); the ~190 integrations table cells in q7 Claude 1 to 3 are already C25 instances. Consistency check: C25 stays wrong; its proof now quotes the home page's 450+ integrations (same unit) instead of integration partners.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "hotel-property-management|q1|ChatGPT|1",
+  "hotel-property-management|q1|ChatGPT|2",
+  "hotel-property-management|q1|ChatGPT|3",
+  "hotel-property-management|q1|Claude|1",
+  "hotel-property-management|q1|Claude|2",
+  "hotel-property-management|q1|Claude|3",
+  "hotel-property-management|q1|Google AI Mode|1",
+  "hotel-property-management|q1|Google AI Mode|2",
+  "hotel-property-management|q1|Google AI Mode|3",
+  "hotel-property-management|q1|Google AI Overviews|1",
+  "hotel-property-management|q1|Google AI Overviews|2",
+  "hotel-property-management|q1|Google AI Overviews|3",
+  "hotel-property-management|q1|Perplexity|1",
+  "hotel-property-management|q1|Perplexity|2",
+  "hotel-property-management|q1|Perplexity|3",
+  "hotel-property-management|q10|ChatGPT|1",
+  "hotel-property-management|q10|ChatGPT|2",
+  "hotel-property-management|q10|ChatGPT|3",
+  "hotel-property-management|q10|Claude|1",
+  "hotel-property-management|q10|Claude|2",
+  "hotel-property-management|q10|Claude|3",
+  "hotel-property-management|q10|Google AI Mode|1",
+  "hotel-property-management|q10|Google AI Mode|2",
+  "hotel-property-management|q10|Google AI Mode|3",
+  "hotel-property-management|q10|Google AI Overviews|3",
+  "hotel-property-management|q2|ChatGPT|1",
+  "hotel-property-management|q2|ChatGPT|2",
+  "hotel-property-management|q2|ChatGPT|3",
+  "hotel-property-management|q2|Claude|1",
+  "hotel-property-management|q2|Claude|2",
+  "hotel-property-management|q2|Claude|3",
+  "hotel-property-management|q2|Google AI Mode|1",
+  "hotel-property-management|q2|Google AI Mode|2",
+  "hotel-property-management|q2|Google AI Mode|3",
+  "hotel-property-management|q2|Google AI Overviews|1",
+  "hotel-property-management|q2|Google AI Overviews|2",
+  "hotel-property-management|q2|Google AI Overviews|3",
+  "hotel-property-management|q2|Perplexity|1",
+  "hotel-property-management|q2|Perplexity|2",
+  "hotel-property-management|q2|Perplexity|3",
+  "hotel-property-management|q3|ChatGPT|1",
+  "hotel-property-management|q3|ChatGPT|2",
+  "hotel-property-management|q3|ChatGPT|3",
+  "hotel-property-management|q3|Claude|1",
+  "hotel-property-management|q3|Claude|2",
+  "hotel-property-management|q3|Claude|3",
+  "hotel-property-management|q3|Google AI Mode|1",
+  "hotel-property-management|q3|Google AI Mode|2",
+  "hotel-property-management|q3|Google AI Overviews|1",
+  "hotel-property-management|q3|Google AI Overviews|3",
+  "hotel-property-management|q3|Perplexity|1",
+  "hotel-property-management|q3|Perplexity|2",
+  "hotel-property-management|q3|Perplexity|3",
+  "hotel-property-management|q4|ChatGPT|1",
+  "hotel-property-management|q4|ChatGPT|2",
+  "hotel-property-management|q4|ChatGPT|3",
+  "hotel-property-management|q4|Claude|1",
+  "hotel-property-management|q4|Claude|2",
+  "hotel-property-management|q4|Claude|3",
+  "hotel-property-management|q4|Google AI Mode|1",
+  "hotel-property-management|q4|Google AI Mode|2",
+  "hotel-property-management|q4|Google AI Mode|3",
+  "hotel-property-management|q4|Google AI Overviews|1",
+  "hotel-property-management|q4|Google AI Overviews|2",
+  "hotel-property-management|q4|Google AI Overviews|3",
+  "hotel-property-management|q4|Perplexity|1",
+  "hotel-property-management|q4|Perplexity|2",
+  "hotel-property-management|q4|Perplexity|3",
+  "hotel-property-management|q5|ChatGPT|1",
+  "hotel-property-management|q5|ChatGPT|2",
+  "hotel-property-management|q5|ChatGPT|3",
+  "hotel-property-management|q5|Claude|1",
+  "hotel-property-management|q5|Claude|2",
+  "hotel-property-management|q5|Claude|3",
+  "hotel-property-management|q5|Google AI Mode|1",
+  "hotel-property-management|q5|Google AI Mode|2",
+  "hotel-property-management|q5|Google AI Mode|3",
+  "hotel-property-management|q5|Google AI Overviews|1",
+  "hotel-property-management|q5|Google AI Overviews|2",
+  "hotel-property-management|q5|Google AI Overviews|3",
+  "hotel-property-management|q5|Perplexity|1",
+  "hotel-property-management|q5|Perplexity|2",
+  "hotel-property-management|q5|Perplexity|3",
+  "hotel-property-management|q6|ChatGPT|1",
+  "hotel-property-management|q6|ChatGPT|2",
+  "hotel-property-management|q6|ChatGPT|3",
+  "hotel-property-management|q6|Claude|1",
+  "hotel-property-management|q6|Claude|2",
+  "hotel-property-management|q6|Claude|3",
+  "hotel-property-management|q6|Google AI Mode|1",
+  "hotel-property-management|q6|Google AI Mode|2",
+  "hotel-property-management|q6|Google AI Mode|3",
+  "hotel-property-management|q6|Google AI Overviews|1",
+  "hotel-property-management|q6|Google AI Overviews|2",
+  "hotel-property-management|q6|Google AI Overviews|3",
+  "hotel-property-management|q6|Perplexity|1",
+  "hotel-property-management|q6|Perplexity|2",
+  "hotel-property-management|q6|Perplexity|3",
+  "hotel-property-management|q7|ChatGPT|1",
+  "hotel-property-management|q7|ChatGPT|2",
+  "hotel-property-management|q7|ChatGPT|3",
+  "hotel-property-management|q7|Claude|1",
+  "hotel-property-management|q7|Claude|2",
+  "hotel-property-management|q7|Claude|3",
+  "hotel-property-management|q7|Google AI Mode|1",
+  "hotel-property-management|q7|Google AI Mode|2",
+  "hotel-property-management|q7|Google AI Mode|3",
+  "hotel-property-management|q7|Google AI Overviews|1",
+  "hotel-property-management|q7|Google AI Overviews|2",
+  "hotel-property-management|q7|Google AI Overviews|3",
+  "hotel-property-management|q7|Perplexity|1",
+  "hotel-property-management|q7|Perplexity|2",
+  "hotel-property-management|q7|Perplexity|3",
+  "hotel-property-management|q9|ChatGPT|1",
+  "hotel-property-management|q9|ChatGPT|3"
+ ],
+ "named_count": 115
+}

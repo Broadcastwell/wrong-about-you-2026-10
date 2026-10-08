@@ -1,0 +1,741 @@
+{
+ "vendor": "RamSoft",
+ "slug": "ramsoft",
+ "category": "radiology-medical-imaging",
+ "coded_at": "2026-10-08T04:04:00Z",
+ "pages_read": [
+  {
+   "url": "https://ramsoft.com/",
+   "key": "f4c6ba5f38856ea2",
+   "used_for": "home (redirects to https://www.ramsoft.com/)"
+  },
+  {
+   "url": "https://www.ramsoft.com/solutions/products/omegaai",
+   "key": "27270daa3d1f8f26",
+   "used_for": "product (OmegaAI)"
+  },
+  {
+   "url": "https://www.ramsoft.com/solutions/products/powerserver",
+   "key": "b8e14d703325f3bb",
+   "used_for": "product (PowerServer)"
+  },
+  {
+   "url": "https://www.ramsoft.com/compliance",
+   "key": "549febff55908c43",
+   "used_for": "security and compliance"
+  },
+  {
+   "url": "https://www.ramsoft.com/who-we-serve/by-industry/teleradiology",
+   "key": "f8bbed4abe730c26",
+   "used_for": "teleradiology page (pricing basis, certifications)"
+  },
+  {
+   "url": "https://www.ramsoft.com/aboutus",
+   "key": "326c691a0daab0ff",
+   "used_for": "about (history)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "platforms",
+   "claim": "RamSoft's OmegaAI is a cloud-native platform delivered from the cloud (SaaS); RamSoft's software is cloud-based.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/solutions/products/omegaai",
+   "proof_quote": "A fully cloud-native platform unifying RIS, PACS, and VNA — built for the demands of modern radiology.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The OmegaAI page describes a fully cloud-native platform with no on-prem infrastructure, and RamSoft's pages call its RIS/PACS solutions cloud-based.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|ChatGPT|1",
+     "quote": "| **Browser-based, cloud-native workflow** | **RamSoft OmegaAI** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|ChatGPT|2",
+     "quote": "You want a unified cloud-native **RIS/PACS/VNA** rather than just an image archive."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Mode|1",
+     "quote": "RamSoft (OmegaAI) — Known for a true cloud-native, single-database platform that unifies RIS, PACS, billing, and patient portals."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Overviews|1",
+     "quote": "RamSoft OmegaAI: A unified cloud-native Software-as-a-Service (SaaS) platform"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Overviews|3",
+     "quote": "RamSoft (OmegaAI): An all-in-one cloud native platform"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|1",
+     "quote": "**If browser-based, cloud-native deployment is a firm requirement**, also evaluate RamSoft **OmegaAI**."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|2",
+     "quote": "include RamSoft OmegaAI if cloud-native deployment is a priority"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|3",
+     "quote": "OmegaAI is marketed as cloud-native RIS/PACS/VNA."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Google AI Mode|1",
+     "quote": "RamSoft OmegaAI — Best Cloud-Native Unified RIS/PACS."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Google AI Mode|2",
+     "quote": "RamSoft OmegaAI — Best cloud-native, single-database platform that unifies RIS, PACS, and billing"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Google AI Mode|3",
+     "quote": "RamSoft OmegaAI | Cloud-native unified RIS/PACS |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Perplexity|1",
+     "quote": "**RamSoft**: a strong option if you want a **cloud-native PACS/RIS/VNA** stack for fragmented multi-site operations."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|ChatGPT|3",
+     "quote": "| **RamSoft OmegaAI** | You are replacing both RIS and PACS and prefer cloud-native infrastructure |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Claude|2",
+     "quote": "RamSoft's cloud-native, unified approach consolidates it into one platform."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Claude|3",
+     "quote": "RamSoft OmegaAI is the strongest cloud-native, zero-footprint RIS/PACS/VNA option"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Google AI Mode|1",
+     "quote": "Truly cloud-native single-database platform combining RIS, PACS, VNA, and patient engagement (via the Blume portal)."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Google AI Mode|2",
+     "quote": "RamSoft (OmegaAI): Best for all-in-one cloud-native efficiency."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Google AI Mode|3",
+     "quote": "RamSoft (OmegaAI): Excellent for a unified, cloud-native RIS, PACS, and VNA platform."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Claude|1",
+     "quote": "**Cloud-Based Options (TeleRay, Simplirad, RamSoft OmegaAI)**"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Perplexity|1",
+     "quote": "**Best cloud / distributed workflow alternative:** **RamSoft OmegaAI / PowerServer** for imaging groups, teleradiology, and cloud-native operations."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Perplexity|2",
+     "quote": "**RamSoft PowerServer / OmegaAI** — a strong cloud-native alternative for imaging groups and teleradiology workflows."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Perplexity|3",
+     "quote": "| **Cloud-native PACS / teleradiology** | **RamSoft PowerServer / OmegaAI**, **Intelerad IntelePACS**, **PostDICOM** |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|2",
+     "quote": "OmegaAI is its cloud-native RIS/PACS/VNA offering."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|1",
+     "quote": "RamSoft OmegaAI is a next-generation, cloud-native PACS and RIS solution built on Microsoft Azure."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|2",
+     "quote": "RamSoft is a global provider of innovative cloud-based radiology software solutions for imaging centers, radiology departments, and teleradiology providers"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|3",
+     "quote": "RamSoft OmegaAI is a next-generation, cloud-native PACS and RIS solution built on Microsoft Azure."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|1",
+     "quote": "RamSoft OmegaAI — Best cloud-native, zero-footprint RIS/PACS/VNA."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|2",
+     "quote": "RamSoft OmegaAI — A cloud-native, zero-footprint unified RIS and PACS platform."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|3",
+     "quote": "RamSoft | True cloud-native architecture | Cloud (SaaS) |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Overviews|1",
+     "quote": "RamSoft: Provides cloud-native PACS and RIS workflow orchestration designed for imaging and teleradiology providers."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Perplexity|1",
+     "quote": "Cloud-native PACS/RIS workflow, routing, and traceable handoffs"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Perplexity|2",
+     "quote": "**RamSoft OmegaAI** — best if you want a **cloud-native PACS/RIS** with teleradiology workflow, routing, and report support."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Perplexity|3",
+     "quote": "**RamSoft OmegaAI** — best fit for cloud-native **PACS + RIS** workflows"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Overviews|2",
+     "quote": "RamSoft PowerServer / OmegaAI: Recognized for flexible cloud-based or hybrid deployment options"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "platforms",
+   "claim": "OmegaAI is built on (hosted on) Microsoft Azure.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/solutions/products/omegaai",
+   "proof_quote": "Built entirely on Microsoft Azure, OmegaAI runs on microservices with no on-prem infrastructure",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The OmegaAI page states it is built entirely on Microsoft Azure.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|2",
+     "quote": "RamSoft describes OmegaAI as a unified, Azure-based RIS/PACS/VNA with browser access, cross-site worklists, and patient-engagement capabilities."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|1",
+     "quote": "RamSoft OmegaAI is a next-generation, cloud-native PACS and RIS solution built on Microsoft Azure."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|3",
+     "quote": "RamSoft OmegaAI is a next-generation, cloud-native PACS and RIS solution built on Microsoft Azure."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "platforms",
+   "claim": "OmegaAI is browser-based and zero-footprint (no local installation).",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/solutions/products/omegaai",
+   "proof_quote": "No local installation required. Everything runs securely through a single browser window, accessible from anywhere.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The OmegaAI page lists a zero-footprint design that runs in a single browser window with no local installation.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|ChatGPT|1",
+     "quote": "Combines RIS, PACS, and vendor-neutral archiving with browser access."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|ChatGPT|2",
+     "quote": "RamSoft describes browser-based access and HL7/FHIR interoperability."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|ChatGPT|3",
+     "quote": "Unifies RIS, PACS, and vendor-neutral archiving in a browser-based platform, with HL7/FHIR interoperability."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|1",
+     "quote": "**If browser-based, cloud-native deployment is a firm requirement**, also evaluate RamSoft **OmegaAI**."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|2",
+     "quote": "RamSoft describes OmegaAI as a unified, Azure-based RIS/PACS/VNA with browser access, cross-site worklists, and patient-engagement capabilities."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|ChatGPT|3",
+     "quote": "Combines RIS, PACS and vendor-neutral archiving, with browser-based access and patient-engagement features."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Claude|3",
+     "quote": "RamSoft OmegaAI is the strongest cloud-native, zero-footprint RIS/PACS/VNA option"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|1",
+     "quote": "It uses \"Progressive Loading\" technology to stream even large CT or MRI studies instantly within a browser."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|3",
+     "quote": "It uses \"Progressive Loading\" technology to stream even large CT or MRI studies instantly within a browser."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|1",
+     "quote": "RamSoft OmegaAI — Best cloud-native, zero-footprint RIS/PACS/VNA."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|2",
+     "quote": "RamSoft OmegaAI — A cloud-native, zero-footprint unified RIS and PACS platform."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "platforms",
+   "claim": "PowerServer can be deployed in the cloud.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/solutions/products/powerserver",
+   "proof_quote": "Available for cloud and on-premises implementations.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PowerServer page states it is available for cloud implementations.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|ChatGPT|1",
+     "quote": "PACS-only and integrated workflow options, with cloud or on-premises deployment."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|1",
+     "quote": "RamSoft documents scheduling, reporting, a single database, and a consolidated worklist across facilities, with cloud and on-premises deployment options."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|3",
+     "quote": "PowerServer combines scheduling, imaging, and reporting with cloud or on-premises options"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|ChatGPT|1",
+     "quote": "want scheduling, image management, and reporting on a unified platform, with cloud or on-premises deployment"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|ChatGPT|2",
+     "quote": "Brings scheduling, image management, reporting, and workflow automation into one platform, with cloud and on-premises deployment options."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|1",
+     "quote": "PowerServer offers a teleradiology-specific TELE PLUS configuration, a unified multisite worklist, routing/prefetching, reporting, and cloud or on-premises deployment."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|1",
+     "quote": "PowerServer, utilized by over 750 sites and thousands of customers worldwide, offers a flexible, scalable design enabling imaging operations of all sizes to leverage comprehensive cloud-based RIS/PACS capabilities."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "platforms",
+   "claim": "PowerServer can be deployed on premises.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/solutions/products/powerserver",
+   "proof_quote": "Available for cloud and on-premises implementations.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PowerServer page states it is available for on-premises implementations.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|ChatGPT|1",
+     "quote": "PACS-only and integrated workflow options, with cloud or on-premises deployment."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|1",
+     "quote": "RamSoft documents scheduling, reporting, a single database, and a consolidated worklist across facilities, with cloud and on-premises deployment options."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|3",
+     "quote": "PowerServer combines scheduling, imaging, and reporting with cloud or on-premises options"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|ChatGPT|1",
+     "quote": "want scheduling, image management, and reporting on a unified platform, with cloud or on-premises deployment"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|ChatGPT|2",
+     "quote": "Brings scheduling, image management, reporting, and workflow automation into one platform, with cloud and on-premises deployment options."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|1",
+     "quote": "PowerServer offers a teleradiology-specific TELE PLUS configuration, a unified multisite worklist, routing/prefetching, reporting, and cloud or on-premises deployment."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "platforms",
+   "claim": "PowerServer is cloud-native.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "RamSoft labels PowerServer cloud-based (and available on premises) and reserves cloud-native for OmegaAI, but no page states that PowerServer is not cloud-native.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Overviews|2",
+     "quote": "cloud-native solutions like RamSoft PowerServer or Fujifilm Synapse PACS"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "platforms",
+   "claim": "PowerServer is a fully web-based PACS/RIS.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/aboutus",
+   "proof_quote": "In 2003, RamSoft® pioneers a fully web-based platform — years ahead of the industry.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "RamSoft's history page states that RamSoft's platform (PowerServer, under 'Going Web-Native') became fully web-based in 2003, and the PowerServer page lists a zero-footprint viewer.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q4|Google AI Overviews|1",
+     "quote": "RamSoft PowerServer PACS: A fully web-based image management and PACS/RIS solution well-suited for outpatient imaging centers and smaller practices"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Google AI Overviews|3",
+     "quote": "RamSoft PowerServer PACS: A fully web-based image management solution suited for outpatient imaging centers and smaller practices."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "platforms",
+   "claim": "RamSoft offers hybrid (cloud plus on-premise) deployment.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read offer PowerServer in the cloud or on premises and OmegaAI as cloud-native, but do not mention a hybrid deployment.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q10|Google AI Overviews|2",
+     "quote": "RamSoft (OmegaAI) / Fujifilm: Offer strong cloud-hybrid modular setups"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Overviews|2",
+     "quote": "RamSoft PowerServer / OmegaAI: Recognized for flexible cloud-based or hybrid deployment options"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "product_names",
+   "claim": "PowerServer LITE PACS is RamSoft's PACS edition for small to mid-sized organizations.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/solutions/products/powerserver",
+   "proof_quote": "PowerServer LITE PACS An affordable, fully loaded PACS ideal for small to mid-sized imaging organizations.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PowerServer page lists PowerServer LITE PACS as a PACS for small to mid-sized imaging organizations.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|ChatGPT|1",
+     "quote": "It offers a LITE PACS aimed at small-to-midsize organizations and a fuller RIS/PACS that combines scheduling, image management, and reporting."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "product_names",
+   "claim": "PowerServer TELE PLUS is RamSoft's teleradiology configuration of PowerServer.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/solutions/products/powerserver",
+   "proof_quote": "PowerServer TELE PLUS Geared exclusively for teleradiology — access studies anytime, from anywhere.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PowerServer page lists PowerServer TELE PLUS as the teleradiology edition.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|1",
+     "quote": "| **RamSoft — PowerServer / TELE PLUS** |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "product_names",
+   "claim": "Blume is RamSoft's patient engagement portal.",
+   "class": "true",
+   "proof_url": "https://ramsoft.com/",
+   "proof_quote": "Blume® — Patient Engagement Portal",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "RamSoft's home page names Blume as its patient engagement portal.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q2|Google AI Mode|1",
+     "quote": "Truly cloud-native single-database platform combining RIS, PACS, VNA, and patient engagement (via the Blume portal)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "product_names",
+   "claim": "Omega RIS is a RamSoft product.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read name OmegaAI (a RIS/PACS/VNA) but no product called Omega RIS; that is not an explicit contradiction.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q2|Perplexity|2",
+     "quote": "**RamSoft Omega RIS** — a strong fit if your center needs detailed exam lifecycle tracking across rooms and modalities."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "product_names",
+   "claim": "KloudPACS is a RamSoft product (PowerServer/KloudPACS).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions KloudPACS.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q6|Perplexity|1",
+     "quote": "**RamSoft PowerServer/KloudPACS**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "product_names",
+   "claim": "Gateway is a RamSoft product.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/solutions/products/powerserver",
+   "proof_quote": "Gateway™ Standalone DICOM viewing solutions",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PowerServer page lists the Gateway family (Gateway Router, Gateway Viewer Mini PACS, Gateway Mammo Viewer); the answer's description of it as a VPN-bypassing cloud architecture is a capability description and was not coded.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|3",
+     "quote": "RamSoft offers cloud-native platforms like OmegaAI and Gateway architecture designed to circumvent traditional VPN bottlenecks."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "RamSoft uses a per-study (SaaS) pricing model.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/who-we-serve/by-industry/teleradiology",
+   "proof_quote": "Per-study pricing that scales with your volume — not your headcount.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "RamSoft's teleradiology page states per-study pricing.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q2|Claude|2",
+     "quote": "RamSoft does not post public numeric pricing; the company describes a per-study SaaS pricing model discussed by quote through a sales conversation."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "RamSoft posts no public prices; pricing is quoted in a sales conversation.",
+   "class": "true",
+   "proof_url": "https://ramsoft.com/",
+   "proof_quote": "Transparent pricing discussed on the call",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read publish no prices and say pricing is discussed on the demo call.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q2|Claude|2",
+     "quote": "RamSoft does not post public numeric pricing; the company describes a per-study SaaS pricing model discussed by quote through a sales conversation."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "RamSoft is priced on a pay-as-you-go basis.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/who-we-serve/by-industry/teleradiology",
+   "proof_quote": "Per-study pricing that scales with your volume — not your headcount.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "RamSoft's per-study, CapEx-free pricing that scales with volume is a pay-as-you-go basis.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|3",
+     "quote": "It is highly scalable for small-to-midsize teleradiology practices wanting to transition away from legacy on-premise hardware constraints into a flexible pay-as-you-go model."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "certifications",
+   "claim": "RamSoft (OmegaAI) is HIPAA compliant.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/who-we-serve/by-industry/teleradiology",
+   "proof_quote": "HIPAA, SOC 2 Type II, and ISO 13485 certified for full compliance confidence",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "RamSoft's teleradiology and compliance pages list HIPAA among its certifications.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|3",
+     "quote": "It is HIPAA, SOC 2 Type II, and ISO 13485 certified for full compliance confidence."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "certifications",
+   "claim": "RamSoft (OmegaAI) has SOC 2 Type II.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/who-we-serve/by-industry/teleradiology",
+   "proof_quote": "HIPAA, SOC 2 Type II, and ISO 13485 certified for full compliance confidence",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "RamSoft's pages list SOC 2 Type II among its certifications.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|3",
+     "quote": "It is HIPAA, SOC 2 Type II, and ISO 13485 certified for full compliance confidence."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "certifications",
+   "claim": "RamSoft (OmegaAI) is ISO 13485 certified.",
+   "class": "true",
+   "proof_url": "https://www.ramsoft.com/who-we-serve/by-industry/teleradiology",
+   "proof_quote": "HIPAA, SOC 2 Type II, and ISO 13485 certified for full compliance confidence",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "RamSoft's teleradiology page and compliance page (MDSAP EN ISO 13485:2016, audited by TÜV SÜD) state ISO 13485 certification.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|3",
+     "quote": "It is HIPAA, SOC 2 Type II, and ISO 13485 certified for full compliance confidence."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "customer_counts",
+   "claim": "PowerServer is used by over 750 sites.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "RamSoft's home page gives 750+ (and elsewhere 800+) practices for the company as a whole, not sites for PowerServer, so the unit and scope do not match.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|1",
+     "quote": "PowerServer, utilized by over 750 sites and thousands of customers worldwide"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "customer_counts",
+   "claim": "PowerServer has thousands of customers worldwide.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read count practices (750+ or 800+) for the company, not customers for PowerServer; neither confirms nor explicitly contradicts 'thousands of customers'.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|1",
+     "quote": "PowerServer, utilized by over 750 sites and thousands of customers worldwide"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Six own pages read, all HTTP 200 and not thin; https://ramsoft.com/ redirects to https://www.ramsoft.com/. PowerServer and OmegaAI are the vendor's index aliases, so 'PowerServer RIS/PACS', 'PowerServer PACS' and 'OmegaAI RIS/PACS/VNA' mentions were treated as name mentions; LITE PACS, TELE PLUS, Blume, Gateway, Omega RIS and KloudPACS were coded as module names. Combined 'PowerServer / OmegaAI' cloud-native lines were coded under C01 (OmegaAI is cloud-native); the single line calling PowerServer alone cloud-native is C06, unverifiable, because RamSoft labels PowerServer cloud-based and OmegaAI cloud-native without saying PowerServer is not cloud-native. C07 (PowerServer fully web-based) rests on the history page's 2003 'fully web-based platform' line; a reviewer may prefer unverifiable. C17 treats per-study pricing as a pay-as-you-go basis. The home page itself shows both '750+ Practices' and '800 + Practices worldwide'. The q4 line about 'flat-rate or right-sized alternatives' naming RamSoft was treated as too vague to code. Single-database architecture, billing, AI features, 'Progressive Loading' and speed figures were treated as capability descriptions. No claim is wrong or stale, so no cited page was read for causes. Pass 2 (8 Oct 2026): no browser read exists for RamSoft and no page was blocked or thin, so nothing was re-classed; the six snapshots were re-checked for C06, C08, C12, C13, C21 and C22 and still do not settle them (only OmegaAI is called cloud-native; no hybrid, Omega RIS, KloudPACS or PowerServer site count appears). The 19 gap lines are shortlist or best-for lines, capability lines, or generic cloud-versus-on-premise remarks whose RamSoft cloud-native content is already an instance of C01 for the same answers; 'RamSoft + eRAD' names two vendors without stating ownership, so it was not coded. The comparison tables (including the q5 Google AI Mode deployment row 'Cloud (SaaS)') carry only cells already coded under C01, C03 to C05 and C09 to C10, so no claim or instance was added. No claim is wrong or stale, so the consistency check changed nothing.",
+ "answer_record_ids": [
+  "radiology-medical-imaging|q1|ChatGPT|1",
+  "radiology-medical-imaging|q1|ChatGPT|2",
+  "radiology-medical-imaging|q1|ChatGPT|3",
+  "radiology-medical-imaging|q1|Google AI Mode|1",
+  "radiology-medical-imaging|q1|Google AI Overviews|1",
+  "radiology-medical-imaging|q1|Google AI Overviews|3",
+  "radiology-medical-imaging|q10|ChatGPT|1",
+  "radiology-medical-imaging|q10|ChatGPT|2",
+  "radiology-medical-imaging|q10|ChatGPT|3",
+  "radiology-medical-imaging|q10|Google AI Mode|1",
+  "radiology-medical-imaging|q10|Google AI Mode|2",
+  "radiology-medical-imaging|q10|Google AI Mode|3",
+  "radiology-medical-imaging|q10|Google AI Overviews|2",
+  "radiology-medical-imaging|q10|Perplexity|1",
+  "radiology-medical-imaging|q2|ChatGPT|1",
+  "radiology-medical-imaging|q2|ChatGPT|2",
+  "radiology-medical-imaging|q2|ChatGPT|3",
+  "radiology-medical-imaging|q2|Claude|2",
+  "radiology-medical-imaging|q2|Claude|3",
+  "radiology-medical-imaging|q2|Google AI Mode|1",
+  "radiology-medical-imaging|q2|Google AI Mode|2",
+  "radiology-medical-imaging|q2|Google AI Mode|3",
+  "radiology-medical-imaging|q2|Perplexity|2",
+  "radiology-medical-imaging|q4|Claude|1",
+  "radiology-medical-imaging|q4|Google AI Mode|2",
+  "radiology-medical-imaging|q4|Google AI Overviews|1",
+  "radiology-medical-imaging|q4|Google AI Overviews|3",
+  "radiology-medical-imaging|q4|Perplexity|1",
+  "radiology-medical-imaging|q4|Perplexity|2",
+  "radiology-medical-imaging|q4|Perplexity|3",
+  "radiology-medical-imaging|q5|ChatGPT|1",
+  "radiology-medical-imaging|q5|ChatGPT|2",
+  "radiology-medical-imaging|q5|ChatGPT|3",
+  "radiology-medical-imaging|q5|Claude|1",
+  "radiology-medical-imaging|q5|Claude|2",
+  "radiology-medical-imaging|q5|Claude|3",
+  "radiology-medical-imaging|q5|Google AI Mode|1",
+  "radiology-medical-imaging|q5|Google AI Mode|2",
+  "radiology-medical-imaging|q5|Google AI Mode|3",
+  "radiology-medical-imaging|q5|Google AI Overviews|1",
+  "radiology-medical-imaging|q5|Perplexity|1",
+  "radiology-medical-imaging|q5|Perplexity|2",
+  "radiology-medical-imaging|q5|Perplexity|3",
+  "radiology-medical-imaging|q6|Claude|1",
+  "radiology-medical-imaging|q6|Google AI Overviews|2",
+  "radiology-medical-imaging|q6|Perplexity|1"
+ ],
+ "named_count": 46
+}

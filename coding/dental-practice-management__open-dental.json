@@ -1,0 +1,2078 @@
+{
+ "vendor": "Open Dental",
+ "slug": "open-dental",
+ "category": "dental-practice-management",
+ "coded_at": "2026-10-08T04:21:14Z",
+ "pages_read": [
+  {
+   "url": "https://www.opendental.com/",
+   "key": "3c62bdb5a84689de",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.opendental.com/site/fees.html",
+   "key": "7ae1f5b01a2d05b4",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.opendental.com/site/opendentalcloud.html",
+   "key": "2191ccd2e5b00951",
+   "used_for": "cloud hosting and cloud pricing"
+  },
+  {
+   "url": "https://www.opendental.com/site/programbridges.html",
+   "key": "e7a26a436f7ee1e7",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://opendental.com/site/featuresenterprise.html",
+   "key": "50763aa4f550f199",
+   "used_for": "product (enterprise and multi-location features)"
+  },
+  {
+   "url": "https://www.opendental.com/site/dotnet.html",
+   "key": "4b105427edb860bf",
+   "used_for": "platforms (flagged thin; not used to class)"
+  },
+  {
+   "url": "https://www.opendental.com/site/dotnet.html",
+   "key": "4b105427edb860bf",
+   "used_for": "platforms (browser read; same text as the fetch: installation requires Microsoft .NET on Windows workstations; settles no further claim)"
+  },
+  {
+   "url": "https://www.opendental.com/site/trial.html",
+   "key": "cba449697443b23a",
+   "used_for": "free trial"
+  },
+  {
+   "url": "https://www.opendental.com/site/computerrequirements.html",
+   "key": "be9a7359e1849063",
+   "used_for": "platforms (operating systems)"
+  },
+  {
+   "url": "https://medixdental.com/best-dental-pms/",
+   "key": "7f97363022be6409",
+   "used_for": "cause tracing (cited page, not an own page)"
+  },
+  {
+   "url": "https://revupdental.com/best-dental-practice-management-systems/",
+   "key": "6b3710b01282b11d",
+   "used_for": "cause tracing (cited page, not an own page)"
+  },
+  {
+   "url": "https://ekimit.com/dentrix-eaglesoft-open-dental-curve-dental-comparison/",
+   "key": "174d92ab7eadc16b",
+   "used_for": "cause tracing (cited page, not an own page)"
+  },
+  {
+   "url": "https://www.getdentra.com/resources/guides/dentrix-alternatives",
+   "key": "bfabb15b8dd87189",
+   "used_for": "cause tracing (cited page, not an own page)"
+  },
+  {
+   "url": "https://www.operaitor.co/compare/dentrix-vs-opendental",
+   "key": "5bfd414c285e6f9a",
+   "used_for": "cause tracing (cited page, not an own page)"
+  },
+  {
+   "url": "https://www.thedentalapp.com/stories/open-dental-vs-dentrix",
+   "key": "b504e054c327dcfe",
+   "used_for": "cause tracing (cited page, not an own page)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The U.S. self-hosted license and support fee is $199 per month per location for the first 12 months.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Initial Rate: $199/month/location or office | 12 months | Covers all computers per location or office for up to 3 providers.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page lists the U.S. initial rate at $199 per month per location on a 12-month contract for the self-hosted license and support.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|1",
+     "quote": "$199/month per location for the first 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "U.S. self-hosted pricing is $199/month/location for the first 12 months, covering up to three providers"
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "U.S. software/support costs $199/month per location for the initial 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|1",
+     "quote": "Offers self-hosted or cloud with transparent support fees from $199/month per location."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|2",
+     "quote": "Open Dental starts at $199/month (dropping to $149 after year 1)."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|1",
+     "quote": "$199/month for the first 12 months, covering up to three providers"
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|2",
+     "quote": "$199/month for the first 12 months; the currently published reduced rate is $149/month afterward"
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|3",
+     "quote": "$199/month for the first 12 months for self-hosted software, updates, and support; covers up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|1",
+     "quote": "Open Dental currently lists its U.S. self-hosted license/support at $199 per month per location for the first 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "The initial U.S. fee is $199/month per location for up to three providers, with a 12-month commitment; conversion is separate."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|3",
+     "quote": "Open Dental currently lists U.S. self-hosted license/support at $199 per location per month for the first 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|1",
+     "quote": "Open Dental offers transparent pricing at $199/mo (Year 1) and $149/mo (Year 2+)."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|1",
+     "quote": "The U.S. self-hosted plan starts at $199/month/location for up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|2",
+     "quote": "Open Dental currently lists its U.S. self-hosted software/support at $199 per month per location for the initial 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|3",
+     "quote": "Published U.S. pricing is $199/month per location for the first 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "Open Dental starts at $199/month (drops to $149 after year 1)"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "starting at ~$199/month (dropping to $149 after year 1)"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "Open Dental at $199/month (drops to $149 after year 1)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|3",
+     "quote": "Open Dental currently lists U.S. self-hosted license/support at $199 per location per month initially"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "Its published U.S. self-hosted fee is $199/month/location for the first 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "Its U.S. self-hosted license/support is currently $199/month/location for the first 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "$199/month/location for the initial 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|1",
+     "quote": "Open Dental charges $199/month for the first 12-month contract period, dropping to $149/month on month-to-month terms after that"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|2",
+     "quote": "Open Dental charges $199/month for the first 12-month contract period, dropping to $149/month on month-to-month terms after that"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|3",
+     "quote": "Open Dental charges $199/month for the first 12-month contract, dropping to $149/month on month-to-month terms after that"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|1",
+     "quote": "~$199/mo"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|2",
+     "quote": "$199/month (drops to $149 after year 1)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "After 12 months the fee drops to the current reduced rate of $149 per month per location (the rate published when the office reaches month 13).",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Reduced to a lower rate after 12 consecutive months Current Reduced Rate: $149/month/location",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page gives a U.S. Current Reduced Rate of $149 per month per location after 12 consecutive months and defines it as the fee published on the day the office reaches the 13th month.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|1",
+     "quote": "The currently published reduced rate is $149/month afterward, but your eventual rate is determined at month 13."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "the currently published reduced rate is $149/month afterward, subject to the rate when you reach month 13."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "The currently published reduced rate is $149/month afterward; the rate in effect when you reach month 13 applies."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|2",
+     "quote": "Open Dental starts at $199/month (dropping to $149 after year 1)."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|1",
+     "quote": "the currently published reduced rate is $149/month afterward, though the rate at your 13th month applies."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|2",
+     "quote": "the currently published reduced rate is $149/month afterward, though the rate in effect when you reach month 13 applies."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|3",
+     "quote": "The currently published reduced rate is $149/month afterward, although your actual reduced rate is determined at month 13."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|1",
+     "quote": "Its currently published reduced rate is $149 per month afterward, but the applicable rate is determined when you reach month 13."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|3",
+     "quote": "Its currently published reduced rate is $149/month afterward, but the applicable rate is determined when you reach month 13."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|1",
+     "quote": "Open Dental offers transparent pricing at $199/mo (Year 1) and $149/mo (Year 2+)."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|2",
+     "quote": "Its currently published reduced rate is $149 per month, although the applicable rate is determined when you reach month 13."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|3",
+     "quote": "The currently published reduced rate is $149/month, but your rate after year one depends on the rate then in effect."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "Open Dental starts at $199/month (drops to $149 after year 1)"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "starting at ~$199/month (dropping to $149 after year 1)"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "Open Dental at $199/month (drops to $149 after year 1)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|3",
+     "quote": "with a published reduced rate of $149 after 12 consecutive months"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "The currently published reduced rate is $149/month afterward; the applicable rate is determined when you reach month 13."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "The currently published reduced rate is $149/month after 12 consecutive months; the rate in effect when you reach month 13 applies."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "A currently published reduced rate of $149/month afterward; the applicable rate is determined when you reach month 13."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|1",
+     "quote": "dropping to $149/month on month-to-month terms after that"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|2",
+     "quote": "dropping to $149/month on month-to-month terms after that"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|3",
+     "quote": "dropping to $149/month on month-to-month terms after that"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|2",
+     "quote": "$199/month (drops to $149 after year 1)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The base per-location fee covers up to three providers.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Covers all computers per location or office for up to 3 providers.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page states the license and support fee covers up to 3 providers per location.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|1",
+     "quote": "$199/month per location for the first 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "U.S. self-hosted pricing is $199/month/location for the first 12 months, covering up to three providers"
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "U.S. software/support costs $199/month per location for the initial 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|1",
+     "quote": "$199/month for the first 12 months, covering up to three providers"
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|2",
+     "quote": "Covers up to three providers and all office computers."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|3",
+     "quote": "covers up to three providers"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|1",
+     "quote": "Open Dental currently lists its U.S. self-hosted license/support at $199 per month per location for the first 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "The initial U.S. fee is $199/month per location for up to three providers, with a 12-month commitment; conversion is separate."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|3",
+     "quote": "Open Dental currently lists U.S. self-hosted license/support at $199 per location per month for the first 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|1",
+     "quote": "The U.S. self-hosted plan starts at $199/month/location for up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|2",
+     "quote": "Open Dental currently lists its U.S. self-hosted software/support at $199 per month per location for the initial 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|3",
+     "quote": "Published U.S. pricing is $199/month per location for the first 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|3",
+     "quote": "covering up to three providers"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "Its published U.S. self-hosted fee is $199/month/location for the first 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "Its U.S. self-hosted license/support is currently $199/month/location for the first 12 months, covering up to three providers."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "$199/month/location for the initial 12 months, covering up to three providers."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Open Dental costs about $149 to $199 per month.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Reduced to a lower rate after 12 consecutive months Current Reduced Rate: $149/month/location",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The published U.S. fee runs from the $199 initial rate to the $149 reduced rate per location per month, which matches the stated range (one answer rounds $149 to $150).",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Claude|2",
+     "quote": "From $149–$199/mo"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "Flat monthly support fee (around $150–$199/month), regardless of how many providers or workstations you add."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "~$149–$199/mo"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|2",
+     "quote": "$149–$199/mo"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Perplexity|2",
+     "quote": "examples in the results range around $149–$199/month after the initial term"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Open Dental costs about $150 per month (estimated monthly cost, period not stated).",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Reduced to a lower rate after 12 consecutive months Current Reduced Rate: $149/month/location",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "An estimated monthly cost of about $150 matches the published $149 per month current reduced rate; the answers do not claim it is the first-year rate.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|1",
+     "quote": "~$150/mo"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|2",
+     "quote": "~$150/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Open Dental costs (or starts at) about $179 per month per location.",
+   "class": "stale",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Offices which started at an initial rate of $179 (prior to February 2nd, 2026) will keep that rate for the entire initial 12 month period, rather than $199.",
+   "stale_change": {
+    "date": "2026-02-02",
+    "quote": "Offices which started at an initial rate of $179 (prior to February 2nd, 2026) will keep that rate for the entire initial 12 month period, rather than $199.",
+    "url": "https://www.opendental.com/site/fees.html"
+   },
+   "causing_url": "https://www.getdentra.com/resources/guides/dentrix-alternatives",
+   "causing_type": "other",
+   "causing_quote": "Pricing: $179/month per location",
+   "rationale": "The fees page dates the change: $179 was the initial rate before 2 February 2026 and the initial rate is now $199, so $179 was true before a documented change; the cited getdentra.com guide states $179 per month per location (the cited revupdental.com page also gives around $179 to $199).",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|2",
+     "quote": "It is remarkably affordable (starting around $179/month)"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|3",
+     "quote": "It is a desktop/hybrid software with a remarkably low monthly cost (starting around $179/month)."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|1",
+     "quote": "It is an affordable, highly customizable platform with a low monthly fee (around $179)."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|1",
+     "quote": "features transparent pricing (around $179/month) where multiple providers share one low cost"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|3",
+     "quote": "Around $179 per month, making it budget-friendly with no hidden per-provider fees."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "At $179/month per location with no per-provider fees, Open Dental delivers exceptional value."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Open Dental costs about $150 to $180 per month.",
+   "class": "stale",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Offices which started at an initial rate of $179 (prior to February 2nd, 2026) will keep that rate for the entire initial 12 month period, rather than $199.",
+   "stale_change": {
+    "date": "2026-02-02",
+    "quote": "Offices which started at an initial rate of $179 (prior to February 2nd, 2026) will keep that rate for the entire initial 12 month period, rather than $199.",
+    "url": "https://www.opendental.com/site/fees.html"
+   },
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The upper end of the range reflects the $179 initial rate that applied before 2 February 2026; the current range is $149 to $199. The cited revupdental.com page gives $179 to $199 and $149 figures but not this range, so no cited page carries the statement as made.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|3",
+     "quote": "It has one of the lowest entry costs in the industry (around $150–$180 per month)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Open Dental's monthly support fee is around $169.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page publishes $169 per month only as the first-year volume rate for groups of 4 to 9 offices; the answer gives no office count, so the like-for-like comparison is not possible.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|2",
+     "quote": "Free to download with a low monthly support fee (around $169/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Open Dental charges a flat fee per location (per practice).",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Answer: Yes. Our policy clearly states that fees are per location/office.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page prices the license and support per location or office and states that fees are per location.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "because of its low flat-fee pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|1",
+     "quote": "flat per-practice pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|3",
+     "quote": "due to its low flat cost"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|3",
+     "quote": "a flat fee per location, no per-provider charges"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|2",
+     "quote": "it operates on an open-source/flat-fee model"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|3",
+     "quote": "flat monthly pricing rather than per-provider fees"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Google AI Mode|2",
+     "quote": "transparent per-location pricing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Open Dental has no per-provider fees (the fee does not change with the number of providers).",
+   "class": "wrong",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "More than 3 providers per office or location (not counting hygienists) | All except Developing Countries | $20/month/provider",
+   "stale_change": null,
+   "causing_url": "https://revupdental.com/best-dental-practice-management-systems/",
+   "causing_type": "other",
+   "causing_quote": "Open Dental charges a flat fee per location with no per-provider fees, which means a three-dentist practice pays the same as a solo practice.",
+   "rationale": "The fees page charges $20 per month per provider beyond three providers per location, which explicitly contradicts no per-provider fees; the cited revupdental.com page carries the statement.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "Flat monthly support fee (around $150–$199/month), regardless of how many providers or workstations you add."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|3",
+     "quote": "Around $179 per month, making it budget-friendly with no hidden per-provider fees."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|3",
+     "quote": "a flat fee per location, no per-provider charges"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|3",
+     "quote": "flat monthly pricing rather than per-provider fees"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "At $179/month per location with no per-provider fees, Open Dental delivers exceptional value."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|1",
+     "quote": "with no per-provider surcharge and no add-on fees for core functionality"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|2",
+     "quote": "with no per-provider surcharge and no add-on fees for core functionality"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|3",
+     "quote": "with no per-provider surcharge and no add-on fees for core functionality"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Open Dental has no per-seat or per-workstation fees; one fee covers all computers at a location.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Covers all computers per location or office for up to 3 providers.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page states the per-location fee covers all computers at the location, so there is no per-seat or per-workstation charge.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "Flat monthly support fee (around $150–$199/month), regardless of how many providers or workstations you add."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|2",
+     "quote": "Covers up to three providers and all office computers."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Perplexity|1",
+     "quote": "Open Dental: best for a solo or very small practice that wants low cost, no per-seat fees, and strong customization."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Perplexity|2",
+     "quote": "has no per-seat fees"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Perplexity|3",
+     "quote": "Open Dental: best overall for a very small office that wants low cost, no per-seat fees, and strong customization."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|1",
+     "quote": "Offers transparent, lower-cost pricing with no per-seat licensing fees."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|3",
+     "quote": "Open Dental has no per-seat licensing fees, but requires budgeting for IT, servers, and implementation."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "The monthly fee includes the software, updates and phone, chat and email support.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Monthly support fees include: The software. Updates as they are released. Phone, chat, and email technical support with our experienced techs",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page lists the software, updates and phone, chat and email support as included in the monthly support fee.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|1",
+     "quote": "Includes software, updates, and support."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|3",
+     "quote": "$199/month for the first 12 months for self-hosted software, updates, and support"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "offers self-hosted software with updates and support"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "Open Dental includes phone, chat, and email support in its support fee"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Open Dental is paid through a monthly support (license and support) fee rather than an upfront software license purchase.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Open Dental Software's only upfront cost is the first month of support fees.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page states the only upfront cost is the first month of support fees and prices the license and support as a monthly fee.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q2|Claude|1",
+     "quote": "Open-source with a low monthly support fee"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "charges a flat monthly support fee rather than traditional software licensing"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "charges a flat monthly support fee rather than traditional software licensing"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "charges a flat monthly support fee rather than traditional software licensing"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|1",
+     "quote": "Low monthly support fee; free software download with transparent pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|2",
+     "quote": "Open Dental is dramatically more affordable with a transparent, low monthly support/licensing fee model."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|3",
+     "quote": "It uses an open-source/open-database model with a low, published monthly support/license fee"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|2",
+     "quote": "Free to download with a low monthly support fee (around $169/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Open Dental charges a low upfront license fee plus monthly support.",
+   "class": "wrong",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Open Dental Software's only upfront cost is the first month of support fees.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The fees page states the only upfront cost is the first month of support fees, which contradicts an upfront license fee; the cited pages read (getdentra.com, medixdental.com) do not carry the statement and the other cited pages were not read within the page budget.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|3",
+     "quote": "Low upfront license fee plus monthly support."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "The initial contract is 12 months, then month to month.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "After the initial contract, fees automatically continue on a month to month basis.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees table shows a 12-month contract at the initial rate and the page states fees continue month to month after the initial contract.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "with a 12-month commitment"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|1",
+     "quote": "Open Dental charges $199/month for the first 12-month contract period, dropping to $149/month on month-to-month terms after that"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|2",
+     "quote": "Open Dental charges $199/month for the first 12-month contract period, dropping to $149/month on month-to-month terms after that"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|3",
+     "quote": "Open Dental charges $199/month for the first 12-month contract, dropping to $149/month on month-to-month terms after that"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "The optional eServices Bundle costs $165 per month per location.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "eServices Bundle | $165/month/location",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page lists the eServices Bundle at $165 per month per location.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "Its optional eServices bundle is another $165/month, with outgoing texting charges additional."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|1",
+     "quote": "Its optional eServices bundle is another $165/month, with outgoing text-message charges extra."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "its optional eServices bundle is currently $165/month/location, with outgoing texting charges additional."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "Outgoing text messages are charged in addition to the eServices fee.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Includes Integrated Texting access fee (additional per outgoing text message fees apply).",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page states that per outgoing text message fees apply in addition to the bundle.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "Its optional eServices bundle is another $165/month, with outgoing texting charges additional."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|1",
+     "quote": "Its optional eServices bundle is another $165/month, with outgoing text-message charges extra."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "its optional eServices bundle is currently $165/month/location, with outgoing texting charges additional."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "Individual eServices can be bought separately instead of the full bundle.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Secure Email | $30/month/location",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page prices individual eServices (for example Secure Email at $30 per month per location) alongside the discounted bundle.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|1",
+     "quote": "You can also select individual services rather than the full bundle."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "Data conversion from other software is not included and costs extra.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Data conversion from other software is not included. See Data Conversion for fees.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page states data conversion is not included and is priced separately.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|1",
+     "quote": "Hosting and data conversion are separate considerations."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|2",
+     "quote": "Hosting, data conversion, and optional services are separate."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|3",
+     "quote": "Hosting, conversion, and optional services cost extra."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|1",
+     "quote": "Conversion and optional services cost extra."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "conversion is separate"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|3",
+     "quote": "Data conversion and optional services cost extra; cloud pricing is separate."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|2",
+     "quote": "Conversion and optional services cost extra."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|3",
+     "quote": "Conversion and optional services cost extra."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "Data conversion is also separate."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "Conversion and additional services cost extra."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "Conversion, certain training, and optional services cost extra."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "pricing",
+   "claim": "Optional and additional services (such as eServices) cost extra beyond the base fee.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Support is required when signing up for, scheduling, or purchasing any of the additional services below.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page lists additional services, including eServices, as separately purchased items with their own fees.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|1",
+     "quote": "Additional services cost extra; this is not an all-in operating cost."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "Hosting and additional services need separate budgeting."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "Hosting and optional services require separate budgeting."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|2",
+     "quote": "Hosting, data conversion, and optional services are separate."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|3",
+     "quote": "Hosting, conversion, and optional services cost extra."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|1",
+     "quote": "Conversion and optional services cost extra."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|3",
+     "quote": "Data conversion and optional services cost extra; cloud pricing is separate."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|2",
+     "quote": "Conversion and optional services cost extra."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|3",
+     "quote": "Conversion and optional services cost extra."
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|3",
+     "quote": "add-ons and hosting/IT are separate considerations"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|2",
+     "quote": "but requires IT management or separate eServices for patient engagement"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "Conversion and additional services cost extra."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "Conversion and additional services cost extra."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "Conversion, certain training, and optional services cost extra."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "Personalized training costs extra.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Online Training | $80/hour",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page charges for online and on-site training (online training at $80 per hour).",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "personalized training costs extra"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "pricing",
+   "claim": "Open Dental publishes its pricing.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Software License & Support Fees",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes a public fees page listing license, support and add-on fees.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|2",
+     "quote": "Its published base pricing makes it a useful starting point for a cost-conscious office."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|3",
+     "quote": "Open Dental publishes relatively low base pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|1",
+     "quote": "Open Dental offers public pricing and data ownership"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "Publishes its pricing and offers self-hosted software with updates and support."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|2",
+     "quote": "Its published pricing makes budgeting easier."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|3",
+     "quote": "Publishes its pricing, offers self-hosted and cloud options, and provides an Eaglesoft conversion process."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "It publishes detailed software, support, and add-on fees."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Perplexity|1",
+     "quote": "with published pricing and more flexible architecture"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Perplexity|3",
+     "quote": "with transparent published pricing and a more open architecture/data model"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Perplexity|2",
+     "quote": "Lower and published"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "pricing",
+   "claim": "The base fee includes the core software with no separate module or add-on fees for core functionality.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Monthly support fees include: The software. Updates as they are released.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page includes the software itself in the monthly support fee; the separately priced items are optional services, not core modules.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|3",
+     "quote": "with no restrictive long-term pricing traps or hidden module fees"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|1",
+     "quote": "with no per-provider surcharge and no add-on fees for core functionality"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|2",
+     "quote": "with no per-provider surcharge and no add-on fees for core functionality"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Claude|3",
+     "quote": "with no per-provider surcharge and no add-on fees for core functionality"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "pricing",
+   "claim": "Open Dental pricing is modular: fees depend on locations, providers and the additional functionality used.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Fees vary depending on number of locations, number of providers, and any additional functionality required.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page states fees vary with locations, providers and additional functionality required.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|2",
+     "quote": "its modular pricing means a small office only pays for what it uses"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "pricing",
+   "claim": "Open Dental Cloud is priced separately, in addition to the license and support fees.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Open Dental Cloud fees are in addition to the Open Dental Software License and Support fees shown above.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page states that Open Dental Cloud fees are charged in addition to the license and support fees.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Claude|2",
+     "quote": "though cloud hosting is available for an additional cost"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|3",
+     "quote": "Data conversion and optional services cost extra; cloud pricing is separate."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|1",
+     "quote": "with self-hosted and separately priced cloud options"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "pricing",
+   "claim": "Open Dental Cloud starts at $430 per month for one provider.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The cloud page read on 8 Oct prices hosting by concurrent-session packages (from $250 per month, charged on top of support fees) and gives no per-provider price, so the per-provider figure cannot be compared like with like; the page shows no dated change.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|1",
+     "quote": "Open Dental also offers cloud hosting, starting at $430/month for one provider"
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "Open Dental also offers managed cloud hosting starting at $430/month for one provider"
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "Open Dental also offers vendor-managed cloud hosting starting at $430/month for one provider"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "platforms",
+   "claim": "Open Dental is self-hosted, on-premise (server-based, desktop) software that runs on a local server by default.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Customer hosts the program locally or manages hosting it remotely (Self-Hosted).",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page prices the standard product as self-hosted, with the customer hosting the program locally, and the trial page installs it to a server and workstations.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|1",
+     "quote": "Open Dental — self-hosted"
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "You prioritize a low base software cost and are comfortable arranging local or remote hosting."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "You prioritize transparent base pricing and are comfortable arranging local or remote hosting."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|1",
+     "quote": "Offers self-hosted or cloud with transparent support fees from $199/month per location."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|2",
+     "quote": "It fits independent and growing practices that want customization, on-premise control, and a clear starting price."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|3",
+     "quote": "Server/Hosted"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|1",
+     "quote": "stores your database locally or on a local cloud setup"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|2",
+     "quote": "While it traditionally runs on a local server (or hosted virtual server via an IT vendor)"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|1",
+     "quote": "It runs locally by default (though cloud hosting is available via third parties)"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "Requires managing a local Windows server or paying a third-party cloud hosting provider."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|3",
+     "quote": "Open Dental is a highly customizable, feature-rich platform that runs on a local server (or third-party cloud hosting)."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|1",
+     "quote": "Open Dental — my value pick for a self-hosted office"
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|2",
+     "quote": "You want a low base subscription and can arrange your own hosting/IT."
+    },
+    {
+     "record_id": "dental-practice-management|q2|ChatGPT|3",
+     "quote": "Budget-conscious office comfortable arranging its own hosting/IT"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|1",
+     "quote": "It suits offices that want to customize their software and are comfortable with a server."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|2",
+     "quote": "Open Dental suits offices that want to customize their software and are comfortable with a server."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|3",
+     "quote": "Server (or hosted)"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|1",
+     "quote": "though it traditionally runs on an in-office server (or a third-party cloud-hosted setup)"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|2",
+     "quote": "While it traditionally runs on a local office server (or third-party cloud hosting)"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|3",
+     "quote": "While traditionally requiring a local server (or third-party cloud hosting)"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|1",
+     "quote": "It is server-based by default (with optional cloud hosting)"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|3",
+     "quote": "Traditional server-based setup (though cloud hosting is available via third parties)"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Perplexity|3",
+     "quote": "okay with managing a server or using an IT vendor"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|1",
+     "quote": "Open Dental suits offices that want to customize their software and are comfortable with a server."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|2",
+     "quote": "it runs on a local server by default, though cloud hosting is available for an additional cost"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|3",
+     "quote": "Open Dental suits offices that want to customize their software and are comfortable with a server."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|1",
+     "quote": "On-Premise / Cloud"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|1",
+     "quote": "It operates either self-hosted or via an official cloud option."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|3",
+     "quote": "Local (cloud hosted via third party)"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|1",
+     "quote": "Its self-hosted offering has transparent pricing."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "offers self-hosted software with updates and support"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|3",
+     "quote": "For staying with a traditional server-based setup: I’d compare Open Dental and Eaglesoft."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|1",
+     "quote": "Open Dental is primarily designed as on-premise software."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "Open Dental is primarily designed as on-premise software."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "server-based platforms like Dentrix, Eaglesoft, and Open Dental (self-hosted) store data on a computer in your office"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|1",
+     "quote": "A highly customizable, open-source server-based software known for powerful reporting"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|2",
+     "quote": "It is a server-based (or cloud-hosted) practice management system"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|3",
+     "quote": "It is technically a desktop/server-based application (though cloud hosting is available via third parties)"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|1",
+     "quote": "Server / Hybrid"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|2",
+     "quote": "Requires local server or hosting"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Perplexity|1",
+     "quote": "while Open Dental is the most common budget-friendly/on-premise alternative"
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|1",
+     "quote": "with self-hosted and separately priced cloud options"
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|2",
+     "quote": "Offers self-hosted software and a separate cloud option"
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|3",
+     "quote": "offers self-hosted and cloud options"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "Open Dental | On-Premise | Budget-conscious/custom"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "Open Dental suits independent practices that want an on-premise, customizable system at a lower price"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "Open Dental suits independent practices that want an on-premise, customizable system at a lower price."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|1",
+     "quote": "On-Premise / Hybrid"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|1",
+     "quote": "A highly customizable, cost-effective desktop practice management software"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|3",
+     "quote": "Open Dental currently lists U.S. self-hosted license/support at $199 per location per month initially"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Examples | Dentrix, Eaglesoft, Open Dental"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Server-based platforms (Dentrix, Eaglesoft, Practice-Web, Open Dental self-hosted) store data on a computer in your office."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|3",
+     "quote": "since Open Dental relies on a local server or hosted desktop environment"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "Its published U.S. self-hosted fee is $199/month/location for the first 12 months"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "Open Dental offers both self-hosted and cloud options, so the version matters."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "U.S. self-hosted software and support price"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|1",
+     "quote": "Traditionally on-premise server-based, but easily hosted in the cloud via third parties"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|3",
+     "quote": "Server-based locally by default, but easily hosted in the cloud via third-party hosting providers."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|1",
+     "quote": "Server-based by default with direct database access"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|2",
+     "quote": "continues working during internet outages because it runs on a local server"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|3",
+     "quote": "Open Dental is server-based (with third-party cloud options)."
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|1",
+     "quote": "Server-based | ~$199/mo"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|2",
+     "quote": "(server) | Small DSOs, budget-focused"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "platforms",
+   "claim": "Open Dental can be hosted remotely or in the cloud through third parties or the practice's IT.",
+   "class": "true",
+   "proof_url": "https://opendental.com/site/featuresenterprise.html",
+   "proof_quote": "Cloud services, like Amazon RDS, that support a compatible version of MySQL or MariaDB can be used to set up a virtual server to host your Open Dental databases.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The enterprise features page describes self-hosted cloud on services such as Amazon RDS, set up and managed by the practice's IT, separate from Open Dental Cloud; the fees page also allows the customer to manage hosting remotely.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "You prioritize a low base software cost and are comfortable arranging local or remote hosting."
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "You prioritize transparent base pricing and are comfortable arranging local or remote hosting."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|2",
+     "quote": "While it traditionally runs on a local server (or hosted virtual server via an IT vendor)"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|1",
+     "quote": "It runs locally by default (though cloud hosting is available via third parties)"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "Requires managing a local Windows server or paying a third-party cloud hosting provider."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|3",
+     "quote": "Open Dental is a highly customizable, feature-rich platform that runs on a local server (or third-party cloud hosting)."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|1",
+     "quote": "though it traditionally runs on an in-office server (or a third-party cloud-hosted setup)"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|2",
+     "quote": "While it traditionally runs on a local office server (or third-party cloud hosting)"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|3",
+     "quote": "While traditionally requiring a local server (or third-party cloud hosting)"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|3",
+     "quote": "Traditional server-based setup (though cloud hosting is available via third parties)"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|3",
+     "quote": "Local (cloud hosted via third party)"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|2",
+     "quote": "you do need to be prepared to handle local server backups or pay a third party for cloud hosting"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|3",
+     "quote": "It is technically a desktop/server-based application (though cloud hosting is available via third parties)"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|1",
+     "quote": "Traditionally on-premise server-based, but easily hosted in the cloud via third parties"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|3",
+     "quote": "Server-based locally by default, but easily hosted in the cloud via third-party hosting providers."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|3",
+     "quote": "Open Dental is server-based (with third-party cloud options)."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Perplexity|3",
+     "quote": "hosted/cloud setups can add third-party hosting costs"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "platforms",
+   "claim": "Open Dental offers its own vendor-managed cloud hosting (Open Dental Cloud).",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/opendentalcloud.html",
+   "proof_quote": "Open Dental Cloud is a hosted solution managed by Open Dental Software.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The cloud page describes Open Dental Cloud as a hosted solution managed by Open Dental Software.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|1",
+     "quote": "Open Dental also offers cloud hosting, starting at $430/month for one provider"
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "Open Dental also offers managed cloud hosting starting at $430/month for one provider"
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "Open Dental also offers vendor-managed cloud hosting starting at $430/month for one provider"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|1",
+     "quote": "Offers self-hosted or cloud with transparent support fees from $199/month per location."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|1",
+     "quote": "Server/Cloud"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|1",
+     "quote": "It is server-based by default (with optional cloud hosting)"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|1",
+     "quote": "A hosted Open Dental Cloud option also exists for practices that don't want to manage a server."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|2",
+     "quote": "though cloud hosting is available for an additional cost"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|1",
+     "quote": "On-Premise / Cloud"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|1",
+     "quote": "It operates either self-hosted or via an official cloud option."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "Open Dental also offers a managed cloud version"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|1",
+     "quote": "Cloud hosting is available but less mature than cloud-native competitors like Curve Dental or CareStack."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "Cloud hosting is available but less mature than cloud-native competitors like Curve Dental or CareStack."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|1",
+     "quote": "with self-hosted and separately priced cloud options"
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|2",
+     "quote": "Offers self-hosted software and a separate cloud option"
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|3",
+     "quote": "offers self-hosted and cloud options"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|2",
+     "quote": "evaluate Open Dental Cloud before changing platforms; Open Dental offers that option too."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "Open Dental also offers a vendor-managed cloud option"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "Open Dental offers both self-hosted and cloud options, so the version matters."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "Open Dental Cloud is a managed hosted option"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "platforms",
+   "claim": "Open Dental Cloud is in limited release and has limits on third-party interoperability.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/opendentalcloud.html",
+   "proof_quote": "The service is currently in limited release. We accept a limited number of customers requesting the service and give preference to those whose situation is a good match. There are some limitations on interoperability with third-party solutions.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The cloud page states the service is in limited release and has some limitations on interoperability with third-party solutions.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|1",
+     "quote": "but it is currently in limited release and has third-party interoperability restrictions"
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|2",
+     "quote": "but currently describes it as limited release with third-party integration restrictions"
+    },
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "but it is currently in limited release and has third-party interoperability restrictions"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "its official page currently describes it as limited-release, with third-party interoperability limitations"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "but currently describes it as limited release with some third-party interoperability limitations"
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "but currently lists limited availability and third-party integration restrictions"
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "platforms",
+   "claim": "Open Dental requires a local server.",
+   "class": "wrong",
+   "proof_url": "https://www.opendental.com/site/opendentalcloud.html",
+   "proof_quote": "Open Dental Cloud is a hosted solution managed by Open Dental Software.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The vendor offers a hosted Open Dental Cloud (in limited release) and the fees page lets the customer host the program locally or manage hosting it remotely, which contradicts a local server being required; no cited page read carries the statement.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|3",
+     "quote": "The catch is that you or an IT vendor must manage the local server/backups."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|3",
+     "quote": "Requires local server and third-party add-ons"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|3",
+     "quote": "Requires a server and some IT know-how; you own the security of your environment"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|2",
+     "quote": "Cons: Requires on-premise hardware investments and active IT management."
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "platforms",
+   "claim": "Open Dental requires a (local) Windows server.",
+   "class": "wrong",
+   "proof_url": "https://www.opendental.com/site/computerrequirements.html",
+   "proof_quote": "As an alternative to Windows, the server can run Linux or MacOS-X",
+   "stale_change": null,
+   "causing_url": "https://ekimit.com/dentrix-eaglesoft-open-dental-curve-dental-comparison/",
+   "causing_type": "other",
+   "causing_quote": "Server Requirement Windows Server with MySQL, 16GB RAM minimum.",
+   "rationale": "The computer requirements page states the server can run Linux or macOS as an alternative to Windows, contradicting a Windows server requirement; the cited ekimit.com comparison lists a Windows Server requirement for Open Dental.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "Requires managing a local Windows server or paying a third-party cloud hosting provider."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|2",
+     "quote": "requires a local Windows server setup and IT maintenance"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "platforms",
+   "claim": "Open Dental works on Windows.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/computerrequirements.html",
+   "proof_quote": "Any of the following operating systems are supported: Operating system | Notes | Windows 11 |",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The computer requirements page lists Windows 11 and Windows Server versions as supported operating systems.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "works on Windows, Mac, and Linux"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "works on Windows, Mac, and Linux"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "works on Windows, Mac, and Linux"
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "platforms",
+   "claim": "Open Dental works on Mac.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The requirements page lists only Windows versions as supported operating systems and allows macOS only for the database server, and the .NET page (browser read) speaks only of Windows workstations, so neither confirms nor explicitly denies that the program itself runs on Mac.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "works on Windows, Mac, and Linux"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "works on Windows, Mac, and Linux"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "works on Windows, Mac, and Linux"
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "platforms",
+   "claim": "Open Dental works on Linux.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The requirements page lists only Windows versions as supported operating systems and allows Linux only for the database server, and the .NET page (browser read) speaks only of Windows workstations, so neither confirms nor explicitly denies that the program itself runs on Linux.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "works on Windows, Mac, and Linux"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "works on Windows, Mac, and Linux"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "works on Windows, Mac, and Linux"
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "free_tier",
+   "claim": "Open Dental software is free to download (free trial version).",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/trial.html",
+   "proof_quote": "The free trial version of Open Dental can be used to evaluate the software, or be used as the first step when installing the full version.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The trial page offers a free trial download that does not expire and serves as the first step of the full installation.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|1",
+     "quote": "Low monthly support fee; free software download with transparent pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|2",
+     "quote": "Free to download with a low monthly support fee (around $169/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "integrations",
+   "claim": "Open Dental bridges to 200+ third-party programs.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page says 100s of Bridges to Other Programs and the bridges page lists bridges without a total, so 200+ is neither confirmed nor contradicted.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "Open Dental also bridges to 200+ third-party programs."
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "product_names",
+   "claim": "Open Dental has a multi-location feature named Clinics.",
+   "class": "true",
+   "proof_url": "https://opendental.com/site/featuresenterprise.html",
+   "proof_quote": "The Clinics feature lets you operate multiple locations from a single database while keeping their data separate for reports.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The enterprise features page names the Clinics feature for running multiple locations from one database.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "Open Dental also supports multiple locations through its Clinics feature and other deployment options."
+    },
+    {
+     "record_id": "dental-practice-management|q10|ChatGPT|1",
+     "quote": "Supports shared-database Clinics"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|1",
+     "quote": "The Clinics feature allows all locations to run on a single shared database."
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|2",
+     "quote": "Open Dental with the Clinics feature is the most popular choice for smaller growing groups due to its cost structure and flexibility."
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "product_names",
+   "claim": "Open Dental has a tool named the Central Enterprise Management Tool.",
+   "class": "true",
+   "proof_url": "https://opendental.com/site/featuresenterprise.html",
+   "proof_quote": "Use options like Replication or the Central Enterprise Management Tool (CEMT) to manage separate databases for each location efficiently.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The enterprise features page names the Central Enterprise Management Tool (CEMT).",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q10|ChatGPT|1",
+     "quote": "separate-database approaches through its Central Enterprise Management Tool"
+    }
+   ]
+  },
+  {
+   "claim_id": "C40",
+   "type": "product_names",
+   "claim": "Open Dental's customizable forms module is named Sheets.",
+   "class": "true",
+   "proof_url": "https://www.opendental.com/site/fees.html",
+   "proof_quote": "Sheet Design Service Let us convert your paper forms to sheets.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page offers a Sheet Design Service that converts paper forms to sheets, the product's name for its forms.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "customizable forms through Sheets"
+    }
+   ]
+  },
+  {
+   "claim_id": "C41",
+   "type": "founding",
+   "claim": "Open Dental was built (founded) by a dentist.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the Open Dental pages read in this study names the founder or says who built the software.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Claude|3",
+     "quote": "It was built by a dentist with a specific focus on data ownership and predictable costs"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|2",
+     "quote": "Because it was built by a dentist"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|3",
+     "quote": "Built by a dentist"
+    }
+   ]
+  },
+  {
+   "claim_id": "C42",
+   "type": "pricing",
+   "claim": "Open Dental costs about $179 to $199 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The fees page gives $199 as the current initial rate and keeps $179 only for offices that started before 2 February 2026, with $149 after 12 months, so a $179 to $199 range is neither the current published range nor the state before the dated change, and the pages read do not settle it as stated.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q7|Perplexity|2",
+     "quote": "with some sources citing about $179–$199/month"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Eight own pages read on opendental.com, all HTTP 200. The .NET page (dotnet.html) came back with thin: true (1,314 characters) and was listed in needs_browser_read; pass 2 (8 Oct 2026): its browser read has the same text (installation requires Microsoft .NET on Windows workstations), so it changes no class and needs_browser_read is now empty (the Windows claims still rest on computerrequirements.html; C34 and C35 stay unverifiable). Six cited pages were read for causes (the per-vendor budget of 14 is now used up, 15 reads with the browser read), so other cited pages for C14 and C31 were not read. Pass 2 completeness: added C42 ($179 to $199, unverifiable) and instances for C04, C22 (both from one Perplexity table cell, which also says the $149 to $199 range applies after the initial term; read as a garbled qualifier, reviewer may disagree) and C31 (on-premise hardware required). The consistency check kept every wrong and stale class: C10, C14, C31 and C32 each rest on an explicit line of the vendor's own fees, cloud or requirements page, and C06 and C07 on the dated 2 February 2026 change from $179 to $199. Not coded because no type fits: the many open-source and open-database claims, MySQL database claims and API/data-access claims; note for the reviewer that the cited medixdental.com page says Open Dental moved from a GPL license to a proprietary one in version 24.4, which no own page read confirms. Name-only mentions, rankings, review ratings, Townie votes, savings comparisons, transparent-pricing opinions and conditional cloud-architecture lines (for example Open Dental (cloud-architected)) were not coded. Ambiguous Hybrid deployment labels were coded only where they also name a server. Judgement calls: C05 (~$150/mo estimated cost) is classed true against the $149 reduced rate; C26 ($430 cloud for one provider) is unverifiable because the cloud page prices by concurrent sessions, not providers; C34 and C35 (Mac, Linux) are unverifiable because the requirements page allows them only for the server; C31 (requires a local server) is classed wrong because the vendor offers Open Dental Cloud and customer-managed remote hosting, even though the cloud service is in limited release.",
+ "answer_record_ids": [
+  "dental-practice-management|q1|ChatGPT|1",
+  "dental-practice-management|q1|ChatGPT|2",
+  "dental-practice-management|q1|ChatGPT|3",
+  "dental-practice-management|q1|Claude|1",
+  "dental-practice-management|q1|Claude|2",
+  "dental-practice-management|q1|Claude|3",
+  "dental-practice-management|q1|Google AI Mode|1",
+  "dental-practice-management|q1|Google AI Mode|2",
+  "dental-practice-management|q1|Google AI Mode|3",
+  "dental-practice-management|q1|Google AI Overviews|1",
+  "dental-practice-management|q1|Google AI Overviews|2",
+  "dental-practice-management|q1|Google AI Overviews|3",
+  "dental-practice-management|q1|Perplexity|1",
+  "dental-practice-management|q1|Perplexity|2",
+  "dental-practice-management|q1|Perplexity|3",
+  "dental-practice-management|q10|ChatGPT|1",
+  "dental-practice-management|q10|Claude|1",
+  "dental-practice-management|q10|Claude|2",
+  "dental-practice-management|q10|Claude|3",
+  "dental-practice-management|q10|Google AI Mode|1",
+  "dental-practice-management|q10|Google AI Mode|2",
+  "dental-practice-management|q10|Google AI Mode|3",
+  "dental-practice-management|q10|Google AI Overviews|1",
+  "dental-practice-management|q10|Google AI Overviews|2",
+  "dental-practice-management|q10|Google AI Overviews|3",
+  "dental-practice-management|q10|Perplexity|1",
+  "dental-practice-management|q10|Perplexity|2",
+  "dental-practice-management|q2|ChatGPT|1",
+  "dental-practice-management|q2|ChatGPT|2",
+  "dental-practice-management|q2|ChatGPT|3",
+  "dental-practice-management|q2|Claude|1",
+  "dental-practice-management|q2|Claude|2",
+  "dental-practice-management|q2|Claude|3",
+  "dental-practice-management|q2|Google AI Mode|1",
+  "dental-practice-management|q2|Google AI Mode|2",
+  "dental-practice-management|q2|Google AI Mode|3",
+  "dental-practice-management|q2|Google AI Overviews|1",
+  "dental-practice-management|q2|Google AI Overviews|3",
+  "dental-practice-management|q2|Perplexity|1",
+  "dental-practice-management|q2|Perplexity|2",
+  "dental-practice-management|q2|Perplexity|3",
+  "dental-practice-management|q3|ChatGPT|1",
+  "dental-practice-management|q3|ChatGPT|2",
+  "dental-practice-management|q3|ChatGPT|3",
+  "dental-practice-management|q3|Claude|1",
+  "dental-practice-management|q3|Claude|2",
+  "dental-practice-management|q3|Claude|3",
+  "dental-practice-management|q3|Google AI Mode|1",
+  "dental-practice-management|q3|Google AI Mode|2",
+  "dental-practice-management|q3|Google AI Mode|3",
+  "dental-practice-management|q3|Google AI Overviews|1",
+  "dental-practice-management|q3|Google AI Overviews|2",
+  "dental-practice-management|q3|Google AI Overviews|3",
+  "dental-practice-management|q3|Perplexity|1",
+  "dental-practice-management|q3|Perplexity|2",
+  "dental-practice-management|q3|Perplexity|3",
+  "dental-practice-management|q4|ChatGPT|1",
+  "dental-practice-management|q4|ChatGPT|2",
+  "dental-practice-management|q4|ChatGPT|3",
+  "dental-practice-management|q4|Claude|1",
+  "dental-practice-management|q4|Claude|2",
+  "dental-practice-management|q4|Claude|3",
+  "dental-practice-management|q4|Google AI Mode|1",
+  "dental-practice-management|q4|Google AI Mode|2",
+  "dental-practice-management|q4|Google AI Mode|3",
+  "dental-practice-management|q4|Google AI Overviews|1",
+  "dental-practice-management|q4|Google AI Overviews|2",
+  "dental-practice-management|q4|Google AI Overviews|3",
+  "dental-practice-management|q4|Perplexity|1",
+  "dental-practice-management|q4|Perplexity|2",
+  "dental-practice-management|q4|Perplexity|3",
+  "dental-practice-management|q5|ChatGPT|1",
+  "dental-practice-management|q5|ChatGPT|2",
+  "dental-practice-management|q5|ChatGPT|3",
+  "dental-practice-management|q5|Claude|1",
+  "dental-practice-management|q5|Claude|2",
+  "dental-practice-management|q5|Claude|3",
+  "dental-practice-management|q5|Google AI Mode|1",
+  "dental-practice-management|q5|Google AI Mode|2",
+  "dental-practice-management|q5|Google AI Mode|3",
+  "dental-practice-management|q5|Google AI Overviews|1",
+  "dental-practice-management|q5|Google AI Overviews|2",
+  "dental-practice-management|q5|Google AI Overviews|3",
+  "dental-practice-management|q5|Perplexity|1",
+  "dental-practice-management|q5|Perplexity|2",
+  "dental-practice-management|q5|Perplexity|3",
+  "dental-practice-management|q6|ChatGPT|1",
+  "dental-practice-management|q6|ChatGPT|2",
+  "dental-practice-management|q6|ChatGPT|3",
+  "dental-practice-management|q6|Claude|1",
+  "dental-practice-management|q6|Claude|2",
+  "dental-practice-management|q6|Claude|3",
+  "dental-practice-management|q6|Google AI Mode|1",
+  "dental-practice-management|q6|Google AI Mode|2",
+  "dental-practice-management|q6|Google AI Mode|3",
+  "dental-practice-management|q6|Google AI Overviews|1",
+  "dental-practice-management|q6|Google AI Overviews|2",
+  "dental-practice-management|q6|Google AI Overviews|3",
+  "dental-practice-management|q6|Perplexity|1",
+  "dental-practice-management|q6|Perplexity|2",
+  "dental-practice-management|q6|Perplexity|3",
+  "dental-practice-management|q7|ChatGPT|1",
+  "dental-practice-management|q7|ChatGPT|2",
+  "dental-practice-management|q7|ChatGPT|3",
+  "dental-practice-management|q7|Claude|1",
+  "dental-practice-management|q7|Claude|2",
+  "dental-practice-management|q7|Claude|3",
+  "dental-practice-management|q7|Google AI Mode|1",
+  "dental-practice-management|q7|Google AI Mode|2",
+  "dental-practice-management|q7|Google AI Mode|3",
+  "dental-practice-management|q7|Google AI Overviews|1",
+  "dental-practice-management|q7|Google AI Overviews|2",
+  "dental-practice-management|q7|Google AI Overviews|3",
+  "dental-practice-management|q7|Perplexity|1",
+  "dental-practice-management|q7|Perplexity|2",
+  "dental-practice-management|q7|Perplexity|3",
+  "dental-practice-management|q9|Google AI Mode|3",
+  "dental-practice-management|q9|Google AI Overviews|3"
+ ],
+ "named_count": 118
+}

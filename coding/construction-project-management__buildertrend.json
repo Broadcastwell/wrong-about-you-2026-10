@@ -1,0 +1,1518 @@
+{
+ "vendor": "Buildertrend",
+ "slug": "buildertrend",
+ "category": "construction-project-management",
+ "coded_at": "2026-10-08T04:14:11Z",
+ "pages_read": [
+  {
+   "url": "https://buildertrend.com/",
+   "key": "f9df59a5350fb5ba",
+   "used_for": "home (HTTP 403, blocked at the edge)"
+  },
+  {
+   "url": "https://buildertrend.com/pricing",
+   "key": "04a1d9cf1c06122b",
+   "used_for": "pricing (HTTP 403, blocked at the edge)"
+  },
+  {
+   "url": "https://buildertrend.com/",
+   "key": "f9df59a5350fb5ba.browser",
+   "used_for": "pass 2 browser read of the home page (accounting connection, onboarding)"
+  },
+  {
+   "url": "https://buildertrend.com/pricing",
+   "key": "04a1d9cf1c06122b.browser",
+   "used_for": "pass 2 browser read of the pricing page (custom quote, unlimited users and projects)"
+  },
+  {
+   "url": "https://buildertrend.com/frequently-asked-questions/",
+   "key": "ebbee018f23f316d.browser",
+   "used_for": "pass 2 browser read of the FAQ (questions only; answers collapsed)"
+  },
+  {
+   "url": "https://buildertrend.com/construction-software-pricing/",
+   "key": "fbd97af9dacf4340.browser",
+   "used_for": "pass 2 browser read of the pricing guide (pricing model, cost per user)"
+  },
+  {
+   "url": "https://buildertrend.com/product-overview/",
+   "key": "339edc877ba3efc9.browser",
+   "used_for": "pass 2 browser read of the product overview (feature names)"
+  },
+  {
+   "url": "https://www.coconstruct.com/",
+   "key": "1f0978245307276b.browser",
+   "used_for": "pass 2 browser read of the CoConstruct site (transition to Buildertrend)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Buildertrend pricing is a custom quote; no standard prices are published.",
+   "class": "true",
+   "proof_url": "https://buildertrend.com/pricing",
+   "proof_quote": "Get your custom quote for the platform that does it all",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (browser read) offers only a custom quote and publishes no prices; the pricing guide gives Buildertrend's model as 'Custom quote; all-in-one'.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|1",
+     "quote": "Custom quote, with unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "Custom quote, with unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|3",
+     "quote": "Custom quote; unlimited users and projects"
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|3",
+     "quote": "you fill in a form with your annual construction volume and a sales rep calls back with a quote."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|1",
+     "quote": "Pricing is custom-quoted."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "Custom pricing includes unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "Custom quote, with unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|1",
+     "quote": "enterprise platforms such as Procore and Buildertrend use custom quotes."
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "Pricing is custom-quoted; I’d prioritize it for residential workflows"
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|3",
+     "quote": "Pricing is customized; test your homeowner approval and accounting workflows during the demo."
+    },
+    {
+     "record_id": "construction-project-management|q5|Google AI Mode|2",
+     "quote": "Unlike Buildertrend's quote-based tiers that can scale up quickly"
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|1",
+     "quote": "Buildertrend currently uses custom pricing and advertises unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|2",
+     "quote": "Currently custom-quoted based on builder type, annual revenue, and business needs."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|3",
+     "quote": "Custom quote based on business characteristics, including builder type, annual revenue, and needs; advertises unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "only after you submit does a sales rep reach out with a custom quote."
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|3",
+     "quote": "you now have to get a custom quote, similar to Procore."
+    },
+    {
+     "record_id": "construction-project-management|q10|Google AI Mode|3",
+     "quote": "Robust drag-and-drop scheduling with client portal visibility | Custom tiered quote (Higher tier)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Buildertrend stopped publishing prices in 2026 (its published tiers were removed in favour of custom quotes).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page shows custom quotes only, but no own page read dates a change in 2026 or names removed tiers, so the dated shift is not settled.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|3",
+     "quote": "As of 2026, its pricing page no longer shows prices"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "In 2026, Buildertrend made a major shift in how they price their software. The three published tiers (Essential, Advanced, Complete) are gone."
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|3",
+     "quote": "Buildertrend removed all published pricing from their website in 2026"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Buildertrend quotes are based on builder type, annual revenue and business needs.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ answer to 'How is Buildertrend pricing determined?' is collapsed in the browser snapshot; the pricing guide says pricing is 'based on business size, team and goals' and the quote form asks builder type, but annual revenue is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|1",
+     "quote": "Its FAQ says pricing considers builder type, annual revenue, and business needs."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|2",
+     "quote": "Currently custom-quoted based on builder type, annual revenue, and business needs."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|3",
+     "quote": "Custom quote based on business characteristics, including builder type, annual revenue, and needs"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Buildertrend's quote form asks for annual construction volume (quotes are based on it).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page shows only the first quote question (builder type) and says 'Answer four quick questions'; annual construction volume is not shown on any page read.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|3",
+     "quote": "you fill in a form with your annual construction volume and a sales rep calls back with a quote."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "you fill out a five-step quote form that asks for your builder type, annual construction volume, and other details"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "plans",
+   "claim": "Buildertrend includes unlimited users.",
+   "class": "true",
+   "proof_url": "https://buildertrend.com/pricing",
+   "proof_quote": "Unlimited users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page states unlimited users.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|1",
+     "quote": "Custom quote, with unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "Custom quote, with unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|3",
+     "quote": "Custom quote; unlimited users and projects"
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "Custom pricing includes unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "Custom quote, with unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|2",
+     "quote": "The platform includes unlimited users under a single company license"
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Standard plan is $299/month (after a two-month $99 promo, billed annually) with unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "Pricing includes unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|1",
+     "quote": "Buildertrend currently uses custom pricing and advertises unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|2",
+     "quote": "It advertises the full feature collection and unlimited users/projects."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|3",
+     "quote": "advertises unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "Buildertrend uses flat monthly pricing with unlimited users"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "All plans include unlimited users, making it accessible for smaller companies."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "all three plans include unlimited users and projects for a flat monthly or annual fee."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|3",
+     "quote": "Predictable monthly subscription tiers (typically ranging from $299 to $900+ per month) with unlimited users."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "plans",
+   "claim": "Buildertrend includes unlimited projects.",
+   "class": "true",
+   "proof_url": "https://buildertrend.com/pricing",
+   "proof_quote": "Unlimited projects",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page states unlimited projects.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|1",
+     "quote": "Custom quote, with unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "Custom quote, with unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|3",
+     "quote": "Custom quote; unlimited users and projects"
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|2",
+     "quote": "Custom pricing includes unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|3",
+     "quote": "Custom quote, with unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Standard plan is $299/month (after a two-month $99 promo, billed annually) with unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "Pricing includes unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|1",
+     "quote": "Buildertrend currently uses custom pricing and advertises unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|2",
+     "quote": "It advertises the full feature collection and unlimited users/projects."
+    },
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|3",
+     "quote": "advertises unlimited users and projects."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "all three plans include unlimited users and projects for a flat monthly or annual fee."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Buildertrend does not charge per user.",
+   "class": "true",
+   "proof_url": "https://buildertrend.com/construction-software-pricing/",
+   "proof_quote": "Cost per user No extra cost",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing guide's comparison table gives Buildertrend's cost per user as 'No extra cost' (its column is the one whose model is 'Custom quote; all-in-one'), and the pricing page lists unlimited users.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|2",
+     "quote": "unlike per-user platforms, your cost doesn't scale with every subcontractor who needs access."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "Buildertrend doesn't charge per user"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|2",
+     "quote": "It uses flat monthly pricing tiers rather than charging per user or taking a cut of your annual revenue."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Buildertrend is billed as a flat subscription fee (monthly or annual), not tied to project count.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The own pages show unlimited projects but describe the model as a custom quote with 'Annual or quarterly' payment options and state no flat monthly fee; a monthly price level is not the same unit as a payment schedule, so the pages neither confirm nor explicitly contradict a flat monthly or annual fee.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Google AI Overviews|2",
+     "quote": "Buildertrend | Client-facing custom builds | Homeowner portal & selections | Tiered monthly subscription"
+    },
+    {
+     "record_id": "construction-project-management|q2|Google AI Overviews|3",
+     "quote": "Predictable flat-rate tier pricing."
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|1",
+     "quote": "Pricing ranges from $199–$499/month flat rate, regardless of project count"
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|2",
+     "quote": "Pricing is $199–$499/month flat rate, regardless of project count,"
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|3",
+     "quote": "Pricing ranges from $199–$499/month flat rate, regardless of project count."
+    },
+    {
+     "record_id": "construction-project-management|q6|Claude|2",
+     "quote": "| Buildertrend | Residential builders | Per month subscription |"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "Buildertrend uses flat monthly pricing with unlimited users"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "Buildertrend's flat pricing usually wins on cost"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "all three plans include unlimited users and projects for a flat monthly or annual fee."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|1",
+     "quote": "Operates on predictable tiered monthly or annual subscriptions"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|1",
+     "quote": "Predictable monthly pricing rather than enterprise contracts."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|2",
+     "quote": "Flat monthly subscription ($299 – $1,099+/mo)"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|3",
+     "quote": "Predictable monthly subscription tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Buildertrend pricing is tiered (several plans or tiers).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing guide labels Buildertrend's model 'Custom quote; all-in-one' against competitors marked 'Tiered', but the pricing page also offers to 'discuss different options available to you' and the FAQ asks 'Do all Buildertrend features come with my plan?' with the answer collapsed, so the pages do not explicitly rule out quote-based tiers.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Google AI Overviews|2",
+     "quote": "Buildertrend | Client-facing custom builds | Homeowner portal & selections | Tiered monthly subscription"
+    },
+    {
+     "record_id": "construction-project-management|q2|Google AI Overviews|3",
+     "quote": "Predictable flat-rate tier pricing."
+    },
+    {
+     "record_id": "construction-project-management|q5|Google AI Mode|2",
+     "quote": "Unlike Buildertrend's quote-based tiers that can scale up quickly"
+    },
+    {
+     "record_id": "construction-project-management|q5|Google AI Mode|3",
+     "quote": "Unlike Buildertrend's tiered feature lockouts"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "Buildertrend employs a tiered pricing structure starting at $299/month for the Core plan"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|1",
+     "quote": "Operates on predictable tiered monthly or annual subscriptions"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|2",
+     "quote": "Features predictable, tiered subscription pricing"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|1",
+     "quote": "Pricing model: Subscription-based tiers"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|2",
+     "quote": "It uses flat monthly pricing tiers rather than charging per user"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|3",
+     "quote": "Predictable monthly subscription tiers"
+    },
+    {
+     "record_id": "construction-project-management|q10|Google AI Mode|3",
+     "quote": "Robust drag-and-drop scheduling with client portal visibility | Custom tiered quote (Higher tier)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Buildertrend starts at about $199 per month for its base tier, scaling to $799 per month for premium features.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices (custom quote only), so this price cannot be compared with a published one.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|1",
+     "quote": "Buildertrend starts at roughly $199/month for its base tier, scaling to $799/month for premium features."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|1",
+     "quote": "Buildertrend starts at roughly $199/month for its base tier, scaling to $799/month for premium features."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Buildertrend starts at about $399 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices (custom quote only), so this price cannot be compared with a published one.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "| Buildertrend | All-in-one residential management | ~$399/mo |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "Buildertrend costs $199 to $499 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices (custom quote only), so this price cannot be compared with a published one.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q4|Claude|1",
+     "quote": "Pricing ranges from $199–$499/month flat rate, regardless of project count"
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|2",
+     "quote": "Pricing is $199–$499/month flat rate, regardless of project count,"
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|3",
+     "quote": "Pricing ranges from $199–$499/month flat rate, regardless of project count."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Buildertrend costs $399 to $1,099 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices (custom quote only), so this price cannot be compared with a published one.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q5|Claude|1",
+     "quote": "Buildertrend costs $399–$1,099/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "The Standard plan costs $299 per month billed annually.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices and names no plans, so this plan price cannot be checked.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Standard plan is $299/month (after a two-month $99 promo, billed annually)"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "the Standard plan at $299/month does not include estimating or change orders."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Buildertrend offers a two-month $99 introductory promotion.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page read on 8 Oct shows only a '10% off' offer for paying annually upfront; it neither states nor rules out a $99 promotion on the capture date.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Standard plan is $299/month (after a two-month $99 promo, billed annually)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "The Pro plan costs $499 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices and names no plans, so this plan price cannot be checked.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "The Pro plan is $499/month (annual), adding deeper financial tools and advanced reporting."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "Note that estimating is locked behind the Pro plan at $499/month"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "with Pro and Premium plans at $499 and $799 respectively."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "The Core plan costs $299 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices and names no plans, so this plan price cannot be checked.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "Buildertrend employs a tiered pricing structure starting at $299/month for the Core plan"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "The Premium plan costs $799 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices and names no plans, so this plan price cannot be checked.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "with Pro and Premium plans at $499 and $799 respectively."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "The Essential plan costs $499 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices and names no plans, so this plan price cannot be checked.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "Essential at $499/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "pricing",
+   "claim": "The Advanced plan costs $799 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices and names no plans, so this plan price cannot be checked.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "Advanced at $799/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "The Complete plan costs $1,099 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices and names no plans, so this plan price cannot be checked.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "and Complete at $1,099/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "pricing",
+   "claim": "The Essential plan costs around $339 to $499 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices and names no plans, so this plan price cannot be checked.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "Buildertrend's Essential plan often costs around $339–$499 per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "pricing",
+   "claim": "The Advanced plan costs around $699 to $799 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices and names no plans, so this plan price cannot be checked.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "the Advanced plan is around $699–$799 per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "pricing",
+   "claim": "The Complete plan costs around $829 to $1,099 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices and names no plans, so this plan price cannot be checked.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "the Complete plan costs around $829–$1,099 per month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "pricing",
+   "claim": "Buildertrend tiers range from about $299 to $900+ per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices (custom quote only), so this price range cannot be compared with a published one.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|1",
+     "quote": "roughly $300 to $900+/month depending on features"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|2",
+     "quote": "typically ranging from $299 to over $900/month depending on the feature set"
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|3",
+     "quote": "Predictable monthly subscription tiers (typically ranging from $299 to $900+ per month) with unlimited users."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "pricing",
+   "claim": "Buildertrend tiers range from about $299 to $1,000+ per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices (custom quote only), so this price range cannot be compared with a published one.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|1",
+     "quote": "Subscription-based tiers (typically ranging from roughly $299 to $1,000+ per month depending on features)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "pricing",
+   "claim": "Buildertrend is a flat monthly subscription of $299 to $1,099+ per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing page publishes no prices (custom quote only), so this price range cannot be compared with a published one.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|2",
+     "quote": "Flat monthly subscription ($299 – $1,099+/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "pricing",
+   "claim": "Buildertrend charges $400 to $1,500 for onboarding.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home and pricing pages (browser read) describe onboarding but state no onboarding fee.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "Buildertrend charges $400–$1,500 for onboarding."
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "pricing",
+   "claim": "Buildertrend offers a first-month promotional price, with the full price from month two.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page read on 8 Oct shows only a '10% off' offer for paying annually upfront; it neither states nor rules out a first-month promotional price on the capture date.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "The first-month promotional price creates a low entry point, then the real price kicks in during month two"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "pricing",
+   "claim": "Buildertrend price increases are reported after 2 to 4 years.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No own page read states renewal or price-increase terms.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "with additional price increases reported after 2–4 years."
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "plans",
+   "claim": "Estimating requires the Pro plan; the Standard plan does not include estimating or change orders.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The own pages read name no plans and state no plan contents, so plan inclusions cannot be checked.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "Note that estimating is locked behind the Pro plan at $499/month — the Standard plan at $299/month does not include estimating or change orders."
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "plans",
+   "claim": "The Pro plan adds deeper financial tools and advanced reporting.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The own pages read name no plans and state no plan contents, so plan inclusions cannot be checked.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "The Pro plan is $499/month (annual), adding deeper financial tools and advanced reporting."
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "plans",
+   "claim": "Buildertrend's custom pricing includes the full feature collection.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ question 'Do all Buildertrend features come with my plan?' is in the browser snapshot but its answer is collapsed; 'all-in-one' describes the platform, not what each quote includes.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|ChatGPT|2",
+     "quote": "It advertises the full feature collection and unlimited users/projects."
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "free_tier",
+   "claim": "Buildertrend has no free trial.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ question 'Do you offer a free trial?' is in the browser snapshot but its answer is collapsed, and no other page read settles it.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "there's no free plan or free trial."
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|3",
+     "quote": "there is no free plan or free trial."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|2",
+     "quote": "Unlike Buildertrend, there's a free trial so general contractors can test the software and see if it's a good fit for their business."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|3",
+     "quote": "Unlike Buildertrend, there's a free trial so general contractors can test the software and see if it's a good fit for their business."
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "free_tier",
+   "claim": "Buildertrend has no free plan.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No own page read states whether a free plan exists.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "there's no free plan or free trial."
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|3",
+     "quote": "there is no free plan or free trial."
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "pricing",
+   "claim": "Subcontractors (trade partners) use Buildertrend's portal at no cost.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing and product pages list a 'Sub Portal' feature, but no page read states its cost to subcontractors (the FAQ answer on how subcontractors use Buildertrend is collapsed).",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "its free trade partner portal removes a common adoption barrier by letting subcontractors access project details without paying."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "Subcontractors access Buildertrend through the Sub Center portal at no cost"
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "product_names",
+   "claim": "Buildertrend's subcontractor portal is named Sub Center.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read pricing and product pages label the feature 'Sub Portal' and do not mention 'Sub Center'; a different feature label is not an explicit contradiction of the name, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "Subcontractors access Buildertrend through the Sub Center portal at no cost"
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "integrations",
+   "claim": "Buildertrend integrates with QuickBooks (including QuickBooks Online).",
+   "class": "true",
+   "proof_url": "https://buildertrend.com/",
+   "proof_quote": "Connect accounting system (QuickBooks or Xero)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read home page's onboarding plan includes connecting the accounting system, QuickBooks or Xero.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "Buildertrend offers native integrations with QuickBooks, Xero, and Sage 100 Contractor."
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|3",
+     "quote": "Buildertrend offers native integrations with QuickBooks, Xero, and Sage 100 Contractor."
+    },
+    {
+     "record_id": "construction-project-management|q6|Claude|1",
+     "quote": "Integrations include QuickBooks, Xero, Gusto, Salesforce, HubSpot, and Pipedrive."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "| QuickBooks/Xero Integration | ✅ | ✅ |"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|2",
+     "quote": "| QuickBooks Integration | ✅ | ✅ |"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "accounting integrations with QuickBooks and Xero."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Overviews|1",
+     "quote": "its accounting integrations (like QuickBooks Online) can feel clunky"
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|3",
+     "quote": "It connects directly to QuickBooks Online, making accounting handoffs smoother than tools that rely on exports or manual entry."
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "integrations",
+   "claim": "Buildertrend integrates with Xero.",
+   "class": "true",
+   "proof_url": "https://buildertrend.com/",
+   "proof_quote": "Connect accounting system (QuickBooks or Xero)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read home page's onboarding plan includes connecting the accounting system, QuickBooks or Xero.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "Buildertrend offers native integrations with QuickBooks, Xero, and Sage 100 Contractor."
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|3",
+     "quote": "Buildertrend offers native integrations with QuickBooks, Xero, and Sage 100 Contractor."
+    },
+    {
+     "record_id": "construction-project-management|q6|Claude|1",
+     "quote": "Integrations include QuickBooks, Xero, Gusto, Salesforce, HubSpot, and Pipedrive."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|1",
+     "quote": "| QuickBooks/Xero Integration | ✅ | ✅ |"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "accounting integrations with QuickBooks and Xero."
+    }
+   ]
+  },
+  {
+   "claim_id": "C40",
+   "type": "integrations",
+   "claim": "Buildertrend integrates with Sage 100 Contractor.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page names only QuickBooks and Xero for the accounting connection and no integrations page was read, so this integration is not settled.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "Buildertrend offers native integrations with QuickBooks, Xero, and Sage 100 Contractor."
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|3",
+     "quote": "Buildertrend offers native integrations with QuickBooks, Xero, and Sage 100 Contractor."
+    }
+   ]
+  },
+  {
+   "claim_id": "C41",
+   "type": "integrations",
+   "claim": "Buildertrend integrates with Gusto.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No integrations page was read and no page read names Gusto, so this integration is not settled.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q6|Claude|1",
+     "quote": "Integrations include QuickBooks, Xero, Gusto, Salesforce, HubSpot, and Pipedrive."
+    }
+   ]
+  },
+  {
+   "claim_id": "C42",
+   "type": "integrations",
+   "claim": "Buildertrend integrates with Salesforce.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No integrations page was read and no page read names Salesforce, so this integration is not settled.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q6|Claude|1",
+     "quote": "Integrations include QuickBooks, Xero, Gusto, Salesforce, HubSpot, and Pipedrive."
+    }
+   ]
+  },
+  {
+   "claim_id": "C43",
+   "type": "integrations",
+   "claim": "Buildertrend integrates with HubSpot.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No integrations page was read and no page read names HubSpot, so this integration is not settled.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q6|Claude|1",
+     "quote": "Integrations include QuickBooks, Xero, Gusto, Salesforce, HubSpot, and Pipedrive."
+    }
+   ]
+  },
+  {
+   "claim_id": "C44",
+   "type": "integrations",
+   "claim": "Buildertrend integrates with Pipedrive.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No integrations page was read and no page read names Pipedrive, so this integration is not settled.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q6|Claude|1",
+     "quote": "Integrations include QuickBooks, Xero, Gusto, Salesforce, HubSpot, and Pipedrive."
+    }
+   ]
+  },
+  {
+   "claim_id": "C45",
+   "type": "platforms",
+   "claim": "Buildertrend has mobile apps (mobile access for field teams).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page title reads 'Software & App' and the FAQ asks 'Can I use Buildertrend on the go?' with the answer collapsed; no page read states a mobile app explicitly.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "mobile apps let field teams update daily progress and access project information on-site."
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|3",
+     "quote": "mobile apps let field teams update daily progress and access project information on-site."
+    },
+    {
+     "record_id": "construction-project-management|q1|Google AI Mode|2",
+     "quote": "intuitive mobile app access"
+    },
+    {
+     "record_id": "construction-project-management|q1|Google AI Mode|3",
+     "quote": "Buildertrend | Feature depth & client portal | Robust scheduling, robust change orders, mobile app | Mid-to-High"
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "Buildertrend gives residential teams access to core tools like scheduling, estimating, client communication, mobile access, and accounting integrations with QuickBooks and Xero."
+    },
+    {
+     "record_id": "construction-project-management|q7|Google AI Mode|1",
+     "quote": "Your subs and field crews can figure out the mobile app relatively quickly without a dedicated tech coordinator."
+    }
+   ]
+  },
+  {
+   "claim_id": "C46",
+   "type": "platforms",
+   "claim": "Buildertrend is cloud based.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The FAQ answer to 'Where is my data stored?' is collapsed in the browser snapshot and no other page read states cloud hosting.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|1",
+     "quote": "Construction Document Management to manage and organize all construction-related documents in one cloud-based platform."
+    },
+    {
+     "record_id": "construction-project-management|q7|Claude|3",
+     "quote": "Buildertrend is a cloud-based construction management software designed mainly for home builders, remodelers, and specialty contractors"
+    }
+   ]
+  },
+  {
+   "claim_id": "C47",
+   "type": "acquisitions",
+   "claim": "Buildertrend acquired CoConstruct.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "coconstruct.com (browser read) describes CoConstruct's transition to Buildertrend, but no own page read states an acquisition.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|1",
+     "quote": "was acquired by Buildertrend in 2021 and has since been folded into the Buildertrend platform."
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "It was later absorbed by Buildertrend to have a broader platform"
+    },
+    {
+     "record_id": "construction-project-management|q5|Google AI Mode|3",
+     "quote": "Since Buildertrend acquired CoConstruct and adjusted its pricing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C48",
+   "type": "acquisitions",
+   "claim": "Buildertrend acquired CoConstruct in 2021.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No own page read states or dates an acquisition of CoConstruct.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|1",
+     "quote": "was acquired by Buildertrend in 2021"
+    }
+   ]
+  },
+  {
+   "claim_id": "C49",
+   "type": "ownership",
+   "claim": "CoConstruct is owned by Buildertrend (they are now the same company).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "coconstruct.com (browser read) describes a migration of CoConstruct customers to Buildertrend, but no own page read states who owns CoConstruct.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "since being Buildertrend-owned, pricing is now sales-only."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|2",
+     "quote": "Many custom builders still prefer it to Buildertrend for this reason, even though they are now the same company."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|3",
+     "quote": "Many custom builders still prefer it to Buildertrend for this reason, even though they are now the same company."
+    }
+   ]
+  },
+  {
+   "claim_id": "C50",
+   "type": "discontinued",
+   "claim": "CoConstruct is being phased out as a standalone product, with customers moved and new buyers directed to Buildertrend.",
+   "class": "true",
+   "proof_url": "https://www.coconstruct.com/",
+   "proof_quote": "CoConstruct's transition toBuildertrend is entering its final phase. Make your move now and let our team guide you through a seamless migration",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The CoConstruct site (browser read) says the transition to Buildertrend is in its final phase, asks customers to migrate and sends prospects to the Buildertrend team.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|1",
+     "quote": "has since been folded into the Buildertrend platform."
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|3",
+     "quote": "If you're considering CoConstruct, be aware it's being phased out as a standalone product."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "Its current website directs new customers to Buildertrend and promotes migration to Buildertrend"
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "Its official site now directs prospective customers to Buildertrend and promotes migration to Buildertrend"
+    }
+   ]
+  }
+ ],
+ "notes": "Pass 1: buildertrend.com answered HTTP 403 (blocked at the edge) to the first two requests, home and pricing; under the 8 Oct clarification no further request was made to that host. CoConstruct's own prices (for example ~$449/mo) and features were treated as statements about another product and not coded. Hedged lines were coded only where the fact itself is stated without a hedge, for example the '~$399/mo' table cell rather than the hedged sentence. Training programmes (Buildertrend University, Learning Academy) and generic feature labels were not coded as product names. Pass 2 (8 Oct): the six pages in needs_browser_read were each read once in a real browser and re-classed against: C01, C05, C06, C07, C38, C39 and C50 are now true; every other claim stays unverifiable. The FAQ snapshot carries the questions only (answers collapsed), so free trial, data storage, mobile use, plan inclusions and how pricing is determined remain unsettled. The pricing guide's comparison table has an unlabelled logo column; it is read as Buildertrend's because its pricing model is 'Custom quote; all-in-one', matching the 'Custom plans (Buildertrend)' text above it, and its founding year (2006) is not claimed by any answer. Reviewer: C09 (tiered pricing) and C08 (flat monthly fee) were considered for wrong against that table ('Custom quote; all-in-one' vs competitors' 'Tiered'; payment options 'Annual or quarterly') and left unverifiable because the pricing page also offers 'different options' and the plan FAQ is collapsed; C37 ('Sub Center') is unverifiable though the pages label the feature 'Sub Portal'. Gaps and tables: every uncovered line with a Buildertrend fact is already an instance from the same answer (C01, C02, C08, C10, C12, C14, C31, C36, C38, C39, C50) or is out of scope (fit, positioning, features, other vendors), so no claim or instance was added. No claim is wrong or stale, so no cited page was read for causes. Still needed for the integrations (C40 to C44) and the CoConstruct acquisition (C47 to C49): an integrations page and a company or press page; buildertrend.com/buildertrend-vs-procore/, cited by ten answers, may also settle plan and pricing claims.",
+ "needs_browser_read": [
+  "https://buildertrend.com/buildertrend-vs-procore/"
+ ],
+ "answer_record_ids": [
+  "construction-project-management|q1|ChatGPT|1",
+  "construction-project-management|q1|ChatGPT|2",
+  "construction-project-management|q1|ChatGPT|3",
+  "construction-project-management|q1|Claude|1",
+  "construction-project-management|q1|Claude|2",
+  "construction-project-management|q1|Claude|3",
+  "construction-project-management|q1|Google AI Mode|1",
+  "construction-project-management|q1|Google AI Mode|2",
+  "construction-project-management|q1|Google AI Mode|3",
+  "construction-project-management|q1|Google AI Overviews|1",
+  "construction-project-management|q1|Google AI Overviews|2",
+  "construction-project-management|q1|Google AI Overviews|3",
+  "construction-project-management|q1|Perplexity|1",
+  "construction-project-management|q1|Perplexity|2",
+  "construction-project-management|q1|Perplexity|3",
+  "construction-project-management|q10|Claude|1",
+  "construction-project-management|q10|Claude|2",
+  "construction-project-management|q10|Claude|3",
+  "construction-project-management|q10|Google AI Mode|1",
+  "construction-project-management|q10|Google AI Mode|3",
+  "construction-project-management|q2|ChatGPT|1",
+  "construction-project-management|q2|ChatGPT|2",
+  "construction-project-management|q2|ChatGPT|3",
+  "construction-project-management|q2|Google AI Mode|3",
+  "construction-project-management|q2|Google AI Overviews|3",
+  "construction-project-management|q2|Perplexity|1",
+  "construction-project-management|q3|Claude|1",
+  "construction-project-management|q3|Claude|2",
+  "construction-project-management|q3|Claude|3",
+  "construction-project-management|q3|Google AI Overviews|2",
+  "construction-project-management|q4|ChatGPT|1",
+  "construction-project-management|q4|ChatGPT|2",
+  "construction-project-management|q4|ChatGPT|3",
+  "construction-project-management|q4|Claude|1",
+  "construction-project-management|q4|Claude|2",
+  "construction-project-management|q4|Claude|3",
+  "construction-project-management|q4|Google AI Mode|1",
+  "construction-project-management|q4|Google AI Mode|2",
+  "construction-project-management|q4|Google AI Mode|3",
+  "construction-project-management|q4|Google AI Overviews|1",
+  "construction-project-management|q4|Google AI Overviews|2",
+  "construction-project-management|q4|Google AI Overviews|3",
+  "construction-project-management|q4|Perplexity|1",
+  "construction-project-management|q4|Perplexity|2",
+  "construction-project-management|q4|Perplexity|3",
+  "construction-project-management|q5|ChatGPT|1",
+  "construction-project-management|q5|ChatGPT|2",
+  "construction-project-management|q5|ChatGPT|3",
+  "construction-project-management|q5|Claude|1",
+  "construction-project-management|q5|Claude|2",
+  "construction-project-management|q5|Claude|3",
+  "construction-project-management|q5|Google AI Mode|1",
+  "construction-project-management|q5|Google AI Mode|2",
+  "construction-project-management|q5|Google AI Mode|3",
+  "construction-project-management|q5|Google AI Overviews|1",
+  "construction-project-management|q5|Google AI Overviews|2",
+  "construction-project-management|q5|Google AI Overviews|3",
+  "construction-project-management|q5|Perplexity|1",
+  "construction-project-management|q5|Perplexity|2",
+  "construction-project-management|q5|Perplexity|3",
+  "construction-project-management|q6|ChatGPT|2",
+  "construction-project-management|q6|ChatGPT|3",
+  "construction-project-management|q6|Claude|1",
+  "construction-project-management|q6|Claude|2",
+  "construction-project-management|q6|Claude|3",
+  "construction-project-management|q6|Google AI Mode|2",
+  "construction-project-management|q6|Perplexity|1",
+  "construction-project-management|q6|Perplexity|3",
+  "construction-project-management|q7|ChatGPT|1",
+  "construction-project-management|q7|ChatGPT|2",
+  "construction-project-management|q7|ChatGPT|3",
+  "construction-project-management|q7|Claude|1",
+  "construction-project-management|q7|Claude|2",
+  "construction-project-management|q7|Claude|3",
+  "construction-project-management|q7|Google AI Mode|1",
+  "construction-project-management|q7|Google AI Mode|2",
+  "construction-project-management|q7|Google AI Overviews|1",
+  "construction-project-management|q7|Google AI Overviews|2",
+  "construction-project-management|q7|Google AI Overviews|3",
+  "construction-project-management|q7|Perplexity|1",
+  "construction-project-management|q7|Perplexity|2",
+  "construction-project-management|q7|Perplexity|3",
+  "construction-project-management|q9|Google AI Overviews|3"
+ ],
+ "named_count": 83
+}

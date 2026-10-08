@@ -1,0 +1,1811 @@
+{
+ "vendor": "DealerCenter",
+ "slug": "dealercenter",
+ "category": "dealership-management-systems",
+ "coded_at": "2026-10-08T04:22:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.dealercenter.com/",
+   "key": "32612244840d2c4d",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.dealercenter.com/pricing",
+   "key": "abfa50e0dac90958",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.dealercenter.com/dealer-management-system/",
+   "key": "d8242c862bcf7dc2",
+   "used_for": "product (DMS) and integrations"
+  },
+  {
+   "url": "https://www.dealercenter.com/inventory-management/",
+   "key": "506dfe703a8ef45e",
+   "used_for": "product (inventory) and integrations"
+  },
+  {
+   "url": "https://get.dealercenter.com/dms",
+   "key": "3f3f463b50eb3dc7",
+   "used_for": "product (cited DMS page): HTTP 403 challenge, no text"
+  },
+  {
+   "url": "https://get.dealercenter.com/dms",
+   "key": "3f3f463b50eb3dc7.browser",
+   "used_for": "pass 2 browser read of the cited DMS page (cloud-based, RouteOne and DealerTrack, mobile app)"
+  },
+  {
+   "url": "https://softwarefinder.com/accounting-software/dealercenter",
+   "key": "c7ec71d8424a9d71",
+   "used_for": "cause (cited page)"
+  },
+  {
+   "url": "https://dealersignals.com/insights/frazer-vs-dealercenter-dms-independent-dealers/",
+   "key": "12f90bb913e4dca8",
+   "used_for": "cause (cited page, statement not found)"
+  },
+  {
+   "url": "https://maqtoob.com/tool/dealercenter-dealer-management-system/",
+   "key": "83574e1ab867e87c",
+   "used_for": "cause (cited page, statement not found)"
+  },
+  {
+   "url": "https://dealersignals.com/insights/dealercenter-review-2025/",
+   "key": "4a091f1aa8390c22",
+   "used_for": "cause (cited page)"
+  }
+ ],
+ "needs_browser_read": [],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The DealerCenter DMS costs $99 per month.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "DMS $99 / mo. RouteOne, Dealertrack and CUDL Access",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the DMS at $99 per month.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "**$99/month** for the core DMS; CRM Plus adds **$99/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|2",
+     "quote": "**$99/month for the DMS**"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "**$99/month** base DMS; CRM Plus adds **$99/month**, integrated accounting adds **$99/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "**$99/month DMS; $198/month with CRM Plus**"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|2",
+     "quote": "**$99/month for DMS**, plus **$99/month for CRM Plus**."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "**Published base DMS:** $99/month, including inventory, forms, lender-network access, and mobile access"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|1",
+     "quote": "| DealerCenter DMS only | **$99** |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "Core DMS: **$99/month**."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "**$99 DMS**, plus **$99 CRM Plus or $199 CRM Pro**, **$50 BHPH**, and **$99 integrated accounting**"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "Core DMS starts around $99 per month"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|1",
+     "quote": "Modular/stacked pricing ($99/mo base, scales to $250–$500+/mo with CRM/BHPH)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "DealerCenter pricing starts at about $99 per month (product not named).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page sells modules a la carte, several below $99 (for example BHPH and Deal Driver at $50 per month), and states no starting price, so an unnamed starting price cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|3",
+     "quote": "designed for independent auto dealers starting around $99/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "The DealerCenter DMS costs $79 per month.",
+   "class": "wrong",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "DMS $99 / mo. RouteOne, Dealertrack and CUDL Access",
+   "stale_change": null,
+   "causing_url": "https://softwarefinder.com/accounting-software/dealercenter",
+   "causing_type": "directory",
+   "causing_quote": "For instance, DMS for $79/month, Law contract for $2.25/contract, CRM Plus for $99/month, CRM Pro for $199/month",
+   "rationale": "The pricing page lists the same product (DMS) on the same monthly basis at $99, not $79; the cited Software Finder listing carries the $79 figure.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "Pricing includes DMS for $79/month, CRM Plus for $99/month, CRM Pro for $199/month, and per-contract fees of $2.25/contract."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "DealerCenter pricing starts from $79 per month (flat rate; product not named).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page sells modules a la carte and states no starting price; no $79 item appears, but without a named product the claim cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "Starting from $79/month flat rate"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "Free tier / from $79/mo"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "It starts at just $79/month on paid plans."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "DealerCenter costs (starts at) about $40 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states no starting price and lists no $40 item; without a named product the claim cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|1",
+     "quote": "DealerCenter | Independent dealers & SMBs | $40.00 / mo | All-in-one cloud setup | Less enterprise customization"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|2",
+     "quote": "includes inventory, CRM, compliance, and financing starting around $40/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "DealerCenter costs around $350 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The total depends on which modules are bought; the pricing page gives module prices, not a typical total.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|2",
+     "quote": "It costs around $350 per month and works well with finance lenders."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "CRM Plus costs $99 per month.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "CRM Plus $99 / mo. Internet Lead Management",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists CRM Plus at $99 per month (and CRM Pro at $199, matching the $99 to $199 CRM range in one answer).",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "**$99/month** for the core DMS; CRM Plus adds **$99/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|2",
+     "quote": "CRM Plus and integrated accounting are **$99/month each**."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "**$99/month** base DMS; CRM Plus adds **$99/month**, integrated accounting adds **$99/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|2",
+     "quote": "**$99/month for DMS**, plus **$99/month for CRM Plus**."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "**CRM Plus:** another $99/month for internet leads, texting/email, appointments, and tasks."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "**$99 DMS**, plus **$99 CRM Plus or $199 CRM Pro**, **$50 BHPH**, and **$99 integrated accounting**"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "Pricing includes DMS for $79/month, CRM Plus for $99/month, CRM Pro for $199/month, and per-contract fees of $2.25/contract."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "CRM ($99–$199/mo )"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "CRM Pro costs $199 per month.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "CRM Pro $199 / mo. All the features of CRM Plus",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists CRM Pro at $199 per month.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "**$99 DMS**, plus **$99 CRM Plus or $199 CRM Pro**, **$50 BHPH**, and **$99 integrated accounting**"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "Pricing includes DMS for $79/month, CRM Plus for $99/month, CRM Pro for $199/month, and per-contract fees of $2.25/contract."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "CRM ($99–$199/mo )"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "The DMS plus CRM Plus costs $198 per month.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "CRM Plus $99 / mo. Internet Lead Management",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the DMS at $99 per month and CRM Plus at $99 per month, which sum to $198.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "**$99/month DMS; $198/month with CRM Plus**"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|2",
+     "quote": "**$198/month combined**, before accounting, other add-ons, and usage fees."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "DMS + CRM Plus comes to **$198/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|1",
+     "quote": "| DealerCenter DMS + CRM Plus | **$198** |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "DMS + CRM Plus: **$198/month**."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "That makes DealerCenter **$198/month for DMS + CRM Plus**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "The DMS plus CRM Pro costs $298 per month.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "CRM Pro $199 / mo. All the features of CRM Plus",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the DMS at $99 per month and CRM Pro at $199 per month, which sum to $298.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|1",
+     "quote": "| DealerCenter DMS + CRM Pro | **$298** |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "DMS + CRM Pro: **$298/month**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Integrated accounting costs $99 per month.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "Integrated Accounting $99 / mo. Centralized tracking of all vehicle sales and cost transactions",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Integrated Accounting at $99 per month.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|2",
+     "quote": "CRM Plus and integrated accounting are **$99/month each**."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "**$99/month** base DMS; CRM Plus adds **$99/month**, integrated accounting adds **$99/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|2",
+     "quote": "Integrated accounting adds $99/month; BHPH adds $50/month."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "Integrated accounting adds **$99/month**; BHPH adds **$50/month**."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "**$99 DMS**, plus **$99 CRM Plus or $199 CRM Pro**, **$50 BHPH**, and **$99 integrated accounting**"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "accounting ($99/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "The DMS plus CRM Plus plus integrated accounting costs $297 per month.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "Integrated Accounting $99 / mo. Centralized tracking of all vehicle sales and cost transactions",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the DMS, CRM Plus and Integrated Accounting at $99 per month each, which sum to $297.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "DMS + CRM Plus + integrated accounting totals **$297/month** at published rates, before other services and usage charges."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|2",
+     "quote": "DMS + CRM Plus + integrated accounting totals **$297/month at published rates**, before other modules and usage charges."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "The catch is add-on cost: **DMS + CRM Plus + integrated accounting totals $297/month**, before a website, credit reports, transaction charges, or other modules."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "adding integrated accounting brings it to **$297/month**, before other modules and usage charges."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "The BHPH module costs $50 per month.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "Buy Here Pay Here (BHPH) $50 / mo. Total Portfolio Management",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Buy Here Pay Here (BHPH) at $50 per month.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|2",
+     "quote": "Integrated accounting adds $99/month; BHPH adds $50/month."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "BHPH is another $50/month."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "Integrated accounting adds **$99/month**; BHPH adds **$50/month**."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "**$99 DMS**, plus **$99 CRM Plus or $199 CRM Pro**, **$50 BHPH**, and **$99 integrated accounting**"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "BHPH ($50/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "The DMS plus CRM Plus plus accounting plus BHPH costs $347 per month.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "Buy Here Pay Here (BHPH) $50 / mo. Total Portfolio Management",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the DMS, CRM Plus and Integrated Accounting at $99 per month each and BHPH at $50, which sum to $347.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|1",
+     "quote": "| DealerCenter DMS + CRM Plus + accounting + BHPH | **$347** |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "or **$347/month with BHPH and accounting added**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Pricing is modular: CRM, accounting, BHPH, websites, book values and other modules are priced separately from the DMS.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "Integrated Accounting $99 / mo. Centralized tracking of all vehicle sales and cost transactions",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page prices each module separately (DMS $99, Integrated Accounting $99, BHPH $50, CRM Plus $99, websites, book values and others), each with its own Add to Cart.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "Accounting, BHPH, websites, and other modules add to the bill."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "Unlimited users, training and support are included, but accounting, BHPH and other modules cost extra."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|1",
+     "quote": "Uses a modular pricing structure where you can add features (like integrated websites or accounting) as you grow."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|2",
+     "quote": "They use modular pricing. You pay separately for the DMS, CRM, book values (KBB/J.D. Power), and websites"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|ChatGPT|2",
+     "quote": "offers modular packages"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "DealerCenter offers a more extensive, separately priced CRM setup"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|1",
+     "quote": "Modular/stacked pricing ($99/mo base, scales to $250–$500+/mo with CRM/BHPH)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|2",
+     "quote": "Pricing Structure | Tiered/modular pricing based on features"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|3",
+     "quote": "Pricing Style | Tiered / Modular quotes"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "Pricing: Modular structure."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|2",
+     "quote": "Moduled subscriptions + pay-per-use (approx. $295–$500+/mo)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|3",
+     "quote": "Modular, per-subscription & pay-per-use add-ons"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|1",
+     "quote": "| Pricing shape | Modular, can climb with add-ons | More predictable flat pricing |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|2",
+     "quote": "| Pricing shape | Modular; base price can rise with add-ons | Flat subscription; generally cheaper and easier to budget |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "Pricing is tiered.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "CRM Pro $199 / mo. All the features of CRM Plus",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers tiered modules: CRM Plus at $99 and CRM Pro at $199 with all CRM Plus features, and Premium and Premium Pro websites.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|1",
+     "quote": "Scaled tier pricing for independents"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|2",
+     "quote": "Competitive tiered independent pricing"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|3",
+     "quote": "DealerCenter | Sales, financing, & CRM | Tiered subscription"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|3",
+     "quote": "Why it works: Affordable tier pricing with built-in credit bureau integration and inventory management."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|2",
+     "quote": "Pricing Structure | Tiered/modular pricing based on features"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|3",
+     "quote": "Pricing Style | Tiered / Modular quotes"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "DealerCenter is sold by monthly subscription.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "Shopping Cart ( 0 ) Monthly Subscription",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page quotes modules per month and its cart is labelled Monthly Subscription.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|1",
+     "quote": "Subscription-based, cloud/web-based."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|3",
+     "quote": "DealerCenter | Sales, financing, & CRM | Tiered subscription"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|2",
+     "quote": "Moduled subscriptions + pay-per-use (approx. $295–$500+/mo)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|3",
+     "quote": "Modular, per-subscription & pay-per-use add-ons"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "Usage-based charges apply on top of module prices (for example credit reports, electronic contracts and deal printing).",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "eContract Any Deal $3.00 / contract. Add to Cart DC Deal Printing $5 / contract",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists per-use charges: $3.00 per eContract, $5 per printed deal and per-report fees for Experian, Equifax and TransUnion credit reports.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "DMS + CRM Plus + integrated accounting totals **$297/month** at published rates, before other services and usage charges."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|2",
+     "quote": "DMS + CRM Plus + integrated accounting totals **$297/month at published rates**, before other modules and usage charges."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "The catch is add-on cost: **DMS + CRM Plus + integrated accounting totals $297/month**, before a website, credit reports, transaction charges, or other modules."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|2",
+     "quote": "**$198/month combined**, before accounting, other add-ons, and usage fees."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "adding integrated accounting brings it to **$297/month**, before other modules and usage charges."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|1",
+     "quote": "its pricing page lists charges for services such as credit pulls, electronic contracts, and deal printing"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "Usage-based charges also apply to services such as credit reports and electronic contracts."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "or **$347/month with BHPH and accounting added**, before other services and usage fees."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "Included / eContract transaction fees apply"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|2",
+     "quote": "Moduled subscriptions + pay-per-use (approx. $295–$500+/mo)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|3",
+     "quote": "Modular, per-subscription & pay-per-use add-ons"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "DealerCenter charges a per-contract fee of $2.25.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists $3.00 per eContract and $5 per printed deal but does not say which contract fee the answer means; the cited directory attributes $2.25 to a 'Law contract', an item the vendor page does not price, so the comparison is not like with like.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "Pricing includes DMS for $79/month, CRM Plus for $99/month, CRM Pro for $199/month, and per-contract fees of $2.25/contract."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "pricing",
+   "claim": "Book-out tools such as KBB or Black Book cost $40 to $69 per month each.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "Kelley Blue Book $64 / mo.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Kelley Blue Book at $64 per month and Black Book Desktop at $64 per month, both inside the stated range.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "book-out tools like KBB or Black Book ($40–$69/mo each)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "DealerCenter does not publish its pricing and requires a demo call.",
+   "class": "wrong",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "DMS $99 / mo. RouteOne, Dealertrack and CUDL Access",
+   "stale_change": null,
+   "causing_url": "https://dealersignals.com/insights/dealercenter-review-2025/",
+   "causing_type": "review site",
+   "causing_quote": "DealerCenter doesn’t publish pricing publicly — they require a demo call.",
+   "rationale": "DealerCenter publishes a public pricing page with module prices and Add to Cart buttons; the cited DealerSignals review carries the opposite statement.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Claude|3",
+     "quote": "Does not publish pricing publicly and requires a demo call."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "pricing",
+   "claim": "DealerCenter costs about $295 to $500+ per month in total.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The total depends on the modules chosen; the pricing page gives module prices, not a typical total.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|2",
+     "quote": "Moduled subscriptions + pay-per-use (approx. $295–$500+/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "pricing",
+   "claim": "With CRM and BHPH, DealerCenter scales to about $250 to $500+ per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The range is open-ended and depends on which CRM tier and other modules are chosen; the page gives module prices only.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|1",
+     "quote": "Modular/stacked pricing ($99/mo base, scales to $250–$500+/mo with CRM/BHPH)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "pricing",
+   "claim": "DealerCenter's published pricing band runs from free to about $200 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no band and no free plan; it neither states nor rules out the free end of the band.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Perplexity|2",
+     "quote": "with a published pricing band of **free to about $200/month**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "free_tier",
+   "claim": "DealerCenter has a free tier (free at the entry level).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists no free plan (the DMS is $99 per month) and the home page offers an optional 30-day free trial, but no page read states that there is no free tier, so the claim is not explicitly contradicted.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Claude|1",
+     "quote": "The reason is simple: there's a free tier."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Claude|2",
+     "quote": "The reason is simple: there's a free tier."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Claude|3",
+     "quote": "The reason is simple: there's a free tier."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|1",
+     "quote": "DealerCenter's free tier is one of the cheapest credible options for small independent used car lots."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Perplexity|1",
+     "quote": "is described as having a free-to-low monthly pricing band"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Perplexity|2",
+     "quote": "with a published pricing band of **free to about $200/month**"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "DealerCenter is free at the entry level and adds BHPH (Buy Here Pay Here) features as you move up."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "DealerCenter is free at the entry level and adds BHPH features as you move up."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "DealerCenter is free at the entry level and adds BHPH (Buy Here Pay Here) features as you move up."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "plans",
+   "claim": "DealerCenter products include unlimited users, free training and support.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "DealerCenter Products Include Unlimited Users, Free Training, and Support",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states that DealerCenter products include unlimited users, free training and support.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "Unlimited users, training and support are included, but accounting, BHPH and other modules cost extra."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|2",
+     "quote": "Unlimited users, training, and support are included."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "the pricing page specifies unlimited users, free training, and support."
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "plans",
+   "claim": "The DMS package includes inventory management, a forms library, mobile access and lender access (RouteOne, Dealertrack and CUDL).",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "DMS $99 / mo. RouteOne, Dealertrack and CUDL Access Full Inventory Management eFax Deal Submissions to Any Lender GWC, F&I Express and AUL Integrations Contract Management with Free Forms Library Mobile App Access",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists these items in the $99 DMS package.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "Its published core package includes RouteOne, Dealertrack, and CUDL access, inventory management, a forms library, and mobile access."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "Its published DMS package includes inventory management, contracts/forms, mobile access, and access to **RouteOne, Dealertrack, and CUDL**."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "the DMS includes RouteOne, Dealertrack and CUDL access."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "**Published base DMS:** $99/month, including inventory, forms, lender-network access, and mobile access"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "plans",
+   "claim": "CRM Plus includes internet lead management, email and text, appointments, tasks and activity reporting.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "CRM Plus $99 / mo. Internet Lead Management Campaign Tracking and Reporting Email, Text and Live Video Calls Manage Appointments, Tasks and Activities Facebook Messenger Integration User Level Assignments and Activity Reporting",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists these features under CRM Plus.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "CRM Plus covers those follow-up tasks"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|2",
+     "quote": "It includes lead management, email/text communication, appointments, and task tracking."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "**CRM Plus:** another $99/month for internet leads, texting/email, appointments, and tasks."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|1",
+     "quote": "Its CRM supports lead management, texting, activity tracking"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "CRM Plus includes these tools and activity reporting."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "Its CRM offers lead management, texting, appointments, and activity reporting"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "plans",
+   "claim": "CRM Pro adds automated workflows and call recording (with click-to-call).",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "CRM Pro $199 / mo. All the features of CRM Plus Click-to-Call and Call Recording Automated Workflows and Advanced Settings",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists click-to-call, call recording and automated workflows as CRM Pro additions over CRM Plus.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|1",
+     "quote": "and—at the Pro tier—automated workflows and call recording."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|2",
+     "quote": "CRM Pro adds automated workflows, click-to-call, and call recording."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|ChatGPT|3",
+     "quote": "Pro adds automated workflows and call recording."
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "plans",
+   "claim": "BHPH features are not in the entry level; they are added as you move up (at extra cost).",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "Buy Here Pay Here (BHPH) $50 / mo. Total Portfolio Management",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page sells BHPH as a separate $50 per month module on top of the DMS; the free entry level in the same sentences is coded separately (C25).",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q6|Claude|1",
+     "quote": "DealerCenter is free at the entry level and adds BHPH (Buy Here Pay Here) features as you move up."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|2",
+     "quote": "DealerCenter is free at the entry level and adds BHPH features as you move up."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Claude|3",
+     "quote": "DealerCenter is free at the entry level and adds BHPH (Buy Here Pay Here) features as you move up."
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "platforms",
+   "claim": "DealerCenter is cloud-based and web-based (runs in a browser).",
+   "class": "true",
+   "proof_url": "https://get.dealercenter.com/dms",
+   "proof_quote": "Our cloud-based system makes it possible to manage your dealership operations from any browser and with unlimited users.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser read of DealerCenter's own DMS page calls it a cloud-based system run from any browser; the home page also describes it as a web-based solution.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Claude|1",
+     "quote": "DealerCenter is a cloud-based dealer management system built for used car stores"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Claude|2",
+     "quote": "DealerCenter is a cloud-based dealer management system built for used car stores"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Claude|3",
+     "quote": "DealerCenter is a cloud-based dealer management system built for used car stores"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|1",
+     "quote": "Subscription-based, cloud/web-based."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|2",
+     "quote": "It is entirely web-based and mobile-friendly"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|3",
+     "quote": "Fully web-based, modern, and mobile-friendly."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|1",
+     "quote": "| **DealerCenter** | Small independents | Free tier available | ✅ Yes |"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|2",
+     "quote": "| **DealerCenter** | Independent/used car dealers | ✅ | ✅ | ✅ |"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|3",
+     "quote": "| **DealerCenter** | ✅ | Independent/BHPH dealers | ✅ |"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|1",
+     "quote": "All-in-one mobile & web workflow"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|2",
+     "quote": "All-in-one web & mobile access"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|3",
+     "quote": "DealerCenter is the best all-in-one cloud and mobile-friendly platform."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|1",
+     "quote": "Fully web-based and highly versatile"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|2",
+     "quote": "is entirely cloud-based"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|3",
+     "quote": "one browser-based and mobile system"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Perplexity|1",
+     "quote": "an all-in-one, cloud-based system with a low entry cost"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Perplexity|3",
+     "quote": "an affordable, cloud-based system"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Mode|1",
+     "quote": "offering an all-in-one web-based CRM"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Mode|3",
+     "quote": "It provides an all-in-one web-based DMS"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|1",
+     "quote": "DealerCenter | Independent dealers & SMBs | $40.00 / mo | All-in-one cloud setup | Less enterprise customization"
+    },
+    {
+     "record_id": "dealership-management-systems|q4|Google AI Overviews|3",
+     "quote": "Overview: All-in-one web-based system geared toward independent and mid-sized dealers."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|3",
+     "quote": "browser-based inventory, desking, lender submissions, and mobile workflows"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Mode|1",
+     "quote": "All-in-one web-based mobile-friendly platform with integrated credit pulling and inventory"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|Google AI Overviews|2",
+     "quote": "This is a popular web-based tool for independent dealers."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "**DealerCenter** is fully cloud-based and mobile-friendly."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|3",
+     "quote": "It is cloud-based with a modern, mobile-friendly interface."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|1",
+     "quote": "Cloud-native web and mobile app"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|2",
+     "quote": "Platform Type | Cloud-based (web and mobile app) | Windows desktop-centered"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|3",
+     "quote": "DealerCenter is a web-based Dealer Management System (DMS)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "DealerCenter is a comprehensive, cloud-based dealer management system (DMS)"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|2",
+     "quote": "Cloud-native, mobile-friendly app"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|3",
+     "quote": "Cloud-native / Browser & Mobile app"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|1",
+     "quote": "| Deployment | Cloud/web-based | Desktop/hosted option |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|2",
+     "quote": "| Interface/workflow | More modern, cloud-based, feature-rich | More traditional/desktop-oriented, simpler |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|3",
+     "quote": "It’s positioned as the web/mobile-based option, while Frazer is more desktop/hosted."
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "platforms",
+   "claim": "DealerCenter has a mobile app (mobile access from phones and tablets).",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/",
+   "proof_quote": "DealerCenter’s Mobile App Oversee deals, upload inventory, shop vehicles in Auction Center",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page presents DealerCenter's Mobile App and the pricing page includes Mobile App Access in the DMS.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "Its published core package includes RouteOne, Dealertrack, and CUDL access, inventory management, a forms library, and mobile access."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|2",
+     "quote": "You want inventory, deal processing, lender access, mobile access, and optional CRM in one platform."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "Its published DMS package includes inventory management, contracts/forms, mobile access, and access to **RouteOne, Dealertrack, and CUDL**."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|1",
+     "quote": "All-in-one web platform, integrated credit bureau pulling, direct lender submissions, mobile app."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|2",
+     "quote": "If you want a pure cloud solution that you can check from your phone anywhere on the lot, look closely at DealerCenter or DealersCloud."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Overviews|1",
+     "quote": "Best for all-in-one mobile functionality"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Overviews|2",
+     "quote": "and mobile apps for managing deals on the go"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Overviews|3",
+     "quote": "through both web and mobile apps"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|2",
+     "quote": "You want lender connections, mobile access, and the option to manage leads, texting, and sales tasks in the same platform."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|3",
+     "quote": "**Published base DMS:** $99/month, including inventory, forms, lender-network access, and mobile access"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|1",
+     "quote": "Integrated CRM, inventory management, mobile app, and credit app processing"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|2",
+     "quote": "Integrated CRM, mobile app, inventory management, credit pulling"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Mode|3",
+     "quote": "Strong integration with lenders, state forms, and mobile apps."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|1",
+     "quote": "Features an excellent mobile app"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|2",
+     "quote": "DealerCenter | Cloud & Mobile App | Modular (Pay per feature) | All-in-one ecosystem with powerful CRM"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|3",
+     "quote": "All-in-one mobile app, vast lender network"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|3",
+     "quote": "browser-based inventory, desking, lender submissions, and mobile workflows"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|1",
+     "quote": "Dealers consistently say it's easy to learn for new staff, with a strong mobile app, solid BHPH features, good lender integration, and responsive support."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|2",
+     "quote": "| **Mobile** | Fully mobile | Limited (desktop-first) |"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Claude|3",
+     "quote": "It's best for dealers who want modern features, mobile access, strong lender integrations"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|1",
+     "quote": "DealerCenter offers robust mobile app access"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|2",
+     "quote": "Excellent mobile app and browser access"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|3",
+     "quote": "DealerCenter’s slick mobile CRM"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "Cloud-first / Mobile app friendly"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|2",
+     "quote": "Cloud-native, mobile-friendly app"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|3",
+     "quote": "with a strong mobile app and CRM"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Perplexity|3",
+     "quote": "It’s positioned as the web/mobile-based option, while Frazer is more desktop/hosted."
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with RouteOne.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/dealer-management-system/",
+   "proof_quote": "Submit credit applications and receive lender decisions using RouteOne and Dealertrack finance sources directly within DealerCenter.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page states credit applications and lender decisions run through RouteOne inside DealerCenter.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "Its published core package includes RouteOne, Dealertrack, and CUDL access, inventory management, a forms library, and mobile access."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "Its published DMS package includes inventory management, contracts/forms, mobile access, and access to **RouteOne, Dealertrack, and CUDL**."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "the DMS includes RouteOne, Dealertrack and CUDL access."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|3",
+     "quote": "direct lender routing (like Westlake and RouteOne)"
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|3",
+     "quote": "It supports connections to Dealertrack and RouteOne lenders."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|1",
+     "quote": "multi-lender platforms (RouteOne, Dealertrack)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with Dealertrack.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/dealer-management-system/",
+   "proof_quote": "Submit credit applications and receive lender decisions using RouteOne and Dealertrack finance sources directly within DealerCenter.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page states credit applications and lender decisions run through Dealertrack inside DealerCenter.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "Its published core package includes RouteOne, Dealertrack, and CUDL access, inventory management, a forms library, and mobile access."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "Its published DMS package includes inventory management, contracts/forms, mobile access, and access to **RouteOne, Dealertrack, and CUDL**."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "the DMS includes RouteOne, Dealertrack and CUDL access."
+    },
+    {
+     "record_id": "dealership-management-systems|q6|ChatGPT|3",
+     "quote": "It supports connections to Dealertrack and RouteOne lenders."
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|1",
+     "quote": "multi-lender platforms (RouteOne, Dealertrack)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with CUDL.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "DMS $99 / mo. RouteOne, Dealertrack and CUDL Access",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists CUDL access in the DMS package.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|1",
+     "quote": "Its published core package includes RouteOne, Dealertrack, and CUDL access, inventory management, a forms library, and mobile access."
+    },
+    {
+     "record_id": "dealership-management-systems|q1|ChatGPT|3",
+     "quote": "Its published DMS package includes inventory management, contracts/forms, mobile access, and access to **RouteOne, Dealertrack, and CUDL**."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|ChatGPT|1",
+     "quote": "the DMS includes RouteOne, Dealertrack and CUDL access."
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with Westlake (lender decisions).",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/dealer-management-system/",
+   "proof_quote": "Instant decisions with Westlake Financial and Western Funding 24/7.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page lists instant Westlake Financial decisions inside DealerCenter.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|3",
+     "quote": "direct lender routing (like Westlake and RouteOne)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with QuickBooks.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/dealer-management-system/",
+   "proof_quote": "Compatible with QuickBooks Online edition.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page has a QuickBooks Integration section stating compatibility with QuickBooks Online.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Overviews|1",
+     "quote": "real-time auction access, and QuickBooks integration"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Overviews|2",
+     "quote": "It offers complete integration with QuickBooks, credit bureaus, lender networks (1,200+ lenders), and mobile apps for managing deals on the go"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|2",
+     "quote": "seamless integration with QuickBooks"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|3",
+     "quote": "seamless integration with QuickBooks Accounting"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Mode|2",
+     "quote": "Accounting | Integrates with external tools like QuickBooks"
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "integrations",
+   "claim": "DealerCenter connects to a network of 1,200+ lenders.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/",
+   "proof_quote": "Send & Receive Deals from 1200+ Lenders",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states deals can be sent to and received from 1200+ lenders.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Overviews|2",
+     "quote": "It offers complete integration with QuickBooks, credit bureaus, lender networks (1,200+ lenders), and mobile apps for managing deals on the go"
+    },
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Overviews|3",
+     "quote": "integrated credit and lending networks (1,200+ lenders)"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|3",
+     "quote": "connecting you to over 1,200 lenders"
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with Experian (credit reports).",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/dealer-management-system/",
+   "proof_quote": "Experian, Equifax and TransUnion direct connect integrations.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page lists an Experian direct connect integration.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|1",
+     "quote": "It stands out if you need immediate credit pulling (Experian, Equifax, TransUnion)"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|2",
+     "quote": "It also provides access to NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|3",
+     "quote": "It also provides access to essential resources such as NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    }
+   ]
+  },
+  {
+   "claim_id": "C40",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with Equifax (credit reports).",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/dealer-management-system/",
+   "proof_quote": "Experian, Equifax and TransUnion direct connect integrations.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page lists an Equifax direct connect integration.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|1",
+     "quote": "It stands out if you need immediate credit pulling (Experian, Equifax, TransUnion)"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|2",
+     "quote": "It also provides access to NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|3",
+     "quote": "It also provides access to essential resources such as NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    }
+   ]
+  },
+  {
+   "claim_id": "C41",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with TransUnion (credit reports).",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/dealer-management-system/",
+   "proof_quote": "Experian, Equifax and TransUnion direct connect integrations.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The DMS page lists a TransUnion direct connect integration.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q1|Google AI Mode|1",
+     "quote": "It stands out if you need immediate credit pulling (Experian, Equifax, TransUnion)"
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|2",
+     "quote": "It also provides access to NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|3",
+     "quote": "It also provides access to essential resources such as NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    }
+   ]
+  },
+  {
+   "claim_id": "C42",
+   "type": "integrations",
+   "claim": "DealerCenter provides access to NADA values.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read list J.D. Power Values, KBB, Black Book and Manheim as DealerCenter's booking services; NADA appears only in the description of the MAX Digital pricing tool ('Works in conjunction with KBB, NADA, Black Book and Manheim valuation services'), which does not state that DealerCenter itself provides NADA access.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Claude|2",
+     "quote": "It also provides access to NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|3",
+     "quote": "It also provides access to essential resources such as NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    }
+   ]
+  },
+  {
+   "claim_id": "C43",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with Kelley Blue Book (KBB).",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/inventory-management/",
+   "proof_quote": "J.D. Power Values , KBB , BlackBook, and Manheim valuation services.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The inventory page lists KBB among DealerCenter's vehicle booking services, and the pricing page prices Kelley Blue Book at $64 per month.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Claude|2",
+     "quote": "It also provides access to NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|3",
+     "quote": "It also provides access to essential resources such as NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|2",
+     "quote": "You pay separately for the DMS, CRM, book values (KBB/J.D. Power), and websites"
+    },
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "book-out tools like KBB or Black Book ($40–$69/mo each)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C44",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with Manheim Market Report (MMR).",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "Manheim Market Report (MMR) $64 / mo.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers Manheim Market Report (MMR) as a booking service.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Claude|2",
+     "quote": "It also provides access to NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|3",
+     "quote": "It also provides access to essential resources such as NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    }
+   ]
+  },
+  {
+   "claim_id": "C45",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with AutoCheck.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/inventory-management/",
+   "proof_quote": "AutoCheck vehicle history reports powered by Experian Automotive.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The inventory page lists AutoCheck vehicle history reports.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Claude|2",
+     "quote": "It also provides access to NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|3",
+     "quote": "It also provides access to essential resources such as NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    }
+   ]
+  },
+  {
+   "claim_id": "C46",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with Carfax.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/inventory-management/",
+   "proof_quote": "CarFax vehicle history reports integration.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The inventory page lists a CarFax vehicle history reports integration.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Claude|2",
+     "quote": "It also provides access to NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    },
+    {
+     "record_id": "dealership-management-systems|q2|Claude|3",
+     "quote": "It also provides access to essential resources such as NADA, KBB, Manheim MMR, AutoCheck, Carfax, and credit reports from Experian, Equifax, and TransUnion."
+    }
+   ]
+  },
+  {
+   "claim_id": "C47",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with J.D. Power values.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "J.D. Power Values Desktop $74 / mo.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers J.D. Power Values as a booking service.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q2|Google AI Overviews|2",
+     "quote": "You pay separately for the DMS, CRM, book values (KBB/J.D. Power), and websites"
+    }
+   ]
+  },
+  {
+   "claim_id": "C48",
+   "type": "integrations",
+   "claim": "DealerCenter integrates with Black Book.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/pricing",
+   "proof_quote": "Black Book Desktop $64 / mo.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page offers Black Book as a booking service.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Google AI Overviews|1",
+     "quote": "book-out tools like KBB or Black Book ($40–$69/mo each)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C49",
+   "type": "integrations",
+   "claim": "DealerCenter posts listings to Facebook Marketplace.",
+   "class": "true",
+   "proof_url": "https://www.dealercenter.com/",
+   "proof_quote": "Access to 30+ marketing sites such as Facebook Marketplace, OfferUp, and CarGurus!",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists Facebook Marketplace among the marketing sites DealerCenter posts to.",
+   "instances": [
+    {
+     "record_id": "dealership-management-systems|q8|Claude|1",
+     "quote": "Built-in marketing tools let dealers post listings to major sites like Facebook Marketplace and others."
+    }
+   ]
+  }
+ ],
+ "notes": "Four own pages read with text (home, pricing, DMS, inventory), all HTTP 200 and not thin. The cited own page https://get.dealercenter.com/dms answered HTTP 403 with a challenge page; per the clarification no other get.dealercenter.com page was requested, and it is listed in needs_browser_read. The answers cite it for browser-based workflow and RouteOne/Dealertrack connections, which the other pages already settle; no claim was left unverifiable for want of it. Four cited pages were read for causes: Software Finder carries 'DMS for $79/month' (C03); the DealerSignals review carries 'doesn’t publish pricing publicly' (C21); the DealerSignals comparison and the maqtoob page did not carry either statement. Judgement calls: (1) C25 free tier is unverifiable, not wrong: the pricing page shows no free plan (DMS $99/mo) and the home page offers an optional 30-day free trial, but no page states there is no free tier. (2) Unnamed starting prices (C02 about $99, C04 from $79, C05 $40) are unverifiable because the pricing page sells modules a la carte, some at $50, and states no starting price; only claims naming the DMS were compared to the $99 DMS price (C01 true, C03 wrong). (3) C19 ($2.25 per contract) is unverifiable: the directory source ties it to a 'Law contract' fee, not the $3.00 eContract fee the vendor lists. Sums of published module prices (C09, C10, C12, C14) are classed true; their proof quote shows one component and the rationale names the others. The cloud claim (C31) is settled by the home page's 'web-based solution'. Out of scope and not coded: review ratings and counts (4.7, 4.9, 15,000+ reviews), employee counts (500+), 'runs more dealer accounts than any platform' (market share), website-scan detection rates. Hedged lines not coded: 'typically pay in the range of $200–$500/month depending on feature tier', 'Real-world costs ... often run $300 to $600+', 'Costs can scale up'. The home page states 'Trusted by more than 20,000+ dealerships' and a privacy link to nowcom.com; no answer made a customer-count or ownership claim about DealerCenter. Pass 2 (8 Oct 2026): https://get.dealercenter.com/dms was read once in a real browser (key 3f3f463b50eb3dc7.browser, 1,712 characters) and removed from needs_browser_read. It states a cloud-based system run from any browser with unlimited users, RouteOne and DealerTrack lender integration, a mobile app and a Wolters Kluwer forms library; C31 now quotes it. No claim had been left unverifiable for want of it, so nothing was re-classed. Gap lines and tables added one instance: dealership-management-systems|q6|Claude|3 'It starts at just $79/month on paid plans.' joins C04 (unverifiable). Other uncovered table cells repeat claims already listed for the same answer (free tier, cloud, QuickBooks, mobile) or are opinions, ratings and feature descriptions. Consistency check: C03 ($79 DMS against the published 'DMS $99 / mo.', same product and monthly basis) and C21 (pricing not published, against the public pricing page with module prices) stay wrong.",
+ "answer_record_ids": [
+  "dealership-management-systems|q1|ChatGPT|1",
+  "dealership-management-systems|q1|ChatGPT|2",
+  "dealership-management-systems|q1|ChatGPT|3",
+  "dealership-management-systems|q1|Claude|1",
+  "dealership-management-systems|q1|Claude|2",
+  "dealership-management-systems|q1|Claude|3",
+  "dealership-management-systems|q1|Google AI Mode|1",
+  "dealership-management-systems|q1|Google AI Mode|2",
+  "dealership-management-systems|q1|Google AI Mode|3",
+  "dealership-management-systems|q1|Google AI Overviews|1",
+  "dealership-management-systems|q1|Google AI Overviews|2",
+  "dealership-management-systems|q1|Google AI Overviews|3",
+  "dealership-management-systems|q1|Perplexity|1",
+  "dealership-management-systems|q1|Perplexity|2",
+  "dealership-management-systems|q1|Perplexity|3",
+  "dealership-management-systems|q2|ChatGPT|1",
+  "dealership-management-systems|q2|ChatGPT|2",
+  "dealership-management-systems|q2|ChatGPT|3",
+  "dealership-management-systems|q2|Claude|1",
+  "dealership-management-systems|q2|Claude|2",
+  "dealership-management-systems|q2|Claude|3",
+  "dealership-management-systems|q2|Google AI Mode|1",
+  "dealership-management-systems|q2|Google AI Mode|2",
+  "dealership-management-systems|q2|Google AI Mode|3",
+  "dealership-management-systems|q2|Google AI Overviews|1",
+  "dealership-management-systems|q2|Google AI Overviews|2",
+  "dealership-management-systems|q2|Google AI Overviews|3",
+  "dealership-management-systems|q2|Perplexity|1",
+  "dealership-management-systems|q2|Perplexity|2",
+  "dealership-management-systems|q2|Perplexity|3",
+  "dealership-management-systems|q4|ChatGPT|1",
+  "dealership-management-systems|q4|ChatGPT|2",
+  "dealership-management-systems|q4|ChatGPT|3",
+  "dealership-management-systems|q4|Claude|1",
+  "dealership-management-systems|q4|Claude|2",
+  "dealership-management-systems|q4|Claude|3",
+  "dealership-management-systems|q4|Google AI Mode|1",
+  "dealership-management-systems|q4|Google AI Mode|2",
+  "dealership-management-systems|q4|Google AI Mode|3",
+  "dealership-management-systems|q4|Google AI Overviews|1",
+  "dealership-management-systems|q4|Google AI Overviews|2",
+  "dealership-management-systems|q4|Google AI Overviews|3",
+  "dealership-management-systems|q4|Perplexity|1",
+  "dealership-management-systems|q4|Perplexity|2",
+  "dealership-management-systems|q4|Perplexity|3",
+  "dealership-management-systems|q5|ChatGPT|3",
+  "dealership-management-systems|q5|Claude|3",
+  "dealership-management-systems|q5|Perplexity|1",
+  "dealership-management-systems|q5|Perplexity|2",
+  "dealership-management-systems|q5|Perplexity|3",
+  "dealership-management-systems|q6|ChatGPT|1",
+  "dealership-management-systems|q6|ChatGPT|2",
+  "dealership-management-systems|q6|ChatGPT|3",
+  "dealership-management-systems|q6|Claude|1",
+  "dealership-management-systems|q6|Claude|2",
+  "dealership-management-systems|q6|Claude|3",
+  "dealership-management-systems|q6|Google AI Mode|1",
+  "dealership-management-systems|q6|Google AI Mode|2",
+  "dealership-management-systems|q6|Google AI Mode|3",
+  "dealership-management-systems|q6|Google AI Overviews|2",
+  "dealership-management-systems|q6|Google AI Overviews|3",
+  "dealership-management-systems|q6|Perplexity|1",
+  "dealership-management-systems|q6|Perplexity|2",
+  "dealership-management-systems|q6|Perplexity|3",
+  "dealership-management-systems|q8|ChatGPT|1",
+  "dealership-management-systems|q8|ChatGPT|2",
+  "dealership-management-systems|q8|ChatGPT|3",
+  "dealership-management-systems|q8|Claude|1",
+  "dealership-management-systems|q8|Claude|2",
+  "dealership-management-systems|q8|Claude|3",
+  "dealership-management-systems|q8|Google AI Mode|1",
+  "dealership-management-systems|q8|Google AI Mode|2",
+  "dealership-management-systems|q8|Google AI Mode|3",
+  "dealership-management-systems|q8|Google AI Overviews|1",
+  "dealership-management-systems|q8|Google AI Overviews|2",
+  "dealership-management-systems|q8|Google AI Overviews|3",
+  "dealership-management-systems|q8|Perplexity|1",
+  "dealership-management-systems|q8|Perplexity|2",
+  "dealership-management-systems|q8|Perplexity|3"
+ ],
+ "named_count": 79
+}

@@ -1,0 +1,595 @@
+{
+ "vendor": "FieldPulse",
+ "slug": "fieldpulse",
+ "category": "field-service-management",
+ "coded_at": "2026-10-08T04:09:14Z",
+ "pages_read": [
+  {
+   "url": "https://fieldpulse.com/",
+   "key": "73400bad54c7acd8",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.fieldpulse.com/pricing",
+   "key": "77dc918ac814f878",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.fieldpulse.com/ai-info-page",
+   "key": "23077674944582d9",
+   "used_for": "company facts and integrations (AI info page)"
+  },
+  {
+   "url": "https://www.fieldpulse.com/company",
+   "key": "45fd27ed28c159f9",
+   "used_for": "about"
+  },
+  {
+   "url": "https://www.fieldpulse.com/company/partners",
+   "key": "b5fb5cd5143f050a",
+   "used_for": "integrations and partners"
+  },
+  {
+   "url": "https://www.fieldpulse.com/articles/best-field-service-management-plumbing/",
+   "key": "12b7fdf51516eb53",
+   "used_for": "product (plumbing; cited own article)"
+  },
+  {
+   "url": "https://www.fieldpulse.com/resources/blog/software-small-plumbing-business",
+   "key": "35ddc1f5dc82fdc3",
+   "used_for": "cause trace for C07 (cited)"
+  },
+  {
+   "url": "https://www.clientility.com/blog/5-best-plumbing-software-tools-for-contractors-in-2026",
+   "key": "f9eb5852255cffab",
+   "used_for": "cause trace for C07 (cited, not own)"
+  },
+  {
+   "url": "https://www.workyard.com/compare/plumbing-software",
+   "key": "52bd0aa97f1da08a",
+   "used_for": "cause trace for C07 (cited, not own)"
+  },
+  {
+   "url": "https://closecrew.ai/blog/plumbing/best-field-management-systems-for-plumbers",
+   "key": "f742a0993095999f",
+   "used_for": "cause trace for C07 (cited, not own)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Pricing is custom (quote-based).",
+   "class": "true",
+   "proof_url": "https://www.fieldpulse.com/pricing",
+   "proof_quote": "FieldPulse is seat-based and pricing is built around what your team needs. Get a custom quote in one conversation.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes no price and offers a custom quote.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q10|Claude|2",
+     "quote": "| FieldPulse | Growth-ready all-in-one | Custom pricing |"
+    },
+    {
+     "record_id": "field-service-management|q2|Claude|2",
+     "quote": "| FieldPulse | Scaling 5–20+ techs | Custom | ✅ Yes |"
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|2",
+     "quote": "| FieldPulse | Mid-market growth | Quote-based |"
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|3",
+     "quote": "| FieldPulse | Mid-market, growing teams | Quote-based |"
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "Custom, seat-based pricing."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|2",
+     "quote": "Custom, seat-based pricing"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|1",
+     "quote": "| FieldPulse | Growing teams, customization | Custom |"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|2",
+     "quote": "| FieldPulse | Customizable, growing teams | Quote-based |"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|3",
+     "quote": "| FieldPulse | Growing teams, customization | Custom |"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|1",
+     "quote": "Custom, seat-based pricing."
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|1",
+     "quote": "| FieldPulse | Customization & growing teams | Custom quote |"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|2",
+     "quote": "| FieldPulse | Growing, scalable teams | Custom |"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "| FieldPulse | Growing teams, structured workflows | Custom pricing |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Pricing is seat-based (per seat).",
+   "class": "true",
+   "proof_url": "https://www.fieldpulse.com/pricing",
+   "proof_quote": "FieldPulse is seat-based and pricing is built around what your team needs. Get a custom quote in one conversation.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states that FieldPulse is seat-based.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "Custom, seat-based pricing."
+    },
+    {
+     "record_id": "field-service-management|q5|ChatGPT|2",
+     "quote": "Custom, seat-based pricing"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|1",
+     "quote": "Custom, seat-based pricing."
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|2",
+     "quote": "with a per-seat model that lets you add cheaper field-only logins alongside full-access seats"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Cheaper field-only logins can be added alongside full-access seats.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says pricing is seat-based but names no seat types or relative seat prices; its FAQ answers are not in the page text.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|Claude|2",
+     "quote": "with a per-seat model that lets you add cheaper field-only logins alongside full-access seats"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Seats are purchased (committed) for a contract term.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read in this study states a contract term or seat commitment; the pricing FAQ answers are not in the page text.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "Seats are purchased for a contract term"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|1",
+     "quote": "how seats are committed over the contract term"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "plans",
+   "claim": "FieldPulse sells optional premium products on top of the core platform.",
+   "class": "true",
+   "proof_url": "https://www.fieldpulse.com/pricing",
+   "proof_quote": "They're optional, and our team will help you figure out which ones actually make sense for where your business is right now.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page describes premium products beyond the core platform and says they are optional.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q5|ChatGPT|1",
+     "quote": "with optional premium products"
+    },
+    {
+     "record_id": "field-service-management|q6|ChatGPT|1",
+     "quote": "Ask which capabilities are included versus premium products"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "plans",
+   "claim": "Fleet tracking is optional (a premium add-on).",
+   "class": "true",
+   "proof_url": "https://www.fieldpulse.com/pricing",
+   "proof_quote": "Engage Operator AI Chat AI Pricebook FieldPulse Payments FieldPulse Financing Fleet Tracking Custom Forms",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Fleet Tracking among the premium products it describes as optional.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Claude|1",
+     "quote": "with built-in job costing and optional fleet tracking"
+    },
+    {
+     "record_id": "field-service-management|q1|Claude|2",
+     "quote": "with built-in job costing and optional fleet tracking"
+    },
+    {
+     "record_id": "field-service-management|q1|Claude|3",
+     "quote": "with built-in job costing and optional fleet tracking"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Pricing is a flat rate (flat monthly) without per-user fees.",
+   "class": "wrong",
+   "proof_url": "https://www.fieldpulse.com/pricing",
+   "proof_quote": "FieldPulse is seat-based and pricing is built around what your team needs. Get a custom quote in one conversation.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The pricing page states that FieldPulse pricing is seat-based, which contradicts a flat monthly price with no per-user (per-seat) fees; this is the same pricing basis compared.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Claude|1",
+     "quote": "Flat-rate pricing (no per-user fees on some plans)"
+    },
+    {
+     "record_id": "field-service-management|q2|Claude|3",
+     "quote": "| FieldPulse | Scaling 5–200+ employees | Flat monthly |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Pricing does not scale linearly per user on base tiers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says pricing is seat-based but publishes no seat price, tiers or volume terms, so how cost scales with users is not stated.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Google AI Mode|3",
+     "quote": "Mid-tier growth (5–20 techs) wanting advanced features without linear per-user cost penalties."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Pricing is variable, around $99+ per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor publishes no dollar price, so the figure cannot be checked against its pages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Google AI Mode|3",
+     "quote": "Custom Workflows | FieldPulse | Variable (~$99+/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "founding",
+   "claim": "FieldPulse was founded in 2015.",
+   "class": "true",
+   "proof_url": "https://www.fieldpulse.com/ai-info-page",
+   "proof_quote": "Founded in 2015 in Dallas, Texas, FieldPulse was built to simplify how trades businesses operate.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI info page gives 2015 as the founding year, and the company page says established in 2015.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|2",
+     "quote": "Founded in 2015 and based in Dallas, TX"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "Founded in 2015 and based in Dallas, TX"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "headquarters",
+   "claim": "FieldPulse is based in Dallas, Texas.",
+   "class": "true",
+   "proof_url": "https://www.fieldpulse.com/ai-info-page",
+   "proof_quote": "Headquarters Dallas, Texas, United States",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI info page gives Dallas, Texas as headquarters, and the site footer gives a Dallas, TX address.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|2",
+     "quote": "Founded in 2015 and based in Dallas, TX"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "Founded in 2015 and based in Dallas, TX"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "integrations",
+   "claim": "FieldPulse integrates with QuickBooks.",
+   "class": "true",
+   "proof_url": "https://www.fieldpulse.com/ai-info-page",
+   "proof_quote": "QuickBooks Online | Accounting | Sync invoices, payments, and customer data in real time |",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI info page lists QuickBooks Online and QuickBooks Desktop integrations.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q1|Google AI Mode|1",
+     "quote": "robust QuickBooks integration"
+    },
+    {
+     "record_id": "field-service-management|q2|Claude|2",
+     "quote": "| FieldPulse | Scaling 5–20+ techs | Custom | ✅ Yes |"
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Mode|2",
+     "quote": "smooth two-way QuickBooks integration"
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Mode|3",
+     "quote": "a smooth two-way QuickBooks sync"
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Overviews|1",
+     "quote": "a two-way sync with QuickBooks"
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Overviews|2",
+     "quote": "a two-way QuickBooks sync"
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Overviews|3",
+     "quote": "a two-way QuickBooks sync"
+    },
+    {
+     "record_id": "field-service-management|q2|Perplexity|1",
+     "quote": "two-way QuickBooks Online sync"
+    },
+    {
+     "record_id": "field-service-management|q2|Perplexity|2",
+     "quote": "two-way QuickBooks Online sync"
+    },
+    {
+     "record_id": "field-service-management|q2|Perplexity|3",
+     "quote": "two-way QuickBooks Online sync"
+    },
+    {
+     "record_id": "field-service-management|q5|Google AI Overviews|2",
+     "quote": "a seamless two-way QuickBooks integration"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "integrations",
+   "claim": "The QuickBooks Online sync is two-way.",
+   "class": "true",
+   "proof_url": "https://www.fieldpulse.com/articles/best-field-service-management-plumbing/",
+   "proof_quote": "two-way sync keeps customers, line items, estimates, invoices, payments, and vendors aligned in both systems",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's own plumbing guide states that FieldPulse's QuickBooks Online sync is two-way.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Google AI Mode|2",
+     "quote": "smooth two-way QuickBooks integration"
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Mode|3",
+     "quote": "a smooth two-way QuickBooks sync"
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Overviews|1",
+     "quote": "a two-way sync with QuickBooks"
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Overviews|2",
+     "quote": "a two-way QuickBooks sync"
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Overviews|3",
+     "quote": "a two-way QuickBooks sync"
+    },
+    {
+     "record_id": "field-service-management|q2|Perplexity|1",
+     "quote": "two-way QuickBooks Online sync"
+    },
+    {
+     "record_id": "field-service-management|q2|Perplexity|2",
+     "quote": "two-way QuickBooks Online sync"
+    },
+    {
+     "record_id": "field-service-management|q2|Perplexity|3",
+     "quote": "two-way QuickBooks Online sync"
+    },
+    {
+     "record_id": "field-service-management|q5|Google AI Overviews|2",
+     "quote": "a seamless two-way QuickBooks integration"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "platforms",
+   "claim": "FieldPulse has a mobile app (mobile-first platform).",
+   "class": "true",
+   "proof_url": "https://www.fieldpulse.com/ai-info-page",
+   "proof_quote": "Cloud-based web & mobile apps with quick setup and onboarding",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's AI info page describes cloud-based web and mobile apps, including a mobile app for technicians.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q2|Claude|1",
+     "quote": "Strong mobile app for field techs"
+    },
+    {
+     "record_id": "field-service-management|q2|Google AI Mode|2",
+     "quote": "a mobile app that your 10 techs can actually figure out on day one"
+    },
+    {
+     "record_id": "field-service-management|q5|Claude|3",
+     "quote": "the mobile app covers field operations well"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|1",
+     "quote": "FieldPulse is a user-friendly, mobile-first platform"
+    },
+    {
+     "record_id": "field-service-management|q1|Google AI Mode|3",
+     "quote": "solid mobile functionality for field techs"
+    },
+    {
+     "record_id": "field-service-management|q4|Claude|3",
+     "quote": "strong mobile accessibility"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "product_names",
+   "claim": "ClearPath is a FieldPulse product for guiding techs through job stages.",
+   "class": "true",
+   "proof_url": "https://fieldpulse.com/",
+   "proof_quote": "ClearPath by FieldPulse lets the office guide techs through every stage of a job",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page names ClearPath by FieldPulse as the product that guides techs through job stages.",
+   "instances": [
+    {
+     "record_id": "field-service-management|q6|Claude|1",
+     "quote": "The ClearPath feature guides you step-by-step through job stages"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|2",
+     "quote": "The ClearPath feature guides you step-by-step through job stages"
+    },
+    {
+     "record_id": "field-service-management|q6|Claude|3",
+     "quote": "the ClearPath feature guides you step-by-step through job stages"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Six own pages read, all HTTP 200 and not thin (home via https://fieldpulse.com/, pricing, the AI info page, company, partners, and the cited own plumbing guide). The pricing page's FAQ shows questions only (answers are collapsed and not in the text), so seat types and contract terms (C03, C04) are unverifiable. C07 (flat-rate or flat monthly pricing with no per-user fees) is wrong against the pricing page's seat-based statement. Cause trace for C07 read four pages cited by both answers: the FieldPulse plumbing blog (no such statement), clientility.com (does not mention FieldPulse), workyard.com (calls FieldPulse per-seat) and closecrew.ai (gives the flat monthly, no per-user fee model to Service Fusion, not FieldPulse); no cited page carries the claim about FieldPulse, so the cause is not found. For the reviewer: the answers' wording matches closecrew's Service Fusion entry, which suggests a misattribution, but that is not recorded as a cause. Comparative lines (pricing does not penalize growth as aggressively as competitors) and the G2 rating were not coded. Team-size ranges (5 to 200+ employees, 7 to 50 techs) are positioning, not customer counts. No dollar price is published, so C09 is unverifiable. Pass 2 (8 Oct 2026): no browser reads exist for this vendor and no claim was unverifiable because of a blocked page. The gap lines and every table and sub-heading section were checked; the in-scope statements found there (custom or seat-based pricing, QuickBooks, mobile app, founding year and Dallas) were already instances of existing claims, so nothing was added. Consistency check: C07 (flat-rate pricing with no per-user fees) stays wrong, because the pricing page states that FieldPulse is seat-based, the same pricing basis.",
+ "answer_record_ids": [
+  "field-service-management|q1|Claude|1",
+  "field-service-management|q1|Claude|2",
+  "field-service-management|q1|Claude|3",
+  "field-service-management|q1|Google AI Mode|1",
+  "field-service-management|q1|Google AI Mode|3",
+  "field-service-management|q1|Google AI Overviews|2",
+  "field-service-management|q1|Perplexity|2",
+  "field-service-management|q1|Perplexity|3",
+  "field-service-management|q10|Claude|2",
+  "field-service-management|q10|Google AI Mode|1",
+  "field-service-management|q10|Google AI Mode|3",
+  "field-service-management|q10|Perplexity|3",
+  "field-service-management|q2|Claude|1",
+  "field-service-management|q2|Claude|2",
+  "field-service-management|q2|Claude|3",
+  "field-service-management|q2|Google AI Mode|1",
+  "field-service-management|q2|Google AI Mode|2",
+  "field-service-management|q2|Google AI Mode|3",
+  "field-service-management|q2|Google AI Overviews|1",
+  "field-service-management|q2|Google AI Overviews|2",
+  "field-service-management|q2|Google AI Overviews|3",
+  "field-service-management|q2|Perplexity|1",
+  "field-service-management|q2|Perplexity|2",
+  "field-service-management|q2|Perplexity|3",
+  "field-service-management|q3|Google AI Mode|1",
+  "field-service-management|q4|ChatGPT|1",
+  "field-service-management|q4|ChatGPT|2",
+  "field-service-management|q4|Claude|1",
+  "field-service-management|q4|Claude|2",
+  "field-service-management|q4|Claude|3",
+  "field-service-management|q4|Perplexity|1",
+  "field-service-management|q4|Perplexity|2",
+  "field-service-management|q4|Perplexity|3",
+  "field-service-management|q5|ChatGPT|1",
+  "field-service-management|q5|ChatGPT|2",
+  "field-service-management|q5|Claude|1",
+  "field-service-management|q5|Claude|2",
+  "field-service-management|q5|Claude|3",
+  "field-service-management|q5|Google AI Mode|2",
+  "field-service-management|q5|Google AI Mode|3",
+  "field-service-management|q5|Google AI Overviews|2",
+  "field-service-management|q5|Perplexity|1",
+  "field-service-management|q5|Perplexity|2",
+  "field-service-management|q5|Perplexity|3",
+  "field-service-management|q6|ChatGPT|1",
+  "field-service-management|q6|Claude|1",
+  "field-service-management|q6|Claude|2",
+  "field-service-management|q6|Claude|3",
+  "field-service-management|q6|Google AI Mode|1",
+  "field-service-management|q6|Google AI Mode|2",
+  "field-service-management|q6|Google AI Mode|3",
+  "field-service-management|q6|Google AI Overviews|2",
+  "field-service-management|q6|Perplexity|1",
+  "field-service-management|q6|Perplexity|2",
+  "field-service-management|q6|Perplexity|3",
+  "field-service-management|q9|Google AI Overviews|1",
+  "field-service-management|q9|Google AI Overviews|3"
+ ],
+ "named_count": 57
+}

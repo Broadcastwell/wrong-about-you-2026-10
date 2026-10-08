@@ -1,0 +1,871 @@
+{
+ "vendor": "Intelerad",
+ "slug": "intelerad",
+ "category": "radiology-medical-imaging",
+ "coded_at": "2026-10-08T04:02:00Z",
+ "pages_read": [
+  {
+   "url": "https://intelerad.com/",
+   "key": "8acef3d61995fb62",
+   "used_for": "home (redirects to https://www.intelerad.com/en/)"
+  },
+  {
+   "url": "https://www.intelerad.com/en/ge-healthcare-and-intelerad-are-coming-together/",
+   "key": "73977497c1d25073",
+   "used_for": "ownership"
+  },
+  {
+   "url": "https://www.intelerad.com/en/all-products/",
+   "key": "59e6cab7492037c0",
+   "used_for": "product list"
+  },
+  {
+   "url": "https://www.intelerad.com/en/all-products/intelepacs/",
+   "key": "1084722164a4caf5",
+   "used_for": "product (IntelePACS)"
+  },
+  {
+   "url": "https://www.intelerad.com/en/all-products/inteleshare/",
+   "key": "21a249e0a2d09075",
+   "used_for": "product (InteleShare)"
+  },
+  {
+   "url": "https://www.intelerad.com/en/client-support-resources/",
+   "key": "ac5c9e1e4298846c",
+   "used_for": "product names (rebrand list)"
+  },
+  {
+   "url": "https://www.intelerad.com/en/newsroom/",
+   "key": "2784e06759b6af02",
+   "used_for": "press"
+  },
+  {
+   "url": "https://www.intelerad.com/en/about-us/",
+   "key": "d1bf9ec025dec2a4",
+   "used_for": "about"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "acquisitions",
+   "claim": "GE HealthCare acquired Intelerad.",
+   "class": "true",
+   "proof_url": "https://www.intelerad.com/en/newsroom/",
+   "proof_quote": "GE HealthCare Completes Intelerad Acquisition",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Intelerad's newsroom features the completed GE HealthCare acquisition of Intelerad; the date is coded separately in C02 and C03.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|1",
+     "quote": "Request a written product roadmap following GE HealthCare’s acquisition of Intelerad, completed March 18, 2026."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|2",
+     "quote": "GE HealthCare completed its acquisition of Intelerad on **March 18, 2026**."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|2",
+     "quote": "GE HealthCare completed its acquisition of Intelerad on **March 18, 2026**"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|3",
+     "quote": "GE HealthCare completed its acquisition of Intelerad on **March 18, 2026**."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|1",
+     "quote": "In November 2025, Intelerad was acquired by GE Healthcare"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|2",
+     "quote": "in November 2025, Intelerad was acquired by GE Healthcare."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|3",
+     "quote": "in November 2025, Intelerad was acquired by GE Healthcare"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|1",
+     "quote": "and bolstered by GE HealthCare's acquisition"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|3",
+     "quote": "its acquisition path by GE HealthCare"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "acquisitions",
+   "claim": "GE HealthCare completed the Intelerad acquisition on 18 March 2026.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Intelerad pages read report that the acquisition was completed but print no completion date.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|1",
+     "quote": "Request a written product roadmap following GE HealthCare’s acquisition of Intelerad, completed March 18, 2026."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|2",
+     "quote": "GE HealthCare completed its acquisition of Intelerad on **March 18, 2026**."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|2",
+     "quote": "GE HealthCare completed its acquisition of Intelerad on **March 18, 2026**"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|3",
+     "quote": "GE HealthCare completed its acquisition of Intelerad on **March 18, 2026**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "acquisitions",
+   "claim": "GE HealthCare acquired Intelerad in November 2025.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Intelerad pages read state the acquisition was completed but give no date, so neither confirm nor explicitly contradict November 2025.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|1",
+     "quote": "In November 2025, Intelerad was acquired by GE Healthcare"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|2",
+     "quote": "in November 2025, Intelerad was acquired by GE Healthcare."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|3",
+     "quote": "in November 2025, Intelerad was acquired by GE Healthcare"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "ownership",
+   "claim": "Intelerad is owned by (backed by) GE HealthCare.",
+   "class": "true",
+   "proof_url": "https://intelerad.com/",
+   "proof_quote": "Intelerad is now a GE HealthCare company.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Intelerad's home page states it is now a GE HealthCare company.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|1",
+     "quote": "| **Enterprise Backing** | Pro Medicus (ASX) | GE Healthcare |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|2",
+     "quote": "| **GE Healthcare Backing** | No | Yes (acquired Nov 2025) |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "acquisitions",
+   "claim": "Intelerad acquired Ambra Health.",
+   "class": "true",
+   "proof_url": "https://www.intelerad.com/en/about-us/",
+   "proof_quote": "Some of our acquisitions include Clario for workflow orchestration and worklist automation, Ambra for VNA and image sharing, and HeartIT for advanced cardio viewing.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Intelerad's about page lists Ambra among its acquisitions.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Mode|3",
+     "quote": "Intelerad: Benefited heavily by acquiring Ambra Health"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "ownership",
+   "claim": "Ambra Health is part of Intelerad (in Intelerad's product lineup).",
+   "class": "true",
+   "proof_url": "https://www.intelerad.com/en/client-support-resources/",
+   "proof_quote": "InteleShare (formerly Ambra)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Intelerad lists Ambra in its own rebranded product portfolio as InteleShare (formerly Ambra), and its about page lists Ambra among its acquisitions.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q4|Claude|1",
+     "quote": "Intelerad's lineup pairs IntelePACS with the cloud-built Ambra platform."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Google AI Mode|2",
+     "quote": "Intelerad (including Ambra Health)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Perplexity|2",
+     "quote": "Ambra Health (now part of Intelerad)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|1",
+     "quote": "Ambra Health (now part of Intelerad, but available standalone)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|2",
+     "quote": "Ambra Health (now part of Intelerad/Enlitic ecosystem, but independently deployed)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|3",
+     "quote": "Ambra Health (now part of Intelerad's ecosystem, but standalone)"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|1",
+     "quote": "Ambra Health, now part of Intelerad, offers cloud-native medical image management with workflow capabilities designed for imaging centers and smaller radiology groups."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|2",
+     "quote": "Ambra Health, now part of Intelerad, offers cloud-native medical image management with workflow capabilities designed for imaging centers and smaller radiology groups."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|3",
+     "quote": "Intelerad's lineup pairs IntelePACS with the cloud-built Ambra platform."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "ownership",
+   "claim": "Ambra Health is part of an Enlitic ecosystem.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read in this study mentions Enlitic; the pages place Ambra (InteleShare) within Intelerad, which does not explicitly rule out an Enlitic link.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|2",
+     "quote": "Ambra Health (now part of Intelerad/Enlitic ecosystem, but independently deployed)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "product_names",
+   "claim": "InteleShare is the new name of Ambra (InteleShare, formerly Ambra).",
+   "class": "true",
+   "proof_url": "https://www.intelerad.com/en/client-support-resources/",
+   "proof_quote": "InteleShare (formerly Ambra)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Intelerad's client support page lists the product as InteleShare (formerly Ambra).",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|2",
+     "quote": "Intelerad identifies InteleShare as formerly Ambra"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "product_names",
+   "claim": "InteleViewer is Intelerad's diagnostic viewer (used with IntelePACS).",
+   "class": "true",
+   "proof_url": "https://www.intelerad.com/en/all-products/intelepacs/",
+   "proof_quote": "For the past eight years, VetMed Group has relied on IntelePACS and InteleViewer for fast, efficient imaging.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The IntelePACS page lists InteleViewer as the IntelePACS viewer feature and names it in customer stories.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|3",
+     "quote": "Provides cloud-first image access, InteleViewer, specialty imaging tools, and integrations"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|ChatGPT|1",
+     "quote": "Also, are you replacing IntelePACS/InteleViewer, the worklist layer, or both?"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Google AI Mode|1",
+     "quote": "When looking for an alternative to Intelerad (InteleViewer/IntelePACS) for a teleradiology group"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|1",
+     "quote": "Offers cloud-first PACS, InteleViewer, remote-reading workflows"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|2",
+     "quote": "Offers cloud-first image access, remote-reading workflows, InteleViewer"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|3",
+     "quote": "Its cloud-first offering emphasizes remote access, InteleViewer"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|1",
+     "quote": "specifically IntelePACS/InteleViewer plus InteleOrchestrator"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|2",
+     "quote": "**IntelePACS/InteleViewer + InteleOrchestrator + the proposed archive/reporting integrations**"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|3",
+     "quote": "Intelerad’s IntelePACS/InteleViewer plus InteleOrchestrator"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Mode|1",
+     "quote": "Hybrid/Enterprise PACS with integrated diagnostic viewer (InteleViewer) and cloud archiving."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Mode|2",
+     "quote": "InteleViewer is familiar, highly functional, though can feel cluttered to some."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|2",
+     "quote": "Hybrid/Smart Streaming (InteleViewer)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "product_names",
+   "claim": "InteleOrchestrator is Intelerad's workflow orchestration (worklist) product.",
+   "class": "true",
+   "proof_url": "https://www.intelerad.com/en/all-products/",
+   "proof_quote": "InteleOrchestrator™ View the right study at the right time, without any hassle.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Intelerad's product list names InteleOrchestrator, and its home page describes it as an AI-enhanced worklist for orchestrating clinical workflows.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|3",
+     "quote": "InteleOrchestrator adds case prioritization and workload distribution"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|1",
+     "quote": "specifically IntelePACS/InteleViewer plus InteleOrchestrator"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|2",
+     "quote": "InteleOrchestrator explicitly supports vendor-neutral worklists across disparate systems, including an overlay approach that avoids immediate PACS replacement."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|3",
+     "quote": "Intelerad’s IntelePACS/InteleViewer plus InteleOrchestrator"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Mode|1",
+     "quote": "Exceptional rules-based worklist orchestration (InteleOrchestrator) for subspecialty matching, RVUs, and auto-assignment."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|2",
+     "quote": "Its product suites—including IntelePACS, InteleOrchestrator (assigning studies to the right radiologist), and Clario Worklist—are specifically designed to merge disparate workflows from multiple hospitals into one master reading list."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|3",
+     "quote": "intelligent worklist routing (via tools like InteleOrchestrator)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "product_names",
+   "claim": "InteleRIS is an Intelerad product.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "InteleRIS does not appear on the product list or any other page read; absence from a list is not an explicit contradiction.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q10|Google AI Mode|1",
+     "quote": "Intelerad (IntelePACS + InteleRIS) — Best for Multi-Site Outpatient Workflows."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "product_names",
+   "claim": "InteleOne is an Intelerad platform for connecting systems and reading workflows.",
+   "class": "true",
+   "proof_url": "https://www.intelerad.com/en/all-products/",
+   "proof_quote": "InteleOne® Connects systems & information to streamline reading workflows.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Intelerad's product list names InteleOne and describes it as connecting systems to streamline reading workflows.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|1",
+     "quote": "Intelerad offers enterprise-class medical imaging workflow solutions through its InteleOne platform."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "product_names",
+   "claim": "Clario Worklist is one of Intelerad's product suites.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page says Intelerad acquired Clario for worklist automation, but no page read names a current product called Clario Worklist and the product list does not explicitly retire it.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|2",
+     "quote": "Its product suites—including IntelePACS, InteleOrchestrator (assigning studies to the right radiologist), and Clario Worklist—are specifically designed to merge disparate workflows from multiple hospitals into one master reading list."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "product_names",
+   "claim": "Ambra Health's product is called DG Suite.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions DG Suite.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|2",
+     "quote": "Their DG Suite enables organizations to deploy applications for medical imaging collaboration and data management"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "product_names",
+   "claim": "ProtonPACS is an Intelerad product (ProtonPACS/Intelerad).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions ProtonPACS; it is absent from the product list, which is not an explicit contradiction.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|1",
+     "quote": "ProtonPACS/Intelerad, as a picture archiving solution, manages image storage, distribution, and optimizes workflow throughout the organization"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "platforms",
+   "claim": "Intelerad's PACS and workflow products are offered in the cloud (cloud-first, cloud-based).",
+   "class": "true",
+   "proof_url": "https://www.intelerad.com/en/all-products/intelepacs/",
+   "proof_quote": "IntelePACS® delivers a cloud -first, scalable, high-performance image access that seamlessly integrates with your existing infrastructure, enabling your radiologists to read anytime, from anywhere.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The IntelePACS page describes it as cloud-first with cloud-based worklists, and customers host their PACS in Intelerad's cloud.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|Claude|1",
+     "quote": "| **Intelerad/Ambra** | Multi-site or growing practices | Cloud |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Mode|1",
+     "quote": "Intelerad / Ambra Health — Outstanding for image sharing, cloud archiving, and outpatient workflows."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Mode|2",
+     "quote": "Intelerad | Outpatient imaging networks | Optimized for ambulatory radiology | Cloud / On-Premise"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Overviews|1",
+     "quote": "Sectra PACS and Intelerad IntelePACS are widely regarded as top choices for smaller practices and imaging centers, balancing high diagnostic performance with streamlined cloud capabilities."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|ChatGPT|1",
+     "quote": "IntelePACS emphasizes remote reading, cloud-first deployment, and integration with existing infrastructure."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Google AI Mode|2",
+     "quote": "Intelerad (Ambra Health) and RamSoft OmegaAI are the best cloud-enabled RIS/PACS solutions for a multi-site imaging group with five locations"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q10|Google AI Mode|3",
+     "quote": "as they offer unified, cloud-native multi-site workflow orchestration without heavy on-premise hardware at every clinic"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Claude|2",
+     "quote": "Intelerad is best for enterprise imaging operations, offering cloud-first workflow orchestration and vendor-neutral archiving across networks."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Claude|3",
+     "quote": "Intelerad is best for enterprise imaging operations, offering cloud-first workflow orchestration and vendor-neutral archiving across networks."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q2|Google AI Mode|2",
+     "quote": "Intelerad specializes in cloud-first workflow orchestration"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|ChatGPT|3",
+     "quote": "Provides cloud-first image access, InteleViewer, specialty imaging tools, and integrations"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Google AI Mode|2",
+     "quote": "Intelerad (including Ambra Health): Highly favored by outpatient imaging centers, radiology groups, and teleradiology providers due to its strong cloud-based architecture"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Perplexity|2",
+     "quote": "| **Cloud PACS / teleradiology** | RamSoft OmegaAI, IntelePACS, Novarad NovaPACS"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Perplexity|3",
+     "quote": "- **Intelerad IntelePACS** for scalable cloud or hybrid deployments."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|1",
+     "quote": "Offers cloud-first PACS, InteleViewer, remote-reading workflows"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|2",
+     "quote": "Offers cloud-first image access, remote-reading workflows, InteleViewer"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|ChatGPT|3",
+     "quote": "Its cloud-first offering emphasizes remote access, InteleViewer"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Claude|3",
+     "quote": "It is a popular cloud-based PACS/VNA solution, especially well-suited for teleradiology and multi-site radiology groups."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Mode|1",
+     "quote": "Intelerad specializes in streamlined, highly efficient, cloud-connected workflows built specifically for speed and multi-site reading groups."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Google AI Mode|2",
+     "quote": "Intelerad | Flexible, agile cloud-based SaaS workflow orchestration."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Perplexity|1",
+     "quote": "- **Intelerad / Ambra** — useful for cross-site image exchange and cloud-based collaboration."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Perplexity|2",
+     "quote": "| **Intelerad / Ambra** | Cross-site image exchange and sharing | Cloud-native, built for image exchange and collaboration across organizations."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q6|Perplexity|3",
+     "quote": "- **Intelerad / Ambra** — best when cross-site image exchange, cloud collaboration, or external sharing is a priority."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|1",
+     "quote": "Intelerad offers cloud deployment and an integrated imaging/workflow portfolio."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|2",
+     "quote": "Intelerad offers cloud-first PACS and cloud-based orchestration."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|ChatGPT|3",
+     "quote": "Intelerad documents cloud deployments combining PACS and orchestration across multiple health systems."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|2",
+     "quote": "| **Cloud Architecture** | 100% cloud-native (all new clients) | Cloud-first, enterprise scale |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|3",
+     "quote": "| Cloud Maturity | ✅ Cloud-native | ✅ Hybrid/Cloud |"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Mode|1",
+     "quote": "Hybrid/Enterprise PACS with integrated diagnostic viewer (InteleViewer) and cloud archiving."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|1",
+     "quote": "Backed by deep enterprise workflow tools and cloud-first scaling capabilities"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|2",
+     "quote": "Full-suite traditional/cloud PACS. Includes built-in archiving, workflows, and tools."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Overviews|3",
+     "quote": "While scalable and cloud-capable"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Perplexity|1",
+     "quote": "It is repeatedly described as built for **cloud-first remote reading**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "platforms",
+   "claim": "Ambra Health (now InteleShare) is a cloud-based (cloud-native) image management and sharing platform.",
+   "class": "true",
+   "proof_url": "https://www.intelerad.com/en/all-products/inteleshare/",
+   "proof_quote": "Seamlessly exchange medical images across the world's largest cloud-native healthcare network",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "InteleShare, which Intelerad lists as formerly Ambra, is described on its product page as cloud-native, cloud-based image sharing.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|Claude|1",
+     "quote": "Ambra Health is a sophisticated cloud-based medical data and image management platform"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q1|Claude|2",
+     "quote": "Ambra Health offers an advanced cloud-based platform designed for the management of medical data and images"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Claude|1",
+     "quote": "Intelerad's lineup pairs IntelePACS with the cloud-built Ambra platform."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|1",
+     "quote": "Ambra Health offers a cloud-based medical imaging platform for secure image sharing, viewing, and collaboration in teleradiology services."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|2",
+     "quote": "Ambra Health offers a cloud-based medical imaging platform for secure image sharing, viewing, and collaboration in teleradiology services."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|3",
+     "quote": "Ambra Health offers a cloud-based medical imaging platform for secure image sharing, viewing, and collaboration in teleradiology services."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|1",
+     "quote": "Ambra Health, now part of Intelerad, offers cloud-native medical image management with workflow capabilities designed for imaging centers and smaller radiology groups."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|2",
+     "quote": "Ambra Health, now part of Intelerad, offers cloud-native medical image management with workflow capabilities designed for imaging centers and smaller radiology groups."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|3",
+     "quote": "Ambra was built for the cloud from day one"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "platforms",
+   "claim": "Intelerad is available as an on-premise deployment.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read describe cloud delivery and integration with a customer's on-premise systems, but do not state that Intelerad software is offered on premise.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Mode|2",
+     "quote": "Intelerad | Outpatient imaging networks | Optimized for ambulatory radiology | Cloud / On-Premise"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|3",
+     "quote": "**Intelerad** for hybrid/on-prem flexibility."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Mode|2",
+     "quote": "Highly capable distributed node architecture, though historically heavy on-prem/hybrid."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "platforms",
+   "claim": "Intelerad offers hybrid (on-premise plus cloud) deployment.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "InteleShare's gateway links a customer's on-premise systems with the cloud, but no page read states a hybrid deployment of Intelerad's PACS.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q4|Perplexity|3",
+     "quote": "- **Intelerad IntelePACS** for scalable cloud or hybrid deployments."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|3",
+     "quote": "Intelerad offers a hybrid approach"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Mode|1",
+     "quote": "Hybrid/Enterprise PACS with integrated diagnostic viewer (InteleViewer) and cloud archiving."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Google AI Mode|2",
+     "quote": "Highly capable distributed node architecture, though historically heavy on-prem/hybrid."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "platforms",
+   "claim": "Intelerad offers a zero-footprint, web-based image viewer.",
+   "class": "true",
+   "proof_url": "https://www.intelerad.com/en/all-products/inteleshare/",
+   "proof_quote": "provide a better viewing experience through a zero-footprint, FDA-cleared image viewer.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The InteleShare page describes a zero-footprint image viewer, and the product list describes an Enterprise Viewer usable from any device.",
+   "instances": [
+    {
+     "record_id": "radiology-medical-imaging|q1|Google AI Overviews|3",
+     "quote": "featuring strong multi-site support and zero-footprint web viewing for referring doctors"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Claude|1",
+     "quote": "with a zero-footprint web viewer approach commonly used to enable remote access without heavy desktop deployment"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q4|Claude|3",
+     "quote": "Intelerad is more distribution-oriented than Sectra PACS, with a zero-footprint web viewer approach"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q5|Claude|2",
+     "quote": "with features such as enterprise image exchange, PACS, vendor-neutral archive, web viewer, and workflow analytics"
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|2",
+     "quote": "Intelerad provides a universal web-based viewer and PACS platform optimized for secure remote radiology reading and teleradiology workflows."
+    },
+    {
+     "record_id": "radiology-medical-imaging|q8|Claude|3",
+     "quote": "zero-footprint web viewers for reading from anywhere"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Eight own pages read, all HTTP 200 and not thin; https://intelerad.com/ redirects to https://www.intelerad.com/en/. The page-candidates home field pointed at a third-party site and was ignored. IntelePACS and Ambra Health are the vendor's index aliases, so bare 'Intelerad / Ambra', 'Intelerad (Ambra Health)' and 'IntelePACS' mentions were treated as name mentions; only explicit 'now part of', 'including', 'lineup pairs' and 'acquiring' lines were coded as ownership or acquisition claims. The GE HealthCare acquisition is stated as completed on Intelerad's home page and newsroom, but no page read prints the date, so both dated versions (18 March 2026 and November 2025) are unverifiable; the full press release behind the newsroom link was not read because the eight-page limit was reached. Clario Worklist (C13) is unverifiable although the about page lists Clario among Intelerad's acquisitions. On-premise and hybrid claims are unverifiable: InteleShare's gateway links a customer's on-premise systems to the cloud but no page states an on-premise Intelerad deployment. KLAS scores, cost and price-tier comparisons, and 'at a fraction of the cost' lines were treated as ratings or comparisons. The about page's 1,500+ clients and 230M exams were not claimed by any answer. No claim is wrong or stale, so no cited page was read for causes. Pass 2 (8 Oct 2026): no browser read exists for Intelerad and no page was blocked or thin, so nothing was re-classed; the eight snapshots were re-checked for C02, C03, C07, C11, C13 to C15, C18 and C19 and still do not settle them. The newsroom's 'Read the Press Release' link for the acquisition points only to gehealthcare.com (the new parent's site, not an Intelerad page), so it was not fetched and C02 and C03 stay unverifiable; a reviewer may decide whether the parent's dated release should count as the vendor's own page, in which case C03 (November 2025) would need the like-with-like check against a completion date. The 29 gap lines are best-for, capability, unnamed-integration or other-vendor lines (one is a Sectra deployment row), all out of scope. The comparison tables (including the Visage 7 versus Intelerad tables in q8) give Intelerad cloud, hybrid, on-premise, InteleViewer and GE HealthCare cells already coded under C04, C09, C16, C18 and C19, plus star ratings, KLAS and relative-cost cells, so no claim or instance was added. No claim is wrong or stale, so the consistency check changed nothing.",
+ "answer_record_ids": [
+  "radiology-medical-imaging|q1|Claude|1",
+  "radiology-medical-imaging|q1|Claude|2",
+  "radiology-medical-imaging|q1|Claude|3",
+  "radiology-medical-imaging|q1|Google AI Mode|1",
+  "radiology-medical-imaging|q1|Google AI Mode|2",
+  "radiology-medical-imaging|q1|Google AI Mode|3",
+  "radiology-medical-imaging|q1|Google AI Overviews|1",
+  "radiology-medical-imaging|q1|Google AI Overviews|3",
+  "radiology-medical-imaging|q10|ChatGPT|1",
+  "radiology-medical-imaging|q10|ChatGPT|2",
+  "radiology-medical-imaging|q10|ChatGPT|3",
+  "radiology-medical-imaging|q10|Google AI Mode|1",
+  "radiology-medical-imaging|q10|Google AI Mode|2",
+  "radiology-medical-imaging|q10|Google AI Mode|3",
+  "radiology-medical-imaging|q10|Google AI Overviews|1",
+  "radiology-medical-imaging|q10|Google AI Overviews|2",
+  "radiology-medical-imaging|q10|Google AI Overviews|3",
+  "radiology-medical-imaging|q10|Perplexity|1",
+  "radiology-medical-imaging|q10|Perplexity|2",
+  "radiology-medical-imaging|q10|Perplexity|3",
+  "radiology-medical-imaging|q2|Claude|1",
+  "radiology-medical-imaging|q2|Claude|2",
+  "radiology-medical-imaging|q2|Claude|3",
+  "radiology-medical-imaging|q2|Google AI Mode|2",
+  "radiology-medical-imaging|q2|Google AI Mode|3",
+  "radiology-medical-imaging|q4|ChatGPT|1",
+  "radiology-medical-imaging|q4|ChatGPT|2",
+  "radiology-medical-imaging|q4|ChatGPT|3",
+  "radiology-medical-imaging|q4|Claude|1",
+  "radiology-medical-imaging|q4|Claude|2",
+  "radiology-medical-imaging|q4|Claude|3",
+  "radiology-medical-imaging|q4|Google AI Mode|1",
+  "radiology-medical-imaging|q4|Google AI Mode|2",
+  "radiology-medical-imaging|q4|Google AI Mode|3",
+  "radiology-medical-imaging|q4|Google AI Overviews|2",
+  "radiology-medical-imaging|q4|Perplexity|1",
+  "radiology-medical-imaging|q4|Perplexity|2",
+  "radiology-medical-imaging|q4|Perplexity|3",
+  "radiology-medical-imaging|q5|ChatGPT|1",
+  "radiology-medical-imaging|q5|ChatGPT|2",
+  "radiology-medical-imaging|q5|ChatGPT|3",
+  "radiology-medical-imaging|q5|Claude|1",
+  "radiology-medical-imaging|q5|Claude|2",
+  "radiology-medical-imaging|q5|Claude|3",
+  "radiology-medical-imaging|q5|Google AI Mode|1",
+  "radiology-medical-imaging|q5|Google AI Mode|2",
+  "radiology-medical-imaging|q5|Google AI Mode|3",
+  "radiology-medical-imaging|q5|Google AI Overviews|1",
+  "radiology-medical-imaging|q5|Google AI Overviews|2",
+  "radiology-medical-imaging|q5|Google AI Overviews|3",
+  "radiology-medical-imaging|q5|Perplexity|1",
+  "radiology-medical-imaging|q5|Perplexity|2",
+  "radiology-medical-imaging|q5|Perplexity|3",
+  "radiology-medical-imaging|q6|ChatGPT|1",
+  "radiology-medical-imaging|q6|ChatGPT|2",
+  "radiology-medical-imaging|q6|ChatGPT|3",
+  "radiology-medical-imaging|q6|Claude|1",
+  "radiology-medical-imaging|q6|Claude|2",
+  "radiology-medical-imaging|q6|Claude|3",
+  "radiology-medical-imaging|q6|Google AI Mode|1",
+  "radiology-medical-imaging|q6|Google AI Mode|2",
+  "radiology-medical-imaging|q6|Google AI Mode|3",
+  "radiology-medical-imaging|q6|Perplexity|1",
+  "radiology-medical-imaging|q6|Perplexity|2",
+  "radiology-medical-imaging|q6|Perplexity|3",
+  "radiology-medical-imaging|q8|ChatGPT|1",
+  "radiology-medical-imaging|q8|ChatGPT|2",
+  "radiology-medical-imaging|q8|ChatGPT|3",
+  "radiology-medical-imaging|q8|Claude|1",
+  "radiology-medical-imaging|q8|Claude|2",
+  "radiology-medical-imaging|q8|Claude|3",
+  "radiology-medical-imaging|q8|Google AI Mode|1",
+  "radiology-medical-imaging|q8|Google AI Mode|2",
+  "radiology-medical-imaging|q8|Google AI Mode|3",
+  "radiology-medical-imaging|q8|Google AI Overviews|1",
+  "radiology-medical-imaging|q8|Google AI Overviews|2",
+  "radiology-medical-imaging|q8|Google AI Overviews|3",
+  "radiology-medical-imaging|q8|Perplexity|1",
+  "radiology-medical-imaging|q8|Perplexity|2",
+  "radiology-medical-imaging|q8|Perplexity|3"
+ ],
+ "named_count": 80
+}

@@ -1,0 +1,921 @@
+{
+ "vendor": "Contractor Foreman",
+ "slug": "contractor-foreman",
+ "category": "construction-project-management",
+ "coded_at": "2026-10-08T04:19:57Z",
+ "pages_read": [
+  {
+   "url": "https://contractorforeman.com/",
+   "key": "b5c06cd78c8fffee",
+   "used_for": "home (HTTP 403, challenge page)"
+  },
+  {
+   "url": "https://contractorforeman.com/pricing/",
+   "key": "bd51806480000369",
+   "used_for": "pricing (redirected to /plans/, HTTP 403, challenge page)"
+  },
+  {
+   "url": "https://contractorforeman.com/",
+   "key": "b5c06cd78c8fffee.browser",
+   "used_for": "pass 2 browser read of the home page (integrations list)"
+  },
+  {
+   "url": "https://contractorforeman.com/plans/",
+   "key": "00dedef95313b754.browser",
+   "used_for": "pass 2 browser read of the plans page (plan prices, users, trial, FAQ on price basis, devices, hosting, integrations)"
+  },
+  {
+   "url": "https://contractorforeman.com/features/",
+   "key": "fd18f7e972d8c290.browser",
+   "used_for": "pass 2 browser read of the features page"
+  },
+  {
+   "url": "https://contractorforeman.com/price-comparison/",
+   "key": "b63a8a4154757943.browser",
+   "used_for": "pass 2 browser read of the price comparison page (dated September 23, 2022)"
+  },
+  {
+   "url": "https://simplysub.com/blog/simplysub-best-construction-management-software-for-subcontractors-2026",
+   "key": "8d88c25f861afd6d",
+   "used_for": "cause check (C04, C11), does not mention Contractor Foreman"
+  },
+  {
+   "url": "https://thecfoclub.com/tools/best-procore-alternatives/",
+   "key": "fc7d759dec3e206f",
+   "used_for": "cause check (C05), HTTP 403"
+  },
+  {
+   "url": "https://buildbite.com/insights/subcontractor-management-software",
+   "key": "963809726f9d12f1",
+   "used_for": "cause check (C04, C11), does not carry the claims"
+  },
+  {
+   "url": "https://www.mastt.com/software/best-procore-alternatives",
+   "key": "4141f3b360e07061",
+   "used_for": "cause check (C05), does not mention Contractor Foreman"
+  },
+  {
+   "url": "https://archdesk.com/blog/the-best-construction-management-software-tools",
+   "key": "636a29ca315f3f32",
+   "used_for": "cause check (C04, C05), gives $49/month with no user basis"
+  },
+  {
+   "url": "https://ustechautomations.com/resources/blog/automate-procore-alternatives-for-construction-firms-2026",
+   "key": "d420f709c9a59e62",
+   "used_for": "cause check (C05), does not mention Contractor Foreman"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Basic plan costs $49 per month billed annually ($588 a year).",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Basic $49 per month 1 Users FREE for 30 days then pay $588 annually at renewal.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read plans page lists Basic at $49 per month for one user, paid $588 annually.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|1",
+     "quote": "Basic: $49/month equivalent, billed $588 annually, for one user."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "Starts at $49/month, billed annually, for one user"
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|3",
+     "quote": "Basic: $49/month equivalent, paid $588 annually, for one user."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|2",
+     "quote": "Starts at $49/month billed annually for one user."
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "starts at $49/month, billed annually, for one user."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "Starts at $49/month billed annually for one user."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "Starts at $49/month, billed annually, for one user."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|3",
+     "quote": "Starts at $49/month, billed annually, for one user."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "Plans start at $49/month, billed annually, for one user."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "Basic starts at $49/month billed annually for one user"
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "Starts at $49/month, billed annually, for one user."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "plans",
+   "claim": "The entry (Basic) plan includes one user.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Basic $49 per month 1 Users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read plans page lists the Basic plan with one user.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|1",
+     "quote": "Basic: $49/month equivalent, billed $588 annually, for one user."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "Starts at $49/month, billed annually, for one user"
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|3",
+     "quote": "provided its one-user limit and included features meet your needs."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|2",
+     "quote": "Starts at $49/month billed annually for one user."
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|2",
+     "quote": "starts at $49/month, billed annually, for one user."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|1",
+     "quote": "Starts at $49/month billed annually for one user."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "Starts at $49/month, billed annually, for one user."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|3",
+     "quote": "Starts at $49/month, billed annually, for one user."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "Plans start at $49/month, billed annually, for one user."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "Basic starts at $49/month billed annually for one user"
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "Starts at $49/month, billed annually, for one user."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Paid plans start at $49 per month (billing basis not stated).",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "With plans starting at $49/month, it is the most affordable project management software for contractors.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read plans page states plans start at $49/month (the Basic plan, billed annually).",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "plans start at just $49/month."
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|3",
+     "quote": "Plans start at $49/month."
+    },
+    {
+     "record_id": "construction-project-management|q1|Perplexity|2",
+     "quote": "transparent pricing starting around $49/month in some reviews."
+    },
+    {
+     "record_id": "construction-project-management|q2|ChatGPT|1",
+     "quote": "advertises plans starting at $49/month."
+    },
+    {
+     "record_id": "construction-project-management|q3|ChatGPT|3",
+     "quote": "with plans starting at $49/month."
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|1",
+     "quote": "At $49 per month, Contractor Foreman delivers an unusually broad feature set for its price tier"
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|1",
+     "quote": "Advertised plans start at $49/month."
+    },
+    {
+     "record_id": "construction-project-management|q4|ChatGPT|3",
+     "quote": "advertised plans start at $49/month."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|1",
+     "quote": "For budget-conscious contractors, Contractor Foreman starts at $49/month."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|2",
+     "quote": "For budget-conscious contractors, Contractor Foreman starts at $49/month."
+    },
+    {
+     "record_id": "construction-project-management|q5|Claude|3",
+     "quote": "For budget-conscious contractors, Contractor Foreman starts at $49/month."
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|2",
+     "quote": "Contractor Foreman starts at $49/month and covers a wide feature set"
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|3",
+     "quote": "It starts at $49/month and covers estimates, change orders, scheduling, time tracking, and safety logs."
+    },
+    {
+     "record_id": "construction-project-management|q10|Google AI Mode|3",
+     "quote": "Budget-friendly tiers from $49/mo up"
+    },
+    {
+     "record_id": "construction-project-management|q10|Perplexity|1",
+     "quote": "starting at $49/month with transparent pricing."
+    },
+    {
+     "record_id": "construction-project-management|q10|Perplexity|2",
+     "quote": "starting at $49/month."
+    },
+    {
+     "record_id": "construction-project-management|q10|Perplexity|3",
+     "quote": "It also has transparent low starting pricing at about $49/month"
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "| **Contractor Foreman** | Budget-conscious small/mid teams | $49/month |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Plans start at $49 per month for up to three users.",
+   "class": "wrong",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Basic $49 per month 1 Users FREE for 30 days then pay $588 annually at renewal. Try for Free Save $404 Standard $105 per month Up to 3 Users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "Like with like on the entry price: the plans page gives the $49 plan (Basic) one user and puts up to three users on Standard at $105 per month; monthly billing is dearer, so no published plan is $49 for three users.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|2",
+     "quote": "Contractor Foreman offers plans starting at $49/month for up to 3 users"
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "paid plans starting at $49 per month for up to three users."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Contractor Foreman starts at $49 per user per month.",
+   "class": "wrong",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Is the fee per user or for the whole company? The fee listed on the website is the fee for the company as a whole.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "Like with like on the price basis: the plans page FAQ says the listed fee is for the company as a whole, not per user.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q4|Claude|1",
+     "quote": "Contractor Foreman starts from $49/month per user"
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|2",
+     "quote": "Contractor Foreman starts at $49/month per user"
+    },
+    {
+     "record_id": "construction-project-management|q4|Claude|3",
+     "quote": "Contractor Foreman starts from $49/month per user"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "The Standard plan costs about $105 per month billed annually ($1,264 a year).",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Standard $105 per month Up to 3 Users FREE for 30 days then pay $1,264 annually at renewal.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read plans page lists Standard at $105 per month, paid $1,264 annually.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "Standard is approximately $105/month annually for up to three."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "Standard advertises approximately $105/month, billed at $1,264 annually, for up to three users."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "Standard is about $105/month, billed at $1,264 annually, for up to three users."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "Standard supports three users and lists $1,264/year."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "plans",
+   "claim": "The Standard plan covers up to three users.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Standard $105 per month Up to 3 Users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read plans page lists Standard for up to three users.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|2",
+     "quote": "Standard is approximately $105/month annually for up to three."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "Standard advertises approximately $105/month, billed at $1,264 annually, for up to three users."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "Standard is about $105/month, billed at $1,264 annually, for up to three users."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "Standard supports three users and lists $1,264/year."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "plans",
+   "claim": "Higher-tier plans support larger teams (more users).",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Plus $166 per month Up to 8 Users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read plans page raises the user limit with each tier: Basic 1, Standard up to 3, Plus up to 8, Pro up to 15, Unlimited unlimited.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|1",
+     "quote": "Higher plans accommodate larger teams."
+    },
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|3",
+     "quote": "Higher tiers support larger teams."
+    },
+    {
+     "record_id": "construction-project-management|q5|ChatGPT|2",
+     "quote": "Larger teams and additional features require higher plans"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "free_tier",
+   "claim": "Contractor Foreman offers a free trial.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "30 Day Free Trial 100 Day Money Back Guarantee",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read plans page offers a 30-day free trial.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|1",
+     "quote": "Offers a 30-day free trial."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "Test both estimating and scheduling during its 30-day free trial"
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "It offers a 30-day free trial."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "Trial: 30 days free."
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|2",
+     "quote": "All four offer free trials — run a real past project through your top 2 picks before committing!"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "free_tier",
+   "claim": "The free trial lasts 30 days.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "30 Day Free Trial 100 Day Money Back Guarantee",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read plans page offers a 30-day free trial.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|ChatGPT|1",
+     "quote": "Offers a 30-day free trial."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|1",
+     "quote": "Test both estimating and scheduling during its 30-day free trial"
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "It offers a 30-day free trial."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "Trial: 30 days free."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "free_tier",
+   "claim": "Contractor Foreman has a free tier for one user.",
+   "class": "wrong",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Basic $49 per month 1 Users FREE for 30 days then pay $588 annually at renewal.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "Like with like on the one-user tier: the plans page lists every plan and the one-user plan (Basic) costs $49 per month after a 30-day free trial; the only free access named is for non-profits, not a one-user tier.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Contractor Foreman offers a free tier for one user"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "Contractor Foreman uses flat-rate plan pricing.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "No, the pricing for Contractor Foreman if fixed and does not increase based on your company’s growth.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page FAQ says plan pricing is fixed and charged for the company as a whole, with one listed price per plan.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Google AI Mode|2",
+     "quote": "Affordable all-in-one feature set with flat-rate pricing models."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "| Contractor Foreman | Growing mid-sized GCs on a budget | Flat monthly plans |"
+    },
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Contractor Foreman combines flat, published pricing with feature depth suited to a small team's budget."
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|1",
+     "quote": "| Contractor Foreman | Best value/budget | Flat tiers |"
+    },
+    {
+     "record_id": "construction-project-management|q10|Google AI Mode|2",
+     "quote": "in a single flat-rate subscription without paying per-user enterprise fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Contractor Foreman does not charge per-user fees.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "The fee listed on the website is the fee for the company as a whole.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page FAQ says the listed fee is for the company as a whole, not per user.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Google AI Overviews|1",
+     "quote": "Great for budget-conscious teams that want a complete feature set without per-user penalties."
+    },
+    {
+     "record_id": "construction-project-management|q1|Google AI Overviews|2",
+     "quote": "Known for transparent, cost-effective pricing models that don't penalize you with steep per-user fees."
+    },
+    {
+     "record_id": "construction-project-management|q3|Google AI Mode|3",
+     "quote": "without locking you into expensive per-user enterprise tier pricing."
+    },
+    {
+     "record_id": "construction-project-management|q10|Google AI Mode|2",
+     "quote": "in a single flat-rate subscription without paying per-user enterprise fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Contractor Foreman does not charge per-project fees.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Does the price increase if we add more projects? No, the pricing for Contractor Foreman if fixed and does not increase based on your company’s growth. This allows you to add an unlimited number of projects.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page FAQ says the price does not increase with more projects and projects are unlimited.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|2",
+     "quote": "Because of its transparent pricing, extensive feature set, and lack of per-project fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Contractor Foreman publishes its prices.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Compare plans and features Basic $49 per month",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read plans page publishes a price for each of its five plans.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q3|Claude|3",
+     "quote": "Contractor Foreman combines flat, published pricing with feature depth suited to a small team's budget."
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|2",
+     "quote": "Published pricing: Basic starts at $49/month billed annually for one user"
+    },
+    {
+     "record_id": "construction-project-management|q10|ChatGPT|3",
+     "quote": "Published pricing: Starts at $49/month, billed annually, for one user."
+    },
+    {
+     "record_id": "construction-project-management|q10|Perplexity|1",
+     "quote": "It has visible, low starting pricing"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "integrations",
+   "claim": "Contractor Foreman integrates with QuickBooks.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "We integrate with QuickBooks Online, Zoho (Q4 2026) and Zapier.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page FAQ names a QuickBooks Online integration (also listed among integrations on the home page).",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "with seamless QuickBooks and Xero integration"
+    },
+    {
+     "record_id": "construction-project-management|q1|Google AI Mode|1",
+     "quote": "It packs a surprisingly dense feature set (scheduling, daily logs, estimates, invoices, QuickBooks integration)"
+    },
+    {
+     "record_id": "construction-project-management|q3|Google AI Mode|3",
+     "quote": "It provides robust scheduling, daily logs, and QuickBooks integration at an accessible price point"
+    },
+    {
+     "record_id": "construction-project-management|q4|Google AI Mode|2",
+     "quote": "features strong out-of-the-box integrations with QuickBooks."
+    },
+    {
+     "record_id": "construction-project-management|q5|Google AI Mode|2",
+     "quote": "Contractor Foreman provides a massive toolkit (daily logs, scheduling, change orders, invoicing, and QuickBooks integration)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "integrations",
+   "claim": "Contractor Foreman integrates with Xero.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/",
+   "proof_quote": "Quickbooks CompanyCam Stripe Zapier Google Calendar Outlook Calendar Gusto Angi List Leads Sweetpay Microsoft Project Xero",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read home page lists Xero among the systems under 'Easily connect and integrate with 50+ other systems'.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "with seamless QuickBooks and Xero integration"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "platforms",
+   "claim": "Contractor Foreman is cloud based.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Contractor Foreman works in the cloud on AWS (Amazon Web Servers).",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page FAQ says Contractor Foreman works in the cloud on AWS.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "cloud-based access with full mobile functionality"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "It operates as a fully cloud-based system, accessible from any web browser."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "It operates as a fully cloud-based system"
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|1",
+     "quote": "Cloud-based and mobile-friendly, it's a strong fit for small to mid-sized businesses"
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|2",
+     "quote": "Cloud-based and mobile-friendly, Contractor Foreman is a strong fit for small to mid-sized businesses"
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|3",
+     "quote": "cloud-based & mobile-friendly"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "platforms",
+   "claim": "Contractor Foreman runs in a web browser.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Contractor Foreman is web based. The web panel can be used on any device that has a web browser.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page FAQ says Contractor Foreman is web based and runs in any web browser.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "It operates as a fully cloud-based system, accessible from any web browser."
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "accessible from any web browser in the office."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "platforms",
+   "claim": "Contractor Foreman has mobile apps (mobile access).",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "We also have native apps for iOS (iPhone and iPad) as well as Android phones and tablets.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page FAQ names native iOS and Android apps.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "cloud-based access with full mobile functionality"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "Contractor Foreman provides native mobile apps for iOS and Android"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Contractor Foreman provides native mobile apps for both iOS and Android"
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|1",
+     "quote": "Cloud-based and mobile-friendly, it's a strong fit for small to mid-sized businesses"
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|2",
+     "quote": "Cloud-based and mobile-friendly, Contractor Foreman is a strong fit for small to mid-sized businesses"
+    },
+    {
+     "record_id": "construction-project-management|q10|Claude|3",
+     "quote": "cloud-based & mobile-friendly"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "platforms",
+   "claim": "Contractor Foreman has a native iOS app.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "We also have native apps for iOS (iPhone and iPad) as well as Android phones and tablets.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page FAQ names a native iOS app.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "Contractor Foreman provides native mobile apps for iOS and Android"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Contractor Foreman provides native mobile apps for both iOS and Android"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "platforms",
+   "claim": "Contractor Foreman has a native Android app.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "We also have native apps for iOS (iPhone and iPad) as well as Android phones and tablets.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page FAQ names native Android apps.",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "Contractor Foreman provides native mobile apps for iOS and Android"
+    },
+    {
+     "record_id": "construction-project-management|q2|Claude|3",
+     "quote": "Contractor Foreman provides native mobile apps for both iOS and Android"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "pricing",
+   "claim": "Contractor Foreman is sold as a subscription.",
+   "class": "true",
+   "proof_url": "https://contractorforeman.com/plans/",
+   "proof_quote": "Annual plans are charged at the end of the free trial and monthly plans are charged immediately.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The plans page sells annual and monthly plans that renew (for example 'pay $588 annually at renewal').",
+   "instances": [
+    {
+     "record_id": "construction-project-management|q2|Claude|1",
+     "quote": "| **Contractor Foreman** | Budget-conscious mid-size GCs | Subscription (affordable) |"
+    },
+    {
+     "record_id": "construction-project-management|q1|Claude|2",
+     "quote": "its most significant advantage is affordable subscription pricing"
+    }
+   ]
+  }
+ ],
+ "notes": "Pass 1: contractorforeman.com answered HTTP 403 with a challenge page to the first two requests (home, and pricing, which redirected to /plans/); no further request was made to that host. Review ratings (Capterra 4.5 from 800+ reviews), feature and module counts ('over 40 tools', 'over 25 other modules') and evaluative 'transparent pricing' lines were not coded. Pass 2 (8 Oct): the four pages in needs_browser_read were each read once in a real browser. The plans page (annual prices shown: Basic $49 for 1 user, Standard $105 up to 3, Plus $166 up to 8, Pro $221 up to 15, Unlimited $332; 30-day free trial; FAQ on price basis, devices, hosting and integrations) settles every claim: 19 are true and three are wrong. C04 ($49 for up to three users), C05 ($49 per user) and C11 (free tier for one user) are wrong against the same plans page, like with like (entry price and user limit, price basis, the one-user tier). For causes, six cited pages were read once each (simplysub, thecfoclub (403), buildbite, mastt, archdesk, ustechautomations); none carries the three statements (archdesk gives '$49/month' with no user basis, buildbite '$49 for annual plans'), so all three are 'cause not found'. Added: C23 (subscription pricing, from a table cell and one sentence) and one table-cell instance of C03 (q3 Claude 3). The price comparison page is dated 'As of September 23, 2022' and was not used as proof. Reviewer: look first at C11, which rests on the plans page listing every plan as paid (Basic $49 for one user after the trial) rather than on a sentence saying there is no free plan.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "construction-project-management|q1|ChatGPT|1",
+  "construction-project-management|q1|ChatGPT|2",
+  "construction-project-management|q1|ChatGPT|3",
+  "construction-project-management|q1|Claude|1",
+  "construction-project-management|q1|Claude|2",
+  "construction-project-management|q1|Claude|3",
+  "construction-project-management|q1|Google AI Mode|1",
+  "construction-project-management|q1|Google AI Mode|2",
+  "construction-project-management|q1|Google AI Mode|3",
+  "construction-project-management|q1|Google AI Overviews|1",
+  "construction-project-management|q1|Google AI Overviews|2",
+  "construction-project-management|q1|Google AI Overviews|3",
+  "construction-project-management|q1|Perplexity|1",
+  "construction-project-management|q1|Perplexity|2",
+  "construction-project-management|q1|Perplexity|3",
+  "construction-project-management|q10|ChatGPT|1",
+  "construction-project-management|q10|ChatGPT|2",
+  "construction-project-management|q10|ChatGPT|3",
+  "construction-project-management|q10|Claude|1",
+  "construction-project-management|q10|Claude|2",
+  "construction-project-management|q10|Claude|3",
+  "construction-project-management|q10|Google AI Mode|1",
+  "construction-project-management|q10|Google AI Mode|2",
+  "construction-project-management|q10|Google AI Mode|3",
+  "construction-project-management|q10|Google AI Overviews|1",
+  "construction-project-management|q10|Google AI Overviews|2",
+  "construction-project-management|q10|Google AI Overviews|3",
+  "construction-project-management|q10|Perplexity|1",
+  "construction-project-management|q10|Perplexity|2",
+  "construction-project-management|q10|Perplexity|3",
+  "construction-project-management|q2|ChatGPT|1",
+  "construction-project-management|q2|Claude|1",
+  "construction-project-management|q2|Claude|2",
+  "construction-project-management|q2|Claude|3",
+  "construction-project-management|q2|Google AI Mode|3",
+  "construction-project-management|q2|Perplexity|1",
+  "construction-project-management|q2|Perplexity|2",
+  "construction-project-management|q2|Perplexity|3",
+  "construction-project-management|q3|ChatGPT|2",
+  "construction-project-management|q3|ChatGPT|3",
+  "construction-project-management|q3|Claude|1",
+  "construction-project-management|q3|Claude|2",
+  "construction-project-management|q3|Claude|3",
+  "construction-project-management|q3|Google AI Mode|2",
+  "construction-project-management|q3|Google AI Mode|3",
+  "construction-project-management|q3|Perplexity|1",
+  "construction-project-management|q3|Perplexity|2",
+  "construction-project-management|q3|Perplexity|3",
+  "construction-project-management|q4|ChatGPT|1",
+  "construction-project-management|q4|ChatGPT|2",
+  "construction-project-management|q4|ChatGPT|3",
+  "construction-project-management|q4|Claude|1",
+  "construction-project-management|q4|Claude|2",
+  "construction-project-management|q4|Claude|3",
+  "construction-project-management|q4|Google AI Mode|2",
+  "construction-project-management|q4|Google AI Mode|3",
+  "construction-project-management|q4|Google AI Overviews|2",
+  "construction-project-management|q4|Google AI Overviews|3",
+  "construction-project-management|q4|Perplexity|1",
+  "construction-project-management|q4|Perplexity|2",
+  "construction-project-management|q4|Perplexity|3",
+  "construction-project-management|q5|ChatGPT|1",
+  "construction-project-management|q5|ChatGPT|2",
+  "construction-project-management|q5|ChatGPT|3",
+  "construction-project-management|q5|Claude|1",
+  "construction-project-management|q5|Claude|2",
+  "construction-project-management|q5|Claude|3",
+  "construction-project-management|q5|Google AI Mode|1",
+  "construction-project-management|q5|Google AI Mode|2",
+  "construction-project-management|q5|Google AI Mode|3",
+  "construction-project-management|q5|Google AI Overviews|1",
+  "construction-project-management|q5|Google AI Overviews|2",
+  "construction-project-management|q5|Google AI Overviews|3",
+  "construction-project-management|q5|Perplexity|1",
+  "construction-project-management|q5|Perplexity|2",
+  "construction-project-management|q5|Perplexity|3",
+  "construction-project-management|q7|Google AI Overviews|1"
+ ],
+ "named_count": 77
+}

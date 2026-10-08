@@ -1,0 +1,761 @@
+{
+ "vendor": "NowCerts",
+ "slug": "nowcerts",
+ "category": "insurance-agency-management",
+ "coded_at": "2026-10-08T04:28:00Z",
+ "pages_read": [
+  {
+   "url": "https://nowcerts.com/",
+   "key": "7d526d218c598f64",
+   "used_for": "home (thin on the fetch: client-rendered; read once in a real browser, 7d526d218c598f64.browser.txt)"
+  },
+  {
+   "url": "https://www.nowcerts.com/pricing",
+   "key": "9dc1fad2352a8a39",
+   "used_for": "pricing, legacy NowCerts price list (thin on the fetch; read once in a real browser, 9dc1fad2352a8a39.browser.txt; only the Essentials column rendered)"
+  },
+  {
+   "url": "https://blog.momentumamp.com/blog/from-nowcerts-to-momentum-a-bold-vision-for-independent-agents",
+   "key": "6551abdfeff7192c",
+   "used_for": "press (rebrand post on the vendor's own blog, cited by an answer)"
+  },
+  {
+   "url": "https://momentumamp.com/pricing",
+   "key": "59119ba54173d2a6",
+   "used_for": "pricing, current Momentum AMS price list (own page linked from the vendor's blog; read in pass 2)"
+  },
+  {
+   "url": "https://www.quotesweep.com/blog/ams-comparison-2026",
+   "key": "ea774668385ae3e8",
+   "used_for": "cause tracing (C13)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "product_names",
+   "claim": "NowCerts has been renamed Momentum (Momentum, formerly NowCerts).",
+   "class": "true",
+   "proof_url": "https://blog.momentumamp.com/blog/from-nowcerts-to-momentum-a-bold-vision-for-independent-agents",
+   "proof_quote": "From NowCerts to Momentum: A Bold Vision for Independent Agents Momentum AMP Nov 13, 2024",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's own blog announces the change from NowCerts to Momentum (13 Nov 2024) and calls it a new name.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|2",
+     "quote": "| **Momentum, formerly NowCerts** |"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Mode|3",
+     "quote": "Momentum (formerly NowCerts)"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Mode|2",
+     "quote": "Momentum (formerly NowCerts): A cloud-native, highly intuitive alternative"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Mode|3",
+     "quote": "Momentum (formerly NowCerts)"
+    },
+    {
+     "record_id": "insurance-agency-management|q3|Google AI Mode|2",
+     "quote": "Momentum (formerly NowCerts): While not exclusively L&H"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Mode|3",
+     "quote": "Momentum (formerly NowCerts): A cloud-based, highly API-driven agency management platform"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Mode|2",
+     "quote": "Momentum (formerly NowCerts) | Cloud-first flexibility and API integrations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "product_names",
+   "claim": "NowCerts is now branded Momentum AMP.",
+   "class": "true",
+   "proof_url": "https://blog.momentumamp.com/blog/from-nowcerts-to-momentum-a-bold-vision-for-independent-agents",
+   "proof_quote": "From NowCerts to Momentum: A Bold Vision for Independent Agents Momentum AMP Nov 13, 2024",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The rebrand post is published under the Momentum AMP name on momentumamp.com, matching NowCerts now being Momentum AMP.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|1",
+     "quote": "Momentum AMP — formerly NowCerts — offers the best published value at small-agency sizes"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|2",
+     "quote": "Momentum AMP — formerly NowCerts — offers the best published value at small-agency sizes"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|3",
+     "quote": "Momentum AMP — formerly NowCerts — offers the best published value at small-agency sizes"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|1",
+     "quote": "**NowCerts** (now rebranded as Momentum AMP – Agency Management Platform)"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|2",
+     "quote": "NowCerts (now Momentum AMP)"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|3",
+     "quote": "**NowCerts** (now branded as Momentum AMP)"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "NowCerts (now Momentum AMP)"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|1",
+     "quote": "**NowCerts (Momentum AMP)**"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|3",
+     "quote": "**NowCerts (Momentum AMP)**"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "**NowCerts (Momentum AMP)** — Best Budget Option"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|3",
+     "quote": "**NowCerts (Momentum AMP)** — Best for Budget-Conscious Startups"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|2",
+     "quote": "NowCerts (Momentum AMP) | Best on a Strict Budget"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|1",
+     "quote": "| **Momentum AMP / NowCerts** |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "product_names",
+   "claim": "The agency management system formerly called NowCerts is now named Momentum AMS.",
+   "class": "true",
+   "proof_url": "https://blog.momentumamp.com/blog/from-nowcerts-to-momentum-a-bold-vision-for-independent-agents",
+   "proof_quote": "Solutions Momentum AMS AI Solutions Momentum MAC",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's site names its agency management system Momentum AMS, on the page that announces the change from NowCerts to Momentum.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "| **Momentum AMS, formerly NowCerts** |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "free_tier",
+   "claim": "NowCerts (Momentum) offers a free trial.",
+   "class": "true",
+   "proof_url": "https://blog.momentumamp.com/blog/from-nowcerts-to-momentum-a-bold-vision-for-independent-agents",
+   "proof_quote": "AMS Login Free AMS Trial",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor's site navigation offers a Free AMS Trial, and the nowcerts.com home page (browser read) offers a 30 day free trial.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|Claude|1",
+     "quote": "NowCerts and AgencyZoom offer free trial options to test premium features before subscribing."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|2",
+     "quote": "NowCerts offers a free trial to test premium features before subscribing."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|3",
+     "quote": "NowCerts offers a free trial option to test premium features before subscribing."
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|1",
+     "quote": "It offers a free trial option, making it ideal for startups and small businesses with budget constraints"
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|3",
+     "quote": "NowCerts offers a free trial option so you can test premium features before subscribing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "AMS plans start at $119 per month for one user.",
+   "class": "true",
+   "proof_url": "https://momentumamp.com/pricing",
+   "proof_quote": "Monthly Price | $119 per mo. | $199 per mo. | BEST VALUE $419 per mo. | Call Us 801-999-0550 | | Number of Users | 1 | 2 | 5 | 50+",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Momentum AMS pricing page lists Essentials, the lowest plan, at $119 a month with one user. The legacy nowcerts.com pricing page, also live, lists Essentials at $99 a month; the vendor publishes both price lists, so the claim matches one own page.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|2",
+     "quote": "Current published AMS plans start at **$119/month for one user**"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "Published pricing currently starts at **$119/month for one user**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "An AMS plan costs $199 per month for two users.",
+   "class": "true",
+   "proof_url": "https://momentumamp.com/pricing",
+   "proof_quote": "Monthly Price | $119 per mo. | $199 per mo. | BEST VALUE $419 per mo. | Call Us 801-999-0550 | | Number of Users | 1 | 2 | 5 | 50+",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Momentum AMS pricing page lists the Professional plan at $199 a month with two users.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|2",
+     "quote": "or **$199/month for two**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Additional seats cost $54 per month.",
+   "class": "true",
+   "proof_url": "https://momentumamp.com/pricing",
+   "proof_quote": "Cost Per Additional Seat | $54 | $54 | $54 | $54",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Momentum AMS pricing page lists $54 per additional seat on every plan; the legacy nowcerts.com pricing page lists $45 per additional user license (see C14).",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "with additional seats at **$54/month**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "plans",
+   "claim": "The entry plans charge extra for carrier downloads.",
+   "class": "true",
+   "proof_url": "https://momentumamp.com/pricing",
+   "proof_quote": "IVANS Carrier Downloads | $35 | $35 |",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Momentum AMS pricing page shows a $35 charge for IVANS carrier downloads on the two entry plans (Essentials and Professional); the legacy nowcerts.com page shows the same $35 on Essentials.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|2",
+     "quote": "the pricing page lists additional charges for carrier downloads on those entry plans"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "NowCerts (Momentum AMP) costs $99 per month for a one-user agency.",
+   "class": "true",
+   "proof_url": "https://www.nowcerts.com/pricing",
+   "proof_quote": "Essentials $99/ month Start For Free Number of Users Included 1",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The nowcerts.com pricing page (browser read, live on 8 Oct) lists Essentials at $99 a month with one user included; the Momentum AMS pricing page lists Essentials at $119, so the vendor publishes two price lists and the claim matches one of them.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|1",
+     "quote": "At $99 per month for a one-user agency, tiered flat pricing stays below per-seat rivals as you grow."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|2",
+     "quote": "$99 per month covers a one-user agency"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|3",
+     "quote": "At $99 per month for a one-user agency, it offers tiered flat pricing that stays below per-seat rivals as you grow."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Pricing is tiered flat pricing (a flat monthly price per plan tier).",
+   "class": "true",
+   "proof_url": "https://momentumamp.com/pricing",
+   "proof_quote": "Monthly Price | $119 per mo. | $199 per mo. | BEST VALUE $419 per mo. | Call Us 801-999-0550 | | Number of Users | 1 | 2 | 5 | 50+",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Momentum AMS pricing page sets a flat monthly price per tier with a set number of users included (1, 2, 5); seats beyond those are charged per seat. The claim was reworded in pass 2 to the tiered flat pricing the answers state.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|1",
+     "quote": "tiered flat pricing stays below per-seat rivals as you grow."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|2",
+     "quote": "tiered flat pricing stays below per-seat rivals as you grow."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|3",
+     "quote": "it offers tiered flat pricing that stays below per-seat rivals as you grow."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "NowCerts (Momentum AMP) starts at about $1,200 a year.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Both own pricing pages give monthly prices only ($99 legacy, $119 Momentum for the entry plan) and neither states an annual price; the legacy page's note on annual payment is not explained, so an annual figure cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|1",
+     "quote": "| **Momentum AMP** | Budget-conscious solo/small agencies | From ~$1,200/yr |"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|2",
+     "quote": "| **Momentum AMP** | Solo/micro agencies on a tight budget | From ~$1,200 |"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|3",
+     "quote": "| **Momentum AMP** | Smallest agencies, COI-heavy workflows | From ~$1,200/yr |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "The Professional plan costs $169 per month for two users.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Both answers cite the legacy nowcerts.com pricing page, whose browser snapshot shows only the Essentials column ($99), so its Professional price could not be read; the Momentum AMS page lists Professional at $199 for two users, but because the vendor publishes a second, lower legacy price list the Momentum figure alone is not a clean contradiction.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|1",
+     "quote": "Its published Professional plan lists **$169/month for two users**."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|ChatGPT|3",
+     "quote": "its published Professional plan lists **$169/month for two users**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "NowCerts (Momentum AMP) starts at $169 per month (including one or two users depending on plan).",
+   "class": "wrong",
+   "proof_url": "https://momentumamp.com/pricing",
+   "proof_quote": "Monthly Price | $119 per mo. | $199 per mo. | BEST VALUE $419 per mo. | Call Us 801-999-0550 | | Number of Users | 1 | 2 | 5 | 50+",
+   "stale_change": null,
+   "causing_url": "https://www.quotesweep.com/blog/ams-comparison-2026",
+   "causing_type": "other",
+   "causing_quote": "Pricing: Starts at $169/month (includes 1–2 users depending on plan); $45/additional user.",
+   "rationale": "Both own price lists start lower than $169 a month: the Momentum AMS page lists Essentials at $119 for one user and the legacy nowcerts.com page lists Essentials at $99 for one user, so a $169 starting price contradicts each like with like (the entry plan's monthly price). The cited quotesweep comparison carries the same sentence.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|Claude|2",
+     "quote": "**NowCerts/Momentum AMP** starts at $169/month"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "Starts at $169/month (includes 1–2 users depending on plan)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Each additional user costs $45.",
+   "class": "true",
+   "proof_url": "https://www.nowcerts.com/pricing",
+   "proof_quote": "Cost Per Additional User License $45",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The nowcerts.com pricing page (browser read) lists $45 per additional user license; the Momentum AMS page lists $54 per additional seat (see C07), so the claim matches one of the vendor's two price lists.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "$45/additional user."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Pricing tiers run about $70 to $125 per seat per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The own pricing pages price each plan with a set number of users included plus a per-additional-seat charge; they state no per-seat price for the tiers, so a per-seat range cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Claude|1",
+     "quote": "Pricing tiers typically run $70–$125 per seat per month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "NowCerts costs about $600 to $2,400 a year.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Both own pricing pages give monthly prices only and state no annual cost, so an annual range cannot be compared like with like.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "NowCerts is the most affordable cloud-native option, with an annual cost of $600–$2,400"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|3",
+     "quote": "NowCerts is the most affordable cloud-native option, costing $600–$2,400/year"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|1",
+     "quote": "NowCerts is the most affordable cloud-native option, with an annual cost of $600 to $2,400"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|3",
+     "quote": "Annual cost: $600 to $2,400."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "Onboarding is usually included free.",
+   "class": "true",
+   "proof_url": "https://www.nowcerts.com/pricing",
+   "proof_quote": "Onboarding Basic Training Self (NowCerts University)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The nowcerts.com pricing page (browser read) lists Basic onboarding among the Essentials plan's inclusions without the additional-cost mark it puts on paid extras, and the home page says the team helps import data, set up the agency and give basic training.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|2",
+     "quote": "Free onboarding usually included."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "plans",
+   "claim": "E-signature is included.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page lists a Formstack Sign e-signature integration and the Momentum plan comparison has an e-Signature Integration row whose per-plan marks did not render as text, so whether e-signature is included in a plan cannot be read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Claude|1",
+     "quote": "It offers strong workflow automation, e-sign included"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "platforms",
+   "claim": "NowCerts (Momentum) is a cloud-based, cloud-native AMS.",
+   "class": "true",
+   "proof_url": "https://nowcerts.com/",
+   "proof_quote": "Integrate NowCerts with thousands of other cloud applications in minutes.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (browser read) describes NowCerts as one of the cloud applications it integrates with and says NowCerts.com is hosted in a secure server environment.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Perplexity|1",
+     "quote": "**NowCerts**: best for small agencies that want a modern cloud AMS without enterprise overhead."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Perplexity|2",
+     "quote": "**NowCerts** if you want a **cloud-native, budget-friendly** AMS and prefer modern browser-based access."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Perplexity|3",
+     "quote": "**NowCerts**: good cloud-native choice for small agencies wanting a modern browser-based AMS."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|1",
+     "quote": "NowCerts is the modern, cloud-native AMS choice for small agencies that find Vertafore and Applied too heavy."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "NowCerts is the most affordable cloud-native option"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|3",
+     "quote": "NowCerts is the most affordable cloud-native option"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Mode|1",
+     "quote": "NowCerts | Tight initial startup budgets | Cloud-native, budget-friendly, open-API structure"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Mode|2",
+     "quote": "Momentum (formerly NowCerts) | Cloud-first flexibility and API integrations"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Mode|3",
+     "quote": "Momentum AMS | Modern cloud usability"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Mode|2",
+     "quote": "Momentum (formerly NowCerts): A cloud-native, highly intuitive alternative"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Mode|3",
+     "quote": "Key Strengths: Built heavily around a cloud-native architecture"
+    },
+    {
+     "record_id": "insurance-agency-management|q3|Google AI Mode|2",
+     "quote": "Momentum is an extremely agile, API-driven, cloud-based AMS"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Mode|1",
+     "quote": "NowCerts: A modern, cloud-based agency management system known for automation, API integrations, and flexibility"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Mode|2",
+     "quote": "NowCerts: A completely cloud-native system featuring modern API integrations"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Mode|3",
+     "quote": "Momentum (formerly NowCerts): A cloud-based, highly API-driven agency management platform"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|1",
+     "quote": "NowCerts is the most affordable cloud-native option"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|3",
+     "quote": "NowCerts is a cloud-native platform designed for small to mid-size independent agencies"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Google AI Mode|1",
+     "quote": "NowCerts | Smaller agencies | Cloud-based, modern API-driven architecture with lower overhead"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Google AI Mode|3",
+     "quote": "Best for: Modern, cloud-native architecture with an open API."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Perplexity|3",
+     "quote": "**NowCerts** — a modern cloud-first option"
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|1",
+     "quote": "NowCerts is a cloud-based agency management system that appears frequently in comparisons with AgencyZoom."
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|3",
+     "quote": "NowCerts is a cloud-based agency management platform frequently compared to AgencyZoom."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "platforms",
+   "claim": "NowCerts runs entirely in a web browser with no installation.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The browser-read home and pricing pages say the system is hosted and offer a private server option, but neither states that it runs entirely in a browser or needs no installation.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Perplexity|2",
+     "quote": "prefer modern browser-based access."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Perplexity|3",
+     "quote": "wanting a modern browser-based AMS."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|2",
+     "quote": "runs entirely browser-based with no installation requirements."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|3",
+     "quote": "runs entirely browser-based with no installation requirements."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|2",
+     "quote": "Completely browser-native, rapid setup"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "integrations",
+   "claim": "NowCerts (Momentum AMP) integrates with QuickBooks.",
+   "class": "true",
+   "proof_url": "https://nowcerts.com/",
+   "proof_quote": "QuickBooks NowCerts keeps track of all your insurance related transactions. Sync with Quick Books for your taxes and financial statements.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (browser read) lists QuickBooks among its integrations, and the Momentum plan comparison has a Quickbooks Integration row.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|ChatGPT|1",
+     "quote": "Its documented workflows cover insureds and prospects, certificates, tasks, invoicing, payments, commission reconciliation, and QuickBooks integration."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "plans",
+   "claim": "The plan comparison lists client and policy management, ACORD forms, workflows, accounting and commission reconciliation.",
+   "class": "true",
+   "proof_url": "https://www.nowcerts.com/pricing",
+   "proof_quote": "Client and Policy Management Document Storage Acord Forms Custom Workflow Management Sales Pipeline Management Renewal Center Agency Overview Dashboard Interactive Reports Billing / Accounting Commission Reconciliations",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Added in pass 2 from a table cell; the nowcerts.com pricing page (browser read) lists these items in the plan, and the Momentum plan comparison has the same rows.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "Its pricing page lists client/policy management, ACORD forms, workflows, accounting, and commission reconciliation across its plan comparison."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "plans",
+   "claim": "Integration access differs by plan.",
+   "class": "true",
+   "proof_url": "https://momentumamp.com/pricing",
+   "proof_quote": "Integration | Limited | Enabled | Enabled | Custom Integration",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Added in pass 2 from a table cell; the Momentum AMS plan comparison shows integration access as Limited on Essentials, Enabled on Professional and Business and Custom Integration on Enterprise.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|2",
+     "quote": "differences in integration access"
+    }
+   ]
+  }
+ ],
+ "notes": "nowcerts.com is client-rendered: the home and pricing pages gave 64 characters of text on the fetch, and in pass 2 both were read once in a real browser. The vendor publishes two live price lists: the legacy nowcerts.com pricing page (Essentials $99 a month with one user, $45 per additional user license, IVANS downloads $35; only the Essentials column rendered) and the current Momentum AMS pricing page at momentumamp.com/pricing, linked from the vendor's own rebrand post and read once in pass 2 (Essentials $119 one user, Professional $199 two users, Business $419 five users, $54 per additional seat, IVANS downloads $35 on the two entry plans). Claims that match either own price list are classed true with the matching page as proof and the other figure named in the rationale (C05, C07 against Momentum; C09, C14 against nowcerts.com); C12 ($169 Professional, cited to the legacy page) stays unverifiable because that column did not render. The rebrand post dates the rename from NowCerts to Momentum to 13 Nov 2024 and settles C01 to C04. Not coded: Capterra ratings, IIABA market share figures, fit opinions (most affordable, fastest-growing entrant), open-API and certificate features, the malformed q10 Google AI Overviews run 3 comparison table, and the hedged line about feature limitations or usage caps. Pass 2 (8 Oct 2026): C05, C06, C07, C08, C09, C10 (reworded to tiered flat pricing), C14, C17, C19 and C21 unverifiable to true; C13 unverifiable to wrong (starts at $169 against entry prices of $119 and $99), cause the cited quotesweep comparison (other); C11, C12, C15, C16, C18 and C20 stay unverifiable with new reasons. Added C22 and C23 from table cells (q4 ChatGPT 1, q1 ChatGPT 2); the gap lines were already covered at record level or were opinions. Page budget for this vendor: 7 of 14.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "insurance-agency-management|q1|ChatGPT|2",
+  "insurance-agency-management|q1|Claude|1",
+  "insurance-agency-management|q1|Claude|2",
+  "insurance-agency-management|q1|Claude|3",
+  "insurance-agency-management|q1|Google AI Mode|3",
+  "insurance-agency-management|q1|Perplexity|1",
+  "insurance-agency-management|q1|Perplexity|2",
+  "insurance-agency-management|q1|Perplexity|3",
+  "insurance-agency-management|q10|ChatGPT|1",
+  "insurance-agency-management|q10|ChatGPT|3",
+  "insurance-agency-management|q10|Claude|1",
+  "insurance-agency-management|q10|Claude|2",
+  "insurance-agency-management|q10|Claude|3",
+  "insurance-agency-management|q10|Google AI Mode|1",
+  "insurance-agency-management|q10|Google AI Mode|2",
+  "insurance-agency-management|q10|Google AI Mode|3",
+  "insurance-agency-management|q10|Google AI Overviews|2",
+  "insurance-agency-management|q10|Google AI Overviews|3",
+  "insurance-agency-management|q10|Perplexity|1",
+  "insurance-agency-management|q10|Perplexity|2",
+  "insurance-agency-management|q10|Perplexity|3",
+  "insurance-agency-management|q2|Google AI Mode|2",
+  "insurance-agency-management|q2|Google AI Mode|3",
+  "insurance-agency-management|q3|Google AI Mode|2",
+  "insurance-agency-management|q4|ChatGPT|1",
+  "insurance-agency-management|q4|Claude|1",
+  "insurance-agency-management|q4|Claude|2",
+  "insurance-agency-management|q4|Claude|3",
+  "insurance-agency-management|q4|Google AI Mode|1",
+  "insurance-agency-management|q4|Google AI Mode|2",
+  "insurance-agency-management|q4|Google AI Mode|3",
+  "insurance-agency-management|q4|Perplexity|1",
+  "insurance-agency-management|q4|Perplexity|2",
+  "insurance-agency-management|q4|Perplexity|3",
+  "insurance-agency-management|q5|ChatGPT|1",
+  "insurance-agency-management|q5|Claude|1",
+  "insurance-agency-management|q5|Claude|2",
+  "insurance-agency-management|q5|Claude|3",
+  "insurance-agency-management|q5|Google AI Mode|1",
+  "insurance-agency-management|q5|Google AI Mode|3",
+  "insurance-agency-management|q5|Google AI Overviews|1",
+  "insurance-agency-management|q5|Google AI Overviews|2",
+  "insurance-agency-management|q5|Perplexity|1",
+  "insurance-agency-management|q5|Perplexity|2",
+  "insurance-agency-management|q5|Perplexity|3",
+  "insurance-agency-management|q6|Claude|1",
+  "insurance-agency-management|q6|Claude|3",
+  "insurance-agency-management|q6|Google AI Mode|3"
+ ],
+ "named_count": 48
+}

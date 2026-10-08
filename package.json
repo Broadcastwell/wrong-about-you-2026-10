@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Wrong About You: what five engines get wrong, stale and late about 42 software vendors. Data, method and code.",
+  "description": "Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages. Data, method and code.",
   "license": "CC-BY-4.0",
   "scripts": {
-    "test": "node test/analyze.test.mjs",
-    "analyse": "node analysis/analyze.mjs data results",
+    "test": "node test/analyze.test.mjs && node --test test/derived.test.mjs",
+    "analyse": "node analysis/index-record.mjs data results",
+    "derive": "node analysis/derive.mjs",
+    "review": "node scripts/import-review.mjs",
     "gate": "node analysis/gate.mjs"
   },
-  "engines": { "node": ">=20" }
+  "engines": {
+    "node": ">=20"
+  }
 }

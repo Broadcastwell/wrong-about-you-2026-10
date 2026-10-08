@@ -1,0 +1,711 @@
+{
+ "vendor": "DaySmart Vet",
+ "slug": "daysmart-vet",
+ "category": "veterinary-practice-management",
+ "coded_at": "2026-10-08T04:03:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.daysmart.com/vet/",
+   "key": "1406ef8d423d123c",
+   "used_for": "home (product pages on daysmart.com/vet, product-family vendor)"
+  },
+  {
+   "url": "https://www.daysmart.com/vet/pricing",
+   "key": "cc42f52397a16ec1",
+   "used_for": "pricing"
+  },
+  {
+   "url": "https://www.daysmart.com/vet/about-daysmart-vet/",
+   "key": "816a715439ce4334",
+   "used_for": "about and history"
+  },
+  {
+   "url": "https://www.daysmart.com/vet/integrations/",
+   "key": "3e3c6979892879b7",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://www.daysmart.com/vet/daisy-ai/",
+   "key": "6f26f8f4d5cb994d",
+   "used_for": "AI product name"
+  },
+  {
+   "url": "https://www.daysmart.com/vet/petcare/",
+   "key": "384da471059dc5d7",
+   "used_for": "client mobile app"
+  },
+  {
+   "url": "https://www.daysmart.com/vet/demo/",
+   "key": "8db3d28a4d27c26d",
+   "used_for": "cited own page (demo); also checked as a cause candidate"
+  },
+  {
+   "url": "https://co.vet/post/veterinary-management-software/",
+   "key": "1c907ccf7abed1b3",
+   "used_for": "cause (cited page; read once under the ezyVet vendor, snapshot reused, not refetched)"
+  },
+  {
+   "url": "https://www.capterra.co.za/directory/30617/veterinary/software",
+   "key": "f2af517371f72c2e",
+   "used_for": "cause (cited page, HTTP 403)"
+  },
+  {
+   "url": "https://digitail.io/",
+   "key": "da082329f360e74a",
+   "used_for": "cause check (cited as https://digitail.com/; read once under the Digitail vendor, snapshot reused, not the cause)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "DaySmart Vet plans start at $123 per month.",
+   "class": "true",
+   "proof_url": "https://www.daysmart.com/vet/pricing",
+   "proof_quote": "Plans starting at $123/month. Built for practices of every size.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states plans starting at $123 per month, the same starting price and period.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|1",
+     "quote": "Its official pricing page currently advertises plans starting at **$123/month**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|2",
+     "quote": "Advertises plans **starting at $123/month**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|3",
+     "quote": "Its official pricing page currently advertises plans **starting at $123/month**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Overviews|3",
+     "quote": "A straightforward, highly affordable cloud option starting around $123/month."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|2",
+     "quote": "Its published starting price is **$123/month**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|3",
+     "quote": "Its official site advertises plans starting at **$123/month**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "DaySmart Vet plans start at $116 per month (for a single user).",
+   "class": "wrong",
+   "proof_url": "https://www.daysmart.com/vet/pricing",
+   "proof_quote": "Plans starting at $123/month. Built for practices of every size.",
+   "stale_change": null,
+   "causing_url": "https://co.vet/post/veterinary-management-software/",
+   "causing_type": "other",
+   "causing_quote": "DaySmart Vet publishes pricing starting at $116 per month for one user and up to $565 per month for 20 users.",
+   "rationale": "Compared on the same basis (lowest plan price per month), the pricing page starts at $123, not $116; no dated price change is documented, so the claim is wrong rather than stale. A cited CoVet comparison article carries the $116 figure. Pass 2 consistency check: the vendor's own pricing page states the starting monthly price explicitly, and a single-user plan at $116 would sit below the published floor, so wrong stands; the instances worded 'around' or '~$116' give the same specific figure.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|2",
+     "quote": "Plans start at $116 per month for a single user"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "Plans start at $116 per month for a single user"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "with plans starting at $116 per month for a single user"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|1",
+     "quote": "Starts at $116/month for a single user"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "starts at $116/month"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "Starting at ~$116/month"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|1",
+     "quote": "From $116/month"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|2",
+     "quote": "Lower monthly starting price (around $116/mo)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Overviews|1",
+     "quote": "starting around $116 per month"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Overviews|2",
+     "quote": "a lower starting price point (~$116/month)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Overviews|3",
+     "quote": "Pricing: Starts around $116.00/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Pricing scales up to approximately $565 per month for 20 users.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page gives only the starting price and refers larger practices to sales; it states no price for 20 users.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|2",
+     "quote": "scale up to approximately $565 per month for 20 users"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "scale up to approximately $565 per month for 20 users"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "scaling up to approximately $565 per month for 20 users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "DaySmart Vet pricing is tiered by the number of users.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page says plans can be adjusted to add features or users, but does not state that price tiers are set by user count.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "although pricing is tiered based on the number of users"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "although pricing is tiered based on the number of users"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "although pricing is tiered based on the number of users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "DaySmart Vet charges no per-user or per-doctor fees.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page does not state the price basis (per user, per doctor or otherwise).",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|2",
+     "quote": "without aggressive per-user or hidden fees"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|1",
+     "quote": "no per-doctor fees"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|2",
+     "quote": "predictable tier scaling instead of expensive per-user fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "DaySmart Vet has no hidden fees.",
+   "class": "true",
+   "proof_url": "https://www.daysmart.com/vet/pricing",
+   "proof_quote": "All the features you need. No hidden fees.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states no hidden fees.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|2",
+     "quote": "without aggressive per-user or hidden fees"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "DaySmart Vet publishes its (starting) pricing openly.",
+   "class": "true",
+   "proof_url": "https://www.daysmart.com/vet/pricing",
+   "proof_quote": "Plans starting at $123/month. Built for practices of every size.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page publishes a starting price and states that DaySmart Vet believes in transparent pricing.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|2",
+     "quote": "It's one of the few platforms that publishes transparent pricing."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "It is one of the few platforms that publishes transparent pricing."
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "DaySmart Vet is one of the most transparent on pricing"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "DaySmart Vet is one of the few platforms that publishes its starting price openly."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "DaySmart Vet is one of the few platforms that publishes starting prices openly."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "plans",
+   "claim": "AI voice-to-SOAP (Daisy Voice) is an add-on.",
+   "class": "true",
+   "proof_url": "https://www.daysmart.com/vet/pricing",
+   "proof_quote": "let Daisy Voice save you valuable time as an add-on voice to SOAP note AI too.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page describes Daisy Voice as an add-on voice-to-SOAP AI tool.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|3",
+     "quote": "AI voice-to-SOAP is an add-on."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|ChatGPT|2",
+     "quote": "with AI voice-to-SOAP available as an add-on"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "product_names",
+   "claim": "DaySmart Vet was formerly Vetter (Vetter Software).",
+   "class": "true",
+   "proof_url": "https://www.daysmart.com/vet/about-daysmart-vet/",
+   "proof_quote": "Vetter Joins the DaySmart Family of Brands Vetter joined DaySmart, bringing its veterinary expertise to a company focused on building and supporting great software.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page's history of DaySmart Vet begins with the founding of Vetter and records Vetter joining DaySmart in 2021.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|2",
+     "quote": "DaySmart Vet (formerly Vetter Software)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|1",
+     "quote": "DaySmart Vet (formerly Vetter)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|2",
+     "quote": "Formerly known as Vetter, DaySmart Vet is a widely trusted"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|3",
+     "quote": "DaySmart Vet (formerly Vetter Software)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "DaySmart Vet (formerly Vetter Software)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|2",
+     "quote": "Formerly Vetter, DaySmart Vet is a mature, reliable cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Overviews|1",
+     "quote": "DaySmart Vet (formerly Vetter)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|3",
+     "quote": "DaySmart Vet (formerly Vetter) & AVImark"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "**DaySmart Vet** *(formerly Vetter Software)*"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "**DaySmart Vet** *(formerly Vetter Software)*"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "DaySmart Vet (formerly Vetter Software)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|1",
+     "quote": "DaySmart Vet (formerly Vetter Software)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|2",
+     "quote": "DaySmart Vet (formerly Vetter)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|2",
+     "quote": "DaySmart Vet (formerly Vetter)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Mode|3",
+     "quote": "DaySmart Vet (formerly Vetter)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "founding",
+   "claim": "DaySmart Vet has been around since 2011.",
+   "class": "true",
+   "proof_url": "https://www.daysmart.com/vet/pricing",
+   "proof_quote": "Since 2011, DaySmart Vet has supported veterinary practices with reliable, easy to use, cloud-based software built for real clinic workflows.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states DaySmart Vet has supported practices since 2011 (the about page dates Vetter's founding to 2010; the claim matches the vendor's own 'since 2011' wording).",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|2",
+     "quote": "has been around since 2011"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "has been around since 2011"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "product_names",
+   "claim": "DaySmart Vet's AI scribe is named Daisy Voice.",
+   "class": "true",
+   "proof_url": "https://www.daysmart.com/vet/",
+   "proof_quote": "Explore Daisy Voice Built-in AI captures and creates accurate SOAP notes during the visit, not after.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page names the AI SOAP-note tool Daisy Voice; whether it is still a pilot is not assessed.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "DaySmart Vet has introduced a pilot AI feature, Daisy Voice"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "DaySmart Vet has introduced a pilot AI feature called Daisy Voice"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "DaySmart Vet has introduced a pilot AI feature, Daisy Voice"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "platforms",
+   "claim": "DaySmart Vet is cloud-based software.",
+   "class": "true",
+   "proof_url": "https://www.daysmart.com/vet/",
+   "proof_quote": "From first call to final chart, DaySmart Vet is a cloud-based veterinary software platform",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page describes DaySmart Vet as a cloud-based veterinary software platform.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Claude|2",
+     "quote": "cloud-based practice management at accessible price points"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|2",
+     "quote": "DaySmart Vet is a widely trusted, straightforward, cloud-based PIMS"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Mode|3",
+     "quote": "It offers a streamlined all-in-one cloud setup"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|1",
+     "quote": "Cloud-based, low starting cost, no per-doctor fees, strong inventory alerts, pet app."
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|2",
+     "quote": "seeking an affordable, straightforward cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|3",
+     "quote": "It provides an all-in-one cloud platform with lower startup costs"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|ChatGPT|3",
+     "quote": "Cloud-based scheduling, medical records, payments, and client communication."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|1",
+     "quote": "cloud-based practice management at accessible price points"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|2",
+     "quote": "DaySmart Vet is a cloud-based option that serves smaller and independent practices."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|3",
+     "quote": "DaySmart Vet is a cloud-based option that serves smaller and independent practices."
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|1",
+     "quote": "It's an accessible, mature cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|2",
+     "quote": "DaySmart Vet is a mature, reliable cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Mode|3",
+     "quote": "It provides a dependable, straightforward cloud platform"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Google AI Overviews|3",
+     "quote": "A straightforward, highly affordable cloud option"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Perplexity|1",
+     "quote": "best if you want a clean, affordable cloud system with low training burden"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Perplexity|2",
+     "quote": "described as a clean, affordable cloud system for small and growing general practices"
+    },
+    {
+     "record_id": "veterinary-practice-management|q2|Perplexity|3",
+     "quote": "best for budget-conscious small practices that want a straightforward cloud system"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|2",
+     "quote": "DaySmart Vet | Cloud-Based | General practices wanting simplicity"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|3",
+     "quote": "A friendly, highly rated cloud option"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|1",
+     "quote": "| **DaySmart Vet** | General practices wanting a well-known cloud PIMS |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q4|Perplexity|3",
+     "quote": "Choose **DaySmart Vet** or **Digitail** if you want a **modern cloud PMS**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Google AI Mode|1",
+     "quote": "A straightforward, cloud-based practice management option"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|2",
+     "quote": "making it one of the more affordable cloud-based options"
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Claude|3",
+     "quote": "It is a cloud-based solution well-suited for smaller, independent clinics."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Google AI Overviews|2",
+     "quote": "Small to mid-sized independent clinics looking for a reliable, cost-effective cloud system."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Perplexity|2",
+     "quote": "If you want the **best cloud-based modern option**, **ezyVet** and **DaySmart Vet** are the most consistently recommended."
+    },
+    {
+     "record_id": "veterinary-practice-management|q6|Perplexity|3",
+     "quote": "**Best cloud-based practice management options:** **ezyVet** and **DaySmart Vet**"
+    },
+    {
+     "record_id": "veterinary-practice-management|q9|Google AI Mode|1",
+     "quote": "Modern cloud systems (like ezyVet, DaySmart Vet, Digitail, or Vetspire)"
+    },
+    {
+     "record_id": "veterinary-practice-management|q9|Google AI Overviews|3",
+     "quote": "Cloud platforms (like Provet Cloud, , or DaySmart Vet ) offer remote access and updates"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "platforms",
+   "claim": "DaySmart Vet can be accessed from anywhere, on any device, including mobile.",
+   "class": "true",
+   "proof_url": "https://www.daysmart.com/vet/pricing",
+   "proof_quote": "Anywhere access Goodbye, servers! Run your practice on any device with a stable internet connection.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists anywhere access on any device with an internet connection.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q4|Google AI Mode|2",
+     "quote": "reliable mobile/cloud access without excessive complexity"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|1",
+     "quote": "responsive updates, and mobile accessibility"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|2",
+     "quote": "responsive updates, and mobile accessibility"
+    },
+    {
+     "record_id": "veterinary-practice-management|q5|Claude|3",
+     "quote": "| **DaySmart Vet** | Practices needing mobile access & pricing transparency |"
+    },
+    {
+     "record_id": "veterinary-practice-management|q9|Google AI Mode|1",
+     "quote": "allow you to access records from any device"
+    },
+    {
+     "record_id": "veterinary-practice-management|q9|Google AI Overviews|3",
+     "quote": "Cloud platforms (like Provet Cloud, , or DaySmart Vet ) offer remote access and updates"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "platforms",
+   "claim": "DaySmart Vet has a mobile app for pet owners.",
+   "class": "true",
+   "proof_url": "https://www.daysmart.com/vet/pricing",
+   "proof_quote": "Eliminate the need for third-party client communication tools with email and texting options, and the PetCare mobile app.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page includes the PetCare mobile app for clients.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q1|Google AI Overviews|1",
+     "quote": "Cloud-based, low starting cost, no per-doctor fees, strong inventory alerts, pet app."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "integrations",
+   "claim": "DaySmart Vet integrates with IDEXX (described as limited).",
+   "class": "true",
+   "proof_url": "https://www.daysmart.com/vet/integrations/",
+   "proof_quote": "Heska Learn more HomeAgain Learn more IDEXX Learn more",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "IDEXX is listed among DaySmart Vet's integration partners; the depth qualifier 'limited' is not assessed.",
+   "instances": [
+    {
+     "record_id": "veterinary-practice-management|q2|Claude|3",
+     "quote": "| **DaySmart Vet** | Ultimate simplicity | Lower-end | ❌ Basic | Limited |"
+    }
+   ]
+  }
+ ],
+ "notes": "Product-family vendor read on daysmart.com/vet pages as instructed: product home, pricing, about DaySmart Vet, integrations, Daisy AI, PetCare app, and the cited demo page; all HTTP 200 and not thin. The pricing page publishes 'Plans starting at $123/month', so the many '$116 per month' claims (C02) are classed wrong; no dated price change is documented on the pages read, so they are not stale. C02 is traced to a cited CoVet comparison article (read once under the ezyVet vendor, snapshot reused). One Google AI Mode line, 'often starting around $110–$120/month', was not coded because the price is hedged ('often'); while checking it, its cited pages were looked at (the digitail.com home, read under the Digitail vendor, and the DaySmart demo page carry no such range; the cited Capterra directory answered HTTP 403). C10: the pricing page says 'Since 2011' while the about page dates Vetter's founding to 2010; the claim ('around since 2011') matches the former. C06 and C05 split one answer line into 'no hidden fees' (true) and 'no per-user fees' (unverifiable). Support hours, report counts, ratings and ease-of-use lines were not coded. The vague pricing cell 'Lower-end (contact)' was not coded. Pass 2 (8 Oct 2026): no browser snapshot exists for DaySmart Vet and no claim was unverifiable because of a blocked own page, so nothing was re-classed. Consistency check: C02 stays wrong (explicit starting price on the vendor's own pricing page, same basis). Completeness: every gap line and table cell about DaySmart Vet was either already an instance (the ~$116 and From $116 cells, the cloud and IDEXX cells) or out of scope (best-for, budget positioning, ratings, generic integrations, the hedged 'don't want to pay $250+ per month' comparison, support lines); the $289 line in q6 Google AI Overviews run 2 is about another vendor. No claims or instances were added.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "veterinary-practice-management|q1|Claude|2",
+  "veterinary-practice-management|q1|Google AI Mode|1",
+  "veterinary-practice-management|q1|Google AI Mode|2",
+  "veterinary-practice-management|q1|Google AI Mode|3",
+  "veterinary-practice-management|q1|Google AI Overviews|1",
+  "veterinary-practice-management|q1|Google AI Overviews|2",
+  "veterinary-practice-management|q1|Google AI Overviews|3",
+  "veterinary-practice-management|q1|Perplexity|1",
+  "veterinary-practice-management|q1|Perplexity|2",
+  "veterinary-practice-management|q1|Perplexity|3",
+  "veterinary-practice-management|q2|ChatGPT|1",
+  "veterinary-practice-management|q2|ChatGPT|2",
+  "veterinary-practice-management|q2|ChatGPT|3",
+  "veterinary-practice-management|q2|Claude|1",
+  "veterinary-practice-management|q2|Claude|2",
+  "veterinary-practice-management|q2|Claude|3",
+  "veterinary-practice-management|q2|Google AI Mode|1",
+  "veterinary-practice-management|q2|Google AI Mode|2",
+  "veterinary-practice-management|q2|Google AI Mode|3",
+  "veterinary-practice-management|q2|Google AI Overviews|1",
+  "veterinary-practice-management|q2|Google AI Overviews|3",
+  "veterinary-practice-management|q2|Perplexity|1",
+  "veterinary-practice-management|q2|Perplexity|2",
+  "veterinary-practice-management|q2|Perplexity|3",
+  "veterinary-practice-management|q4|Google AI Mode|2",
+  "veterinary-practice-management|q4|Google AI Mode|3",
+  "veterinary-practice-management|q4|Perplexity|1",
+  "veterinary-practice-management|q4|Perplexity|2",
+  "veterinary-practice-management|q4|Perplexity|3",
+  "veterinary-practice-management|q5|Claude|1",
+  "veterinary-practice-management|q5|Claude|2",
+  "veterinary-practice-management|q5|Claude|3",
+  "veterinary-practice-management|q5|Google AI Mode|1",
+  "veterinary-practice-management|q5|Google AI Mode|2",
+  "veterinary-practice-management|q5|Google AI Mode|3",
+  "veterinary-practice-management|q5|Google AI Overviews|1",
+  "veterinary-practice-management|q5|Google AI Overviews|2",
+  "veterinary-practice-management|q5|Google AI Overviews|3",
+  "veterinary-practice-management|q5|Perplexity|1",
+  "veterinary-practice-management|q5|Perplexity|2",
+  "veterinary-practice-management|q5|Perplexity|3",
+  "veterinary-practice-management|q6|ChatGPT|2",
+  "veterinary-practice-management|q6|ChatGPT|3",
+  "veterinary-practice-management|q6|Claude|1",
+  "veterinary-practice-management|q6|Claude|2",
+  "veterinary-practice-management|q6|Claude|3",
+  "veterinary-practice-management|q6|Google AI Mode|1",
+  "veterinary-practice-management|q6|Google AI Mode|2",
+  "veterinary-practice-management|q6|Google AI Mode|3",
+  "veterinary-practice-management|q6|Google AI Overviews|1",
+  "veterinary-practice-management|q6|Google AI Overviews|2",
+  "veterinary-practice-management|q6|Google AI Overviews|3",
+  "veterinary-practice-management|q6|Perplexity|1",
+  "veterinary-practice-management|q6|Perplexity|2",
+  "veterinary-practice-management|q6|Perplexity|3",
+  "veterinary-practice-management|q9|Google AI Mode|1",
+  "veterinary-practice-management|q9|Google AI Overviews|3"
+ ],
+ "named_count": 57
+}

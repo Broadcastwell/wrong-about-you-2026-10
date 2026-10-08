@@ -1,0 +1,6 @@
+engine,statements,true,wrong,stale,unverifiable,wrong_or_stale_pct,wrong_or_stale_low,wrong_or_stale_high
+"ChatGPT","647","575","0","0","72","0","0","0.7"
+"Claude","1177","605","77","2","493","11.5","9.4","14.2"
+"Perplexity","150","113","4","0","33","3.4","1.3","8.5"
+"Google AI Overviews","496","316","25","2","153","7.9","5.5","11.2"
+"Google AI Mode","452","315","7","1","129","2.5","1.3","4.8"

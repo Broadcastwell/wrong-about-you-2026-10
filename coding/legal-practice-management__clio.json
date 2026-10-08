@@ -1,0 +1,3312 @@
+{
+ "vendor": "Clio",
+ "slug": "clio",
+ "category": "legal-practice-management",
+ "coded_at": "2026-10-08T04:25:00Z",
+ "pages_read": [
+  {
+   "url": "https://www.clio.com/pricing/",
+   "key": "cb3886ec0db73cb5",
+   "used_for": "pricing (blocked: HTTP 403 Cloudflare challenge page, no text)"
+  },
+  {
+   "url": "https://www.clio.com/",
+   "key": "2964a75e85ed8bf1",
+   "used_for": "home (blocked: HTTP 403 Cloudflare challenge page, no text)"
+  },
+  {
+   "url": "https://www.clio.com/features/integrations/",
+   "key": "727cbe890b227073",
+   "used_for": "integrations (blocked: HTTP 403 Cloudflare challenge page, no text)"
+  },
+  {
+   "url": "https://www.clio.com/pricing/",
+   "key": "cb3886ec0db73cb5.browser",
+   "used_for": "pass 2 browser read of the pricing page (Starter from $49/user; Core, Signature and Elite on request; Clio Grow and Clio for Personal Injury add-ons)"
+  },
+  {
+   "url": "https://www.clio.com/",
+   "key": "2964a75e85ed8bf1.browser",
+   "used_for": "pass 2 browser read of the home page (400,000+ legal professionals, 300+ app integrations, SOC 2 Type II, product names)"
+  },
+  {
+   "url": "https://www.clio.com/features/integrations/",
+   "key": "727cbe890b227073.browser",
+   "used_for": "pass 2 browser read of the integrations page (250+ app integrations, Zoom and Microsoft Teams, Zapier, 7-day free trial)"
+  },
+  {
+   "url": "https://www.clio.com/about/",
+   "key": "b1286c1df7ebb5df.browser",
+   "used_for": "pass 2 browser read of the about page (400,000+ legal professionals, 300+ integration partners, headquarters, founding)"
+  },
+  {
+   "url": "https://getstackcompare.com/alternatives/smokeball",
+   "key": "d212d7ec0c55121a",
+   "used_for": "cause for C15 (cited page, statement not found)"
+  },
+  {
+   "url": "https://www.pagelightprime.com/blogs/clio-alternatives-2026-legal-software-comparison",
+   "key": "8a7340bd77605ac4",
+   "used_for": "cause for C15 (cited page, statement not found)"
+  },
+  {
+   "url": "https://mylegalacademy.com/kb/case-management-software-comparison-2026",
+   "key": "035ef7fe60f9be52",
+   "used_for": "cause for C15 (cited page, statement not found)"
+  },
+  {
+   "url": "https://www.practicepanther.com/comparison/",
+   "key": "d626409da349d44e",
+   "used_for": "cause for C15 (cited page, statement not found)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Clio's starting price is $49 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "Starting at $49/user Starter Clio Manage",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) gives the entry plan, Starter, as 'Starting at $49/user', which matches the $49 per user starting price; the snapshot does not print a billing period, so the per month part is read as the usual basis and not contradicted.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "Clio starts at **$49/user/month**"
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "Starts at **$49/user/month**."
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|3",
+     "quote": "Starts at **$49/user/month**; get a quote for the features you need."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Overviews|2",
+     "quote": "Pricing starts near $49 per user per month."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "Plans start at **$49/user/month**, but get a quote for the tier you actually need."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "Advertises a starting price of **$49/user/month**"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|3",
+     "quote": "Clio advertises a **$49/user/month starting price**"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Clio ranges from $49 to $149 per user per month"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "Clio's $49/user/month entry"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "Clio's $49/user/month entry"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "Clio's $49/user/month entry"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|1",
+     "quote": "starts at **$49/user/month**; get pricing for the configuration you need."
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "Advertises a starting price of **$49/user**; confirm the billing term and package with sales."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|3",
+     "quote": "Clio runs roughly $49 to $149 across its tiers."
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|1",
+     "quote": "Plans start at **$49/user/month**."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "~$49+/user/mo"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|1",
+     "quote": "Starts around $49 per user/month, with advanced plans scaling higher."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|2",
+     "quote": "Starting at $49/mo (Advanced ~ $109/mo)"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|3",
+     "quote": "Starting at $49/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Starts at **$49 per user/month**"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Starts at **$49/user/month**; higher-tier pricing requires a quote."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Starts at **$49 per user/month**."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "| Entry | $49/user/mo (EasyStart) |"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "| Entry-level | ~$49/user/mo |"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "Clio starts at $49/user/month (EasyStart)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|3",
+     "quote": "Starts around $49 per user/month (EasyStart)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|3",
+     "quote": "Starting price is around $49 per user per month for basic tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Clio's starting price is $39 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) gives 'Starting at $49/user' for Starter without a billing period and lists no EasyStart plan; two of the answers tie $39 to annual billing, so the page does not compare like with like and does not settle the $39 entry price.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "Clio starts at $39/user/month, but without trust accounting included at that level."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "Starting ~$39/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "but at $39–$149/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "Clio starts at $39/user/month (EasyStart, billed annually)"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "Clio starts at $39 per user per month (EasyStart, billed annually)"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Claude|1",
+     "quote": "Starting at $39/user/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Clio's starting price is about $59 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) gives 'Starting at $49/user' for Starter without a billing period; whether about $59 is a different billing term's price is not stated, so the page does not settle it.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "Best overall, scalability | ~$59/user/mo"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "Best overall, scalability | ~$59/user/mo"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Clio's starting price is around $39 to $49 per user per month.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "Starting at $49/user Starter Clio Manage",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) gives the entry plan as 'Starting at $49/user', which falls inside the stated range of about $39 to $49.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|1",
+     "quote": "Starting Price: Both start around $39–$49 per user per month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "Clio's top tier costs $149 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) prices only the Starter plan ('Starting at $49/user'); Core, Signature and Elite show 'Get pricing', so no own page text settles a $149 top-tier price.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Clio ranges from $49 to $149 per user per month"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "but at $39–$149/user/month"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|3",
+     "quote": "Clio runs roughly $49 to $149 across its tiers."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "| Top Tier | $149/user/mo (Complete) |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "Clio's top tier, the Complete plan, costs $139 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists the practice management plans Starter, Core, Signature and Elite with no Complete plan, and shows 'Get pricing' above Starter, so the $139 Complete price is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "runs to $139 for its Complete plan"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "runs to $139 for its Complete plan"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Clio's top tier costs $129 or more per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) prices only the Starter plan ('Starting at $49/user'); Core, Signature and Elite show 'Get pricing', so no own page text settles a $129 or more top-tier price.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "| Top tier | $129+/user/mo |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "The EasyStart plan costs $39 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists the practice management plans Starter, Core, Signature and Elite and no EasyStart plan, and gives no billing period for Starter's $49; absence of the name is not an explicit contradiction and no dated rename is documented, so the $39 EasyStart price is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "Clio's $39 EasyStart tier"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "Clio EasyStart at $39 ships without a client portal"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "Clio EasyStart at $39 ships without a client portal"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "Clio starts at $39/user/month (EasyStart, billed annually)"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "Clio starts at $39 per user per month (EasyStart, billed annually)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "The EasyStart plan costs $49 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists the practice management plans Starter, Core, Signature and Elite; the $49 figure belongs to the plan named Starter, and no page links EasyStart to Starter (no dated rename), so the EasyStart price is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "| Entry | $49/user/mo (EasyStart) |"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "Clio starts at $49/user/month (EasyStart)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|3",
+     "quote": "Starts around $49 per user/month (EasyStart)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "The mid tier (Essentials) costs $89 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists the practice management plans Starter, Core, Signature and Elite with no Essentials plan and no price above Starter ('Get pricing'), so the $89 Essentials price is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "starting at Essentials ($89/user/month)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "| Mid | $89/user/mo (Essentials) |"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "| Mid-tier | $89/user/mo |"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "the $89 Essentials plan"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|3",
+     "quote": "like Essentials at $89"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "The Advanced plan costs $119 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists the practice management plans Starter, Core, Signature and Elite with no Advanced plan and no price above Starter ('Get pricing'), so the $119 Advanced price is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "| Advanced | $119/user/mo (Advanced) |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "The Advanced plan costs about $109 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists the practice management plans Starter, Core, Signature and Elite with no Advanced plan and no price above Starter ('Get pricing'), so the about $109 Advanced price is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|2",
+     "quote": "Starting at $49/mo (Advanced ~ $109/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "The PI Essentials bundle has an introductory starting price of $149 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists personal injury as an add-on named Clio for Personal Injury, with no price and no PI Essentials bundle, so the $149 introductory price is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|ChatGPT|1",
+     "quote": "Its PI Essentials bundle currently advertises an introductory starting price of **$149/user/month**."
+    },
+    {
+     "record_id": "legal-practice-management|q3|ChatGPT|3",
+     "quote": "The advertised PI Essentials introductory bundle starts at **$149/user/month**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Plans above the entry plan (Core, Signature, Elite) are priced by quote.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "Core Clio Manage AI-first practice management that takes the busywork off your plate. Try for free Get pricing",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) prices only the Starter plan ('Starting at $49/user'); Core, Signature and Elite show 'Get pricing' instead of a price, so the higher tiers are priced on request.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "Core requires a quote"
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "Higher tiers require a quote"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "its current page directs buyers to request pricing for Core, Signature, and Elite."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "higher-tier pricing requires a quote."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "higher-tier pricing requires a quote."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "Clio's starting price is custom (quote only).",
+   "class": "wrong",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "BEST VALUE Starting at $49/user Starter",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The answer's 'Starting Price' column gives Clio as Custom, but the pricing page (read once in a browser) publishes a starting price for its entry plan ('Starting at $49/user', Starter): starting price against starting price, the contradiction is explicit (only the higher tiers are on request, C14). None of the answer's cited pages read in this study carries the statement, so the cause is not found.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "| Clio | Mid-size general practice | Custom |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "Clio publishes its pricing in tiers (transparent, advertised entry pricing).",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "Starting at $49/user Starter Clio Manage",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) presents tiered plans (Starter, Core, Signature, Elite) with an advertised entry price; only the entry price is printed, the other tiers show 'Get pricing'.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|1",
+     "quote": "transparent tiered pricing"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Overviews|1",
+     "quote": "it offers an all-in-one cloud platform with transparent pricing"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Mode|1",
+     "quote": "transparent tiered pricing"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Perplexity|3",
+     "quote": "they advertise entry pricing or lower starting tiers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "A 5-attorney firm pays about $13,000 to $15,000 a year for Clio with typical add-ons.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) publishes a yearly total for a five-attorney firm with add-ons, so the estimate is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "A 5-attorney firm will pay approximately $13,000–$15,000/year for Clio with typical add-ons."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "A 5-attorney firm will pay approximately $13,000–$15,000/year for Clio with typical add-ons."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "A 5-attorney firm will pay approximately $13,000–$15,000/year for Clio with typical add-ons"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "A solo attorney pays about $80 to $120 a month once trust accounting, Clio Grow and Clio Draft are added.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) publishes a monthly total for a solo with trust accounting, Clio Grow and Clio Draft, so the estimate is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "$80–$120/month once they add trust accounting, client intake (Clio Grow), and document assembly (Clio Draft)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "$80–$120/month once they add trust accounting, client intake (Clio Grow), and document assembly (Clio Draft)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "$80–$120/month once they add trust accounting, client intake (Clio Grow), and document assembly (Clio Draft)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "A working Clio setup typically costs $99 to $139 or more per user before add-ons.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) publishes a typical per-user cost before add-ons, so the estimate is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "so a working setup is typically $99–$139+ per user before add-ons."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "plans",
+   "claim": "Clio has a plan named Starter.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "BEST VALUE Starting at $49/user Starter",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists a plan named Starter.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "the cheaper Starter plan excludes the portal, document templates, and app integrations."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Its current tiers are Starter, Core, Signature, and Elite"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "plans",
+   "claim": "Clio has a plan named Core.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "Core Clio Manage AI-first practice management that takes the busywork off your plate.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists a plan named Core.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "compare Clio Core with MyCase Pro before buying"
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "the client portal starts at Core"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|3",
+     "quote": "Compare **Core and Signature**, rather than just the entry plan."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "request pricing for Core, Signature, and Elite"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Its current tiers are Starter, Core, Signature, and Elite"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "plans",
+   "claim": "Clio has a plan named Signature.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "Popular Signature Clio Manage Visibility and control to govern every matter, person, and dollar at scale.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists a plan named Signature.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|3",
+     "quote": "Compare **Core and Signature**, rather than just the entry plan."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "request pricing for Core, Signature, and Elite"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "**Clio Signature**"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Its current tiers are Starter, Core, Signature, and Elite"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "plans",
+   "claim": "Clio has a plan named Elite.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "Elite Clio Manage Clio Grow Signature’s practice management plus Clio Grow’s client acquisition suite.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists a plan named Elite.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "Client intake through Clio Grow is included in Elite"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "request pricing for Core, Signature, and Elite"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Clio Grow's intake/CRM suite is included in Elite"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Its current tiers are Starter, Core, Signature, and Elite"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "plans",
+   "claim": "Clio has a plan named EasyStart.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists the practice management plans Starter, Core, Signature and Elite and does not mention EasyStart; absence from the list is not an explicit contradiction and no dated rename is documented, so the plan name is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "Clio's $39 EasyStart tier"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "Clio EasyStart at $39"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "Clio EasyStart at $39"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "(EasyStart, billed annually)"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "(EasyStart, billed annually)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "$49/user/mo (EasyStart)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "Clio starts at $49/user/month (EasyStart)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|3",
+     "quote": "Starts around $49 per user/month (EasyStart)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "plans",
+   "claim": "Clio has a plan named Essentials.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists the practice management plans Starter, Core, Signature and Elite and does not mention Essentials; absence from the list is not an explicit contradiction and no dated rename is documented, so the plan name is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "starting at Essentials ($89/user/month)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "$89/user/mo (Essentials)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "the $89 Essentials plan"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|3",
+     "quote": "like Essentials at $89"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "plans",
+   "claim": "Clio has a plan named Advanced.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists the practice management plans Starter, Core, Signature and Elite and does not mention Advanced; absence from the list is not an explicit contradiction and no dated rename is documented, so the plan name is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|2",
+     "quote": "(Advanced ~ $109/mo)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "$119/user/mo (Advanced)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "plans",
+   "claim": "Clio has a plan named Complete.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists the practice management plans Starter, Core, Signature and Elite and does not mention Complete; absence from the list is not an explicit contradiction and no dated rename is documented, so the plan name is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "runs to $139 for its Complete plan"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "runs to $139 for its Complete plan"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "$149/user/mo (Complete)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "plans",
+   "claim": "The entry plan does not include the client portal.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) names each plan with a one-line description and a 'See features' link but its text does not list plan features, so which plan includes the client portal is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "the cheaper Starter plan excludes the portal"
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "the client portal starts at Core"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "which includes the client portal that Clio's $39 EasyStart tier does not."
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "Clio EasyStart at $39 ships without a client portal"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "Clio EasyStart at $39 ships without a client portal"
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "plans",
+   "claim": "The Starter plan does not include document templates.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) names each plan with a one-line description and a 'See features' link but its text does not list plan features, so whether Starter includes document templates is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "the cheaper Starter plan excludes the portal, document templates, and app integrations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "plans",
+   "claim": "The Starter plan does not include app integrations.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) names each plan with a one-line description and a 'See features' link but its text does not list plan features, and the integrations page does not tie integrations to a plan, so whether Starter includes app integrations is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|1",
+     "quote": "the cheaper Starter plan excludes the portal, document templates, and app integrations."
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "plans",
+   "claim": "The EasyStart plan caps eSignatures at three per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) names each plan with a one-line description and a 'See features' link but its text does not list plan features, so an eSignature cap is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "caps eSignatures at three per month."
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "caps eSignatures at three per month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "plans",
+   "claim": "Trust accounting is not included in the entry plan and costs extra.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) says Starter comes 'with legal accounting built in' but does not name trust accounting, and the $39 entry level the answers describe is not a plan on that page, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "Clio starts at $39/user/month, but without trust accounting included at that level."
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "$80–$120/month once they add trust accounting"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "$80–$120/month once they add trust accounting"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "$80–$120/month once they add trust accounting"
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "plans",
+   "claim": "Accounting is included in every current Clio plan.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) says Starter comes 'with legal accounting built in' and lists the FAQ 'Is accounting included in my plan?' without its answer; it does not say accounting is in every plan.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Its current plans include accounting and trust/operating reconciliation."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Its current plans include accounting"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Clio's current pricing page says accounting is included in every plan."
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "plans",
+   "claim": "The Signature plan includes unlimited custom roles and permissions.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) describes Signature in one line (visibility and control at scale) and does not list its features, so unlimited custom roles are not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Includes unlimited custom roles/permissions, split billing, and multiple currencies."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Includes unlimited custom roles, matter stages, and scheduled AI-built reports."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Its Signature tier includes unlimited custom roles and granular permissions, plus matter-stage tracking."
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "plans",
+   "claim": "The Signature plan includes split billing.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) describes Signature in one line and does not list its features, so split billing is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Includes unlimited custom roles/permissions, split billing, and multiple currencies."
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "plans",
+   "claim": "The Signature plan includes multiple currencies.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) describes Signature in one line and does not list its features, so multiple currencies are not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Includes unlimited custom roles/permissions, split billing, and multiple currencies."
+    }
+   ]
+  },
+  {
+   "claim_id": "C37",
+   "type": "plans",
+   "claim": "The Signature plan includes matter stages.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) describes Signature in one line and does not list its features, so matter stages are not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Includes unlimited custom roles, matter stages, and scheduled AI-built reports."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Its Signature tier includes unlimited custom roles and granular permissions, plus matter-stage tracking."
+    }
+   ]
+  },
+  {
+   "claim_id": "C38",
+   "type": "plans",
+   "claim": "The Signature plan includes scheduled AI-built reports.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) describes Signature in one line and does not list its features, so scheduled AI-built reports are not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Includes unlimited custom roles, matter stages, and scheduled AI-built reports."
+    }
+   ]
+  },
+  {
+   "claim_id": "C39",
+   "type": "plans",
+   "claim": "Clio Grow is included in the Elite plan.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "Clio Grow (included in Elite and Elite Work)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists Clio Grow as included in Elite (and Elite Work).",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "Client intake through Clio Grow is included in Elite or available as an add-on to certain other plans."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Intake/CRM through Clio Grow is included in Elite or available as an add-on to Core and Signature."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Clio Grow's intake/CRM suite is included in Elite or available as an add-on."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Clio Grow's intake/client-acquisition suite is included in Elite and available as an add-on."
+    }
+   ]
+  },
+  {
+   "claim_id": "C40",
+   "type": "plans",
+   "claim": "Clio Grow (intake and CRM) is a separately priced add-on unless a plan includes it.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "ADD-ON Client intake and CRM Clio Grow (included in Elite and Elite Work)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists Clio Grow, client intake and CRM, as an add-on to a plan unless the plan (Elite, Elite Work) includes it.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "Clio Grow intake tools cost extra unless included in your package."
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|3",
+     "quote": "higher tiers and optional products such as Clio Grow mean the starting price may not represent your final setup."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "Client intake through Clio Grow is included in Elite or available as an add-on to certain other plans."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "intake may require Clio Grow or a higher package."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Clio Grow plus Clio Manage is the most integrated path, if you can absorb the cost."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Mode|1",
+     "quote": "strong client intake add-ons (Clio Grow)."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Overviews|2",
+     "quote": "it can become expensive as you add specialized modules like Clio Grow."
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "$80–$120/month once they add trust accounting, client intake (Clio Grow), and document assembly (Clio Draft)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "$80–$120/month once they add trust accounting, client intake (Clio Grow), and document assembly (Clio Draft)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "$80–$120/month once they add trust accounting, client intake (Clio Grow), and document assembly (Clio Draft)"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "intake through Clio Grow and advanced features depend on the plan or add-ons."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "with Clio Grow, Clio Duo, and e-signature billed on top"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "with Clio Grow, Clio Duo, and e-signature billed on top"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Intake/CRM through Clio Grow is included in Elite or available as an add-on to Core and Signature."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Clio Grow's intake/CRM suite is included in Elite or available as an add-on."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Clio Grow's intake/client-acquisition suite is included in Elite and available as an add-on."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "Clio splits intake into a separate product (Clio Grow), which adds cost."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "Clio splits intake into a separate product (Clio Grow), which adds cost."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "users say Clio runs higher than competitors once you add modules like Clio Grow alongside Clio Manage to get the full suite."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|1",
+     "quote": "separate CRM add-ons like Clio Grow."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|3",
+     "quote": "comprehensive operations (via Clio Manage and the Clio Grow CRM suite) often require higher plans or separate add-ons."
+    }
+   ]
+  },
+  {
+   "claim_id": "C41",
+   "type": "plans",
+   "claim": "Clio Duo is billed on top of the plan price.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) mentions Clio Duo; the pricing FAQ 'Is AI included in my plan?' appears without its answer, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "with Clio Grow, Clio Duo, and e-signature billed on top"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "with Clio Grow, Clio Duo, and e-signature billed on top"
+    }
+   ]
+  },
+  {
+   "claim_id": "C42",
+   "type": "plans",
+   "claim": "E-signature is billed on top of the plan price.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) mentions how e-signature is priced, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "with Clio Grow, Clio Duo, and e-signature billed on top"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "with Clio Grow, Clio Duo, and e-signature billed on top"
+    }
+   ]
+  },
+  {
+   "claim_id": "C43",
+   "type": "plans",
+   "claim": "Clio Draft (document assembly) is a paid add-on.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page's add-on list (read once in a browser) names Clio Grow and Clio for Personal Injury only and does not mention Clio Draft; the page's other tabs were not captured, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "$80–$120/month once they add trust accounting, client intake (Clio Grow), and document assembly (Clio Draft)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "$80–$120/month once they add trust accounting, client intake (Clio Grow), and document assembly (Clio Draft)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "$80–$120/month once they add trust accounting, client intake (Clio Grow), and document assembly (Clio Draft)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C44",
+   "type": "plans",
+   "claim": "Clio Accounting is a separate add-on.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) says Starter comes 'with legal accounting built in' and names no Clio Accounting add-on; it does not say whether a product of that name is sold separately, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|2",
+     "quote": "Specialized add-ons like Clio Accounting"
+    }
+   ]
+  },
+  {
+   "claim_id": "C45",
+   "type": "plans",
+   "claim": "Personal injury features are sold as an add-on or bundle.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "ADD-ON Personal injury Clio for Personal Injury Manage medical records, damages, and settlements",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) lists personal injury as an add-on, Clio for Personal Injury. The bundle name PI Essentials that two answers use is not on the page; it is now coded on its own (C90) and its price is C13.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|ChatGPT|1",
+     "quote": "Its PI Essentials bundle currently advertises an introductory starting price"
+    },
+    {
+     "record_id": "legal-practice-management|q3|ChatGPT|2",
+     "quote": "PI features are an **add-on or bundle**"
+    },
+    {
+     "record_id": "legal-practice-management|q3|ChatGPT|3",
+     "quote": "The advertised PI Essentials introductory bundle starts at"
+    }
+   ]
+  },
+  {
+   "claim_id": "C46",
+   "type": "plans",
+   "claim": "Document automation is limited to Clio's higher tiers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) names each plan with a one-line description and a 'See features' link but its text does not list plan features, so whether document automation is limited to higher tiers is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "advanced tools like document automation and court calendaring are limited to Clio's higher tiers."
+    }
+   ]
+  },
+  {
+   "claim_id": "C47",
+   "type": "plans",
+   "claim": "Court calendaring is limited to Clio's higher tiers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) names each plan with a one-line description and a 'See features' link but its text does not list plan features, so whether court calendaring is limited to higher tiers is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "advanced tools like document automation and court calendaring are limited to Clio's higher tiers."
+    }
+   ]
+  },
+  {
+   "claim_id": "C48",
+   "type": "free_tier",
+   "claim": "Clio offers a free plan.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read (each once in a browser) offer a free trial ('free for 7 days', integrations page) and show only priced or on-request plans on the pricing page's practice management tab, but no page states there is no free plan and the other tabs were not captured, so the claim is not explicitly contradicted.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Perplexity|2",
+     "quote": "**Best free-plan options:** **Clio**, **PracticePanther**, and **Filevine**."
+    }
+   ]
+  },
+  {
+   "claim_id": "C49",
+   "type": "product_names",
+   "claim": "Clio's practice management product is named Clio Manage.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "Starter Clio Manage The foundation for running your practice, with legal accounting built in.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page's practice management plans (read once in a browser) are each labelled Clio Manage, and the home page links to 'Explore Clio Manage'.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "my default recommendation is Clio Manage"
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|3",
+     "quote": "start with Clio Manage as the best overall choice"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "**Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "Best Overall: **Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "Best Overall: **Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|3",
+     "quote": "Clio Manage — Best overall and most popular for solos."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Overviews|2",
+     "quote": "Clio Manage: The leading all-in-one platform with broad app integrations and AI tools like Clio Duo."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Overviews|3",
+     "quote": "Clio Manage: Best all-in-one ecosystem with advanced AI tools."
+    },
+    {
+     "record_id": "legal-practice-management|q10|ChatGPT|1",
+     "quote": "| **Clio Manage** | You want to evaluate a broad practice-management platform alongside existing tools."
+    },
+    {
+     "record_id": "legal-practice-management|q10|ChatGPT|2",
+     "quote": "with Clio Manage as the comparison option."
+    },
+    {
+     "record_id": "legal-practice-management|q10|ChatGPT|3",
+     "quote": "| **Clio Manage** | A firm prioritizing a connected platform with Microsoft 365, NetDocuments, and other existing tools."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "**Clio Manage** *(Best All-Around Cloud Platform)*"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|2",
+     "quote": "**Clio Manage** | All-around / integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|1",
+     "quote": "Clio Manage (Best All-in-One Benchmark & Ecosystem Depth)"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|2",
+     "quote": "Clio Manage"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|3",
+     "quote": "Clio Manage — Best for a vast integration ecosystem."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Overviews|1",
+     "quote": "Clio Manage and Filevine stand out as the top practice management platforms"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Overviews|2",
+     "quote": "are Filevine, Clio Manage, and Actionstep"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Overviews|3",
+     "quote": "Clio Manage or Filevine are the top-tier practice management platforms"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Perplexity|1",
+     "quote": "| **Clio Manage** | Firms wanting the broadest ecosystem and a mature cloud platform |"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "Clio Manage would be my default starting point"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "my default recommendation is Clio Manage"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|3",
+     "quote": "my default recommendation is Clio Manage, with MyCase Pro as the main alternative."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "**Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "**Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "**Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Mode|1",
+     "quote": "The industry gold standard for this specific firm size is Clio Manage"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Overviews|1",
+     "quote": "top industry choices including Clio Manage for general versatility"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Overviews|2",
+     "quote": "Clio Manage and MyCase are the best all-around legal practice management software options"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Overviews|3",
+     "quote": "the best practice management software options are Clio Manage, PracticePanther, and Actionstep"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Perplexity|1",
+     "quote": "the safest overall choice is usually **Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Perplexity|2",
+     "quote": "the **best overall practice management software is usually Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Perplexity|3",
+     "quote": "the best overall practice management software is usually **Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Google AI Mode|1",
+     "quote": "Clio Manage: Best General Practice with Strong Integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Perplexity|2",
+     "quote": "**Clio Manage** — a broader legal practice-management tool"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|3",
+     "quote": "The product line spans Clio Manage (practice management and billing)"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Google AI Mode|1",
+     "quote": "The best overall alternative to PracticePanther is Clio Manage"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Google AI Mode|2",
+     "quote": "Clio Manage: The industry heavyweight and most common direct alternative."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Google AI Mode|3",
+     "quote": "Clio Manage – The industry standard and best overall alternative."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Google AI Overviews|2",
+     "quote": "The best overall alternative to PracticePanther is Clio Manage"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Google AI Overviews|3",
+     "quote": "The best overall alternatives to PracticePanther are Clio Manage and MyCase"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Perplexity|1",
+     "quote": "The **best alternatives to PracticePanther** are usually **Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Perplexity|2",
+     "quote": "The **best alternatives to PracticePanther** are usually **Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Perplexity|3",
+     "quote": "The **best alternatives to PracticePanther** are usually **Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "Clio Manage (practice management and billing)"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "The main competitors to Smokeball include **Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "The main competitors to Smokeball include **Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Mode|2",
+     "quote": "Clio Manage is a dominant cloud-native legal practice management software"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Mode|3",
+     "quote": "Clio Manage — The industry giant and best for customizable ecosystems and integrations."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|1",
+     "quote": "The best overall alternatives to Smokeball are Clio Manage, MyCase, and PracticePanther"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|2",
+     "quote": "The best overall alternative to Smokeball is Clio Manage"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|3",
+     "quote": "The best overall alternatives to Smokeball are Clio Manage, MyCase, and PracticePanther"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Perplexity|1",
+     "quote": "The **best alternatives to Smokeball** are **Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Perplexity|2",
+     "quote": "most consistently mentioned across review sites are **Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Perplexity|3",
+     "quote": "most consistently named across review sites are **Clio Manage**"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "once you add modules like Clio Grow alongside Clio Manage to get the full suite."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|3",
+     "quote": "(via Clio Manage and the Clio Grow CRM suite)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C50",
+   "type": "product_names",
+   "claim": "Clio's intake and CRM product is named Clio Grow.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "Client intake and CRM Clio Grow (included in Elite and Elite Work)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) names the client intake and CRM product Clio Grow.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|2",
+     "quote": "Clio Grow intake tools cost extra unless included in your package."
+    },
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|3",
+     "quote": "optional products such as Clio Grow"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "Clio Grow for client intake and relationship management"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|1",
+     "quote": "Client intake through Clio Grow is included in Elite"
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "intake may require Clio Grow or a higher package."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Clio Grow plus Clio Manage is the most integrated path, if you can absorb the cost."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Mode|1",
+     "quote": "strong client intake add-ons (Clio Grow)."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Overviews|2",
+     "quote": "as you add specialized modules like Clio Grow."
+    },
+    {
+     "record_id": "legal-practice-management|q3|Google AI Overviews|1",
+     "quote": "integrates with Clio Grow for intake"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Google AI Overviews|2",
+     "quote": "intake via Clio Grow"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Google AI Overviews|3",
+     "quote": "client intake modules (Clio Grow)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "client intake (Clio Grow)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "client intake (Clio Grow)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "client intake (Clio Grow)"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "intake through Clio Grow and advanced features depend on the plan or add-ons."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "with Clio Grow, Clio Duo, and e-signature billed on top"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "with Clio Grow, Clio Duo, and e-signature billed on top"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|3",
+     "quote": "Clio Grow (intake and legal CRM)"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "Clio Grow (intake and legal CRM)"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "**Clio Grow** for intake and CRM"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "**Clio Grow** for intake and CRM"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|1",
+     "quote": "scalable client intake tools via Clio Grow."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|2",
+     "quote": "Robust client intake (via Clio Grow)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Intake/CRM through Clio Grow is included in Elite"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Clio Grow's intake/CRM suite is included in Elite"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Clio Grow's intake/client-acquisition suite is included in Elite"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "Clio splits intake into a separate product (Clio Grow), which adds cost."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "Clio splits intake into a separate product (Clio Grow), which adds cost."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "add modules like Clio Grow alongside Clio Manage"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|1",
+     "quote": "separate CRM add-ons like Clio Grow."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|3",
+     "quote": "the Clio Grow CRM suite"
+    }
+   ]
+  },
+  {
+   "claim_id": "C51",
+   "type": "product_names",
+   "claim": "Clio's AI assistant is named Clio Duo.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) mentions Clio Duo; the home page names Clio Work, Clio Grow and Clio Manage, so the name is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|1",
+     "quote": "Clio Duo/Manage AI features to draft emails and log notes."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|3",
+     "quote": "It also features Clio Duo (an AI assistant)"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Overviews|2",
+     "quote": "AI tools like Clio Duo."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Overviews|3",
+     "quote": "AI-assisted billing and document workflows via Clio Duo."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|2",
+     "quote": "with Clio Duo and the vLex research engine behind it."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|3",
+     "quote": "thanks to its Clio Duo AI"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|2",
+     "quote": "Their built-in AI capabilities (Clio Duo/Manage AI)"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Overviews|3",
+     "quote": "built-in AI assistance via Clio Duo."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "Clio Duo drafts, summarizes, and surfaces insights across matters"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "Clio Duo drafts, summarizes, and surfaces insights across matters"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Google AI Mode|1",
+     "quote": "built-in AI assistance (Clio Duo / Manage AI)."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "with Clio Grow, Clio Duo, and e-signature billed on top"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "with Clio Grow, Clio Duo, and e-signature billed on top"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Google AI Mode|3",
+     "quote": "built-in AI tools (Clio Duo / Manage AI)"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "serious AI investment with Clio Duo and the vLex research engine."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "In 2025, Clio launched Clio Duo, its AI assistant"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "In 2025, Clio launched Clio Duo, its AI assistant"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "In 2025, Clio launched Clio Duo, its AI assistant"
+    }
+   ]
+  },
+  {
+   "claim_id": "C52",
+   "type": "product_names",
+   "claim": "Clio's AI tools are named Manage AI (Clio Manage AI).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) names an AI product Manage AI or Clio Manage AI, so the name is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|1",
+     "quote": "Clio Duo/Manage AI features to draft emails and log notes."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|2",
+     "quote": "built-in AI tools (Clio Manage AI)"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|1",
+     "quote": "built-in AI tools (Clio Manage AI)"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|2",
+     "quote": "Their built-in AI capabilities (Clio Duo/Manage AI)"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Google AI Mode|1",
+     "quote": "built-in AI assistance (Clio Duo / Manage AI)."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Google AI Mode|3",
+     "quote": "built-in AI tools (Clio Duo / Manage AI)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C53",
+   "type": "product_names",
+   "claim": "Clio has a product named Clio Accounting.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) names a product called Clio Accounting (the pricing page says Starter has legal accounting built in), so the name is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|ChatGPT|2",
+     "quote": "Clio's own guidance positions **Clio Accounting**"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|3",
+     "quote": "Clio Accounting, and Clio Suite (bundled)."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "Clio Accounting, and Clio Suite (bundled)."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|1",
+     "quote": "relies on integrations like Clio Accounting/QuickBooks"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|2",
+     "quote": "Specialized add-ons like Clio Accounting"
+    }
+   ]
+  },
+  {
+   "claim_id": "C54",
+   "type": "product_names",
+   "claim": "Clio sells a bundle named Clio Suite.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) names a bundle called Clio Suite, so the name is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|Claude|3",
+     "quote": "Clio Accounting, and Clio Suite (bundled)."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "Clio Accounting, and Clio Suite (bundled)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C55",
+   "type": "product_names",
+   "claim": "Clio's document assembly product is named Clio Draft.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) names a product called Clio Draft, so the name is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q4|Claude|1",
+     "quote": "document assembly (Clio Draft)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|2",
+     "quote": "document assembly (Clio Draft)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Claude|3",
+     "quote": "document assembly (Clio Draft)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C56",
+   "type": "product_names",
+   "claim": "Clio has a product named Clio Legal.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) names a product called Clio Legal, so the name is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|Google AI Mode|2",
+     "quote": "Clio Legal features robust contingency-fee tracking"
+    }
+   ]
+  },
+  {
+   "claim_id": "C57",
+   "type": "product_names",
+   "claim": "Clio offers vLex legal research (the vLex research engine) as part of its platform.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (read once in a browser) describes a legal library of 'over a billion legal documents across 100+ countries' but does not name vLex, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|2",
+     "quote": "with Clio Duo and the vLex research engine behind it."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|3",
+     "quote": "vLex-powered legal research added through a roughly $1 billion acquisition."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "serious AI investment with Clio Duo and the vLex research engine."
+    }
+   ]
+  },
+  {
+   "claim_id": "C58",
+   "type": "acquisitions",
+   "claim": "Clio acquired vLex.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page and the home page (read once in a browser) do not mention vLex or any acquisition, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "the vLex acquisition adds serious legal research AI."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "the vLex acquisition adds serious legal research AI."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|3",
+     "quote": "vLex-powered legal research added through a roughly $1 billion acquisition."
+    }
+   ]
+  },
+  {
+   "claim_id": "C59",
+   "type": "acquisitions",
+   "claim": "The vLex acquisition was worth roughly $1 billion.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read mentions the vLex acquisition or its value, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|3",
+     "quote": "vLex-powered legal research added through a roughly $1 billion acquisition."
+    }
+   ]
+  },
+  {
+   "claim_id": "C60",
+   "type": "customer_counts",
+   "claim": "Clio is used by over 150,000 legal professionals.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/about/",
+   "proof_quote": "400,000+ legal professionals use Clio",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page (read once in a browser) gives 400,000+ legal professionals using Clio; 'over 150,000' is a lower bound and true as written.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|2",
+     "quote": "used by over 150,000 legal professionals globally."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|3",
+     "quote": "used by over 150,000 legal professionals globally."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|1",
+     "quote": "trusted by over 150,000 legal professionals."
+    }
+   ]
+  },
+  {
+   "claim_id": "C61",
+   "type": "customer_counts",
+   "claim": "Clio has 150,000 or more firms as customers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read count legal professionals (400,000+ on the about and home pages), not firms; no page gives a firm count, so 150,000+ firms is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "It dominates the general practice segment with 150,000+ firms globally"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "It dominates the general practice segment with 150,000+ firms globally"
+    }
+   ]
+  },
+  {
+   "claim_id": "C62",
+   "type": "customer_counts",
+   "claim": "Clio has about 400,000 users.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/about/",
+   "proof_quote": "400,000+ legal professionals use Clio",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page (read once in a browser) gives 400,000+ legal professionals using Clio, which matches about 400,000 users.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "Clio has about 400,000 users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C63",
+   "type": "platforms",
+   "claim": "Clio is cloud-based software.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) states that Clio is cloud-based; the about page says only that its co-founder believed 'the cloud would reshape legal work', so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Google AI Overviews|1",
+     "quote": "it offers an all-in-one cloud platform"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Perplexity|3",
+     "quote": "cloud case management"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "As a fully cloud-based solution, Clio requires no desktop installation"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|2",
+     "quote": "is cloud-native, meaning there's no on-premises version to maintain."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|3",
+     "quote": "is cloud-native, meaning there's no on-premises version to maintain."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|1",
+     "quote": "Clio is the most widely adopted cloud legal platform"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Overviews|2",
+     "quote": "The best cloud-based practice management platforms for a mid-size litigation firm moving off on-premise software are Filevine, Clio Manage, and Actionstep"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Overviews|3",
+     "quote": "Clio Manage: Best all-around cloud platform for growing firms."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Perplexity|1",
+     "quote": "Firms wanting the broadest ecosystem and a mature cloud platform"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Perplexity|2",
+     "quote": "a proven cloud baseline"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Perplexity|3",
+     "quote": "a highly established cloud platform"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Mode|1",
+     "quote": "reliable cloud uptime"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Overviews|3",
+     "quote": "Clio Manage: The most popular cloud-based choice for small firms"
+    },
+    {
+     "record_id": "legal-practice-management|q3|Google AI Mode|3",
+     "quote": "reliable cloud infrastructure"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "an all-in-one, cloud-based solution that grows with their practice."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Mode|1",
+     "quote": "the most popular cloud-based legal practice management software."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Mode|2",
+     "quote": "Clio Manage is a dominant cloud-native legal practice management software"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|1",
+     "quote": "each offering stronger cloud flexibility and native financial tools."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "Both are excellent cloud-based practice management platforms"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "Both platforms are cloud-based, mobile-ready, and offer a secure client portal"
+    }
+   ]
+  },
+  {
+   "claim_id": "C64",
+   "type": "platforms",
+   "claim": "Clio has no on-premises or desktop-installed version.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) says whether an on-premises or desktop version exists, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "Clio requires no desktop installation"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|2",
+     "quote": "there's no on-premises version to maintain."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|3",
+     "quote": "there's no on-premises version to maintain."
+    }
+   ]
+  },
+  {
+   "claim_id": "C65",
+   "type": "platforms",
+   "claim": "Clio has an iOS mobile app.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) names an iOS app, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "offers robust mobile apps for both iOS and Android."
+    }
+   ]
+  },
+  {
+   "claim_id": "C66",
+   "type": "platforms",
+   "claim": "Clio has an Android mobile app.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) names an Android app, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "offers robust mobile apps for both iOS and Android."
+    }
+   ]
+  },
+  {
+   "claim_id": "C67",
+   "type": "certifications",
+   "claim": "Clio holds SOC 2 Type II certification.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/",
+   "proof_quote": "SOC 2 Type II certified.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (read once in a browser) states 'SOC 2 Type II certified.'",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "The platform maintains SOC 2 Type II certification"
+    }
+   ]
+  },
+  {
+   "claim_id": "C68",
+   "type": "certifications",
+   "claim": "Clio is GDPR compliant.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) mentions GDPR, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "with 256-bit encryption and GDPR/CCPA compliance."
+    }
+   ]
+  },
+  {
+   "claim_id": "C69",
+   "type": "certifications",
+   "claim": "Clio is CCPA compliant.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) mentions CCPA, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "with 256-bit encryption and GDPR/CCPA compliance."
+    }
+   ]
+  },
+  {
+   "claim_id": "C70",
+   "type": "integrations",
+   "claim": "Clio integrates with Microsoft 365.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) names Zapier, Zoom and Microsoft Teams among its integrations content and describes calendar, email, accounting and document connections without naming the products; Microsoft 365 is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|1",
+     "quote": "Massive integration library (Google Workspace, Microsoft 365, LawPay)"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Overviews|1",
+     "quote": "It also connects smoothly with tools like Google Workspace and Microsoft 365."
+    },
+    {
+     "record_id": "legal-practice-management|q10|ChatGPT|1",
+     "quote": "Clio documents Microsoft 365 and NetDocuments integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q10|ChatGPT|3",
+     "quote": "A firm prioritizing a connected platform with Microsoft 365, NetDocuments, and other existing tools."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "The platform integrates with over 250 applications including QuickBooks, Xero, Microsoft 365, Google Workspace, Dropbox, LawPay, and Zoom."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|1",
+     "quote": "deep Microsoft 365 / Google Workspace syncing"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Clio offers 250+ integrations, including QuickBooks, Xero, NetDocuments, iManage, Microsoft 365, Google Workspace, and DocuSign."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Mode|2",
+     "quote": "syncs effortlessly with QuickBooks Online, Microsoft 365, Google Workspace, and various payment processors"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Overviews|3",
+     "quote": "robust integrations (like QuickBooks and Microsoft 365)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C71",
+   "type": "integrations",
+   "claim": "Clio integrates with Google Workspace.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) names Zapier, Zoom and Microsoft Teams among its integrations content and describes calendar, email, accounting and document connections without naming the products; Google Workspace is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|1",
+     "quote": "Massive integration library (Google Workspace, Microsoft 365, LawPay)"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Overviews|1",
+     "quote": "It also connects smoothly with tools like Google Workspace and Microsoft 365."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "The platform integrates with over 250 applications including QuickBooks, Xero, Microsoft 365, Google Workspace, Dropbox, LawPay, and Zoom."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|1",
+     "quote": "deep Microsoft 365 / Google Workspace syncing"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Clio offers 250+ integrations, including QuickBooks, Xero, NetDocuments, iManage, Microsoft 365, Google Workspace, and DocuSign."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Mode|2",
+     "quote": "syncs effortlessly with QuickBooks Online, Microsoft 365, Google Workspace, and various payment processors"
+    }
+   ]
+  },
+  {
+   "claim_id": "C72",
+   "type": "integrations",
+   "claim": "Clio integrates with QuickBooks.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) names Zapier, Zoom and Microsoft Teams among its integrations content and describes calendar, email, accounting and document connections without naming the products ('syncing your accounting platform'); QuickBooks is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|2",
+     "quote": "Unlike Clio or MyCase which often integrate with QuickBooks for business accounting"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "The platform integrates with over 250 applications including QuickBooks, Xero, Microsoft 365, Google Workspace, Dropbox, LawPay, and Zoom."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Clio offers 250+ integrations, including QuickBooks, Xero, NetDocuments, iManage, Microsoft 365, Google Workspace, and DocuSign."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Overviews|1",
+     "quote": "it relies on third-party links (like QuickBooks) for full financial accounting."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Overviews|3",
+     "quote": "robust integrations (like QuickBooks and Microsoft 365)"
+    },
+    {
+     "record_id": "legal-practice-management|q4|Google AI Mode|1",
+     "quote": "If you hate syncing Clio to QuickBooks or external ledgers"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Google AI Overviews|1",
+     "quote": "over 250 third-party app integrations (like QuickBooks and Dropbox)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|1",
+     "quote": "relies on integrations like Clio Accounting/QuickBooks"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|1",
+     "quote": "Connects with over 200 external apps (like Outlook, Zoom, and QuickBooks)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|2",
+     "quote": "connecting smoothly with tools like Zoom, QuickBooks, and specialized e-signature or court-calendaring software"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|3",
+     "quote": "Connects with over 200 external third-party apps (such as Outlook, Zoom, and QuickBooks) through an open API."
+    }
+   ]
+  },
+  {
+   "claim_id": "C73",
+   "type": "integrations",
+   "claim": "Clio integrates with QuickBooks Online.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) names Zapier, Zoom and Microsoft Teams among its integrations content and describes calendar, email, accounting and document connections without naming the products; QuickBooks Online is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Google AI Mode|2",
+     "quote": "syncs effortlessly with QuickBooks Online, Microsoft 365, Google Workspace, and various payment processors"
+    }
+   ]
+  },
+  {
+   "claim_id": "C74",
+   "type": "integrations",
+   "claim": "Clio works with QuickBooks Desktop.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) names Zapier, Zoom and Microsoft Teams among its integrations content and describes calendar, email, accounting and document connections without naming the products; QuickBooks Desktop is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "you use QuickBooks Desktop, rely on court e-filing integrations, or need AI-assisted document drafting"
+    }
+   ]
+  },
+  {
+   "claim_id": "C75",
+   "type": "integrations",
+   "claim": "Clio integrates with Xero.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) names Zapier, Zoom and Microsoft Teams among its integrations content and describes calendar, email, accounting and document connections without naming the products; Xero is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "The platform integrates with over 250 applications including QuickBooks, Xero, Microsoft 365, Google Workspace, Dropbox, LawPay, and Zoom."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Clio offers 250+ integrations, including QuickBooks, Xero, NetDocuments, iManage, Microsoft 365, Google Workspace, and DocuSign."
+    }
+   ]
+  },
+  {
+   "claim_id": "C76",
+   "type": "integrations",
+   "claim": "Clio integrates with LawPay.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) names Zapier, Zoom and Microsoft Teams among its integrations content and describes calendar, email, accounting and document connections without naming the products; LawPay is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|1",
+     "quote": "Massive integration library (Google Workspace, Microsoft 365, LawPay)"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "The platform integrates with over 250 applications including QuickBooks, Xero, Microsoft 365, Google Workspace, Dropbox, LawPay, and Zoom."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|1",
+     "quote": "many Clio users add LawPay or another payment processor separately"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|2",
+     "quote": "many Clio users add LawPay or another payment processor separately"
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|3",
+     "quote": "many Clio users add LawPay or another payment processor separately"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "Many Clio users add LawPay or another payment processor separately"
+    }
+   ]
+  },
+  {
+   "claim_id": "C77",
+   "type": "integrations",
+   "claim": "Clio integrates with Dropbox.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) names Zapier, Zoom and Microsoft Teams among its integrations content and describes calendar, email, accounting and document connections without naming the products; Dropbox is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "The platform integrates with over 250 applications including QuickBooks, Xero, Microsoft 365, Google Workspace, Dropbox, LawPay, and Zoom."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Google AI Overviews|1",
+     "quote": "over 250 third-party app integrations (like QuickBooks and Dropbox)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C78",
+   "type": "integrations",
+   "claim": "Clio integrates with Zoom.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/features/integrations/",
+   "proof_quote": "Clio This Month: Integrations With Zoom and Microsoft Teams",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) lists Clio's own article 'Clio This Month: Integrations With Zoom and Microsoft Teams' among its integration resources.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "The platform integrates with over 250 applications including QuickBooks, Xero, Microsoft 365, Google Workspace, Dropbox, LawPay, and Zoom."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|1",
+     "quote": "Connects with over 200 external apps (like Outlook, Zoom, and QuickBooks)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|2",
+     "quote": "connecting smoothly with tools like Zoom, QuickBooks, and specialized e-signature or court-calendaring software"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|3",
+     "quote": "Connects with over 200 external third-party apps (such as Outlook, Zoom, and QuickBooks) through an open API."
+    }
+   ]
+  },
+  {
+   "claim_id": "C79",
+   "type": "integrations",
+   "claim": "Clio integrates with NetDocuments.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) names Zapier, Zoom and Microsoft Teams among its integrations content and describes calendar, email, accounting and document connections without naming the products; NetDocuments is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|ChatGPT|1",
+     "quote": "Clio documents Microsoft 365 and NetDocuments integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q10|ChatGPT|3",
+     "quote": "A firm prioritizing a connected platform with Microsoft 365, NetDocuments, and other existing tools."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|2",
+     "quote": "pairing seamlessly with dedicated document management like NetDocuments"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Clio offers 250+ integrations, including QuickBooks, Xero, NetDocuments, iManage, Microsoft 365, Google Workspace, and DocuSign."
+    }
+   ]
+  },
+  {
+   "claim_id": "C80",
+   "type": "integrations",
+   "claim": "Clio integrates with iManage.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) names Zapier, Zoom and Microsoft Teams among its integrations content and describes calendar, email, accounting and document connections without naming the products; iManage is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Clio offers 250+ integrations, including QuickBooks, Xero, NetDocuments, iManage, Microsoft 365, Google Workspace, and DocuSign."
+    }
+   ]
+  },
+  {
+   "claim_id": "C81",
+   "type": "integrations",
+   "claim": "Clio integrates with DocuSign.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) names Zapier, Zoom and Microsoft Teams among its integrations content and describes calendar, email, accounting and document connections without naming the products; DocuSign is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Clio offers 250+ integrations, including QuickBooks, Xero, NetDocuments, iManage, Microsoft 365, Google Workspace, and DocuSign."
+    }
+   ]
+  },
+  {
+   "claim_id": "C82",
+   "type": "integrations",
+   "claim": "Clio integrates with Outlook.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) names Zapier, Zoom and Microsoft Teams among its integrations content and describes calendar, email, accounting and document connections without naming the products; Outlook is not named, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|2",
+     "quote": "with integrations for Outlook and Microsoft Teams."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|1",
+     "quote": "Connects with over 200 external apps (like Outlook, Zoom, and QuickBooks)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|3",
+     "quote": "Connects with over 200 external third-party apps (such as Outlook, Zoom, and QuickBooks) through an open API."
+    }
+   ]
+  },
+  {
+   "claim_id": "C83",
+   "type": "integrations",
+   "claim": "Clio integrates with Microsoft Teams.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/features/integrations/",
+   "proof_quote": "Clio This Month: Integrations With Zoom and Microsoft Teams",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) lists Clio's own article 'Clio This Month: Integrations With Zoom and Microsoft Teams' among its integration resources.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Claude|2",
+     "quote": "with integrations for Outlook and Microsoft Teams."
+    }
+   ]
+  },
+  {
+   "claim_id": "C84",
+   "type": "integrations",
+   "claim": "Clio offers 250+ (over 250) app integrations.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/features/integrations/",
+   "proof_quote": "Build smarter workflows with Clio’s 250+ app integrations.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page (read once in a browser) states 250+ app integrations and 'over 250 apps' in the Clio App Directory; the home page gives 300+.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|ChatGPT|3",
+     "quote": "it offers **250+ integrations**, including Microsoft and Google tools, accounting applications, and practice-specific software."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|1",
+     "quote": "the 250+ integrations mean it connects with virtually any other tool in your workflow."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|2",
+     "quote": "the 250+ integrations mean it connects with virtually any other tool in your workflow."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Claude|3",
+     "quote": "the 250-plus integrations mean it connects with virtually any other tool in your workflow."
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|2",
+     "quote": "It offers an massive app integration marketplace (over 250+ tools)"
+    },
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|3",
+     "quote": "paired with an unmatched marketplace of over 250 third-party integrations."
+    },
+    {
+     "record_id": "legal-practice-management|q10|Claude|1",
+     "quote": "The platform integrates with over 250 applications"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|1",
+     "quote": "its massive, reliable integration marketplace (250+ integrations)"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Mode|2",
+     "quote": "because of its reliability and 250+ integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Overviews|2",
+     "quote": "Massive integration library (250+ apps)"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|1",
+     "quote": "Clio leads on ecosystem depth (250+ integrations) and billing workflow maturity."
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|2",
+     "quote": "Clio offers 250+ integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Claude|3",
+     "quote": "Clio leads on ecosystem depth (250+ integrations) and billing workflow maturity."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Claude|3",
+     "quote": "Clio dominates mid-size general practice firms with its 250+ integrations."
+    },
+    {
+     "record_id": "legal-practice-management|q5|Google AI Overviews|1",
+     "quote": "The market leader with over 250 third-party app integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|1",
+     "quote": "Clio dominates mid-size general practice firms with its 250+ integrations."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "Clio dominates mid-size general practice firms with its 250+ integrations."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Claude|3",
+     "quote": "Clio dominates mid-size general practice firms with its 250+ integrations."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Mode|3",
+     "quote": "the largest app-integration marketplace in the legal tech space (connecting with over 250+ tools)"
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|2",
+     "quote": "Advertises 250+ integrations, versus 70+ on MyCase Pro."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|3",
+     "quote": "Advertises 250+ integrations, versus 70+ on MyCase Pro."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "250+ third-party integrations make it the most extensible legal practice management platform available in 2026."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "250+ third-party integrations make it the most extensible legal practice management platform available in 2026."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|3",
+     "quote": "250+ third-party integrations make it the most extensible legal practice management platform available in 2026."
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|1",
+     "quote": "Over 250+ app integrations"
+    }
+   ]
+  },
+  {
+   "claim_id": "C85",
+   "type": "integrations",
+   "claim": "Clio offers over 200 (200+) app integrations.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/features/integrations/",
+   "proof_quote": "With over 250 apps available in the Clio App Directory",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Lower bound: the integrations page (read once in a browser) gives 'over 250 apps' in the App Directory and the home page 300+, so 'over 200' is true as written.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q10|Google AI Overviews|1",
+     "quote": "Extensive app integrations (over 200)"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Overviews|3",
+     "quote": "It features over 200 integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|1",
+     "quote": "Over 200 third-party integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Mode|3",
+     "quote": "offering over 200 app connections in its marketplace"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|1",
+     "quote": "Connects with over 200 external apps"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|2",
+     "quote": "Clio features over 200 native integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Google AI Overviews|3",
+     "quote": "Connects with over 200 external third-party apps"
+    }
+   ]
+  },
+  {
+   "claim_id": "C86",
+   "type": "integrations",
+   "claim": "Clio offers 300+ integrations.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/",
+   "proof_quote": "300+ app integrations",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (read once in a browser) gives '300+ app integrations' and the about page '300+ app integration partners'.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|2",
+     "quote": "with 300+ integrations available."
+    },
+    {
+     "record_id": "legal-practice-management|q2|ChatGPT|3",
+     "quote": "Clio lists 300+ integrations covering email, calendars, accounting, and document storage."
+    },
+    {
+     "record_id": "legal-practice-management|q7|ChatGPT|1",
+     "quote": "Advertises 300+ integrations versus MyCase Pro’s 70+."
+    }
+   ]
+  },
+  {
+   "claim_id": "C87",
+   "type": "integrations",
+   "claim": "Clio integrates with hundreds of apps.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/",
+   "proof_quote": "300+ app integrations",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page (read once in a browser) gives 300+ app integrations and the integrations page 250+, which is hundreds.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|1",
+     "quote": "plus hundreds of integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|2",
+     "quote": "and hundreds of integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q5|ChatGPT|3",
+     "quote": "and hundreds of integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q6|ChatGPT|3",
+     "quote": "and hundreds of integrations"
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|2",
+     "quote": "an open API that connects with hundreds of external apps"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|2",
+     "quote": "It integrates with hundreds of third-party tools"
+    }
+   ]
+  },
+  {
+   "claim_id": "C88",
+   "type": "platforms",
+   "claim": "Clio can be used on mobile devices (mobile app).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read (pricing, home, integrations and about, each read once in a browser) names a mobile app or mobile access; the integrations page's article title about 'Enhanced Mobile Documents' does not state it, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q1|Google AI Mode|1",
+     "quote": "intuitive mobile app"
+    },
+    {
+     "record_id": "legal-practice-management|q10|Google AI Overviews|2",
+     "quote": "strong mobile accessibility"
+    },
+    {
+     "record_id": "legal-practice-management|q2|Google AI Mode|3",
+     "quote": "an intuitive interface, and great mobile apps."
+    },
+    {
+     "record_id": "legal-practice-management|q6|Google AI Overviews|2",
+     "quote": "strong mobile access"
+    },
+    {
+     "record_id": "legal-practice-management|q7|Claude|1",
+     "quote": "Both platforms are cloud-based, mobile-ready"
+    }
+   ]
+  },
+  {
+   "claim_id": "C89",
+   "type": "certifications",
+   "claim": "Clio provides Business Associate Agreements (BAAs).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) says Clio for Personal Injury comes 'with HIPAA compliance included', but no page read mentions a Business Associate Agreement, so the claim is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|Claude|1",
+     "quote": "all major PI case management platforms (SmartAdvocate, CASEpeer, Filevine, CloudLex, and Clio) provide Business Associate Agreements (BAAs)."
+    }
+   ]
+  },
+  {
+   "claim_id": "C90",
+   "type": "product_names",
+   "claim": "Clio sells a personal injury bundle named PI Essentials.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) names the personal injury add-on Clio for Personal Injury and does not mention PI Essentials; no dated rename is documented, so the name is not settled.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q3|ChatGPT|1",
+     "quote": "Its PI Essentials bundle currently advertises an introductory starting price"
+    },
+    {
+     "record_id": "legal-practice-management|q3|ChatGPT|3",
+     "quote": "The advertised PI Essentials introductory bundle starts at"
+    }
+   ]
+  },
+  {
+   "claim_id": "C91",
+   "type": "pricing",
+   "claim": "Clio is priced per user per month.",
+   "class": "true",
+   "proof_url": "https://www.clio.com/pricing/",
+   "proof_quote": "Starting at $49/user",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page (read once in a browser) prices the entry plan per user ('Starting at $49/user'); as for C01, the snapshot does not print a billing period, so the monthly part is read as the usual basis and not contradicted.",
+   "instances": [
+    {
+     "record_id": "legal-practice-management|q6|Claude|2",
+     "quote": "Starts at competitive per-user monthly rates"
+    }
+   ]
+  }
+ ],
+ "notes": "Pass 1: All three www.clio.com pages requested (pricing, home, integrations) returned HTTP 403 with a Cloudflare challenge page (title Just a moment..., 16 characters of text). robots.txt allows these paths. Per protocol there was no retry; further www.clio.com pages (about, press, security, product) were not requested because the host challenged every request, so all 83 claims are unverifiable and no cause tracing applies. help.clio.com (cited once) was not read: it is a data-migration article that would settle none of the claims. page-candidates.json lists americanbar.org as Clio's home page, which is a data error. Not coded because they are outside the 13 types: integration counts (200+, 250+, 300+, hundreds), a US$5 billion valuation, the year Clio Duo launched (2025, three Claude answers), payout timing, and Business Associate Agreements. One answer (q8 Claude run 1) says Rocket Matter integrates with Clio; it was treated as a statement about another vendor and not coded. Hedged tier statements (may require, can depend on, not all included) were not coded, except where they name Clio Grow and a plan or add-on route (C40). Answers disagree with each other on plan names (Starter, Core, Signature, Elite versus EasyStart, Essentials, Advanced, Complete), entry price ($39, $49, about $59) and top-tier price ($129+, $139, $149); a readable pricing page would be needed to class any of them. Pass 2 (8 Oct): the pricing, home and integrations pages were each read once in a real browser, and the about page (https://www.clio.com/about/) once in a browser; every claim was re-classed against those snapshots. Now true: C01, C04, C14, C16, C20 to C23, C39, C40, C45, C49, C50, C60, C62, C67, C78 and C83. Now wrong: C15 (a Starting Price cell of Custom against the published starting price). All other pass 1 claims stay unverifiable. Added under the 8 Oct clarification (integration counts and BAAs are in scope): C84 to C87 (250+, over 200, 300+ and hundreds of integrations, all true: the integrations page gives 250+ and the home and about pages 300+), C88 (mobile use, unverifiable), C89 (BAAs, unverifiable), C90 (the PI Essentials name, split from C45 because the add-on is on the page and the name is not; unverifiable) and C91 (per-user monthly basis, true); new instances on C02 (q3 Claude run 1, a Pricing line under the Clio heading) and C63 (q7 Claude run 1). Judgement calls for review: (1) the pricing snapshot prints Starting at $49/user with no billing period; C01, C04 and C91 are true on price and per-user basis, while the $39 and about $59 entry prices (C02, C03, C08) stay unverifiable because two of the $39 answers tie it to annual billing and the page does not say which term $49 is. (2) The page lists Starter, Core, Signature and Elite; EasyStart, Essentials, Advanced and Complete (C24 to C27) and their prices stay unverifiable because absence from the list is not an explicit contradiction and no page dates a rename. (3) C48 (free plan) stays unverifiable: the pages offer a 7-day free trial and only priced or on-request plans on the practice management tab, but none states there is no free plan, and the Legal work and Platform tabs were not captured. (4) C16 (transparent tiered pricing) is true on tiers and an advertised entry price; only Starter carries a price. (5) C78 and C83 rest on an article title listed on the integrations page. (6) C63 (cloud-based) stays unverifiable: no page read says so. Cause for C15: of the ten pages the answer cites, the 8am MyCase blog, Taqtics and Quickbase pages (already read in this study for other vendors) and the Stack Compare, Pagelightprime, MyLegalAcademy and PracticePanther comparison pages (read now) do not carry it; research.com and Capterra answered HTTP 403 when read for other vendors, and clio.com/compare was not requested because that host challenged every plain fetch; cause not found. Not coded: lines that state Clio tier gating only in contrast to MyCase or CosmoLex (q4 Claude runs 1 to 3 on AI, texting and eSignature; q4 Google AI Mode run 2 on accounting), and q2 Claude run 2 (All three top platforms offer free trials), which does not name the three.",
+ "answer_record_ids": [
+  "legal-practice-management|q1|ChatGPT|1",
+  "legal-practice-management|q1|ChatGPT|2",
+  "legal-practice-management|q1|ChatGPT|3",
+  "legal-practice-management|q1|Claude|1",
+  "legal-practice-management|q1|Claude|2",
+  "legal-practice-management|q1|Claude|3",
+  "legal-practice-management|q1|Google AI Mode|1",
+  "legal-practice-management|q1|Google AI Mode|2",
+  "legal-practice-management|q1|Google AI Mode|3",
+  "legal-practice-management|q1|Google AI Overviews|1",
+  "legal-practice-management|q1|Google AI Overviews|2",
+  "legal-practice-management|q1|Google AI Overviews|3",
+  "legal-practice-management|q1|Perplexity|1",
+  "legal-practice-management|q1|Perplexity|2",
+  "legal-practice-management|q1|Perplexity|3",
+  "legal-practice-management|q10|ChatGPT|1",
+  "legal-practice-management|q10|ChatGPT|2",
+  "legal-practice-management|q10|ChatGPT|3",
+  "legal-practice-management|q10|Claude|1",
+  "legal-practice-management|q10|Claude|2",
+  "legal-practice-management|q10|Claude|3",
+  "legal-practice-management|q10|Google AI Mode|1",
+  "legal-practice-management|q10|Google AI Mode|2",
+  "legal-practice-management|q10|Google AI Mode|3",
+  "legal-practice-management|q10|Google AI Overviews|1",
+  "legal-practice-management|q10|Google AI Overviews|2",
+  "legal-practice-management|q10|Google AI Overviews|3",
+  "legal-practice-management|q10|Perplexity|1",
+  "legal-practice-management|q10|Perplexity|2",
+  "legal-practice-management|q10|Perplexity|3",
+  "legal-practice-management|q2|ChatGPT|1",
+  "legal-practice-management|q2|ChatGPT|2",
+  "legal-practice-management|q2|ChatGPT|3",
+  "legal-practice-management|q2|Claude|1",
+  "legal-practice-management|q2|Claude|2",
+  "legal-practice-management|q2|Claude|3",
+  "legal-practice-management|q2|Google AI Mode|1",
+  "legal-practice-management|q2|Google AI Mode|2",
+  "legal-practice-management|q2|Google AI Mode|3",
+  "legal-practice-management|q2|Google AI Overviews|1",
+  "legal-practice-management|q2|Google AI Overviews|2",
+  "legal-practice-management|q2|Google AI Overviews|3",
+  "legal-practice-management|q2|Perplexity|1",
+  "legal-practice-management|q2|Perplexity|2",
+  "legal-practice-management|q2|Perplexity|3",
+  "legal-practice-management|q3|ChatGPT|1",
+  "legal-practice-management|q3|ChatGPT|2",
+  "legal-practice-management|q3|ChatGPT|3",
+  "legal-practice-management|q3|Claude|1",
+  "legal-practice-management|q3|Claude|2",
+  "legal-practice-management|q3|Claude|3",
+  "legal-practice-management|q3|Google AI Mode|1",
+  "legal-practice-management|q3|Google AI Mode|2",
+  "legal-practice-management|q3|Google AI Mode|3",
+  "legal-practice-management|q3|Google AI Overviews|1",
+  "legal-practice-management|q3|Google AI Overviews|2",
+  "legal-practice-management|q3|Google AI Overviews|3",
+  "legal-practice-management|q3|Perplexity|1",
+  "legal-practice-management|q3|Perplexity|2",
+  "legal-practice-management|q3|Perplexity|3",
+  "legal-practice-management|q4|ChatGPT|1",
+  "legal-practice-management|q4|ChatGPT|2",
+  "legal-practice-management|q4|ChatGPT|3",
+  "legal-practice-management|q4|Claude|1",
+  "legal-practice-management|q4|Claude|2",
+  "legal-practice-management|q4|Claude|3",
+  "legal-practice-management|q4|Google AI Mode|1",
+  "legal-practice-management|q4|Google AI Mode|2",
+  "legal-practice-management|q4|Google AI Mode|3",
+  "legal-practice-management|q4|Google AI Overviews|1",
+  "legal-practice-management|q4|Google AI Overviews|2",
+  "legal-practice-management|q4|Google AI Overviews|3",
+  "legal-practice-management|q4|Perplexity|1",
+  "legal-practice-management|q4|Perplexity|2",
+  "legal-practice-management|q4|Perplexity|3",
+  "legal-practice-management|q5|ChatGPT|1",
+  "legal-practice-management|q5|ChatGPT|2",
+  "legal-practice-management|q5|ChatGPT|3",
+  "legal-practice-management|q5|Claude|1",
+  "legal-practice-management|q5|Claude|2",
+  "legal-practice-management|q5|Claude|3",
+  "legal-practice-management|q5|Google AI Mode|1",
+  "legal-practice-management|q5|Google AI Mode|2",
+  "legal-practice-management|q5|Google AI Mode|3",
+  "legal-practice-management|q5|Google AI Overviews|1",
+  "legal-practice-management|q5|Google AI Overviews|2",
+  "legal-practice-management|q5|Google AI Overviews|3",
+  "legal-practice-management|q5|Perplexity|1",
+  "legal-practice-management|q5|Perplexity|2",
+  "legal-practice-management|q5|Perplexity|3",
+  "legal-practice-management|q6|ChatGPT|1",
+  "legal-practice-management|q6|ChatGPT|2",
+  "legal-practice-management|q6|ChatGPT|3",
+  "legal-practice-management|q6|Claude|1",
+  "legal-practice-management|q6|Claude|2",
+  "legal-practice-management|q6|Claude|3",
+  "legal-practice-management|q6|Google AI Mode|1",
+  "legal-practice-management|q6|Google AI Mode|2",
+  "legal-practice-management|q6|Google AI Mode|3",
+  "legal-practice-management|q6|Google AI Overviews|1",
+  "legal-practice-management|q6|Google AI Overviews|2",
+  "legal-practice-management|q6|Google AI Overviews|3",
+  "legal-practice-management|q6|Perplexity|1",
+  "legal-practice-management|q6|Perplexity|2",
+  "legal-practice-management|q6|Perplexity|3",
+  "legal-practice-management|q7|ChatGPT|1",
+  "legal-practice-management|q7|ChatGPT|2",
+  "legal-practice-management|q7|ChatGPT|3",
+  "legal-practice-management|q7|Claude|1",
+  "legal-practice-management|q7|Claude|2",
+  "legal-practice-management|q7|Claude|3",
+  "legal-practice-management|q7|Google AI Mode|1",
+  "legal-practice-management|q7|Google AI Mode|2",
+  "legal-practice-management|q7|Google AI Mode|3",
+  "legal-practice-management|q7|Google AI Overviews|1",
+  "legal-practice-management|q7|Google AI Overviews|2",
+  "legal-practice-management|q7|Google AI Overviews|3",
+  "legal-practice-management|q7|Perplexity|1",
+  "legal-practice-management|q7|Perplexity|2",
+  "legal-practice-management|q7|Perplexity|3",
+  "legal-practice-management|q8|ChatGPT|2",
+  "legal-practice-management|q8|Claude|1",
+  "legal-practice-management|q9|Google AI Mode|1",
+  "legal-practice-management|q9|Google AI Overviews|1",
+  "legal-practice-management|q9|Google AI Overviews|2",
+  "legal-practice-management|q9|Google AI Overviews|3"
+ ],
+ "named_count": 126
+}

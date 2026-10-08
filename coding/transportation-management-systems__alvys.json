@@ -1,0 +1,1157 @@
+{
+ "vendor": "Alvys",
+ "slug": "alvys",
+ "category": "transportation-management-systems",
+ "coded_at": "2026-10-08T04:29:00Z",
+ "pages_read": [
+  {
+   "url": "https://alvys.com/",
+   "key": "99a78db93fd17551",
+   "used_for": "home"
+  },
+  {
+   "url": "https://alvys.com/pricing-info",
+   "key": "3df9581c5601ba71",
+   "used_for": "pricing (no price figures on the page)"
+  },
+  {
+   "url": "https://alvys.com/features/integrations",
+   "key": "6c161e8d11888169",
+   "used_for": "integrations"
+  },
+  {
+   "url": "https://alvys.com/features/driver-mobile-app",
+   "key": "ebee1096e0dff536",
+   "used_for": "platforms (driver app)"
+  },
+  {
+   "url": "https://trust.alvys.com/",
+   "key": "92f02e2cf93ccd47",
+   "used_for": "security or trust (blocked: HTTP 403 at the Drata trust page, no text)"
+  },
+  {
+   "url": "https://alvys.com/resources/about-us",
+   "key": "b982f5979f59d22a",
+   "used_for": "about"
+  },
+  {
+   "url": "https://alvys.com/freight-broker-tms",
+   "key": "c8584126cb5866b2",
+   "used_for": "product page for brokers"
+  },
+  {
+   "url": "https://alvys.com/resources/news",
+   "key": "6fa9c48b7a30a90a",
+   "used_for": "press"
+  },
+  {
+   "url": "https://softwareconnect.com/reviews/alvys-tms/",
+   "key": "c3a05bcbb30def51",
+   "used_for": "cause trace for C25 (cited page; does not carry the statement)"
+  },
+  {
+   "url": "https://bestguide.com/review/alvys-review/",
+   "key": "99fd0a8da634d3ae",
+   "used_for": "cause trace for C25 (cited page; blocked, HTTP 403)"
+  },
+  {
+   "url": "https://tentrucks.com/blog/alvys-alternatives",
+   "key": "5edb4586670901cd",
+   "used_for": "cause trace for C25 (cited page; does not carry the statement)"
+  },
+  {
+   "url": "https://www.g2.com/compare/alvys-vs-turvo",
+   "key": "cc7d408c534b193e",
+   "used_for": "cause trace for C25 (cited page; blocked, HTTP 403)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "Pricing is based on monthly load volume (load-based pricing).",
+   "class": "true",
+   "proof_url": "https://alvys.com/",
+   "proof_quote": "Alvys’ TMS has simple, transparent pricing that is based on how many loads you move each month.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states pricing is based on how many loads the customer moves each month.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q5|ChatGPT|1",
+     "quote": "Pricing is based on monthly load volume, with unlimited users and subsidiaries."
+    },
+    {
+     "record_id": "transportation-management-systems|q5|ChatGPT|2",
+     "quote": "Quote-based, tied to monthly load volume, with unlimited users."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "Pricing based on monthly load volume, with unlimited users."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Load-based pricing with unlimited users."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "**Load-volume-based pricing, unlimited users.**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Perplexity|3",
+     "quote": "Its pricing is generally **higher and quote/load-volume based**"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|1",
+     "quote": "says pricing is based on monthly load volume, with monthly and annual payment options."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|2",
+     "quote": "Describes **load-based pricing**, with monthly or annual plans."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|3",
+     "quote": "describes **load-volume-based pricing**, with monthly and annual options."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Mode|2",
+     "quote": "Pricing Structure | Volume/quote-based scale"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Mode|3",
+     "quote": "Volume-based pricing scaling with load volume."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Overviews|2",
+     "quote": "Pricing scales based on load volume rather than a fixed tier"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "Customers can pay monthly or on annual plans.",
+   "class": "true",
+   "proof_url": "https://alvys.com/",
+   "proof_quote": "You can pay by the month or save with annual plans.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home and pricing pages state customers can pay by the month or on annual plans.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "Advertises assisted onboarding, no long-term contracts, and monthly or annual plans."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Advertises assisted onboarding, no long-term contracts, and monthly or annual payment options."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "Monthly or annual plans; advertises no long-term contracts and onboarding support."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|1",
+     "quote": "says pricing is based on monthly load volume, with monthly and annual payment options."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|2",
+     "quote": "Describes **load-based pricing**, with monthly or annual plans."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|3",
+     "quote": "describes **load-volume-based pricing**, with monthly and annual options."
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "pricing",
+   "claim": "Unlimited users are included at no extra charge.",
+   "class": "true",
+   "proof_url": "https://alvys.com/",
+   "proof_quote": "You can add unlimited subsidiaries and users for free.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states customers can add unlimited users for free.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|1",
+     "quote": "Starting around $292/month with unlimited users"
+    },
+    {
+     "record_id": "transportation-management-systems|q5|ChatGPT|1",
+     "quote": "Pricing is based on monthly load volume, with unlimited users and subsidiaries."
+    },
+    {
+     "record_id": "transportation-management-systems|q5|ChatGPT|2",
+     "quote": "Quote-based, tied to monthly load volume, with unlimited users."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "Pricing based on monthly load volume, with unlimited users."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Load-based pricing with unlimited users."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "**Load-volume-based pricing, unlimited users.**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "includes unlimited users and business divisions."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "Alvys includes **free unlimited users and business divisions, no long-term contracts, and no hidden fees.**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "Competitive, flat or volume-based with unlimited users"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|2",
+     "quote": "Competitive, quote-based pricing with unlimited users on standard plans."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|3",
+     "quote": "Unlimited Users : Does not charge extra as you add team members."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|2",
+     "quote": "It advertises unlimited subsidiaries/users, an open API, native EDI, and 120+ integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|3",
+     "quote": "includes unlimited users and business divisions in its published offering."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "pricing",
+   "claim": "Unlimited business divisions (subsidiaries) are included at no extra charge.",
+   "class": "true",
+   "proof_url": "https://alvys.com/",
+   "proof_quote": "free unlimited users and business divisions within our trucking TMS software",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states free unlimited business divisions and that unlimited subsidiaries can be added for free.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q5|ChatGPT|1",
+     "quote": "Pricing is based on monthly load volume, with unlimited users and subsidiaries."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "includes unlimited users and business divisions."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "Alvys includes **free unlimited users and business divisions, no long-term contracts, and no hidden fees.**"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|2",
+     "quote": "It advertises unlimited subsidiaries/users, an open API, native EDI, and 120+ integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|3",
+     "quote": "includes unlimited users and business divisions in its published offering."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "pricing",
+   "claim": "There are no long-term contracts; customers can cancel anytime.",
+   "class": "true",
+   "proof_url": "https://alvys.com/",
+   "proof_quote": "Fast implementation, no long-term contracts, and unlimited users",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states no long-term contracts and, in its header, cancel anytime.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "Advertises assisted onboarding, no long-term contracts, and monthly or annual plans."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Advertises assisted onboarding, no long-term contracts, and monthly or annual payment options."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "Monthly or annual plans; advertises no long-term contracts and onboarding support."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "Alvys offers competitive pricing starting at $514 with no long-term contracts"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "| Contracts | None | None |"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "Alvys includes **free unlimited users and business divisions, no long-term contracts, and no hidden fees.**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "No long-term contracts, streamlined onboarding"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|1",
+     "quote": "It's considered affordable, with no sneaky fees and the ability to cancel anytime."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|2",
+     "quote": "It's considered affordable with no sneaky fees, and you can cancel anytime."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|3",
+     "quote": "It's affordable, with no sneaky fees and the ability to cancel anytime."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "pricing",
+   "claim": "There are no hidden fees.",
+   "class": "true",
+   "proof_url": "https://alvys.com/pricing-info",
+   "proof_quote": "No hidden fees. We won't nickel and dime you.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states no hidden fees and the site header says no sneaky fees.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "Alvys includes **free unlimited users and business divisions, no long-term contracts, and no hidden fees.**"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|1",
+     "quote": "It's considered affordable, with no sneaky fees and the ability to cancel anytime."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|2",
+     "quote": "It's considered affordable with no sneaky fees, and you can cancel anytime."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|3",
+     "quote": "It's affordable, with no sneaky fees and the ability to cancel anytime."
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "pricing",
+   "claim": "Integrations carry no setup fees (included at no extra cost).",
+   "class": "true",
+   "proof_url": "https://alvys.com/pricing-info",
+   "proof_quote": "Access 120+ integrations with no set-up fees.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page states the 120+ integrations come with no set-up fees.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|2",
+     "quote": "It advertises no integration setup fees."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|3",
+     "quote": "it advertises unlimited users and 120+ integrations without integration setup fees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Pricing starts at $514 (per month).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page read shows no price figures and no other page read gives a dollar price.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "Alvys offers competitive pricing starting at $514 with no long-term contracts"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Pricing starts at $100 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page read shows no price figures and no other page read gives a dollar price.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "Alvys starting at $100/month best serves small to medium brokerages with anywhere from 10 to 100 employees."
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "pricing",
+   "claim": "Alvys TMS cost starts at $183 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page read shows no price figures and no other page read gives a dollar price.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "Alvys TMS cost starts at $183/month."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|1",
+     "quote": "Alvys TMS cost starts at $183/month."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|2",
+     "quote": "Alvys TMS cost starts at $183/month."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|3",
+     "quote": "Alvys TMS cost starts at $183/month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Entry-level pricing starts at about $292 per month (for 50 loads per month).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page read shows no price figures or load tiers, and no other page read gives a dollar price.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "Alvys entry-level pricing **starts at $292.00 for 50 loads per month.**"
+    },
+    {
+     "record_id": "transportation-management-systems|q2|Google AI Mode|1",
+     "quote": "Starting around $292/month with unlimited users"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "pricing",
+   "claim": "A basic plan starts at around $299 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page read shows no plan names or price figures, and no other page read gives a dollar price.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q5|Claude|1",
+     "quote": "It offers a basic plan starting at around $299 per month"
+    },
+    {
+     "record_id": "transportation-management-systems|q5|Claude|2",
+     "quote": "offering a basic plan starting at around $299 per month"
+    },
+    {
+     "record_id": "transportation-management-systems|q5|Claude|3",
+     "quote": "It offers a basic plan starting at around $299 per month"
+    },
+    {
+     "record_id": "transportation-management-systems|q5|Google AI Overviews|1",
+     "quote": "offering integrated load management, dispatch, and accounting tools starting around $299 per month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "pricing",
+   "claim": "Pricing is quote-based: the pricing page shows no dollar price and a quote or sales conversation is needed.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page read shows no price figures and offers a demo request, but no page read states that prices are given only by quote, and an absence on a page is not a published fact.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q5|ChatGPT|2",
+     "quote": "Quote-based, tied to monthly load volume, with unlimited users."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "You’ll need a quote to compare your actual cost."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "Its current pricing page requires a quote rather than displaying a dollar amount."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "the current pricing page doesn’t show a fixed broker price."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "~$100–$183+/month (custom quotes)"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|2",
+     "quote": "pricing requires talking to sales/demos rather than just signing up instantly."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|2",
+     "quote": "Competitive, quote-based pricing with unlimited users on standard plans."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|1",
+     "quote": "Its current pricing page requires a quote rather than publishing a dollar starting price."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|2",
+     "quote": "Its public pricing page does not show a dollar rate; you’ll need a quote."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|3",
+     "quote": "Its public pricing page does not provide a dollar rate"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "Alvys publishes its pricing (transparent, published pricing or tiers).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The vendor calls its pricing transparent and load-based, but the pricing page read shows no prices or tiers, so the pages do not settle whether prices are published.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q1|Claude|1",
+     "quote": "| **Alvys** | Integration-heavy environments | Published |"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|1",
+     "quote": "It is praised for its modern interface, ease of use, and transparent pricing structure"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|2",
+     "quote": "Alvys | Modern hybrid broker/carrier workflows | Published pricing | Fast"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|3",
+     "quote": "Alvys | Modern all-in-one cloud workflows | Published tiers | Fast"
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "free_tier",
+   "claim": "Alvys has no permanent free tier; it requires a monthly subscription.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read do not mention a free plan either way; offering free demos does not settle whether a free tier exists.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|1",
+     "quote": "Unlike AscendTMS, Alvys doesn't have a permanent free tier; it requires a standard monthly subscription investment."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "integrations",
+   "claim": "Alvys has 120+ integrations.",
+   "class": "true",
+   "proof_url": "https://alvys.com/",
+   "proof_quote": "120+ integrations that are ready to use at no extra cost",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home, pricing and integrations pages state 120+ integrations.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q1|Claude|1",
+     "quote": "Alvys emphasizes a shared operating system, native EDI, API access, and 120+ integrations"
+    },
+    {
+     "record_id": "transportation-management-systems|q1|Claude|2",
+     "quote": "Alvys emphasizes a shared operating system, native EDI, API access, and 120+ integrations,"
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Claude|2",
+     "quote": "It also offers AI-powered workflows, real-time visibility, driver mobile apps, and over 120 integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Claude|2",
+     "quote": "Alvys emphasizes a shared operating system, native EDI, API access, and 120+ integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Claude|3",
+     "quote": "Alvys emphasizes a shared operating system, native EDI, API access, and 120+ integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "Alvys emphasizes a shared operating system, native EDI, API access, and 120+ integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "Backed by **120+ integrations**"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|1",
+     "quote": "120+ logistics tech integrations"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|1",
+     "quote": "Advertises 120+ integrations across categories, native EDI, and a self-service API."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|2",
+     "quote": "It advertises unlimited subsidiaries/users, an open API, native EDI, and 120+ integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|3",
+     "quote": "it advertises unlimited users and 120+ integrations without integration setup fees."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|1",
+     "quote": "It streamlines everything from dispatch to delivery with expert workflows, a driver mobile app, and 120+ third-party integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|2",
+     "quote": "It streamlines everything from dispatch to delivery with expert workflows, a driver mobile app, and 120+ third-party integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|3",
+     "quote": "It streamlines everything from dispatch to delivery with expert workflows, a driver mobile app, and 120+ third-party integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Mode|2",
+     "quote": "It stands out with over 120 built-in integrations (ELDs, load boards, accounting)"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Mode|3",
+     "quote": "Extensive ecosystem with 120+ pre-built third-party integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Overviews|1",
+     "quote": "Offers 120+ integrations with major load boards, accounting software, and Electronic Logging Devices (ELDs)."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Overviews|2",
+     "quote": "Offers an all-in-one platform with over 120 native integrations"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Overviews|3",
+     "quote": "Offers over 120+ integrations and robust document management"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "integrations",
+   "claim": "Alvys integrates with QuickBooks.",
+   "class": "true",
+   "proof_url": "https://alvys.com/features/integrations",
+   "proof_quote": "Alvys is proudly integrated with industry leaders such as Samsara, RMIS, DAT, Motive, RTS, Geotab, QuickBooks, TCS, and a wide range of load boards, visibility tools, and more!",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page names QuickBooks among Alvys's integrations.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|1",
+     "quote": "Alvys advertises automatic load creation, native EDI, batch invoicing, and integrations with QuickBooks and other accounting systems."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "it advertises batch invoicing and API-based integrations with QuickBooks, Dynamics, and NetSuite."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "integrations",
+   "claim": "Alvys integrates with Microsoft Dynamics.",
+   "class": "true",
+   "proof_url": "https://alvys.com/features/integrations",
+   "proof_quote": "Accounting Microsoft Dynamics",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory lists Microsoft Dynamics under Accounting.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "it advertises batch invoicing and API-based integrations with QuickBooks, Dynamics, and NetSuite."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "integrations",
+   "claim": "Alvys integrates with NetSuite.",
+   "class": "true",
+   "proof_url": "https://alvys.com/features/integrations",
+   "proof_quote": "Accounting NetSuite Oracle",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory lists NetSuite (Oracle) under Accounting.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|2",
+     "quote": "it advertises batch invoicing and API-based integrations with QuickBooks, Dynamics, and NetSuite."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "integrations",
+   "claim": "Alvys integrates with Samsara.",
+   "class": "true",
+   "proof_url": "https://alvys.com/features/integrations",
+   "proof_quote": "Alvys is proudly integrated with industry leaders such as Samsara, RMIS, DAT, Motive, RTS, Geotab, QuickBooks, TCS, and a wide range of load boards, visibility tools, and more!",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page names Samsara among Alvys's integrations.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|2",
+     "quote": "Seamless handoffs between internal trucking and brokerage operations, excellent ELD/Samsara tracking."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|3",
+     "quote": "Strong Integrations: Deep tracking links with ELDs like Samsara."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Overviews|2",
+     "quote": "including major ELDs like Samsara and load boards like DAT"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "integrations",
+   "claim": "Alvys integrates with the DAT load board.",
+   "class": "true",
+   "proof_url": "https://alvys.com/features/integrations",
+   "proof_quote": "Alvys is proudly integrated with industry leaders such as Samsara, RMIS, DAT, Motive, RTS, Geotab, QuickBooks, TCS, and a wide range of load boards, visibility tools, and more!",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations page names DAT among Alvys's integrations and lists it under load boards.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Overviews|2",
+     "quote": "including major ELDs like Samsara and load boards like DAT"
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "integrations",
+   "claim": "Alvys integrates with the SaferWatch carrier verification tool.",
+   "class": "true",
+   "proof_url": "https://alvys.com/features/integrations",
+   "proof_quote": "Carrier Compliance SaferWatch",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory lists SaferWatch under Carrier Compliance.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q6|Claude|1",
+     "quote": "integrating with carrier verification tools like SaferWatch"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Claude|2",
+     "quote": "integrating with carrier verification tools like SaferWatch"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "integrations",
+   "claim": "Alvys integrates with Fleetrock for maintenance.",
+   "class": "true",
+   "proof_url": "https://alvys.com/features/integrations",
+   "proof_quote": "Maintenance Fleetrock",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory lists Fleetrock under Maintenance.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|3",
+     "quote": "Some deeper maintenance functionality uses its Fleetrock integration."
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "integrations",
+   "claim": "Alvys integrates with MyCarrierPackets (MCP).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The integrations directory lists MyCarrierPortal under Carrier Compliance, but no page read names MyCarrierPackets or states that the two are the same product.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|ChatGPT|3",
+     "quote": "Alvys’s MyCarrierPackets integration requires an active MCP account."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "platforms",
+   "claim": "Alvys's mobile app is browser-based (no installable app).",
+   "class": "wrong",
+   "proof_url": "https://alvys.com/",
+   "proof_quote": "Install Alvys Driver App",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The home page offers an installable Alvys Driver App and the driver app page describes the Alvys driver mobile app, which contradicts a browser-based mobile app; of the cited pages read, two do not carry the statement and two were blocked. Consistency check (pass 2): same subject (Alvys's mobile app) and explicit on the vendor's own pages, where the 'Install Alvys Driver App' line links to App Store and Google Play listings in the page HTML; wrong stands.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "| **Mobile App** | No dedicated app | Browser-based |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "platforms",
+   "claim": "Alvys has a driver mobile app.",
+   "class": "true",
+   "proof_url": "https://alvys.com/features/driver-mobile-app",
+   "proof_quote": "Eliminate check calls and give drivers essential capabilities like document scanning and fast eChecks, with the Alvys driver mobile app.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The driver app page describes the Alvys driver mobile app.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q4|Claude|2",
+     "quote": "It also offers AI-powered workflows, real-time visibility, driver mobile apps, and over 120 integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|2",
+     "quote": "Deep driver app, maintenance, and ELD mapping"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Overviews|3",
+     "quote": "Advanced driver app & ELD syncing"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|1",
+     "quote": "Dedicated driver app for documents, communication, tracking, and additional driver tasks."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|ChatGPT|3",
+     "quote": "Alvys offers a driver app with document uploads, status updates, communication, and lumper eChecks."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|1",
+     "quote": "It streamlines everything from dispatch to delivery with expert workflows, a driver mobile app, and 120+ third-party integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|2",
+     "quote": "It streamlines everything from dispatch to delivery with expert workflows, a driver mobile app, and 120+ third-party integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|3",
+     "quote": "It streamlines everything from dispatch to delivery with expert workflows, a driver mobile app, and 120+ third-party integrations."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Mode|1",
+     "quote": "Powerful real-time load visibility and driver mobile app components."
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Overviews|2",
+     "quote": "a robust driver mobile app"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Overviews|3",
+     "quote": "Features a polished driver mobile app"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "platforms",
+   "claim": "Alvys is cloud-based (cloud-native) software.",
+   "class": "true",
+   "proof_url": "https://alvys.com/",
+   "proof_quote": "Alvys, for example, is a true cloud-native, API-first solution",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page describes Alvys as a cloud-native, cloud-based TMS.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q1|Google AI Mode|1",
+     "quote": "Alvys: A modern, cloud-native TMS"
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Claude|2",
+     "quote": "Alvys is a cloud-based TMS designed for carriers, brokers, freight forwarders, and hybrid logistics companies."
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Google AI Mode|1",
+     "quote": "Modern, user-friendly cloud TMS alternatives"
+    },
+    {
+     "record_id": "transportation-management-systems|q4|Google AI Mode|3",
+     "quote": "Extremely fast, workflow-driven cloud TMS"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|1",
+     "quote": "A fast-growing cloud platform"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|2",
+     "quote": "Alvys: A modern, cloud-based TMS"
+    },
+    {
+     "record_id": "transportation-management-systems|q6|Google AI Mode|3",
+     "quote": "Alvys: A modern, cloud-native platform"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "the cloud-based platform saves carriers and brokers more time than any other TMS"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|2",
+     "quote": "the cloud-based platform saves carriers and brokers time"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Claude|3",
+     "quote": "Alvys is a highly capable, cloud-based TMS"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|1",
+     "quote": "Alvys is a newer, highly modern cloud TMS"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|2",
+     "quote": "A sleek, modern, cloud-native platform"
+    },
+    {
+     "record_id": "transportation-management-systems|q7|Google AI Mode|3",
+     "quote": "Both are robust cloud systems"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|1",
+     "quote": "Alvys TMS is a cloud-based, all-in-one transportation management system"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|2",
+     "quote": "Alvys TMS is a cloud-based, all-in-one transportation management system"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Claude|3",
+     "quote": "Alvys TMS is a cloud-based, all-in-one transportation management system"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Mode|1",
+     "quote": "Alvys is a robust, cloud-based platform"
+    },
+    {
+     "record_id": "transportation-management-systems|q8|Google AI Overviews|3",
+     "quote": "Alvys is a cloud-native, API-first platform"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "certifications",
+   "claim": "Alvys has a SOC 2-compliant security foundation.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The trust center (trust.alvys.com) returned HTTP 403 when read in this study, no browser read of it exists in the manifest as of pass 2, and no other page read mentions SOC 2; it stays listed for a browser read.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "a SOC 2-compliant security foundation."
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "product_names",
+   "claim": "Alvys Foundry is Alvys's AI agent platform.",
+   "class": "true",
+   "proof_url": "https://alvys.com/",
+   "proof_quote": "Alvys Foundry Native agentic platform",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The site menu names Alvys Foundry as Alvys's native agentic platform.",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q7|Claude|1",
+     "quote": "Alvys Foundry offers more than 20 pre-built agent templates"
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "integrations",
+   "claim": "Alvys has 120+ ELD integrations.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Added in pass 2 from a comparison-table cell. The home page says Alvys integrates with over 120 partners 'including ELDs, load boards, and accounting', so its 120+ figure covers all categories, and no page read states an ELD-specific count; the claim is not settled (counting the directory's ELD entries would be an inference, not a published figure).",
+   "instances": [
+    {
+     "record_id": "transportation-management-systems|q8|Claude|2",
+     "quote": "ELD Integrations | ✅ 30+ | ✅ 120+"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [
+  "https://trust.alvys.com/"
+ ],
+ "notes": "Eight own pages read; seven HTTP 200 and not thin, the trust center (trust.alvys.com, redirecting to a Drata trust page) answered HTTP 403 and is listed for a browser read; it would settle the SOC 2 claim (C28). Pass 2 (8 Oct): browser-reads.json requested trust.alvys.com, but the manifest has no browser row for Alvys, so no claim could be re-classed from a browser read and the URL stays in needs_browser_read; the fetch tool was not used again (the trust page was already read once and no other alvys.com page mentions SOC 2). The pricing page carries no dollar figures, so every dollar starting price (C08 to C12) and the quote-only and published-pricing claims (C13, C14) are unverifiable rather than true or wrong. C25 (mobile app browser-based) is classed wrong on the home page's Install Alvys Driver App and the driver app page; the raw home HTML links that line to App Store and Google Play listings for the Alvys driver app. Pass 2 consistency check: C25 is the only wrong claim and stays wrong (same subject, explicit on the vendor's own pages); a reviewer may still ask whether the answer's 'Mobile App' row meant office-user access rather than the driver app. Pass 2 completeness: one claim added, C30 (120+ ELD integrations, q8 Claude run 2 table cell), unverifiable; the other gap lines and table cells repeat claims already coded for the same answers ($299, $514, $292, $183, unlimited users, contracts, 120+ integrations, driver app) or are positioning, ratings, funding, feature lines (native EDI, IFTA, accounting integrations with no named product) or hedged or attributed lines ('around $300/mo' as a buyer budget, 'published figures ... in some comparisons', 'Setup Fees | Varies'). Cause trace for C25: four of the answer's cited pages read (softwareconnect.com and tentrucks.com do not carry the statement; bestguide.com and g2.com answered HTTP 403), so cause not found. Out of scope and not coded: the $40M Series B and other funding, review ratings, the 22% load growth and 9% revenue figures, and the hedged lines (typically flat-rate, typically unlimited office users, Setup Fees Varies). The integrations page lists MyCarrierPortal, not MyCarrierPackets, so C24 stays unverifiable.",
+ "answer_record_ids": [
+  "transportation-management-systems|q1|Claude|1",
+  "transportation-management-systems|q1|Claude|2",
+  "transportation-management-systems|q1|Google AI Mode|1",
+  "transportation-management-systems|q2|Google AI Mode|1",
+  "transportation-management-systems|q4|Claude|2",
+  "transportation-management-systems|q4|Google AI Mode|1",
+  "transportation-management-systems|q4|Google AI Mode|2",
+  "transportation-management-systems|q4|Google AI Mode|3",
+  "transportation-management-systems|q4|Google AI Overviews|1",
+  "transportation-management-systems|q5|ChatGPT|1",
+  "transportation-management-systems|q5|ChatGPT|2",
+  "transportation-management-systems|q5|ChatGPT|3",
+  "transportation-management-systems|q5|Claude|1",
+  "transportation-management-systems|q5|Claude|2",
+  "transportation-management-systems|q5|Claude|3",
+  "transportation-management-systems|q5|Google AI Overviews|1",
+  "transportation-management-systems|q5|Google AI Overviews|2",
+  "transportation-management-systems|q5|Google AI Overviews|3",
+  "transportation-management-systems|q5|Perplexity|2",
+  "transportation-management-systems|q6|Claude|1",
+  "transportation-management-systems|q6|Claude|2",
+  "transportation-management-systems|q6|Claude|3",
+  "transportation-management-systems|q6|Google AI Mode|1",
+  "transportation-management-systems|q6|Google AI Mode|2",
+  "transportation-management-systems|q6|Google AI Mode|3",
+  "transportation-management-systems|q6|Perplexity|1",
+  "transportation-management-systems|q6|Perplexity|2",
+  "transportation-management-systems|q6|Perplexity|3",
+  "transportation-management-systems|q7|ChatGPT|1",
+  "transportation-management-systems|q7|ChatGPT|2",
+  "transportation-management-systems|q7|ChatGPT|3",
+  "transportation-management-systems|q7|Claude|1",
+  "transportation-management-systems|q7|Claude|2",
+  "transportation-management-systems|q7|Claude|3",
+  "transportation-management-systems|q7|Google AI Mode|1",
+  "transportation-management-systems|q7|Google AI Mode|2",
+  "transportation-management-systems|q7|Google AI Mode|3",
+  "transportation-management-systems|q7|Google AI Overviews|1",
+  "transportation-management-systems|q7|Google AI Overviews|2",
+  "transportation-management-systems|q7|Google AI Overviews|3",
+  "transportation-management-systems|q7|Perplexity|1",
+  "transportation-management-systems|q7|Perplexity|2",
+  "transportation-management-systems|q7|Perplexity|3",
+  "transportation-management-systems|q8|ChatGPT|1",
+  "transportation-management-systems|q8|ChatGPT|2",
+  "transportation-management-systems|q8|ChatGPT|3",
+  "transportation-management-systems|q8|Claude|1",
+  "transportation-management-systems|q8|Claude|2",
+  "transportation-management-systems|q8|Claude|3",
+  "transportation-management-systems|q8|Google AI Mode|1",
+  "transportation-management-systems|q8|Google AI Mode|2",
+  "transportation-management-systems|q8|Google AI Mode|3",
+  "transportation-management-systems|q8|Google AI Overviews|1",
+  "transportation-management-systems|q8|Google AI Overviews|2",
+  "transportation-management-systems|q8|Google AI Overviews|3",
+  "transportation-management-systems|q8|Perplexity|1",
+  "transportation-management-systems|q8|Perplexity|2",
+  "transportation-management-systems|q8|Perplexity|3"
+ ],
+ "named_count": 58
+}

@@ -1,0 +1,1041 @@
+{
+ "vendor": "Vertafore",
+ "slug": "vertafore",
+ "category": "insurance-agency-management",
+ "coded_at": "2026-10-08T04:06:42Z",
+ "pages_read": [
+  {
+   "url": "https://vertafore.com/",
+   "key": "ac907786963fd9b0",
+   "used_for": "home (redirects to https://www.vertafore.com/; product menu)"
+  },
+  {
+   "url": "https://www.vertafore.com/products/agency-management-software/ams360",
+   "key": "2ab6de84b7b9a9e6",
+   "used_for": "product (AMS360)"
+  },
+  {
+   "url": "https://www.vertafore.com/products/insurance-management-software/qqcatalyst",
+   "key": "c1768e1e400da285",
+   "used_for": "product (QQCatalyst)"
+  },
+  {
+   "url": "https://www.vertafore.com/products/insurance-comparative-rater/pl-rating",
+   "key": "09e3096336dd3306",
+   "used_for": "product (PL Rating, integrations)"
+  },
+  {
+   "url": "https://www.vertafore.com/products/sales-automation-software/agencyzoom",
+   "key": "08e57cf60700c3d9",
+   "used_for": "product (AgencyZoom)"
+  },
+  {
+   "url": "https://www.aimadefor.com/blog/agencyzoom-vs-hawksoft-vs-applied-epic/",
+   "key": "fc555d7bc00492ab",
+   "used_for": "cause tracing for C06 (cited by the answer)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "product_names",
+   "claim": "AMS360 is Vertafore's agency management system (AMS360 by Vertafore).",
+   "class": "true",
+   "proof_url": "https://www.vertafore.com/products/insurance-comparative-rater/pl-rating",
+   "proof_quote": "PL Rating integrates with Vertafore’s AMS360, Sagitta, QQCatalyst, and over 20 other management systems",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Vertafore's own pages name AMS360 as Vertafore's management system and sell it on vertafore.com.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "**AMS360 (Vertafore)**"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Claude|3",
+     "quote": "Vertafore's AMS360 is a well-known name in the insurance tech space."
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|3",
+     "quote": "AMS360 (Vertafore): Best for mid-market commercial agencies"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|3",
+     "quote": "**AMS360** is Vertafore's enterprise AMS, with particular strength in commercial lines and accounting."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Overviews|1",
+     "quote": "Overview: Vertafore’s core management and rating solutions."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Overviews|3",
+     "quote": "AMS360 (Vertafore): Ideal for connected management, accounting, and download workflows"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|1",
+     "quote": "**AMS360 (Vertafore)**"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "AMS360 (by Vertafore)"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|3",
+     "quote": "**AMS360 (Vertafore)**"
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Claude|1",
+     "quote": "owned by Vertafore, the same company that produces AMS360"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Mode|2",
+     "quote": "Vertafore (AMS360 / Sagitta): A massive player in the independent agency space."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Mode|2",
+     "quote": "Vertafore (Vertafore Agency Platform / AMS360)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "product_names",
+   "claim": "QQCatalyst is a Vertafore product (QQCatalyst by Vertafore).",
+   "class": "true",
+   "proof_url": "https://www.vertafore.com/products/insurance-comparative-rater/pl-rating",
+   "proof_quote": "PL Rating integrates with Vertafore’s AMS360, Sagitta, QQCatalyst, and over 20 other management systems",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Vertafore's pages name QQCatalyst as a Vertafore management system and sell it on vertafore.com.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Claude|1",
+     "quote": "it's very affordable and owned by Vertafore, the same company that produces AMS360."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|1",
+     "quote": "**QQCatalyst** is part of Vertafore's Personal Lines Suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|2",
+     "quote": "**QQCatalyst** is Vertafore's insurance management system for smaller independent agencies"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|1",
+     "quote": "QQCatalyst is Vertafore's AMS for small to mid-size agencies"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "QQCatalyst is Vertafore's insurance management system for smaller independent agencies"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|3",
+     "quote": "QQCatalyst is Vertafore's insurance management system for smaller independent agencies"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Google AI Mode|3",
+     "quote": "QQCatalyst (by Vertafore)"
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|3",
+     "quote": "It is part of the Vertafore family"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "product_names",
+   "claim": "Sagitta is a Vertafore product (Sagitta by Vertafore).",
+   "class": "true",
+   "proof_url": "https://www.vertafore.com/products/insurance-comparative-rater/pl-rating",
+   "proof_quote": "PL Rating integrates with Vertafore’s AMS360, Sagitta, QQCatalyst, and over 20 other management systems",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Vertafore's pages name Sagitta as a Vertafore management system.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Claude|1",
+     "quote": "**Sagitta (Vertafore)**"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|3",
+     "quote": "**Sagitta (Vertafore)**"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Mode|2",
+     "quote": "Vertafore (AMS360 / Sagitta): A massive player in the independent agency space."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "product_names",
+   "claim": "PL Rating is Vertafore's comparative rater.",
+   "class": "true",
+   "proof_url": "https://www.vertafore.com/products/insurance-comparative-rater/pl-rating",
+   "proof_quote": "PL Rating is more than a standalone comparative rater—it’s part of AgencyOne, Vertafore’s connected platform",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Vertafore's PL Rating page presents PL Rating as part of Vertafore's AgencyOne platform.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Overviews|1",
+     "quote": "Overview: Vertafore’s core management and rating solutions."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Mode|2",
+     "quote": "especially efficient when paired with Vertafore's PL Rating."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "product_names",
+   "claim": "AgencyZoom is a Vertafore product (AgencyZoom by Vertafore).",
+   "class": "true",
+   "proof_url": "https://www.vertafore.com/products/sales-automation-software/agencyzoom",
+   "proof_quote": "AgencyZoom is more than a standalone sales tool—it’s part of Vertafore’s connected solutions driving Distribution Velocity for agencies.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Vertafore's AgencyZoom page presents AgencyZoom as part of Vertafore's solutions.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|1",
+     "quote": "AgencyZoom (by Vertafore) or InsuredMine: These are excellent insurance-specific sales CRMs ."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "product_names",
+   "claim": "AgencyZoom is made by Zywave (AgencyZoom by Zywave).",
+   "class": "wrong",
+   "proof_url": "https://www.vertafore.com/products/sales-automation-software/agencyzoom",
+   "proof_quote": "AgencyZoom is more than a standalone sales tool—it’s part of Vertafore’s connected solutions driving Distribution Velocity for agencies.",
+   "stale_change": null,
+   "causing_url": "https://www.aimadefor.com/blog/agencyzoom-vs-hawksoft-vs-applied-epic/",
+   "causing_type": "other",
+   "causing_quote": "AgencyZoom (Zywave), HawkSoft, and Applied Epic represent three distinct approaches to the same problem",
+   "rationale": "Vertafore sells and supports AgencyZoom as part of its own solutions, contradicting attribution to Zywave; the cited aimadefor.com blog labels it AgencyZoom (Zywave) in the same sentence the answer paraphrases.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|Claude|3",
+     "quote": "AgencyZoom (by Zywave)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "product_names",
+   "claim": "WorkSmart is a Vertafore product (Vertafore WorkSmart).",
+   "class": "true",
+   "proof_url": "https://vertafore.com/",
+   "proof_quote": "Manage Your Agency AMS360 QQCatalyst Sagitta BenefitPoint WorkSmart",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Vertafore's home page lists WorkSmart among its own agency management solutions.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q6|Claude|1",
+     "quote": "WorkSmart is an advanced content and workflow management solution tailored for insurance agencies by Vertafore."
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|2",
+     "quote": "WorkSmart is an advanced content and workflow management solution tailored for insurance agencies by Vertafore"
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|3",
+     "quote": "WorkSmart is an advanced content and workflow management solution tailored for insurance agencies by Vertafore."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "product_names",
+   "claim": "Vertafore has an AI offering named Vertafore Velocity AI.",
+   "class": "true",
+   "proof_url": "https://vertafore.com/",
+   "proof_quote": "Vertafore Velocity AI Platform",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Vertafore's home page names the Vertafore Velocity AI Platform.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Mode|2",
+     "quote": "modern submission-processing features like Vertafore Velocity AI."
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "product_names",
+   "claim": "Vertafore has a product named Commercial Submissions (Vertafore Commercial Submissions).",
+   "class": "true",
+   "proof_url": "https://vertafore.com/",
+   "proof_quote": "Rating, Quoting & Connectivity Commercial Submissions PL Rating Meet AgencyOne",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Vertafore's home page lists Commercial Submissions among its rating and quoting products.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Mode|3",
+     "quote": "Vertafore AMS360 / Vertafore Commercial Submissions"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "product_names",
+   "claim": "Vertafore has an integrated platform named AgencyOne that works with AMS360.",
+   "class": "true",
+   "proof_url": "https://www.vertafore.com/products/agency-management-software/ams360",
+   "proof_quote": "AgencyOne brings your systems, data, and workflows together into one connected platform. Using the foundation of AMS360 with the rest of your technology ecosystem",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The AMS360 page names AgencyOne as Vertafore's connected platform built on AMS360.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|ChatGPT|3",
+     "quote": "Test the complete workflow across AMS360 and any proposed AgencyOne or other integrated products"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "product_names",
+   "claim": "Vertafore has a product named Vertafore Agency Platform.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Vertafore page read names a Vertafore Agency Platform.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Mode|2",
+     "quote": "Vertafore (Vertafore Agency Platform / AMS360)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "product_names",
+   "claim": "AMS360 is sold in a cloud edition named AMS360 Cloud.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The AMS360 page read does not name an AMS360 Cloud edition.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "AMS360 Cloud prices at $180–$260 per user per month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "product_names",
+   "claim": "QQCatalyst is part of Vertafore's Personal Lines Suite.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Vertafore page read names a Personal Lines Suite.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|Claude|1",
+     "quote": "**QQCatalyst** is part of Vertafore's Personal Lines Suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|2",
+     "quote": "It is part of Vertafore's Personal Lines Suite"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "It is part of Vertafore's Personal Lines Suite"
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "pricing",
+   "claim": "AMS360 is priced by custom quote.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The AMS360 page shows no price and offers a demo and contact, but states nothing about how AMS360 is priced.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "| **AMS360** | Mid-market commercial focus | $1M–$5M | Custom |"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|1",
+     "quote": "Vertafore AMS360 | Established Mid-Market | Custom ($200–$400+/user/month)"
+    },
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|2",
+     "quote": "AMS360 | Commercial lines & mid-market agencies | Custom enterprise pricing"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|2",
+     "quote": "**Pricing:** Quote-based, similar to Applied Epic."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "pricing",
+   "claim": "AMS360 costs about $200 to $400 or more per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Vertafore page read publishes an AMS360 price.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Google AI Overviews|1",
+     "quote": "Custom ($200–$400+/user/month)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "AMS360 Cloud costs $180 to $260 per user per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Vertafore page read publishes an AMS360 price.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "AMS360 Cloud prices at $180–$260 per user per month."
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "AMS360 costs about $6,000 to $15,000 a year.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Vertafore page read publishes an AMS360 price.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Claude|1",
+     "quote": "AMS360 serves mid-market agencies best, with an annual cost of $6,000 to $15,000."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|3",
+     "quote": "Annual cost of $6,000–$15,000."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|3",
+     "quote": "Annual cost: $6,000 to $15,000."
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "AMS360 setup fees run about $10,000 to $25,000 or more.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Vertafore page read states setup fees for AMS360.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|Claude|1",
+     "quote": "Enterprise setup and licensing applies to platforms like Applied Epic and AMS360, with setup fees ranging from $10,000 to $25,000 or more, with ongoing per-user costs on top."
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "AMS360 comes with long, multi-year contracts.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Vertafore page read states contract terms for AMS360.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|2",
+     "quote": "They feature long contracts, steep learning curves, and massive implementation fees that kill cash flow before you even bind your first policy."
+    },
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|3",
+     "quote": "These platforms carry high implementation costs, steep learning curves, and multi-year contracts that drain a startup's capital before revenue begins flowing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "pricing",
+   "claim": "AMS360 offers a free, open API for third-party integrations.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The AMS360 page mentions connecting third-party tools but says nothing of an API or its price.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Google AI Overviews|3",
+     "quote": "Known for a free, open API for third-party integrations, contrasting with Applied Epic's costly fee model."
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "QQCatalyst costs about $1,500 to $4,000 a year for small agencies.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Vertafore page read publishes a QQCatalyst price.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Claude|1",
+     "quote": "Annual cost runs $1,500 to $4,000 for small agencies"
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|3",
+     "quote": "Annual cost: $1,500 to $4,000."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "pricing",
+   "claim": "QQCatalyst is priced as a monthly subscription.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The QQCatalyst page read states no price basis.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|Claude|1",
+     "quote": "Most independent agency-focused platforms — including HawkSoft and QQCatalyst — use this model."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|3",
+     "quote": "Most independent agency-focused platforms, including QQCatalyst, use a monthly subscription pricing model."
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "plans",
+   "claim": "QQCatalyst is sold in scalable tiers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The QQCatalyst page read names no tiers or plans.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Overviews|3",
+     "quote": "Key feature: Scalable tiers that grow as your book of business expands."
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "pricing",
+   "claim": "Vertafore's browser-based system for growing agencies (product not named in the answer; not AMS360) starts at about $99 per user.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No Vertafore page read publishes a per-user price for any of its agency systems.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|1",
+     "quote": "Growth-focused Multi-line Shops | From ~$99 per user | Vertafore’s browser-based system."
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "free_tier",
+   "claim": "AgencyZoom offers a free trial.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The AgencyZoom page read offers demos but says nothing of a free trial.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|Claude|1",
+     "quote": "NowCerts and AgencyZoom offer free trial options to test premium features before subscribing."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|2",
+     "quote": "AgencyZoom also offers a free trial option, making it ideal for startups and small businesses with budget constraints."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Claude|3",
+     "quote": "AgencyZoom offers free trial options to test premium features before subscribing."
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "customer_counts",
+   "claim": "QQCatalyst is used by over 23,000 agents.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The QQCatalyst page read gives no user count.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|Claude|2",
+     "quote": "used by over 23,000 agents across 5,000+ agencies."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "used by over 23,000 agents across 5,000+ agencies."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|3",
+     "quote": "used by over 23,000 agents across 5,000+ agencies."
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "customer_counts",
+   "claim": "QQCatalyst is used by over 5,000 agencies.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The QQCatalyst page read gives no agency count.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|Claude|2",
+     "quote": "used by over 23,000 agents across 5,000+ agencies."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|2",
+     "quote": "used by over 23,000 agents across 5,000+ agencies."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Claude|3",
+     "quote": "used by over 23,000 agents across 5,000+ agencies."
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "integrations",
+   "claim": "QQCatalyst integrates with PL Rating.",
+   "class": "true",
+   "proof_url": "https://www.vertafore.com/products/insurance-comparative-rater/pl-rating",
+   "proof_quote": "PL Rating integrates with Vertafore’s AMS360, Sagitta, QQCatalyst, and over 20 other management systems",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PL Rating page states PL Rating integrates with QQCatalyst.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|ChatGPT|1",
+     "quote": "it integrates with PL Rating rather than making the rater the centerpiece of the AMS."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "Centralized policy/client data, task and email automation, cloud access, sales pipeline management, and PL Rating integration."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|2",
+     "quote": "Connects with PL Rating."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|3",
+     "quote": "PL Rating is an available integration, not something to assume is included."
+    }
+   ]
+  },
+  {
+   "claim_id": "C29",
+   "type": "integrations",
+   "claim": "AMS360 integrates with PL Rating.",
+   "class": "true",
+   "proof_url": "https://www.vertafore.com/products/insurance-comparative-rater/pl-rating",
+   "proof_quote": "PL Rating integrates with Vertafore’s AMS360, Sagitta, QQCatalyst, and over 20 other management systems",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PL Rating page states PL Rating integrates with AMS360.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "Real-time multi-carrier quoting and integrations with AMS360, QQCatalyst, and other management systems."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|2",
+     "quote": "Multi-carrier quoting, data prefill, and integrations with AMS360, QQCatalyst, and other management systems."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|3",
+     "quote": "Personal-lines comparative rating connects through PL Rating"
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Mode|2",
+     "quote": "especially efficient when paired with Vertafore's PL Rating."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|Google AI Mode|3",
+     "quote": "AMS360 paired with PL Rating is the direct Vertafore equivalent to EZLynx’s all-in-one suite."
+    }
+   ]
+  },
+  {
+   "claim_id": "C30",
+   "type": "integrations",
+   "claim": "AMS360 has integrations with over 300 carriers for policy downloads.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The AMS360 page describes carrier downloads without a carrier count (the 200+ carriers figure on that page belongs to the Reconciliation Agent).",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q2|Claude|1",
+     "quote": "It supports both commercial and personal lines with robust integrations to over 300 carriers for automated policy downloads and updates."
+    }
+   ]
+  },
+  {
+   "claim_id": "C31",
+   "type": "platforms",
+   "claim": "QQCatalyst is cloud-based.",
+   "class": "true",
+   "proof_url": "https://www.vertafore.com/products/insurance-management-software/qqcatalyst",
+   "proof_quote": "Work from anywhere Enjoy cloud-based access anytime, anywhere.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The QQCatalyst page offers cloud-based access.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Claude|2",
+     "quote": "QQCatalyst is known for its customizable workflows and cloud-based accessibility."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Claude|3",
+     "quote": "QQCatalyst is also known for its customizable workflows and cloud-based accessibility."
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Perplexity|1",
+     "quote": "**QQCatalyst**: a budget-friendly cloud option for small to mid-sized agencies"
+    },
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Overviews|2",
+     "quote": "Why it works: Offers cloud-based core policy tracking and CRM tools at a lower barrier to entry."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|1",
+     "quote": "Centralized policy/client data, task and email automation, cloud access, sales pipeline management, and PL Rating integration."
+    },
+    {
+     "record_id": "insurance-agency-management|q4|ChatGPT|2",
+     "quote": "| **QQCatalyst** | Smaller, growing agencies wanting cloud-based management and sales tracking |"
+    },
+    {
+     "record_id": "insurance-agency-management|q6|Claude|2",
+     "quote": "especially popular with small to mid-sized agencies looking for affordable, cloud-based management tools."
+    },
+    {
+     "record_id": "insurance-agency-management|q5|Perplexity|2",
+     "quote": "| **QQCatalyst** | Agencies wanting a modern, cloud-based AMS |"
+    }
+   ]
+  },
+  {
+   "claim_id": "C32",
+   "type": "platforms",
+   "claim": "AMS360 is a desktop agency management system.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The AMS360 page read does not say how AMS360 is deployed (desktop, browser or cloud).",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q5|Claude|1",
+     "quote": "It's an all-in-one desktop agency management system offering policy management, accounting, and automation for independent insurance agencies."
+    }
+   ]
+  },
+  {
+   "claim_id": "C33",
+   "type": "platforms",
+   "claim": "Vertafore's agency systems (Vertafore Agency Platform, AMS360) are offered in the cloud.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The AMS360 page read does not say AMS360 is cloud-based, and no Vertafore Agency Platform page exists among those read.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q1|Google AI Mode|2",
+     "quote": "their streamlined cloud offerings provide unmatched industry stability"
+    }
+   ]
+  },
+  {
+   "claim_id": "C34",
+   "type": "product_names",
+   "claim": "BenefitPoint is a Vertafore product (Vertafore BenefitPoint).",
+   "class": "true",
+   "proof_url": "https://vertafore.com/",
+   "proof_quote": "Manage Your Agency AMS360 QQCatalyst Sagitta BenefitPoint WorkSmart",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Vertafore's home page lists BenefitPoint among its own agency management solutions, with AMS360, QQCatalyst, Sagitta and WorkSmart.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q3|ChatGPT|1",
+     "quote": "**Vertafore BenefitPoint**"
+    },
+    {
+     "record_id": "insurance-agency-management|q3|ChatGPT|2",
+     "quote": "**Vertafore BenefitPoint**"
+    },
+    {
+     "record_id": "insurance-agency-management|q3|ChatGPT|3",
+     "quote": "**Vertafore BenefitPoint**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C35",
+   "type": "platforms",
+   "claim": "Vertafore's browser-based system for growing agencies (product not named in the answer; not AMS360) runs in a web browser.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The answer does not name the product, and no Vertafore page read describes any of its systems as browser-based, so the claim cannot be settled.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|1",
+     "quote": "Vertafore’s browser-based system."
+    }
+   ]
+  },
+  {
+   "claim_id": "C36",
+   "type": "integrations",
+   "claim": "Vertafore's browser-based system for growing agencies (product not named in the answer; not AMS360) pairs with Vertafore PL Rating.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The PL Rating page names AMS360, Sagitta, QQCatalyst and over 20 other management systems that PL Rating integrates with, but the answer does not name the product, so the pages cannot settle it.",
+   "instances": [
+    {
+     "record_id": "insurance-agency-management|q10|Google AI Overviews|1",
+     "quote": "pairing smoothly with Vertafore PL Rating"
+    }
+   ]
+  }
+ ],
+ "notes": "Product-family vendor: read on Vertafore's own product pages (home menu, AMS360, QQCatalyst, PL Rating, AgencyZoom), all HTTP 200 and not thin. The bundle includes answers that name only AgencyZoom, QQCatalyst, Sagitta or PL Rating (aliases); statements about those products are coded here as Vertafore statements. Plain uses of names such as Vertafore AMS360 were not coded; only explicit attributions (AMS360 (Vertafore), by Vertafore, owned by Vertafore, by Zywave) were. No Vertafore page read publishes prices, so all price claims are unverifiable. C06 (AgencyZoom by Zywave) is wrong against Vertafore's AgencyZoom page and traced to the cited aimadefor.com blog (type other). C24 is a table row whose product name was stripped from the answer; it is coded as Vertafore's unnamed browser-based system. Not coded: G2 ratings, market share survey figures, fit opinions, BenefitPoint connecting with Vertafore agency systems (no named product), passing rater names (Vertafore's Rater, Vertafore Rating), InsuredMine's integration list, and AgencyZoom positioning lines. Pass 2 (8 Oct 2026): no browser reads exist for this vendor and no claim was unverifiable because of a blocked page. Added C34 (BenefitPoint as a Vertafore product, from the q3 ChatGPT tables, coded like C08 and C09 because no claim covered that module) and C35 and C36 (the browser-based platform and the PL Rating pairing in the same unnamed-product row as C24). Plain uses of names that already have a claim (Vertafore AMS360, Vertafore Sagitta, Vertafore QQCatalyst, Vertafore PL Rating) were still not added as instances, and the remaining gap lines are capability, fit or other-vendor statements. Consistency check: C06 kept wrong, since the AgencyZoom page presents AgencyZoom as part of Vertafore's connected solutions and answers a FAQ on the support Vertafore provides for AgencyZoom users.",
+ "needs_browser_read": [],
+ "answer_record_ids": [
+  "insurance-agency-management|q1|ChatGPT|1",
+  "insurance-agency-management|q1|ChatGPT|2",
+  "insurance-agency-management|q1|ChatGPT|3",
+  "insurance-agency-management|q1|Claude|1",
+  "insurance-agency-management|q1|Claude|2",
+  "insurance-agency-management|q1|Claude|3",
+  "insurance-agency-management|q1|Google AI Mode|2",
+  "insurance-agency-management|q1|Google AI Mode|3",
+  "insurance-agency-management|q1|Google AI Overviews|1",
+  "insurance-agency-management|q1|Google AI Overviews|2",
+  "insurance-agency-management|q1|Google AI Overviews|3",
+  "insurance-agency-management|q1|Perplexity|1",
+  "insurance-agency-management|q1|Perplexity|2",
+  "insurance-agency-management|q1|Perplexity|3",
+  "insurance-agency-management|q10|ChatGPT|2",
+  "insurance-agency-management|q10|Claude|1",
+  "insurance-agency-management|q10|Claude|2",
+  "insurance-agency-management|q10|Claude|3",
+  "insurance-agency-management|q10|Google AI Mode|1",
+  "insurance-agency-management|q10|Google AI Mode|2",
+  "insurance-agency-management|q10|Google AI Mode|3",
+  "insurance-agency-management|q10|Google AI Overviews|1",
+  "insurance-agency-management|q10|Google AI Overviews|2",
+  "insurance-agency-management|q10|Google AI Overviews|3",
+  "insurance-agency-management|q10|Perplexity|1",
+  "insurance-agency-management|q10|Perplexity|2",
+  "insurance-agency-management|q10|Perplexity|3",
+  "insurance-agency-management|q2|ChatGPT|1",
+  "insurance-agency-management|q2|ChatGPT|2",
+  "insurance-agency-management|q2|ChatGPT|3",
+  "insurance-agency-management|q2|Claude|1",
+  "insurance-agency-management|q2|Claude|2",
+  "insurance-agency-management|q2|Claude|3",
+  "insurance-agency-management|q2|Google AI Mode|1",
+  "insurance-agency-management|q2|Google AI Mode|2",
+  "insurance-agency-management|q2|Google AI Mode|3",
+  "insurance-agency-management|q2|Google AI Overviews|1",
+  "insurance-agency-management|q2|Google AI Overviews|2",
+  "insurance-agency-management|q2|Google AI Overviews|3",
+  "insurance-agency-management|q3|ChatGPT|1",
+  "insurance-agency-management|q3|ChatGPT|2",
+  "insurance-agency-management|q3|ChatGPT|3",
+  "insurance-agency-management|q3|Google AI Mode|2",
+  "insurance-agency-management|q3|Google AI Overviews|1",
+  "insurance-agency-management|q4|ChatGPT|1",
+  "insurance-agency-management|q4|ChatGPT|2",
+  "insurance-agency-management|q4|ChatGPT|3",
+  "insurance-agency-management|q4|Claude|1",
+  "insurance-agency-management|q4|Claude|2",
+  "insurance-agency-management|q4|Claude|3",
+  "insurance-agency-management|q4|Google AI Mode|1",
+  "insurance-agency-management|q4|Google AI Mode|2",
+  "insurance-agency-management|q4|Google AI Mode|3",
+  "insurance-agency-management|q4|Google AI Overviews|1",
+  "insurance-agency-management|q4|Google AI Overviews|2",
+  "insurance-agency-management|q4|Google AI Overviews|3",
+  "insurance-agency-management|q4|Perplexity|1",
+  "insurance-agency-management|q4|Perplexity|2",
+  "insurance-agency-management|q4|Perplexity|3",
+  "insurance-agency-management|q5|ChatGPT|1",
+  "insurance-agency-management|q5|ChatGPT|2",
+  "insurance-agency-management|q5|ChatGPT|3",
+  "insurance-agency-management|q5|Claude|1",
+  "insurance-agency-management|q5|Claude|2",
+  "insurance-agency-management|q5|Claude|3",
+  "insurance-agency-management|q5|Google AI Mode|1",
+  "insurance-agency-management|q5|Google AI Mode|2",
+  "insurance-agency-management|q5|Google AI Mode|3",
+  "insurance-agency-management|q5|Google AI Overviews|1",
+  "insurance-agency-management|q5|Google AI Overviews|2",
+  "insurance-agency-management|q5|Google AI Overviews|3",
+  "insurance-agency-management|q5|Perplexity|1",
+  "insurance-agency-management|q5|Perplexity|2",
+  "insurance-agency-management|q5|Perplexity|3",
+  "insurance-agency-management|q6|ChatGPT|1",
+  "insurance-agency-management|q6|ChatGPT|2",
+  "insurance-agency-management|q6|ChatGPT|3",
+  "insurance-agency-management|q6|Claude|1",
+  "insurance-agency-management|q6|Claude|2",
+  "insurance-agency-management|q6|Claude|3",
+  "insurance-agency-management|q6|Google AI Mode|1",
+  "insurance-agency-management|q6|Google AI Mode|2",
+  "insurance-agency-management|q6|Google AI Mode|3",
+  "insurance-agency-management|q6|Google AI Overviews|1",
+  "insurance-agency-management|q6|Google AI Overviews|2",
+  "insurance-agency-management|q6|Google AI Overviews|3",
+  "insurance-agency-management|q6|Perplexity|1",
+  "insurance-agency-management|q6|Perplexity|2",
+  "insurance-agency-management|q6|Perplexity|3",
+  "insurance-agency-management|q7|ChatGPT|3",
+  "insurance-agency-management|q7|Claude|3",
+  "insurance-agency-management|q7|Google AI Mode|3"
+ ],
+ "named_count": 92
+}

@@ -1,0 +1,261 @@
+{
+ "vendor": "ClickUp",
+ "slug": "clickup",
+ "category": "project_management",
+ "coded_at": "2026-10-08T03:59:00Z",
+ "pages_read": [
+  {
+   "url": "https://clickup.com/pricing",
+   "key": "6cf362a797a88813",
+   "used_for": "pricing, plans, free tier (HTTP 200)"
+  },
+  {
+   "url": "https://clickup.com/",
+   "key": "83e921a5d7239273",
+   "used_for": "home (HTTP 200)"
+  },
+  {
+   "url": "https://clickup.com/faqs",
+   "key": "fe4aa94d0ff89071",
+   "used_for": "FAQ: plans, hosting (HTTP 200)"
+  },
+  {
+   "url": "https://clickup.com/security",
+   "key": "5643c663669141c8",
+   "used_for": "security and hosting (HTTP 200)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "pricing",
+   "claim": "The Unlimited plan costs $7 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://clickup.com/pricing",
+   "proof_quote": "unlimited yearly price: $7 Per user/month, billed yearly",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Unlimited at $7 per user per month billed yearly, the same plan and billing basis as the claim.",
+   "instances": [
+    {
+     "record_id": "project_management|1|ChatGPT|1",
+     "quote": "Unlimited is listed at **$7/user/month, billed annually**."
+    },
+    {
+     "record_id": "project_management|2|ChatGPT|2",
+     "quote": "Includes native time tracking, portfolio management, resource management, and permission-controlled guest access at $7/user/month billed annually."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "pricing",
+   "claim": "The Business plan costs $12 per user per month billed annually.",
+   "class": "true",
+   "proof_url": "https://clickup.com/pricing",
+   "proof_quote": "business yearly price: $12 Per user/month, billed yearly",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists Business at $12 per user per month billed yearly, the same plan and billing basis as the claim.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|1",
+     "quote": "Business is publicly listed at $12/user/month billed annually."
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Business is publicly listed at $12/user/month billed annually."
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "Business is **$12/user/month billed annually**"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "plans",
+   "claim": "The Unlimited plan includes native time tracking, portfolio management, resource management and guest access with permission control.",
+   "class": "true",
+   "proof_url": "https://clickup.com/pricing",
+   "proof_quote": "Native Time Tracking Goals & Portfolio Management Guests With Permission Control Resource Management",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Unlimited plan card lists native time tracking, goals and portfolio management, guests with permission control and resource management.",
+   "instances": [
+    {
+     "record_id": "project_management|2|ChatGPT|2",
+     "quote": "Includes native time tracking, portfolio management, resource management, and permission-controlled guest access at $7/user/month billed annually."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "plans",
+   "claim": "SAML SSO, SCIM provisioning, audit logs and advanced governance require the Enterprise plan.",
+   "class": "true",
+   "proof_url": "https://clickup.com/pricing",
+   "proof_quote": "Everything in Business, plus: Enterprise Permissions and Governance Unlimited Custom Roles SAML SSO & SCIM Provisioning Audit Log",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Enterprise plan card lists enterprise permissions and governance, SAML SSO and SCIM provisioning, and audit log as what it adds over Business.",
+   "instances": [
+    {
+     "record_id": "project_management|3|ChatGPT|1",
+     "quote": "SAML SSO, SCIM provisioning, and audit logs require Enterprise"
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|2",
+     "quote": "Enterprise is required for SAML SSO, SCIM provisioning, and audit logs"
+    },
+    {
+     "record_id": "project_management|3|ChatGPT|3",
+     "quote": "SAML SSO, automated provisioning, audit logs, and advanced governance require Enterprise."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "free_tier",
+   "claim": "ClickUp has a free plan.",
+   "class": "true",
+   "proof_url": "https://clickup.com/pricing",
+   "proof_quote": "free forever yearly price: Free Per user/month, billed yearly",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing page lists the Free Forever plan at no charge.",
+   "instances": [
+    {
+     "record_id": "project_management|1|Claude|1",
+     "quote": "ClickUp is also one of the best free project management software options due to its generous free plan"
+    },
+    {
+     "record_id": "project_management|1|Claude|2",
+     "quote": "It is also considered one of the best free project management options due to its generous free plan"
+    },
+    {
+     "record_id": "project_management|1|Claude|3",
+     "quote": "ClickUp is also one of the best free project management software options due to its generous free plan"
+    },
+    {
+     "record_id": "project_management|5|Claude|1",
+     "quote": "Jira, ClickUp, Trello, and Hive all offer free tiers that work for small distributed teams of 5–10 people."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "platforms",
+   "claim": "ClickUp runs in the cloud (a cloud environment).",
+   "class": "true",
+   "proof_url": "https://clickup.com/security",
+   "proof_quote": "ClickUp is hosted entirely on Amazon Web Services (AWS)",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The security page states that ClickUp is hosted entirely on Amazon Web Services, a cloud host.",
+   "instances": [
+    {
+     "record_id": "project_management|3|Google AI Overviews|1",
+     "quote": "It replaces multiple apps by combining docs, whiteboards, goals, and task hierarchies into a single cloud environment."
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [],
+ "notes": "Four own pages read, all HTTP 200 and not thin; the pricing page settles every price, plan and free-tier claim, and the security page settles hosting. No claim is wrong or stale, so no cited page was read for causes. Not coded: the q3 Perplexity run 1 category-wide range ('entry-level plans often start around $7-$11 per user per month for tools like ClickUp, monday.com, and Asana', hedged and not specific to ClickUp), hedged plan lines ('Workload availability and limits vary by subscription', 'Availability and limits vary by plan', q7 ChatGPT runs 1 to 3), the 'everything app' positioning line, the count of views (15+ ways to view, a capability), the Workspaces, Spaces, Folders and Lists hierarchy and feature names (Docs, Whiteboards, Chat, Workload), which are capabilities, not naming facts. In q5 Claude run 1 the line about free tiers for teams of 5 to 10 people was coded only as a free-tier claim (C05), since it states suitability, not a user limit. 'Most of these platforms offer free trials' (q3 Claude run 3) names no vendor and was not coded. Pass 2 (8 Oct 2026): no browser snapshots exist for ClickUp and no claim was unverifiable for a blocked or thin page; the five gap lines are the hedged category-wide price range, the generic free-trials line and three 'integrated team communication' capability lines (q7 Claude runs 1 to 3), all out of scope; a scan of every table and ClickUp sub-heading in the full answers found only capability, best-for and rating cells plus the prices and plan lines already coded (and the unspecific 'Guest-seat limits deserve attention' in q2 ChatGPT run 2), so no claim or instance was added; no wrong or stale claim to check.",
+ "answer_record_ids": [
+  "project_management|1|ChatGPT|1",
+  "project_management|1|ChatGPT|2",
+  "project_management|1|ChatGPT|3",
+  "project_management|1|Claude|1",
+  "project_management|1|Claude|2",
+  "project_management|1|Claude|3",
+  "project_management|1|Google AI Mode|1",
+  "project_management|1|Google AI Mode|2",
+  "project_management|1|Google AI Mode|3",
+  "project_management|1|Google AI Overviews|1",
+  "project_management|1|Google AI Overviews|2",
+  "project_management|1|Google AI Overviews|3",
+  "project_management|1|Perplexity|1",
+  "project_management|1|Perplexity|2",
+  "project_management|1|Perplexity|3",
+  "project_management|10|Perplexity|3",
+  "project_management|2|ChatGPT|2",
+  "project_management|2|Claude|1",
+  "project_management|2|Claude|2",
+  "project_management|2|Claude|3",
+  "project_management|2|Google AI Mode|1",
+  "project_management|2|Google AI Mode|2",
+  "project_management|2|Google AI Mode|3",
+  "project_management|2|Google AI Overviews|1",
+  "project_management|2|Google AI Overviews|2",
+  "project_management|2|Google AI Overviews|3",
+  "project_management|2|Perplexity|1",
+  "project_management|2|Perplexity|2",
+  "project_management|3|ChatGPT|1",
+  "project_management|3|ChatGPT|2",
+  "project_management|3|ChatGPT|3",
+  "project_management|3|Claude|1",
+  "project_management|3|Claude|2",
+  "project_management|3|Claude|3",
+  "project_management|3|Google AI Mode|1",
+  "project_management|3|Google AI Mode|2",
+  "project_management|3|Google AI Mode|3",
+  "project_management|3|Google AI Overviews|1",
+  "project_management|3|Google AI Overviews|2",
+  "project_management|3|Perplexity|1",
+  "project_management|3|Perplexity|2",
+  "project_management|3|Perplexity|3",
+  "project_management|4|Claude|2",
+  "project_management|4|Claude|3",
+  "project_management|4|Google AI Mode|1",
+  "project_management|4|Google AI Mode|2",
+  "project_management|4|Google AI Mode|3",
+  "project_management|4|Google AI Overviews|2",
+  "project_management|4|Perplexity|1",
+  "project_management|4|Perplexity|2",
+  "project_management|4|Perplexity|3",
+  "project_management|5|Claude|1",
+  "project_management|5|Claude|2",
+  "project_management|5|Claude|3",
+  "project_management|5|Google AI Mode|1",
+  "project_management|5|Google AI Mode|2",
+  "project_management|5|Google AI Overviews|1",
+  "project_management|5|Google AI Overviews|3",
+  "project_management|5|Perplexity|1",
+  "project_management|5|Perplexity|2",
+  "project_management|5|Perplexity|3",
+  "project_management|6|Claude|1",
+  "project_management|6|Google AI Mode|1",
+  "project_management|6|Google AI Overviews|1",
+  "project_management|6|Google AI Overviews|2",
+  "project_management|6|Google AI Overviews|3",
+  "project_management|7|ChatGPT|1",
+  "project_management|7|ChatGPT|2",
+  "project_management|7|ChatGPT|3",
+  "project_management|7|Claude|1",
+  "project_management|7|Claude|2",
+  "project_management|7|Claude|3",
+  "project_management|7|Google AI Mode|1",
+  "project_management|7|Google AI Mode|2",
+  "project_management|7|Google AI Overviews|1",
+  "project_management|7|Google AI Overviews|2",
+  "project_management|7|Google AI Overviews|3",
+  "project_management|7|Perplexity|1",
+  "project_management|7|Perplexity|2",
+  "project_management|7|Perplexity|3"
+ ],
+ "named_count": 80
+}

@@ -1,0 +1,1140 @@
+{
+ "vendor": "Eaglesoft",
+ "slug": "eaglesoft",
+ "category": "dental-practice-management",
+ "coded_at": "2026-10-08T04:26:11Z",
+ "pages_read": [
+  {
+   "url": "https://eaglesoft.net/",
+   "key": "7de2aaa5ff8329f4",
+   "used_for": "home on the canonical domain (network failure; not read)"
+  },
+  {
+   "url": "https://www.pattersondental.com/cp/software/dental-practice-management-software/eaglesoft",
+   "key": "38095f21d61c53e8",
+   "used_for": "product page (Patterson for Eaglesoft): platforms, plans, pricing, integrations"
+  },
+  {
+   "url": "https://www.pattersondental.com/cp/software/revenue-cycle-management-software/eaglesoft-card-payments",
+   "key": "10e3f71876575f61",
+   "used_for": "integrations (card payments)"
+  },
+  {
+   "url": "https://www.pattersondental.com/resources/dental-software/eaglesoft-customer-resources",
+   "key": "993eaa9a1e797643",
+   "used_for": "Service Club and support"
+  },
+  {
+   "url": "https://www.pattersondental.com/cp/software/dental-practice-management-software",
+   "key": "022a7774ed1ebbd0",
+   "used_for": "Patterson practice management software family"
+  },
+  {
+   "url": "https://slashdot.org/software/p/Dentrix/alternatives",
+   "key": "ad3e9f7309a74edb",
+   "used_for": "cause tracing (cited page, not an own page)"
+  },
+  {
+   "url": "https://www.selecthub.com/dental-practice-management-software/open-dental-vs-eaglesoft/",
+   "key": "9364b09b2db507f0",
+   "used_for": "cause tracing (HTTP 403, blocked)"
+  },
+  {
+   "url": "https://www.selecthub.com/dental-practice-management-software/open-dental-vs-eaglesoft/",
+   "key": "9364b09b2db507f0",
+   "used_for": "cause tracing (browser read; third-party page, not used to class; does not carry the C04 cloud-based sentence)"
+  },
+  {
+   "url": "https://firststopdental.com/blog/dental-practice-management-software-comparison",
+   "key": "6b5a1096277073d8",
+   "used_for": "cause tracing (cited page, not an own page)"
+  },
+  {
+   "url": "https://thinkaegis.com/best-dental-software/",
+   "key": "9af0dc4c06a931ac",
+   "used_for": "cause tracing (cited page, not an own page)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "ownership",
+   "claim": "Eaglesoft is a Patterson Dental product (developed by Patterson).",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software/eaglesoft",
+   "proof_quote": "Eaglesoft Dental Practice Management Software | Patterson Dental",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Eaglesoft is sold, supported and presented as Patterson Dental's own practice management software on Patterson's product page.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Claude|1",
+     "quote": "Eaglesoft, powered by Patterson Dental, is a long-standing favorite among dentists"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|2",
+     "quote": "Eaglesoft, powered by Patterson Dental, is a long-standing favorite among dentists"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|3",
+     "quote": "Developed by Patterson Dental, Eaglesoft has built a loyal base among long-running practices."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|1",
+     "quote": "Developed by Patterson Dental, Eaglesoft is a traditional, robust desktop software comparable to Dentrix."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|2",
+     "quote": "Eaglesoft (by Patterson Dental) — The Traditional Alternative"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|1",
+     "quote": "Eaglesoft (by Patterson Dental): Frequently chosen by offices tied into the Patterson equipment and imaging ecosystem."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|2",
+     "quote": "Developed by Patterson Dental, it is a familiar, reliable server-based choice"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "Eaglesoft — Patterson"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|3",
+     "quote": "Eaglesoft — Patterson"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|1",
+     "quote": "Eaglesoft (by Patterson Dental)"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "Patterson's Eaglesoft has long competed with Dentrix"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "Eaglesoft (by Patterson Dental)"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|3",
+     "quote": "Eaglesoft (by Patterson)"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|2",
+     "quote": "When looking for an alternative to Patterson’s Eaglesoft"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|3",
+     "quote": "When looking for an alternative to Patterson’s Eaglesoft"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|1",
+     "quote": "Eaglesoft — Patterson"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|3",
+     "quote": "Practices preferring Patterson’s server-based offering"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "Eaglesoft (by Patterson Dental)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Patterson's Eaglesoft has long competed with Dentrix"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Eaglesoft (by Patterson Dental)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|1",
+     "quote": "Patterson Eaglesoft: Another long-standing desktop competitor backed by Patterson Dental's robust equipment and technical service network."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|2",
+     "quote": "Eaglesoft (Patterson Dental): Well-rounded functionality"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|3",
+     "quote": "Eaglesoft (by Patterson Dental) — A robust, long-standing desktop competitor"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Overviews|1",
+     "quote": "Eaglesoft (by Patterson Dental): A major mid-market desktop alternative"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Overviews|2",
+     "quote": "Eaglesoft: Patterson’s flagship server-based system"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|1",
+     "quote": "Eaglesoft (Patterson Dental)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|2",
+     "quote": "Choosing between Dentrix (by Henry Schein) and Eaglesoft (by Patterson Dental)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|3",
+     "quote": "Choosing between Dentrix (by Henry Schein) and Eaglesoft (by Patterson Dental)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|1",
+     "quote": "Eaglesoft is developed by Patterson Dental and offers seamless native integration"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|2",
+     "quote": "Both Dentrix (by Henry Schein) and (by Patterson Dental) are powerful, server-based desktop systems for dental practices"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|3",
+     "quote": "Eaglesoft (Patterson Dental)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "founding",
+   "claim": "Eaglesoft was created by Patterson Companies.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Patterson pages read say Eaglesoft has evolved for more than three decades but do not say who created it; the canonical home eaglesoft.net could not be read.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "Eaglesoft was created by Patterson Companies, another leader in the dental industry."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "Eaglesoft was created by Patterson Companies, a leader in the dental industry"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "platforms",
+   "claim": "Eaglesoft is server-based, on-premise (desktop) software that requires a local server.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software/eaglesoft",
+   "proof_quote": "Eaglesoft is currently a server-based practice management solution.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Patterson's FAQ states Eaglesoft is a server-based solution and an on-premise solution that requires a physical server.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q2|Claude|1",
+     "quote": "Server-based systems like Dentrix and Eaglesoft add IT overhead and hardware costs"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|2",
+     "quote": "Both Dentrix and Eaglesoft require on-premise servers, local backups, and ongoing hardware maintenance."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|3",
+     "quote": "Both Dentrix and Eaglesoft require on-premise servers, local backups, and ongoing hardware maintenance."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|1",
+     "quote": "Developed by Patterson Dental, Eaglesoft is a traditional, robust desktop software comparable to Dentrix."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|2",
+     "quote": "Eaglesoft is the other major traditional server-based giant"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|3",
+     "quote": "older desktop systems like Dentrix or Eaglesoft"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|2",
+     "quote": "Developed by Patterson Dental, it is a familiar, reliable server-based choice"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|3",
+     "quote": "Local server | Patterson imaging hardware integration"
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|2",
+     "quote": "It remains server-based, so it would not be my first choice if your main goal is eliminating local-server management."
+    },
+    {
+     "record_id": "dental-practice-management|q4|ChatGPT|3",
+     "quote": "It remains server-based, so I wouldn’t choose it if eliminating the office server is your main goal."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "server-based platforms like Dentrix, Eaglesoft, and Open Dental (self-hosted) store data on a computer in your office"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|3",
+     "quote": "The longtime direct rival to Dentrix in the desktop space."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|3",
+     "quote": "Still relies on traditional server infrastructure."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Perplexity|1",
+     "quote": "If you want a more traditional desktop/on-premise feel, look at Eaglesoft."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Perplexity|3",
+     "quote": "prefer an on-premise workflow"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "its server-dependent architecture and aging interface are driving many practices toward modern alternatives"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "its server-dependent architecture and aging interface are driving many practices toward modern alternatives"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "its server-dependent architecture and aging interface are driving many practices toward modern alternatives"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|2",
+     "quote": "whether you want to move away from local on-premise servers to a modern cloud system"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|3",
+     "quote": "whether you want to stick with a traditional server-based setup"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|2",
+     "quote": "Eaglesoft traditionally requires on-premise local servers, backups, and dedicated IT support."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|3",
+     "quote": "Eaglesoft requires an on-premise server and local SQL database maintenance"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Perplexity|2",
+     "quote": "it replaces Eaglesoft’s on-premise model with a true cloud platform"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|1",
+     "quote": "Private practices wanting a server-based system with integrated imaging"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|2",
+     "quote": "Eaglesoft is also server-based and combines administrative, clinical, and imaging workflows."
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|3",
+     "quote": "Offers server-based practice management with integrated digital imaging"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "On-premise | Practices with Patterson ecosystem"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Examples | Dentrix, Eaglesoft, Open Dental"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Server-based platforms (Dentrix, Eaglesoft, Practice-Web, Open Dental self-hosted) store data on a computer in your office."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|1",
+     "quote": "Server-Based (Legacy) | Practices preferring Patterson support"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|2",
+     "quote": "for busy practices relying on robust desktop performance"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|3",
+     "quote": "A robust, long-standing desktop competitor"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Overviews|1",
+     "quote": "A major mid-market desktop alternative"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Overviews|2",
+     "quote": "Eaglesoft: Patterson’s flagship server-based system"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|1",
+     "quote": "Staying in a traditional desktop-style workflow | Dentrix or Eaglesoft"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|2",
+     "quote": "Traditional full-featured desktop-style system | Dentrix or Eaglesoft"
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|1",
+     "quote": "standard Dentrix and Eaglesoft are both server-based."
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|2",
+     "quote": "rather than automatically choose either desktop product"
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|3",
+     "quote": "standard Dentrix and Eaglesoft are both server-based"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Dentrix and Eaglesoft are two of the most common on-premise dental practice management systems"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Dentrix and Eaglesoft are two of the most common on-premise dental practice management systems"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Dentrix and Eaglesoft are two of the most common on-premise dental practice management systems"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|1",
+     "quote": "On-premise Windows/SQL application"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|2",
+     "quote": "you plan on maintaining a local server infrastructure"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|3",
+     "quote": "Both are industry heavyweights and traditional server-based practice management systems"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|1",
+     "quote": "Eaglesoft is primarily a server-based desktop system requiring on-premise IT maintenance."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|2",
+     "quote": "whereas Eaglesoft relies on traditional on-premise local servers or third-party remote hosting"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|3",
+     "quote": "Server-based primarily (Patterson Fuse is a separate cloud platform)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Perplexity|2",
+     "quote": "Eaglesoft is still primarily positioned as an on-prem/server-based system in these comparisons"
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "platforms",
+   "claim": "Eaglesoft is a cloud-based system that gives access to data from anywhere.",
+   "class": "wrong",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software/eaglesoft",
+   "proof_quote": "Eaglesoft is currently a server-based practice management solution.",
+   "stale_change": null,
+   "causing_url": "https://thinkaegis.com/best-dental-software/",
+   "causing_type": "other",
+   "causing_quote": "Eaglesoft prides itself on seamless integration and an easy-to-use interface. Their cloud-based system enables you to access data from anywhere.",
+   "rationale": "Patterson's FAQ answers whether Eaglesoft is cloud-based by stating it is a server-based solution that requires a physical server; the cited thinkaegis.com page carries the same sentence.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "Their cloud-based system enables you to access data from anywhere."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "platforms",
+   "claim": "Eaglesoft has no native cloud version.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software",
+   "proof_quote": "Gain efficiencies, integrate digital imaging and enjoy seamless workflows across your entire practice with our Eaglesoft server-based software",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Patterson describes Eaglesoft as server-based software and offers its cloud-based system under a different product name, Fuse; the Eaglesoft FAQ says it is currently server-based.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Does Eaglesoft have a cloud version? Not in the same way Dentrix does."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Does Eaglesoft have a cloud version? Not in the same way Dentrix does."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Eaglesoft does not have a cloud version in the same way Dentrix does."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|1",
+     "quote": "it lacks a true native cloud equivalent"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|2",
+     "quote": "it lacks a direct, robust cloud-native equivalent"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|3",
+     "quote": "it lacks a true native cloud equivalent compared to Dentrix Ascend"
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "platforms",
+   "claim": "Eaglesoft has no cloud roadmap.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages say Eaglesoft is currently server-based but say nothing about future cloud plans.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q4|Claude|1",
+     "quote": "the absence of a cloud roadmap is a strategic consideration"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "platforms",
+   "claim": "Eaglesoft can run on third-party remote (hosted) servers.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Patterson's FAQ says Eaglesoft requires a physical server and recommends remote-access tools for remote use, but does not address third-party hosting.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|3",
+     "quote": "leaning heavily on local or hosted server frameworks"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|2",
+     "quote": "whereas Eaglesoft relies on traditional on-premise local servers or third-party remote hosting"
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "platforms",
+   "claim": "Eaglesoft is a Windows application.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "None of the Patterson pages read names the operating system; no system requirements page was read and eaglesoft.net could not be reached.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|1",
+     "quote": "On-premise Windows/SQL application"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "product_names",
+   "claim": "Patterson's separate cloud practice management platform is named Fuse.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software",
+   "proof_quote": "Consolidate multi-location practice data and processes into one, intuitive, cloud-based system. Fuse gives you the flexibility to work remotely",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Patterson's software page presents Fuse as its cloud-based practice management system, separate from server-based Eaglesoft.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|3",
+     "quote": "Server-based primarily (Patterson Fuse is a separate cloud platform)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "product_names",
+   "claim": "Eaglesoft's imaging module is named Advanced Imaging.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software/eaglesoft",
+   "proof_quote": "with Eaglesoft Advanced Imaging, no third-party bridges required.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page names Eaglesoft Advanced Imaging.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|2",
+     "quote": "Patterson offers integrated image acquisition and storage through Advanced Imaging."
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|3",
+     "quote": "its Service Club includes Schick support for Advanced Imaging customers"
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "product_names",
+   "claim": "Eaglesoft's scheduling includes a feature named IntelliCare reminders.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software/eaglesoft",
+   "proof_quote": "IntelliCare reminders Create timely notifications concerning patient care or records",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page lists IntelliCare reminders under scheduling features.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Eaglesoft's scheduling stands out with drag-and-drop functionality, Quick Fill tools, and IntelliCare reminders."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Eaglesoft's scheduling stands out with drag-and-drop functionality, Quick Fill tools, and IntelliCare reminders."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Eaglesoft's scheduling stands out with drag-and-drop functionality, Quick Fill tools, and IntelliCare reminders."
+    }
+   ]
+  },
+  {
+   "claim_id": "C12",
+   "type": "product_names",
+   "claim": "Eaglesoft's scheduling includes a feature named Quick Fill.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software/eaglesoft",
+   "proof_quote": "Quick Fill List appointments that have been deleted from the schedule",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page lists Quick Fill under scheduling features.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Eaglesoft's scheduling stands out with drag-and-drop functionality, Quick Fill tools, and IntelliCare reminders."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Eaglesoft's scheduling stands out with drag-and-drop functionality, Quick Fill tools, and IntelliCare reminders."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Eaglesoft's scheduling stands out with drag-and-drop functionality, Quick Fill tools, and IntelliCare reminders."
+    }
+   ]
+  },
+  {
+   "claim_id": "C13",
+   "type": "plans",
+   "claim": "Eaglesoft is sold through several Service Club plans whose inclusions differ by plan.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software/eaglesoft",
+   "proof_quote": "We offer several Eaglesoft Service Club plans designed to fit your office’s budget and needs",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page offers several Service Club plans (Base, Starter, Foundations, Professional, Growth) with different included features.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|1",
+     "quote": "Eaglesoft offers multiple Service Club plans with pricing through sales."
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|2",
+     "quote": "Both vendors offer connected services, but what is included depends on the package or add-ons."
+    }
+   ]
+  },
+  {
+   "claim_id": "C14",
+   "type": "plans",
+   "claim": "Service Club includes unlimited U.S.-based support, upgrades and Schick support for Advanced Imaging customers.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software/eaglesoft",
+   "proof_quote": "Eaglesoft Service Club offers unlimited U.S.-based support, free upgrades, learning resources, and comprehensive Schick support and warranties.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page lists unlimited U.S.-based support, free upgrades and Schick support (for advanced imaging customers) among Service Club benefits.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|1",
+     "quote": "Patterson offers integrated image acquisition/storage and Schick support benefits through Service Club."
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|3",
+     "quote": "Examine Eaglesoft’s Service Club closely, which includes unlimited U.S.-based support and upgrades."
+    }
+   ]
+  },
+  {
+   "claim_id": "C15",
+   "type": "plans",
+   "claim": "Service Club is an ongoing (monthly) subscription that includes training resources.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/resources/dental-software/eaglesoft-customer-resources",
+   "proof_quote": "For one low monthly fee, Eaglesoft Service Club gives you access to a comprehensive suite of benefits designed to support and grow your practice.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Patterson describes Service Club as a monthly fee whose benefits include learning resources such as free wellness checks with trainers and on-demand webinars; the product page adds that plans require a 24-month enrollment.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Eaglesoft's Service Club model with 200+ specialists and included training is hard to beat on paper, though it requires an ongoing subscription."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Eaglesoft's Service Club model with 200+ specialists and included training is hard to beat on paper, though it requires the ongoing subscription."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Eaglesoft's Service Club model with 200+ specialists and included training is hard to beat on paper, though it requires an ongoing subscription."
+    }
+   ]
+  },
+  {
+   "claim_id": "C16",
+   "type": "pricing",
+   "claim": "Eaglesoft does not publish pricing; pricing comes from Patterson's sales team as a quote.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software/eaglesoft",
+   "proof_quote": "For pricing and additional help determining which plan is the best fit for your practice, talk to a Patterson Software Sales Representative.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page answers the pricing question by directing buyers to a Patterson software sales representative and lists no prices.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q2|Claude|1",
+     "quote": "Pricing: Quote-based"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "Dentrix, Eaglesoft, and Curve Dental do not publish pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "Neither Dentrix nor Eaglesoft publishes pricing publicly"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Dentrix, Eaglesoft, and Curve Dental do not publish pricing"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Pricing: Does not publish pricing publicly."
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|1",
+     "quote": "Eaglesoft offers multiple Service Club plans with pricing through sales."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Neither Dentrix nor Eaglesoft publishes official pricing, and both offer customized quotes through a consultative sales process."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Neither Dentrix nor Eaglesoft publishes pricing — both offer customized quotes through a consultative sales process."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|3",
+     "quote": "Neither publishes strict pricing publicly"
+    }
+   ]
+  },
+  {
+   "claim_id": "C17",
+   "type": "pricing",
+   "claim": "Eaglesoft costs about $350 to $1,200 per month (third-party estimate).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Patterson publishes no prices on the pages read.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "expect $350–$1,200/month based on third-party estimates depending on practice size"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "expect $350–$1,200/month based on third-party estimates"
+    }
+   ]
+  },
+  {
+   "claim_id": "C18",
+   "type": "pricing",
+   "claim": "Eaglesoft starts at about $200 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Patterson publishes no prices on the pages read.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Dentrix starts at $500 per month and Eaglesoft starts at $200 per month"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Dentrix starts at $500 per month and Eaglesoft starts at $200 per month"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Eaglesoft starts at approximately $200/month"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Perplexity|1",
+     "quote": "Eaglesoft around $200/month"
+    }
+   ]
+  },
+  {
+   "claim_id": "C19",
+   "type": "pricing",
+   "claim": "Eaglesoft typically starts around $200 to $400 per month.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Patterson publishes no prices on the pages read.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|2",
+     "quote": "typically starting around $200 to $400/month"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|3",
+     "quote": "Per-user or annual license model (~$200–$400+/mo)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C20",
+   "type": "pricing",
+   "claim": "Patterson is moving Eaglesoft to subscription-only pricing beginning in 2026.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page sells Eaglesoft through Service Club plans that include the license and require a 24-month enrollment, but no page read says pricing is subscription-only or dates a 2026 change.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Patterson is also moving Eaglesoft to subscription-only pricing beginning 2026"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Patterson is also moving Eaglesoft to subscription-only pricing beginning in 2026"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Patterson is also moving Eaglesoft to subscription-only pricing beginning in 2026"
+    }
+   ]
+  },
+  {
+   "claim_id": "C21",
+   "type": "pricing",
+   "claim": "Eaglesoft is bundled with hardware deals.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "No page read describes hardware bundles for Eaglesoft.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q4|Google AI Overviews|3",
+     "quote": "Bundled with hardware deals."
+    }
+   ]
+  },
+  {
+   "claim_id": "C22",
+   "type": "pricing",
+   "claim": "Eaglesoft's integrated card processor charges 40 to 50 basis points above market rate.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Eaglesoft Card Payments page publishes no processing rates.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "it charges 40–50 basis points above market rate"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "charges 40–50 basis points above market rate"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "it charges 40–50 basis points above market rate"
+    }
+   ]
+  },
+  {
+   "claim_id": "C23",
+   "type": "integrations",
+   "claim": "Eaglesoft integrates natively with Global Payments for card processing.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/revenue-cycle-management-software/eaglesoft-card-payments",
+   "proof_quote": "Realize the benefits of Eaglesoft Card Payments, powered by Global Payments Integrated",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Card Payments page says Eaglesoft Card Payments is powered by Global Payments Integrated with direct Eaglesoft integration.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Global Payments is the only natively integrated processor for Eaglesoft"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Global Payments is the only natively integrated processor for Eaglesoft"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Global Payments is the only natively integrated processor for Eaglesoft"
+    }
+   ]
+  },
+  {
+   "claim_id": "C24",
+   "type": "integrations",
+   "claim": "Global Payments is the only natively integrated card processor for Eaglesoft.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages show Global Payments behind Eaglesoft Card Payments and also list Patterson CarePay+ with payment processing, but none states whether Global Payments is the only integrated processor.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Global Payments is the only natively integrated processor for Eaglesoft"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Global Payments is the only natively integrated processor for Eaglesoft"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Global Payments is the only natively integrated processor for Eaglesoft"
+    }
+   ]
+  },
+  {
+   "claim_id": "C25",
+   "type": "integrations",
+   "claim": "Eaglesoft integrates with Weave.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software/eaglesoft",
+   "proof_quote": "Weave – Patient engagement",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page lists Weave among software integrations for Eaglesoft.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "A fully loaded Eaglesoft deployment — license plus Service Club plus Weave plus Pearl AI"
+    }
+   ]
+  },
+  {
+   "claim_id": "C26",
+   "type": "integrations",
+   "claim": "Eaglesoft integrates with Pearl AI.",
+   "class": "true",
+   "proof_url": "https://www.pattersondental.com/cp/software/dental-practice-management-software/eaglesoft",
+   "proof_quote": "Pearl AI – Clinical excellence",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page lists Pearl AI among software integrations for Eaglesoft.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "A fully loaded Eaglesoft deployment — license plus Service Club plus Weave plus Pearl AI"
+    }
+   ]
+  },
+  {
+   "claim_id": "C27",
+   "type": "integrations",
+   "claim": "Eaglesoft integrates with 50+ imaging technologies.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Patterson states over 55 authorized integrations across all categories and names several imaging platforms, but gives no count of imaging technologies, so the comparison is not like for like.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q4|Claude|1",
+     "quote": "imaging integration breadth is your top priority (50+ technologies)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "imaging integration breadth is your top priority (50+ technologies)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "imaging integration breadth is your top priority (50+ technologies)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "imaging integration breadth is the top priority (50+ technologies)"
+    }
+   ]
+  },
+  {
+   "claim_id": "C28",
+   "type": "pricing",
+   "claim": "Eaglesoft is priced per user or as an annual license.",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The product page sells Eaglesoft through Service Club plans for a monthly fee with the license included at no extra cost, but says nothing about per-user pricing, so the either-or pricing basis is neither confirmed nor explicitly contradicted.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|3",
+     "quote": "Per-user or annual license model (~$200–$400+/mo)"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [
+  "https://eaglesoft.net/"
+ ],
+ "notes": "Product-family vendor read on Patterson's own pages (four pattersondental.com pages, all HTTP 200 and not thin). The canonical home https://eaglesoft.net/ failed with a network error and was not retried, and it has no browser read yet; C02 (creator) and C08 (Windows) are the claims it might settle, and the Patterson snapshots do not settle them. Four cited pages were read for C04's cause: thinkaegis.com carries the cloud-based sentence; slashdot.org and firststopdental.com do not; selecthub.com answered 403 and has since been read once in a browser (pass 2): it is a third-party page, so it classes nothing, and it does not carry the C04 sentence, so the cause stays thinkaegis.com. The pages_read entry for eaglesoft.net (key 7de2aaa5ff8329f4) has metadata only, no snapshot. Pass 2: added C28 (per-user or annual license pricing basis, unverifiable) and a C19 instance, both from the Dentrix and Eaglesoft table in one Google AI Overviews answer; the other comparison-table rows repeat claims already listed for the same answers. The consistency check kept C04 wrong: Patterson's own FAQ answers that Eaglesoft is server-based and requires a physical server. Not coded: name-only mentions, Townie vote shares, market share, review ratings, the 200+ Service Club specialists (staff count), the 30 years of refinement (product age), capability descriptions (line-item accounting, imaging depth), savings comparisons, and the hedged line about upfront and maintenance costs. Judgement calls: C15 treats included training as the learning resources Service Club lists; C23 and C24 split the Global Payments line into a true integration and an unverifiable exclusivity claim.",
+ "answer_record_ids": [
+  "dental-practice-management|q2|Claude|1",
+  "dental-practice-management|q2|Claude|2",
+  "dental-practice-management|q2|Claude|3",
+  "dental-practice-management|q3|ChatGPT|1",
+  "dental-practice-management|q3|ChatGPT|2",
+  "dental-practice-management|q3|ChatGPT|3",
+  "dental-practice-management|q3|Claude|1",
+  "dental-practice-management|q3|Claude|2",
+  "dental-practice-management|q3|Claude|3",
+  "dental-practice-management|q3|Google AI Mode|1",
+  "dental-practice-management|q3|Google AI Mode|2",
+  "dental-practice-management|q3|Google AI Mode|3",
+  "dental-practice-management|q3|Google AI Overviews|1",
+  "dental-practice-management|q3|Google AI Overviews|2",
+  "dental-practice-management|q3|Google AI Overviews|3",
+  "dental-practice-management|q4|ChatGPT|2",
+  "dental-practice-management|q4|ChatGPT|3",
+  "dental-practice-management|q4|Claude|1",
+  "dental-practice-management|q4|Claude|2",
+  "dental-practice-management|q4|Claude|3",
+  "dental-practice-management|q4|Google AI Mode|3",
+  "dental-practice-management|q4|Google AI Overviews|3",
+  "dental-practice-management|q4|Perplexity|1",
+  "dental-practice-management|q4|Perplexity|2",
+  "dental-practice-management|q4|Perplexity|3",
+  "dental-practice-management|q5|ChatGPT|1",
+  "dental-practice-management|q5|ChatGPT|2",
+  "dental-practice-management|q5|ChatGPT|3",
+  "dental-practice-management|q5|Claude|1",
+  "dental-practice-management|q5|Claude|2",
+  "dental-practice-management|q5|Claude|3",
+  "dental-practice-management|q5|Google AI Mode|1",
+  "dental-practice-management|q5|Google AI Mode|2",
+  "dental-practice-management|q5|Google AI Mode|3",
+  "dental-practice-management|q5|Google AI Overviews|1",
+  "dental-practice-management|q5|Google AI Overviews|2",
+  "dental-practice-management|q5|Google AI Overviews|3",
+  "dental-practice-management|q5|Perplexity|1",
+  "dental-practice-management|q5|Perplexity|2",
+  "dental-practice-management|q5|Perplexity|3",
+  "dental-practice-management|q6|ChatGPT|1",
+  "dental-practice-management|q6|ChatGPT|2",
+  "dental-practice-management|q6|ChatGPT|3",
+  "dental-practice-management|q6|Claude|1",
+  "dental-practice-management|q6|Claude|2",
+  "dental-practice-management|q6|Claude|3",
+  "dental-practice-management|q6|Google AI Mode|1",
+  "dental-practice-management|q6|Google AI Mode|2",
+  "dental-practice-management|q6|Google AI Mode|3",
+  "dental-practice-management|q6|Google AI Overviews|1",
+  "dental-practice-management|q6|Google AI Overviews|2",
+  "dental-practice-management|q6|Perplexity|1",
+  "dental-practice-management|q6|Perplexity|2",
+  "dental-practice-management|q6|Perplexity|3",
+  "dental-practice-management|q8|ChatGPT|1",
+  "dental-practice-management|q8|ChatGPT|2",
+  "dental-practice-management|q8|ChatGPT|3",
+  "dental-practice-management|q8|Claude|1",
+  "dental-practice-management|q8|Claude|2",
+  "dental-practice-management|q8|Claude|3",
+  "dental-practice-management|q8|Google AI Mode|1",
+  "dental-practice-management|q8|Google AI Mode|2",
+  "dental-practice-management|q8|Google AI Mode|3",
+  "dental-practice-management|q8|Google AI Overviews|1",
+  "dental-practice-management|q8|Google AI Overviews|2",
+  "dental-practice-management|q8|Google AI Overviews|3",
+  "dental-practice-management|q8|Perplexity|1",
+  "dental-practice-management|q8|Perplexity|2",
+  "dental-practice-management|q8|Perplexity|3"
+ ],
+ "named_count": 69
+}

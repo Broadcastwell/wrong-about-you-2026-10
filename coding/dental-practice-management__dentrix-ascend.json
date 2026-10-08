@@ -1,0 +1,910 @@
+{
+ "vendor": "Dentrix Ascend",
+ "slug": "dentrix-ascend",
+ "category": "dental-practice-management",
+ "coded_at": "2026-10-08T04:29:42Z",
+ "pages_read": [
+  {
+   "url": "https://www.dentrixascend.com/",
+   "key": "6eb8f091601a57c2",
+   "used_for": "home"
+  },
+  {
+   "url": "https://www.dentrixascend.com/about-us/",
+   "key": "3e62f2b0304b6cef",
+   "used_for": "about, ownership"
+  },
+  {
+   "url": "https://www.dentrixascend.com/dental-solutions/dentrix-ascend-packages-and-suites/",
+   "key": "c32019939b00c8dd",
+   "used_for": "plans"
+  },
+  {
+   "url": "https://www.dentrixascend.com/about-us/why-dentrix-ascend/",
+   "key": "86db7120c1ec00ce",
+   "used_for": "pricing FAQ, security"
+  },
+  {
+   "url": "https://www.dentrixascend.com/insights/blogs/best-dental-practice-management-software-for-dso-groups",
+   "key": "016d84994dbef0b1",
+   "used_for": "own blog page cited by 3 answers (nothing settled from it)"
+  },
+  {
+   "url": "https://www.dentrix.com/about-us/dentrix-or-dentrix-ascend",
+   "key": "cbdd593b4158b1e2",
+   "used_for": "Henry Schein One comparison page for both products (read in the Dentrix coding)"
+  },
+  {
+   "url": "https://practicesignal.com/dental/best/small-practice",
+   "key": "c28faee2f307149d",
+   "used_for": "cause tracing (cited page, not an own page)"
+  }
+ ],
+ "claims": [
+  {
+   "claim_id": "C01",
+   "type": "ownership",
+   "claim": "Dentrix Ascend is a Henry Schein product (made by Henry Schein, part of its ecosystem).",
+   "class": "true",
+   "proof_url": "https://www.dentrixascend.com/about-us/",
+   "proof_quote": "Henry Schein One brings decades of dental software experience, backed by Henry Schein Inc., one of the most trusted names in healthcare worldwide.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page states Dentrix Ascend is part of Henry Schein One, which is backed by Henry Schein Inc.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|1",
+     "quote": "Dentrix Ascend: Henry Schein’s dedicated cloud platform alternative for offices wanting Dentrix features without an on-premise server."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "Henry Schein's cloud version of Dentrix offers familiar workflows with cloud accessibility."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "Dentrix Ascend is Henry Schein's cloud-native product, built separately from traditional Dentrix and delivered entirely through the browser."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|2",
+     "quote": "Dentrix Ascend – Henry Schein’s own native-cloud version of Dentrix."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|1",
+     "quote": "Dentrix Ascend is a powerful cloud-native platform by Henry Schein that removes local server maintenance"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|2",
+     "quote": "Dentrix or Dentrix Ascend — Henry Schein’s flagship ecosystem."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|3",
+     "quote": "Henry Schein also offers Dentrix Ascend if you prefer their ecosystem in a cloud format."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|1",
+     "quote": "Henry Schein’s genuine cloud alternative provides strong AI-powered clinical tools"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "Dentrix Ascend is Henry Schein's cloud-native product, built separately from traditional Dentrix and delivered entirely through the browser."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Henry Schein's cloud version of Dentrix offers familiar workflows with cloud accessibility."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Henry Schein's cloud version of Dentrix offers familiar workflows with cloud accessibility."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|1",
+     "quote": "A good choice if you want to move into the cloud while staying in the Henry Schein ecosystem."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|2",
+     "quote": "a good option if you want to move from an on-premise system to a cloud environment while staying in the Henry Schein ecosystem"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|3",
+     "quote": "Choose Dentrix Ascend if you want to stay in the Henry Schein ecosystem while moving to cloud software."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|2",
+     "quote": "though Henry Schein offers Dentrix Ascend, a true cloud-native version"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Google AI Mode|3",
+     "quote": "Dentrix Ascend - The cloud version of Henry Schein's powerhouse ecosystem."
+    }
+   ]
+  },
+  {
+   "claim_id": "C02",
+   "type": "ownership",
+   "claim": "Dentrix Ascend is a Henry Schein One product.",
+   "class": "true",
+   "proof_url": "https://www.dentrixascend.com/about-us/",
+   "proof_quote": "Dentrix Ascend is part of Henry Schein One, a global leader in connected dental software built for how dentistry works.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page states Dentrix Ascend is part of Henry Schein One.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|2",
+     "quote": "Dentrix Ascend: A cloud-native solution by Henry Schein One."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|3",
+     "quote": "Dentrix Ascend: A genuine cloud product by Henry Schein One"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "It's SOC 2 Type II compliant, includes patient engagement, and represents where Henry Schein One is investing."
+    },
+    {
+     "record_id": "dental-practice-management|q10|ChatGPT|3",
+     "quote": "A cloud platform within the Henry Schein One ecosystem"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Google AI Overviews|1",
+     "quote": "Dentrix Ascend (Henry Schein One): The ideal cloud choice for scaling groups"
+    }
+   ]
+  },
+  {
+   "claim_id": "C03",
+   "type": "product_names",
+   "claim": "Dentrix Ascend is the cloud version of (cloud counterpart to) Dentrix within Henry Schein's Dentrix product family.",
+   "class": "true",
+   "proof_url": "https://www.dentrix.com/about-us/dentrix-or-dentrix-ascend",
+   "proof_quote": "Dentrix and Dentrix Ascend are two powerful practice management systems from Henry Schein One, each designed to help dental teams run smoother, engage patients better, and grow their business. Whether you prefer the control of an on-premises system or the flexibility of the cloud",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "Henry Schein One's comparison page presents Dentrix Ascend as the cloud-based system beside on-premises Dentrix in the same product family; calling it the cloud version is not the same as calling it a cloud-hosted copy, which is coded separately in C05.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|2",
+     "quote": "The cloud iteration of the legacy giant Dentrix."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|2",
+     "quote": "Ascend is their cloud-native version."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|3",
+     "quote": "Ascend is their cloud-native version."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|2",
+     "quote": "Dentrix Ascend is a cloud-based version built for single to multi-location groups."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|1",
+     "quote": "Henry Schein’s dedicated cloud platform alternative for offices wanting Dentrix features without an on-premise server."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|1",
+     "quote": "Dentrix Ascend (Cloud Version of Dentrix)"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "Henry Schein's cloud version of Dentrix offers familiar workflows with cloud accessibility."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|2",
+     "quote": "Henry Schein’s own native-cloud version of Dentrix."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Perplexity|2",
+     "quote": "worth considering if you want a Dentrix-family product with a more cloud-oriented setup"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Perplexity|3",
+     "quote": "a Dentrix-adjacent option with a similar product family and cloud delivery"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|1",
+     "quote": "Henry Schein’s genuine cloud alternative"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "Dentrix Ascend (Cloud Version of Dentrix)"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Henry Schein's cloud version of Dentrix offers familiar workflows with cloud accessibility."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Henry Schein's cloud version of Dentrix offers familiar workflows with cloud accessibility."
+    },
+    {
+     "record_id": "dental-practice-management|q10|Google AI Mode|3",
+     "quote": "The cloud version of Henry Schein's powerhouse ecosystem."
+    }
+   ]
+  },
+  {
+   "claim_id": "C04",
+   "type": "product_names",
+   "claim": "Dentrix Ascend is a separate product built for the cloud, not desktop Dentrix hosted remotely.",
+   "class": "true",
+   "proof_url": "https://www.dentrixascend.com/about-us/",
+   "proof_quote": "It’s not a cloud-hosted version of on-premises software. Designed specifically for the cloud",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The about page states Dentrix Ascend is not a cloud-hosted version of on-premises software and was designed specifically for the cloud.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "Dentrix Ascend is Henry Schein's cloud-native product, built separately from traditional Dentrix and delivered entirely through the browser."
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|3",
+     "quote": "Evaluate Ascend specifically rather than assuming it works like traditional Dentrix; they are distinct products."
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|1",
+     "quote": "Ascend is a different product from desktop Dentrix."
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|2",
+     "quote": "Ascend is distinct from traditional, locally installed Dentrix."
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|3",
+     "quote": "It is distinct from traditional, on-premises Dentrix."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "Dentrix Ascend is Henry Schein's cloud-native product, built separately from traditional Dentrix and delivered entirely through the browser."
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|1",
+     "quote": "Dentrix Ascend is a separate, cloud-based product, not simply another version of the same comparison."
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|2",
+     "quote": "Dentrix Ascend is a separate, cloud-based product"
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|3",
+     "quote": "Dentrix Ascend is a separate, cloud-based product."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Dentrix Ascend is a separate cloud-native product — not the same as the original desktop version hosted remotely."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Dentrix Ascend is a separate cloud-native product — not the same as the original desktop version hosted remotely."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Dentrix Ascend is a separate cloud-native product — not the same as the original desktop version hosted remotely."
+    }
+   ]
+  },
+  {
+   "claim_id": "C05",
+   "type": "product_names",
+   "claim": "Dentrix Ascend is a cloud-hosted version of classic Dentrix.",
+   "class": "wrong",
+   "proof_url": "https://www.dentrixascend.com/about-us/",
+   "proof_quote": "It’s not a cloud-hosted version of on-premises software. Designed specifically for the cloud",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "not found",
+   "causing_quote": "",
+   "rationale": "The about page explicitly says Dentrix Ascend is not a cloud-hosted version of on-premises software; the cited pages read (medixdental.com, getdentra.com, practicesignal.com) do not carry the statement, and tab32.com failed with a network error.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|1",
+     "quote": "The cloud-hosted version of the industry-standard Dentrix."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Overviews|3",
+     "quote": "Cloud-hosted version of classic Dentrix workflows."
+    }
+   ]
+  },
+  {
+   "claim_id": "C06",
+   "type": "platforms",
+   "claim": "Dentrix Ascend is cloud-based (cloud-native), browser-based and needs no local server.",
+   "class": "true",
+   "proof_url": "https://www.dentrixascend.com/",
+   "proof_quote": "Dentrix Ascend is 100% cloud-based, giving you secure, anytime access from any device.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states Dentrix Ascend is 100% cloud-based with access from any device.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "You want another cloud option to compare"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|2",
+     "quote": "For cloud-first connected practices that want role-based access, Dentrix Ascend delivers."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Claude|3",
+     "quote": "Server/Cloud (Ascend)"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|1",
+     "quote": "Dentrix Ascend: Best for a familiar enterprise ecosystem delivered via the cloud."
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Mode|2",
+     "quote": "It is easy to deploy without local server maintenance"
+    },
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "Runs entirely in a web browser (no local server hardware to maintain or replace)"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|1",
+     "quote": "For browser-based access with less IT overhead, Dentrix Ascend and Curve Dental are strong options."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Claude|2",
+     "quote": "For browser-based access with less IT, Dentrix Ascend and Curve Dental are strong options."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|1",
+     "quote": "It removes the heavy server maintenance of classic Dentrix"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|2",
+     "quote": "It requires no local server and puts basic scheduling, charting, and reporting into an accessible web portal."
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Mode|3",
+     "quote": "It simplifies reporting, scheduling, and billing into a clean browser interface"
+    },
+    {
+     "record_id": "dental-practice-management|q2|Google AI Overviews|1",
+     "quote": "Cloud systems (like Curve Dental or Dentrix Ascend) eliminate pricey local server upkeep"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|1",
+     "quote": "Dentrix Ascend is a cloud-based practice management system built for single to multi-location groups."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|2",
+     "quote": "Dentrix Ascend is a cloud-based version built for single to multi-location groups."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Claude|3",
+     "quote": "Dentrix Ascend is a cloud-based practice management system built for single to multi-location groups."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|1",
+     "quote": "Its cloud counterpart, Dentrix Ascend, is growing in popularity for offices wanting to move away from local servers."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Mode|3",
+     "quote": "Its cloud alternative, Dentrix Ascend, is growing in popularity for multi-location groups"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|1",
+     "quote": "Henry Schein’s dedicated cloud platform alternative for offices wanting Dentrix features without an on-premise server."
+    },
+    {
+     "record_id": "dental-practice-management|q3|Google AI Overviews|3",
+     "quote": "tiered cloud scaling (Ascend)"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Perplexity|1",
+     "quote": "Dentrix Ascend is favored for cloud-based workflows"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Perplexity|2",
+     "quote": "Dentrix Ascend is commonly recommended for practices that want a cloud-based system"
+    },
+    {
+     "record_id": "dental-practice-management|q3|Perplexity|3",
+     "quote": "Dentrix Ascend is commonly recommended for offices wanting a cloud-based, simpler workflow"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|1",
+     "quote": "Dentrix Ascend (Cloud Version of Dentrix)"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|2",
+     "quote": "Dentrix Ascend is cloud-based."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Claude|3",
+     "quote": "built separately from traditional Dentrix and delivered entirely through the browser"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Google AI Mode|2",
+     "quote": "Henry Schein’s own native-cloud version of Dentrix."
+    },
+    {
+     "record_id": "dental-practice-management|q4|Perplexity|1",
+     "quote": "best if you want something closer to the Dentrix ecosystem and cloud delivery"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Perplexity|2",
+     "quote": "worth considering if you want a Dentrix-family product with a more cloud-oriented setup"
+    },
+    {
+     "record_id": "dental-practice-management|q4|Perplexity|3",
+     "quote": "a Dentrix-adjacent option with a similar product family and cloud delivery"
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|1",
+     "quote": "Offers cloud-based clinical workflows"
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|2",
+     "quote": "Offers cloud charting and imaging"
+    },
+    {
+     "record_id": "dental-practice-management|q5|ChatGPT|3",
+     "quote": "Practices wanting cloud-based clinical and insurance workflows"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|1",
+     "quote": "They offer two versions: Dentrix (on-premise) and Dentrix Ascend (cloud-based)."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|2",
+     "quote": "They offer two versions: Dentrix (on-premise) and Dentrix Ascend (cloud-based)."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Claude|3",
+     "quote": "Dentrix offers two versions of their software: Dentrix (on-premise) and Dentrix Ascend (cloud-based)."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|1",
+     "quote": "Dentrix Ascend is a powerful cloud-native platform by Henry Schein that removes local server maintenance"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|2",
+     "quote": "while Dentrix Ascend provides their official cloud-based counterpart"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Mode|3",
+     "quote": "Henry Schein also offers Dentrix Ascend if you prefer their ecosystem in a cloud format."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|1",
+     "quote": "centralized multi-location management without on-site server requirements"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|2",
+     "quote": "Dentrix Ascend: A cloud-native solution by Henry Schein One."
+    },
+    {
+     "record_id": "dental-practice-management|q5|Google AI Overviews|3",
+     "quote": "Dentrix Ascend: A genuine cloud product by Henry Schein One"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Perplexity|1",
+     "quote": "a cloud-native option with browser access and vendor-managed updates"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Perplexity|2",
+     "quote": "Strong cloud-native option; designed to reduce server and IT dependence"
+    },
+    {
+     "record_id": "dental-practice-management|q5|Perplexity|3",
+     "quote": "Browser-based cloud delivery designed to reduce server/IT dependency."
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|1",
+     "quote": "Cloud-native software with clinical, insurance, billing, patient-communication, and multi-location reporting capabilities."
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|2",
+     "quote": "Offers cloud charting and imaging"
+    },
+    {
+     "record_id": "dental-practice-management|q6|ChatGPT|3",
+     "quote": "Provides cloud-native practice management with charting, imaging, insurance tools, patient communications, and multi-location reporting."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|1",
+     "quote": "built separately from traditional Dentrix and delivered entirely through the browser"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|2",
+     "quote": "Henry Schein's cloud version of Dentrix offers familiar workflows with cloud accessibility."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "Cloud platforms (Curve Dental, Denticon, tab32, CareStack, Dentrix Ascend) eliminate server costs."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|2",
+     "quote": "Dentrix Ascend is their cloud-native browser option"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Google AI Mode|3",
+     "quote": "Dentrix Ascend is its cloud-based counterpart"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|1",
+     "quote": "A good choice if you want to move into the cloud while staying in the Henry Schein ecosystem."
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|2",
+     "quote": "a good option if you want to move from an on-premise system to a cloud environment while staying in the Henry Schein ecosystem"
+    },
+    {
+     "record_id": "dental-practice-management|q6|Perplexity|3",
+     "quote": "Repeatedly cited as a major cloud-based alternative."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|1",
+     "quote": "Ascend is cloud-native."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|2",
+     "quote": "Ascend is cloud-based."
+    },
+    {
+     "record_id": "dental-practice-management|q7|ChatGPT|3",
+     "quote": "Ascend is browser-based."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|1",
+     "quote": "separate true cloud variant (Dentrix Ascend)"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Mode|3",
+     "quote": "they offer Dentrix Ascend as their cloud-native alternative"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|1",
+     "quote": "Its cloud alternative, Dentrix Ascend, offers browser-based access and automatic updates."
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|2",
+     "quote": "Their cloud version, Dentrix Ascend, eliminates local servers but requires constant internet"
+    },
+    {
+     "record_id": "dental-practice-management|q7|Google AI Overviews|3",
+     "quote": "Dentrix Ascend offers a true cloud choice."
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|1",
+     "quote": "Ascend is designed for browser access and multi-location workflows."
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|2",
+     "quote": "Dentrix Ascend is specifically designed for cloud access and multi-location workflows."
+    },
+    {
+     "record_id": "dental-practice-management|q8|ChatGPT|3",
+     "quote": "Ascend is designed for browser-based access and multi-location workflows."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "Dentrix Ascend is a separate cloud-native product"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "Dentrix Ascend is a separate cloud-native product"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "Dentrix Ascend is a separate cloud-native product"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|1",
+     "quote": "a true cloud-native option (Dentrix Ascend)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|2",
+     "quote": "though Henry Schein offers Dentrix Ascend, a true cloud-native version"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Mode|3",
+     "quote": "It also offers a direct path to the cloud via Dentrix Ascend if you prefer web-based access."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|1",
+     "quote": "Dentrix offers Dentrix Ascend as a true cloud-native platform ideal for multi-location or remote access"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|2",
+     "quote": "Dentrix Ascend offers a cloud-native platform"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Google AI Overviews|3",
+     "quote": "Clear path via Dentrix Ascend (cloud-native option)"
+    },
+    {
+     "record_id": "dental-practice-management|q8|Perplexity|2",
+     "quote": "Dentrix has a clearer cloud path via Dentrix Ascend"
+    },
+    {
+     "record_id": "dental-practice-management|q10|ChatGPT|1",
+     "quote": "A cloud alternative worth comparing"
+    },
+    {
+     "record_id": "dental-practice-management|q10|ChatGPT|2",
+     "quote": "A cloud option worth comparing"
+    },
+    {
+     "record_id": "dental-practice-management|q10|ChatGPT|3",
+     "quote": "A cloud platform within the Henry Schein One ecosystem"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|1",
+     "quote": "Dentrix Ascend is a cloud-based practice management system built for single to multi-location groups."
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|2",
+     "quote": "Dentrix Ascend is a cloud-based practice management system built for single to multi-location groups."
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|3",
+     "quote": "Dentrix Ascend is a cloud-based practice management system built for single to multi-location groups."
+    },
+    {
+     "record_id": "dental-practice-management|q10|Google AI Mode|1",
+     "quote": "Seamless cloud-based multi-location oversight with embedded AI documentation."
+    },
+    {
+     "record_id": "dental-practice-management|q10|Google AI Mode|2",
+     "quote": "you must explicitly evaluate the Ascend (cloud) or Enterprise versions"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Google AI Mode|3",
+     "quote": "offering multi-site views, embedded AI/imaging features, and streamlined cloud deployment"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Google AI Overviews|1",
+     "quote": "The ideal cloud choice for scaling groups"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Google AI Overviews|2",
+     "quote": "Best for multi-location groups wanting a true cloud solution"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Google AI Overviews|3",
+     "quote": "It brings multi-site management and chart routing to the cloud"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Perplexity|2",
+     "quote": "or wants a cloud-based option with familiar workflows"
+    }
+   ]
+  },
+  {
+   "claim_id": "C07",
+   "type": "certifications",
+   "claim": "Dentrix Ascend is SOC 2 Type II compliant.",
+   "class": "true",
+   "proof_url": "https://www.dentrixascend.com/about-us/why-dentrix-ascend/",
+   "proof_quote": "Dentrix Ascend uses SOC 2 Type II compliance, encrypted backups, and role-based access controls.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The Why Dentrix Ascend page states SOC 2 Type II compliance.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q8|Claude|1",
+     "quote": "It's SOC 2 Type II compliant and includes patient engagement."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "It's SOC 2 Type II compliant, includes patient engagement, and represents where Henry Schein One is investing."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|3",
+     "quote": "It's SOC 2 Type II compliant and includes patient engagement."
+    }
+   ]
+  },
+  {
+   "claim_id": "C08",
+   "type": "pricing",
+   "claim": "Dentrix Ascend pricing is by custom quote.",
+   "class": "true",
+   "proof_url": "https://www.dentrixascend.com/about-us/why-dentrix-ascend/",
+   "proof_quote": "Pricing depends on the size of your practice and the number of providers. Dentrix Ascend offers flexible subscription plans that include software updates, secure cloud hosting, and support. Contact us for a personalized quote.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ says pricing depends on practice size and providers and is given by personalized quote.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Claude|2",
+     "quote": "Custom quote"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|1",
+     "quote": "Small-to-mid groups | ✅ Yes | Custom"
+    },
+    {
+     "record_id": "dental-practice-management|q10|Claude|2",
+     "quote": "Small–Mid DSOs | Custom"
+    }
+   ]
+  },
+  {
+   "claim_id": "C09",
+   "type": "pricing",
+   "claim": "Dentrix Ascend is sold by subscription, priced to the size of the practice.",
+   "class": "true",
+   "proof_url": "https://www.dentrixascend.com/about-us/why-dentrix-ascend/",
+   "proof_quote": "Pricing depends on the size of your practice and the number of providers. Dentrix Ascend offers flexible subscription plans that include software updates, secure cloud hosting, and support. Contact us for a personalized quote.",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pricing FAQ describes subscription plans whose price depends on practice size and number of providers.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|Google AI Overviews|2",
+     "quote": "Subscription-based pricing that scales with use."
+    },
+    {
+     "record_id": "dental-practice-management|q8|Claude|2",
+     "quote": "what a Dentrix Ascend subscription costs"
+    }
+   ]
+  },
+  {
+   "claim_id": "C10",
+   "type": "plans",
+   "claim": "Dentrix Ascend is sold in customizable packages.",
+   "class": "true",
+   "proof_url": "https://www.dentrixascend.com/",
+   "proof_quote": "Dentrix Ascend offers customizable packages and suites to meet your practice’s needs",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The home page states Dentrix Ascend offers customizable packages and suites.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q1|ChatGPT|3",
+     "quote": "It offers clinical, insurance, patient-engagement, and multi-location reporting capabilities through customizable packages."
+    }
+   ]
+  },
+  {
+   "claim_id": "C11",
+   "type": "pricing",
+   "claim": "Dentrix Ascend costs about $399 to $1,200 per month (estimate).",
+   "class": "unverifiable",
+   "proof_url": "",
+   "proof_quote": "",
+   "stale_change": null,
+   "causing_url": "",
+   "causing_type": "",
+   "causing_quote": "",
+   "rationale": "The pages read publish no dollar prices for Dentrix Ascend.",
+   "instances": [
+    {
+     "record_id": "dental-practice-management|q6|Claude|3",
+     "quote": "~$399–$1,200/mo"
+    }
+   ]
+  }
+ ],
+ "needs_browser_read": [
+  "https://tab32.com/open-dental-alternative/"
+ ],
+ "notes": "Five own pages read on dentrixascend.com (home, about, packages, Why Dentrix Ascend, and the own blog post cited by 3 answers), all HTTP 200 and not thin. C03 uses Henry Schein One's dentrix.com comparison page, read once in the Dentrix coding, because it is the vendor's own page covering both products. The 97 answers overlap heavily with the Dentrix bundle: statements whose subject is Dentrix or Henry Schein's lineup (two versions, Dentrix offers Ascend as its cloud path) are coded in the Dentrix file; statements whose subject is Ascend are coded here, including the separate-product statements (C04). The combined 35,000+ installations line is coded in the Dentrix file. tab32.com (cited by q6 Google AI Overviews 3) failed with a network error during cause tracing for C05 and is listed in needs_browser_read for that purpose only. Pass 2 (8 Oct 2026): the manifest has no browser read for any Dentrix Ascend page or for tab32.com, so no claim was re-classed and tab32.com stays in needs_browser_read. The gap lines and the comparison-table rows naming Ascend (Cloud, Cloud-Only, Cloud-Native, Custom, ~$399 to $1,200) all repeat claims already listed for the same answers, so no claim or instance was added. The consistency check kept C05 wrong: the about page states in so many words that Ascend is not a cloud-hosted version of on-premises software. Not coded: name-only mentions, Townie vote shares, ratings, capability descriptions (AI, multi-location dashboards), comparative cost remarks and the passing reference to an Ascend cloud quote in one ChatGPT table. Judgement call: C03 (cloud version of Dentrix) is classed true while C05 (cloud-hosted version of Dentrix) is wrong, because the about page denies only that Ascend is hosted on-premises software.",
+ "answer_record_ids": [
+  "dental-practice-management|q1|ChatGPT|3",
+  "dental-practice-management|q1|Claude|2",
+  "dental-practice-management|q1|Claude|3",
+  "dental-practice-management|q1|Google AI Mode|1",
+  "dental-practice-management|q1|Google AI Mode|2",
+  "dental-practice-management|q1|Google AI Overviews|2",
+  "dental-practice-management|q10|ChatGPT|1",
+  "dental-practice-management|q10|ChatGPT|2",
+  "dental-practice-management|q10|ChatGPT|3",
+  "dental-practice-management|q10|Claude|1",
+  "dental-practice-management|q10|Claude|2",
+  "dental-practice-management|q10|Claude|3",
+  "dental-practice-management|q10|Google AI Mode|1",
+  "dental-practice-management|q10|Google AI Mode|2",
+  "dental-practice-management|q10|Google AI Mode|3",
+  "dental-practice-management|q10|Google AI Overviews|1",
+  "dental-practice-management|q10|Google AI Overviews|2",
+  "dental-practice-management|q10|Google AI Overviews|3",
+  "dental-practice-management|q10|Perplexity|2",
+  "dental-practice-management|q2|Claude|1",
+  "dental-practice-management|q2|Claude|2",
+  "dental-practice-management|q2|Google AI Mode|1",
+  "dental-practice-management|q2|Google AI Mode|2",
+  "dental-practice-management|q2|Google AI Mode|3",
+  "dental-practice-management|q2|Google AI Overviews|1",
+  "dental-practice-management|q3|ChatGPT|1",
+  "dental-practice-management|q3|ChatGPT|2",
+  "dental-practice-management|q3|Claude|1",
+  "dental-practice-management|q3|Claude|2",
+  "dental-practice-management|q3|Claude|3",
+  "dental-practice-management|q3|Google AI Mode|1",
+  "dental-practice-management|q3|Google AI Mode|3",
+  "dental-practice-management|q3|Google AI Overviews|1",
+  "dental-practice-management|q3|Google AI Overviews|3",
+  "dental-practice-management|q3|Perplexity|1",
+  "dental-practice-management|q3|Perplexity|2",
+  "dental-practice-management|q3|Perplexity|3",
+  "dental-practice-management|q4|ChatGPT|1",
+  "dental-practice-management|q4|ChatGPT|2",
+  "dental-practice-management|q4|ChatGPT|3",
+  "dental-practice-management|q4|Claude|1",
+  "dental-practice-management|q4|Claude|2",
+  "dental-practice-management|q4|Claude|3",
+  "dental-practice-management|q4|Google AI Mode|2",
+  "dental-practice-management|q4|Perplexity|1",
+  "dental-practice-management|q4|Perplexity|2",
+  "dental-practice-management|q4|Perplexity|3",
+  "dental-practice-management|q5|ChatGPT|1",
+  "dental-practice-management|q5|ChatGPT|2",
+  "dental-practice-management|q5|ChatGPT|3",
+  "dental-practice-management|q5|Claude|1",
+  "dental-practice-management|q5|Claude|2",
+  "dental-practice-management|q5|Claude|3",
+  "dental-practice-management|q5|Google AI Mode|1",
+  "dental-practice-management|q5|Google AI Mode|2",
+  "dental-practice-management|q5|Google AI Mode|3",
+  "dental-practice-management|q5|Google AI Overviews|1",
+  "dental-practice-management|q5|Google AI Overviews|2",
+  "dental-practice-management|q5|Google AI Overviews|3",
+  "dental-practice-management|q5|Perplexity|1",
+  "dental-practice-management|q5|Perplexity|2",
+  "dental-practice-management|q5|Perplexity|3",
+  "dental-practice-management|q6|ChatGPT|1",
+  "dental-practice-management|q6|ChatGPT|2",
+  "dental-practice-management|q6|ChatGPT|3",
+  "dental-practice-management|q6|Claude|1",
+  "dental-practice-management|q6|Claude|2",
+  "dental-practice-management|q6|Claude|3",
+  "dental-practice-management|q6|Google AI Mode|2",
+  "dental-practice-management|q6|Google AI Mode|3",
+  "dental-practice-management|q6|Google AI Overviews|2",
+  "dental-practice-management|q6|Google AI Overviews|3",
+  "dental-practice-management|q6|Perplexity|1",
+  "dental-practice-management|q6|Perplexity|2",
+  "dental-practice-management|q6|Perplexity|3",
+  "dental-practice-management|q7|ChatGPT|1",
+  "dental-practice-management|q7|ChatGPT|2",
+  "dental-practice-management|q7|ChatGPT|3",
+  "dental-practice-management|q7|Google AI Mode|1",
+  "dental-practice-management|q7|Google AI Mode|3",
+  "dental-practice-management|q7|Google AI Overviews|1",
+  "dental-practice-management|q7|Google AI Overviews|2",
+  "dental-practice-management|q7|Google AI Overviews|3",
+  "dental-practice-management|q7|Perplexity|3",
+  "dental-practice-management|q8|ChatGPT|1",
+  "dental-practice-management|q8|ChatGPT|2",
+  "dental-practice-management|q8|ChatGPT|3",
+  "dental-practice-management|q8|Claude|1",
+  "dental-practice-management|q8|Claude|2",
+  "dental-practice-management|q8|Claude|3",
+  "dental-practice-management|q8|Google AI Mode|1",
+  "dental-practice-management|q8|Google AI Mode|2",
+  "dental-practice-management|q8|Google AI Mode|3",
+  "dental-practice-management|q8|Google AI Overviews|1",
+  "dental-practice-management|q8|Google AI Overviews|2",
+  "dental-practice-management|q8|Google AI Overviews|3",
+  "dental-practice-management|q8|Perplexity|2"
+ ],
+ "named_count": 97
+}
