@@ -1,9 +1,12 @@
 // Write README.md and CITATION.cff for Wrong About You v1.0 from results/summary.json. Numbers are never typed by hand.
 // Usage: node scripts/build-readme.mjs [doi] [conceptDoi] [releaseDate]
 import { readFileSync, writeFileSync } from 'node:fs';
+import { readDerived } from '../analysis/index-record.mjs';
+import { requirePublication, METHOD_LINE, BYLINE, DISPUTE_LINE } from '../lib/publication.mjs';
 const [doi = '', conceptDoi = '', releaseDate = '2026-10-08'] = process.argv.slice(2);
 const minted = /^10\.\d+\//.test(doi) && /^10\.\d+\//.test(conceptDoi);
 const r = JSON.parse(readFileSync('results/summary.json', 'utf8'));
+requirePublication(readDerived('data'), r);
 const t = r.totals;
 const pct = x => x.pct === null ? `${x.k} of ${x.n}` : `${x.k} of ${x.n} (${x.pct.toFixed(1)} percent; 95 percent Wilson interval ${x.low.toFixed(1)} to ${x.high.toFixed(1)})`;
 const types = r.per_type.filter(x => x.statements).map(x => `| ${x.type.replace(/_/g, ' ')} | ${x.statements} | ${x.true} | ${x.wrong} | ${x.stale} | ${x.unverifiable} |`).join('\n');
@@ -14,6 +17,10 @@ const conf = r.confidence.map(c => `| ${c.runs_stated} of 3 runs | ${c.true} | $
 const readme = `# Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages
 
 Broadcastwell, Study 6, version 1.0, ${releaseDate}. ${minted ? `DOI ${doi} (all versions: ${conceptDoi})` : 'Archived on Zenodo at release; the DOI is added here once Zenodo mints it'}. Licence CC BY 4.0.
+
+${BYLINE}
+
+${METHOD_LINE}
 
 Every valid target answer that names one of 70 vendors, ${r.capture}. From those ${t.answers} answers we extracted every factual statement each answer makes about the vendor and classed it true, wrong, stale or unverifiable against the vendor's own public pages. No new answer was captured for this study.
 
@@ -72,13 +79,13 @@ Statements. A statement is one factual claim an answer makes about the vendor, o
 
 Classes. We class each claim under the published Record rules (broadcastwell.com/methodology#record-rules): true when it matches the vendor's published fact; wrong when it contradicts the published fact on the capture date; stale when it was true before a dated change the vendor documented; unverifiable when the vendor's own pages read in this study do not settle it. Only the vendor's own pages count as evidence, read once each on 8 October 2026 (a page that refused automated reading was read once in a real browser; a page whose robots.txt disallows automated agents was not read). Every true, wrong or stale claim carries the page and a verbatim quote from it.
 
-Who classed. Statements were extracted and first classified with AI assistance under the published Record rules, for the Broadcastwell team. A script checks that every quote appears word for word in its deposit answer and every proof quote on the page read. Two Broadcastwell analysts review every row after publication; each row carries reviewer_1, reviewer_2, review_date and review_state, and the mark "Verified by two Broadcastwell analysts, <date>" shows only when both have signed it (scripts/import-review.mjs, with a dated audit log in data/review_log.csv).
+Team review. A script checks that every quote appears word for word in its deposit answer and every proof quote on the page read. Every flagged engine statement was reviewed by two Broadcastwell analysts before publication; each reviewed statement carries reviewer_1, reviewer_2, review_date and review_state, and the mark "Verified by two Broadcastwell analysts, <date>" shows only when both have signed it (scripts/import-review.mjs, with a dated audit log in data/review_log.csv). Other rows retain their own review state.
 
 Causes. For each wrong or stale claim we read the pages the answers carrying it cite; a cited page that carries the statement is its causing page, typed own page, directory, review site, press, forum or other. Otherwise the cause is "cause not found".
 
 Confidence. For each engine statement, the number of the three scheduled runs in which that engine stated the claim at least once, out of 3.
 
-Differences from the Record Check procedure. The Record Check captures fresh answers by hand and a reviewer classes them. This study reuses the September answers, classes them first with AI assistance and has two analysts review after publication, traces causes through the answers' own citations only (no search step), and reads the vendors' pages on 8 October 2026 for answers captured on 22 to 23 September 2026. A fact a vendor changed between those dates is classed against the dated change where the page dates it.
+Differences from the Record Check procedure. The Record Check captures fresh answers by hand and a reviewer classes them. This study reuses the September answers, traces causes through the answers' own citations only, and reads the vendors' pages on 8 October 2026 for answers captured on 22 to 23 September 2026. A fact a vendor changed between those dates is classed against the dated change where the page dates it.
 
 ## What this does not prove
 
@@ -86,7 +93,7 @@ Wrong About You records what five AI engines stated about 70 vendors in answer t
 
 ## Disputes
 
-Every named vendor may request one no-cost re-read at index@broadcastwell.com, both results published, under the Index dispute policy. A correction is released as a new version with the change logged.
+${DISPUTE_LINE} A correction is released as a new version with the change logged.
 
 ## Files
 
