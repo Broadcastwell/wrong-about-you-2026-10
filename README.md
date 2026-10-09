@@ -1,6 +1,6 @@
 # Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages
 
-Broadcastwell, Study 6, version 1.0, 2026-10-09. DOI pending. Licence CC BY 4.0.
+Broadcastwell, Study 6, version 1.0, 2026-10-09. DOI 10.5281/zenodo.23270124 (all versions: 10.5281/zenodo.23270123). Licence CC BY 4.0.
 
 Prepared by the Broadcastwell team
 
@@ -130,7 +130,7 @@ Any named company may request one no-cost re-run at index@broadcastwell.com; bot
 
 ## How to cite
 
-Broadcastwell (2026). Wrong About You: what five AI engines state about 70 software vendors (Version 1.0) [Data set]. Repository release. https://github.com/Broadcastwell/wrong-about-you-2026-10
+Broadcastwell (2026). Wrong About You: what five AI engines state about 70 software vendors (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23270124
 
 ## Licence
 
