@@ -8,6 +8,7 @@ import { join, resolve } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { createHash } from 'node:crypto';
 import { parseCsv, toCsv, rate, median, ENGINES, CLASSES, CAUSING_TYPES, hasDash } from './analyze.mjs';
+import { METHOD_LINE, BYLINE, DISPUTE_LINE, reviewedMethodLine } from '../lib/study-copy.mjs';
 
 export const INDEX_DOI = '10.5281/zenodo.22907695';
 export const CAPTURE_LINE = 'captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index release 2026-09 (DOI 10.5281/zenodo.22907695)';
@@ -30,6 +31,9 @@ export function readDerived(dir) {
   const read = f => parseCsv(readFileSync(join(dir, f), 'utf8'));
   const data = Object.fromEntries(Object.entries(DERIVED_FILES).map(([k, f]) => [k, read(f)]));
   data.statement_reviews = existsSync(join(dir, 'statement_reviews.csv')) ? read('statement_reviews.csv') : [];
+  const inputHashes = Object.fromEntries(Object.values(DERIVED_FILES).map(f => [f, sha256(join(dir, f))]));
+  if (existsSync(join(dir, 'statement_reviews.csv'))) inputHashes['statement_reviews.csv'] = sha256(join(dir, 'statement_reviews.csv'));
+  Object.defineProperty(data, 'input_hashes', { value: inputHashes });
   return data;
 }
 
@@ -80,6 +84,7 @@ export function validateDerived(d) {
     if (c.class === 'stale' && (!isoDate(c.stale_change_date) && !/^\d{4}-\d{2}$/.test(c.stale_change_date || ''))) errors.push(`${at}: stale needs stale_change_date`);
     if (!REVIEW_STATES.includes(c.review_state) || c.review_state !== reviewState(c)) errors.push(`${at}: review_state must equal the state the reviewer fields give`);
     for (const r of [c.reviewer_1, c.reviewer_2]) if (String(r || '').trim() && !initials(r)) errors.push(`${at}: reviewer must be initials`);
+    if (c.review_date && (!isoDate(c.review_date) || c.review_date > new Date().toISOString().slice(0, 10))) errors.push(`${at}: invalid or future review date`);
   }
   const instancesOf = new Map();
   for (const i of d.instances) {
@@ -127,6 +132,22 @@ export function engineStatements(d, { includeDropped = false } = {}) {
   }
   return [...map.values()].filter(s => includeDropped || !s.dropped).map(s => ({ ...s, runs_stated: s.runs.size, answers: s.records.size, runs: undefined, records: undefined }))
     .sort((a, b) => a.slug.localeCompare(b.slug) || a.claim_id.localeCompare(b.claim_id) || ENGINES.indexOf(a.engine) - ENGINES.indexOf(b.engine));
+}
+
+// Originally flagged rows still need review after reclassification or Drop.
+export function reviewCompletion(data) {
+  const reviews = new Map(engineStatements(data, { includeDropped: true }).map(s => [statementKey(s), s]));
+  const original = engineStatements({ ...data, statement_reviews: [] });
+  const required = new Set(original.filter(s => ['wrong', 'stale'].includes(s.class)).map(statementKey));
+  for (const s of reviews.values()) if (['wrong', 'stale'].includes(s.class)) required.add(statementKey(s));
+  const missing = [...required].filter(key => reviewState(reviews.get(key) || {}) !== 'verified');
+  const reviewedOn = required.size && !missing.length ? [...required].map(key => reviews.get(key).review_date).sort().at(-1) : null;
+  return { required: required.size, missing, reviewed_on: reviewedOn };
+}
+
+export function methodLine(data, publicationDate = null) {
+  const review = reviewCompletion(data);
+  return review.reviewed_on ? reviewedMethodLine(publicationDate || new Date().toISOString().slice(0, 10)) : METHOD_LINE;
 }
 
 const countClasses = list => Object.fromEntries(CLASSES.map(k => [k, list.filter(s => s.class === k).length]));
@@ -177,10 +198,10 @@ export function analyseDerived(d) {
 }
 
 const pct = r => r.pct === null ? `${r.k} of ${r.n}` : `${r.k} of ${r.n} (${r.pct.toFixed(1)} percent, 95 percent interval ${r.low.toFixed(1)} to ${r.high.toFixed(1)})`;
-export function resultsMarkdown(r) {
+export function resultsMarkdown(r, method = METHOD_LINE) {
   const t = r.totals, L = [];
   L.push('# Wrong About You v1.0: results', '');
-  L.push(`Answers ${r.capture}. Every statement classified under the published Record rules against the vendor's own pages; every row shows its review state. Counts come before rates; every rate carries a Wilson 95 percent interval. Unverifiable counts as neither right nor wrong.`, '');
+  L.push(BYLINE, '', method, '', 'Counts come before rates; every rate carries a Wilson 95 percent interval. Unverifiable counts as neither right nor wrong.', '');
   L.push(`- Vendors: ${t.vendors} in ${t.categories} categories (the five most named per category in release 2026-09).`);
   L.push(`- Answers naming them: ${t.answers}.`);
   L.push(`- Engine statements (one claim as stated by one engine): ${t.statements}: ${t.true} true, ${t.wrong} wrong, ${t.stale} stale, ${t.unverifiable} unverifiable.`);
@@ -199,6 +220,7 @@ export function resultsMarkdown(r) {
   L.push('', '## Per vendor, with the category median', '', '| Category | Vendor | Answers | Statements | Wrong (median) | Stale (median) | Unverifiable (median) | True (median) |', '|-|-|-|-|-|-|-|-|');
   for (const v of r.per_vendor) L.push(`| ${v.category} | ${v.vendor} | ${v.named_answers} | ${v.statements} | ${v.wrong} (${v.category_median.wrong}) | ${v.stale} (${v.category_median.stale}) | ${v.unverifiable} (${v.category_median.unverifiable}) | ${v.true} (${v.category_median.true}) |`);
   L.push('', `Review: ${t.review.verified} claims verified by two analysts, ${t.review['first review']} in first review, ${t.review.unreviewed} unreviewed.`, '');
+  L.push(DISPUTE_LINE, '', 'Review changes: data/review_log.csv. Source provenance corrections: data/provenance_log.csv.', '');
   return L.join('\n');
 }
 
@@ -213,7 +235,7 @@ export function runDerived(dataDir, outDir) {
   const inputs = Object.fromEntries(Object.values(DERIVED_FILES).map(f => [f, sha256(join(dataDir, f))]));
   if (existsSync(join(dataDir, 'statement_reviews.csv'))) inputs['statement_reviews.csv'] = sha256(join(dataDir, 'statement_reviews.csv'));
   writeFileSync(join(outDir, 'summary.json'), JSON.stringify({ ...r, statements: undefined, inputs }, null, 1) + '\n');
-  writeFileSync(join(outDir, 'RESULTS.md'), resultsMarkdown(r));
+  writeFileSync(join(outDir, 'RESULTS.md'), resultsMarkdown(r, methodLine(d)));
   const flat = o => ({ ...o, wrong_or_stale_rate: undefined, wrong_or_stale_pct: o.wrong_or_stale_rate?.pct ?? '', wrong_or_stale_low: o.wrong_or_stale_rate?.low ?? '', wrong_or_stale_high: o.wrong_or_stale_rate?.high ?? '' });
   writeFileSync(join(outDir, 'engine_table.csv'), toCsv(r.per_engine.map(flat), ['engine', 'statements', 'true', 'wrong', 'stale', 'unverifiable', 'wrong_or_stale_pct', 'wrong_or_stale_low', 'wrong_or_stale_high']));
   writeFileSync(join(outDir, 'category_table.csv'), toCsv(r.per_category.map(c => ({ ...flat(c), answers_with_wrong_or_stale: c.answers_rate.k, answers: c.answers_rate.n, ...Object.fromEntries(Object.entries(c.median).map(([k, x]) => ['median_' + k, x])) })), ['category_id', 'category', 'vendors', 'statements', 'true', 'wrong', 'stale', 'unverifiable', 'wrong_or_stale_pct', 'wrong_or_stale_low', 'wrong_or_stale_high', 'answers_with_wrong_or_stale', 'answers', 'median_statements', 'median_true', 'median_wrong', 'median_stale', 'median_unverifiable', 'median_wrong_or_stale']));

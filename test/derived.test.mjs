@@ -70,3 +70,14 @@ test('no fictional fixture row reaches data/ or coding/', { skip: !hasData }, ()
   for (const name of fixtureVendors) if (!['procore', 'buildertrend'].includes(name)) assert.equal(blob.includes(name), false, name);
   assert.equal(/kalvenor|fieldmark|fictional/i.test(blob), false);
 });
+
+
+test('proof provenance skips failed fetches and selects the readable snapshot containing the quote', async () => {
+  const { selectProofPage } = await import('../analysis/derive.mjs');
+  const failed = { slug: 'subject', url: 'https://example.com/pricing', status: 403, fetched_at: '2026-10-08T02:00:00Z' };
+  const unrelated = { ...failed, status: 200, fetched_at: '2026-10-08T03:00:00Z', body: 'A challenge page' };
+  const readable = { ...failed, status: 200, fetched_at: '2026-10-08T04:00:00Z', body: 'Plans start\n at $49 per month.' };
+  const read = m => m.body ?? null;
+  assert.equal(selectProofPage([failed, unrelated, readable], 'subject', failed.url, 'Plans start at $49 per month.', read), readable);
+  assert.equal(selectProofPage([failed, unrelated], 'subject', failed.url, 'Plans start at $49 per month.', read), null);
+});

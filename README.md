@@ -1,6 +1,10 @@
 # Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages
 
-Broadcastwell, Study 6, version 1.0, 2026-10-08. Archived on Zenodo at release; the DOI is added here once Zenodo mints it. Licence CC BY 4.0.
+Broadcastwell, Study 6, version 1.0, 2026-10-09. DOI pending. Licence CC BY 4.0.
+
+Prepared by the Broadcastwell team
+
+Answers captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index release 2026-09 (DOI 10.5281/zenodo.22907695). Statements were extracted and classified under the published Record rules and checked against each vendor's own public pages. Every flagged statement is published with its engine, run, question, capture date and the vendor page it was checked against. Team review of the flagged statements is in progress; rows change only if the review changes them, and every change is logged in the public ledger.
 
 Every valid target answer that names one of 70 vendors, captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index release 2026-09 (DOI 10.5281/zenodo.22907695). From those 5346 answers we extracted every factual statement each answer makes about the vendor and classed it true, wrong, stale or unverifiable against the vendor's own public pages. No new answer was captured for this study.
 
@@ -96,13 +100,13 @@ Statements. A statement is one factual claim an answer makes about the vendor, o
 
 Classes. We class each claim under the published Record rules (broadcastwell.com/methodology#record-rules): true when it matches the vendor's published fact; wrong when it contradicts the published fact on the capture date; stale when it was true before a dated change the vendor documented; unverifiable when the vendor's own pages read in this study do not settle it. Only the vendor's own pages count as evidence, read once each on 8 October 2026 (a page that refused automated reading was read once in a real browser; a page whose robots.txt disallows automated agents was not read). Every true, wrong or stale claim carries the page and a verbatim quote from it.
 
-Who classed. Statements were extracted and first classified with AI assistance under the published Record rules, for the Broadcastwell team. A script checks that every quote appears word for word in its deposit answer and every proof quote on the page read. Two Broadcastwell analysts review every row after publication; each row carries reviewer_1, reviewer_2, review_date and review_state, and the mark "Verified by two Broadcastwell analysts, <date>" shows only when both have signed it (scripts/import-review.mjs, with a dated audit log in data/review_log.csv).
+Team review. A script checks that every quote appears word for word in its deposit answer and every proof quote on the page read. Each statement retains its actual reviewer_1, reviewer_2, review_date and review_state, and the mark "Verified by two Broadcastwell analysts, <date>" shows only after two distinct analysts have signed it with a real date (scripts/import-review.mjs, with a dated audit log in data/review_log.csv). Every review change is logged. Source provenance corrections are recorded separately in data/provenance_log.csv.
 
 Causes. For each wrong or stale claim we read the pages the answers carrying it cite; a cited page that carries the statement is its causing page, typed own page, directory, review site, press, forum or other. Otherwise the cause is "cause not found".
 
 Confidence. For each engine statement, the number of the three scheduled runs in which that engine stated the claim at least once, out of 3.
 
-Differences from the Record Check procedure. The Record Check captures fresh answers by hand and a reviewer classes them. This study reuses the September answers, classes them first with AI assistance and has two analysts review after publication, traces causes through the answers' own citations only (no search step), and reads the vendors' pages on 8 October 2026 for answers captured on 22 to 23 September 2026. A fact a vendor changed between those dates is classed against the dated change where the page dates it.
+Differences from the Record Check procedure. The Record Check captures fresh answers by hand and a reviewer classes them. This study reuses the September answers, traces causes through the answers' own citations only, and reads the vendors' pages on 8 October 2026 for answers captured on 22 to 23 September 2026. A fact a vendor changed between those dates is classed against the dated change where the page dates it.
 
 ## What this does not prove
 
@@ -110,13 +114,15 @@ Wrong About You records what five AI engines stated about 70 vendors in answer t
 
 ## Disputes
 
-Every named vendor may request one no-cost re-read at index@broadcastwell.com, both results published, under the Index dispute policy. A correction is released as a new version with the change logged.
+Any named company may request one no-cost re-run at index@broadcastwell.com; both results are published. A correction is released as a new version with the change logged.
 
 ## Files
 
 - data/vendors.csv, data/answers.csv, data/claims.csv, data/instances.csv, data/pages.csv
-- coding/: the coded statement file for each vendor, as reviewed
-- results/: summary.json, RESULTS.md and every table as CSV
+- coding/: the provisional coded statement file for each vendor
+- results/: summary.json, RESULTS.md, flagged_statements.json with every source observation, and every table as CSV
+- data/review_log.csv: dated changes from returned analyst reviews; no rows means no review changes
+- data/provenance_log.csv: evidence-backed source metadata corrections
 - analysis/index-record.mjs (the analysis: node analysis/index-record.mjs data results), analysis/derive.mjs (builds data/ from coding/ and the Index deposit, after checking the deposit's SHA-256)
 - scripts/import-review.mjs and lib/xlsx-lite.mjs (the two-analyst review import)
 - analysis/gate.mjs and analysis/analyze.mjs: the hand-capture protocol for the team's future captured version, tested on a fictional fixture in test/fixture that never enters data/
@@ -124,7 +130,7 @@ Every named vendor may request one no-cost re-read at index@broadcastwell.com, b
 
 ## How to cite
 
-Broadcastwell (2026). Wrong About You: what five AI engines state about 70 software vendors (Version 1.0) [Data set]. Zenodo. https://github.com/Broadcastwell/wrong-about-you-2026-10
+Broadcastwell (2026). Wrong About You: what five AI engines state about 70 software vendors (Version 1.0) [Data set]. Repository release. https://github.com/Broadcastwell/wrong-about-you-2026-10
 
 ## Licence
 

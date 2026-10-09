@@ -19,6 +19,21 @@ export const noDash = s => String(s || '')
   .replace(/(\d)\s*--\s*(?=[\d$])/g, '$1 to ').replace(/\s*--+\s*/g, ', ');
 const parseCsvLine = l => { const out = []; let cur = '', q = false; for (const ch of l) { if (ch === '"') q = !q; else if (ch === ',' && !q) { out.push(cur); cur = ''; } else cur += ch; } out.push(cur); return out; };
 
+// A failed fetch can precede the readable browser snapshot for the same URL.
+// Proof provenance belongs to the successful snapshot that contains the quote.
+export function selectProofPage(manifest, slug, url, quote, readText = m => {
+  return m.text_file && existsSync(m.text_file) ? readFileSync(m.text_file, 'utf8') : null;
+}) {
+  const same = m => m.url === url || m.final_url === url || String(m.url).replace(/\/$/, '') === String(url).replace(/\/$/, '');
+  const candidates = manifest.filter(m => same(m) && Number(m.status) >= 200 && Number(m.status) < 300)
+    .sort((a, b) => Number(b.slug === slug) - Number(a.slug === slug));
+  return candidates.find(m => {
+    if (!quote) return true;
+    const text = readText(m);
+    return text !== null && norm(text).includes(norm(quote));
+  }) || null;
+}
+
 export function derive({ depositPath, releasePath, setPath, codingDir, manifestPath, dataDir }) {
   const errors = [];
   const raw = readFileSync(depositPath);
@@ -49,9 +64,9 @@ export function derive({ depositPath, releasePath, setPath, codingDir, manifestP
       rows.answers.push({ slug: v.slug, record_id: id, category_id: r.category_id, question_id: r.question_id, question: qText[r.question_id] || '', engine: r.engine, run: r.repeat_index, captured_at: r.captured_at, cited_urls: r.cited_urls.join(' | ') });
     }
     for (const c of st.claims) {
-      const same = (m, u) => m.url === u || m.final_url === u || m.url.replace(/\/$/, '') === String(u).replace(/\/$/, '');
       // A proof page may have been read under a sibling product of the same company (Dentrix and Dentrix Ascend, IDEXX and ezyVet).
-      const page = c.proof_url ? (manifest.find(m => m.slug === v.slug && same(m, c.proof_url)) || manifest.find(m => same(m, c.proof_url))) : null;
+      const page = c.proof_url ? selectProofPage(manifest, v.slug, c.proof_url, c.proof_quote) : null;
+      if (['true', 'wrong', 'stale'].includes(c.class) && !page) errors.push(`${v.slug} ${c.claim_id}: no readable proof snapshot contains the quote`);
       if (page && page.slug !== v.slug && !rows.pages.some(p => p.slug === v.slug && p.url === page.url)) rows.pages.push({ slug: v.slug, url: page.url, final_url: page.final_url || '', read_at: page.fetched_at, status: page.status ?? '', method: page.method || 'fetch', robots: page.robots || '', sha256: page.sha256_html || '', note: 'read for ' + page.slug });
       const review = { reviewer_1: '', reviewer_2: '', review_date: '' };
       rows.claims.push({ slug: v.slug, claim_id: c.claim_id, type: c.type, claim: noDash(c.claim), class: c.class, proof_url: c.proof_url || '', proof_quote: c.proof_quote || '', proof_read_at: page ? page.fetched_at : '',
