@@ -60,6 +60,7 @@ function markdown() {
   L.push('Causes and confidence. A wrong or stale claim\'s causing page is a page cited by the answers carrying it that carries the statement, typed own page, directory, review site, press, forum or other; otherwise "cause not found". Confidence is the number of the three runs in which the engine stated the claim.', '');
   L.push('Differences from the Record Check. The Record Check captures fresh answers by hand and a reviewer classes them. This study reuses the September answers, traces causes through the answers\' own citations only, and reads the vendors\' pages on 8 October 2026. A page whose robots.txt disallows automated agents was not read; its claims stay unverifiable.', '');
   L.push('## What this does not prove', '', LIMITS, '', '## Disputes and citation', '', DISPUTE, '', `Cite as: Broadcastwell (2026). Wrong About You: what five AI engines state about 70 software vendors (Version 1.0) [Data set]. Zenodo. https://doi.org/${doi}. All versions: https://doi.org/${conceptDoi}.`, '');
+  L.push('## The Record Check', '', 'Broadcastwell ran this study and sells the Record Check for one company, $490. [Get the Record Check](https://broadcastwell.com/buy/record-check). The study data, classifications and code are public. [Correction Desk](https://app.broadcastwell.com/correction-desk).', '');
   return L.join('\n');
 }
 
@@ -68,7 +69,9 @@ function docsPage(md) {
 }
 
 function framer(md) {
-  const html = md.split('\n').filter(l => !/^# /.test(l)).join('\n')
+  // The component renders its title, metadata, byline and exact method above
+  // the lookup. Start the generated body at the findings to show them once.
+  const html = md.slice(md.indexOf('## The findings'))
     .replace(/^## (.*)$/gm, (_, h) => `<h2>${esc(h)}</h2>`)
     .replace(/^\| (.*) \|$/gm, row => row)
     .split(/\n{2,}/).map(block => {
