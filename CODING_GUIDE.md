@@ -33,7 +33,7 @@ Split compound sentences into atomic claims. A list of integrations is one claim
 
 Group the same claim made in different words into one claim, with one instance per answer that makes it. Different values are different claims ($39 and $54 are two claims; "founded 2009" and "founded 2010" are two claims).
 
-## Clarifications (8 Oct 2026, from the pilot)
+## Clarifications (8 Oct 2026, from the first coding pass)
 
 - Lower bounds: "over 1,000,000 projects" when the vendor states "more than 4,000,000" is true as written.
 - In scope: integration counts ("250+ integrations") are `integrations` claims; HIPAA, GDPR or similar compliance claims and BAAs are `certifications` claims. Out of scope: valuations, funding amounts, revenue, employee counts, review ratings, product launch years (unless a rename or retirement).
@@ -104,4 +104,4 @@ Look at the `cited_urls` of the answers that carry the claim.
 
 ## Review
 
-Every claim starts as `review_state: unreviewed`. Two Broadcastwell analysts review each row after publication (REVIEW_SHEET_study6.xlsx, scripts/import-review.mjs). The visible mark "Verified by two Broadcastwell analysts, <date>" appears only when both reviewer fields are filled.
+Every claim starts as `review_state: unreviewed`. Team review of the flagged statements is in progress. The provisional release preserves that state. Returned reviews are imported with scripts/import-review.mjs; only two distinct analyst initials with a real date can earn the visible mark "Verified by two Broadcastwell analysts, <date>". Reclassification and Drop require both analysts. Every review change is appended to data/review_log.csv. Evidence-backed source metadata corrections are separately recorded in data/provenance_log.csv and do not confer analyst review.

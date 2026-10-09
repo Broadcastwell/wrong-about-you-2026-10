@@ -11,7 +11,8 @@
     "derive": "node analysis/derive.mjs",
     "review": "node scripts/import-review.mjs",
     "gate": "node analysis/publication-gate.mjs",
-    "gate:captures": "node analysis/gate.mjs"
+    "gate:captures": "node analysis/gate.mjs",
+    "gate:reviewed": "node analysis/publication-gate.mjs --reviewed"
   },
   "engines": {
     "node": ">=20"

@@ -2,11 +2,14 @@
 // Usage: node scripts/build-readme.mjs [doi] [conceptDoi] [releaseDate]
 import { readFileSync, writeFileSync } from 'node:fs';
 import { readDerived } from '../analysis/index-record.mjs';
-import { requirePublication, METHOD_LINE, BYLINE, DISPUTE_LINE } from '../lib/publication.mjs';
-const [doi = '', conceptDoi = '', releaseDate = '2026-10-08'] = process.argv.slice(2);
-const minted = /^10\.\d+\//.test(doi) && /^10\.\d+\//.test(conceptDoi);
+import { requirePublication, methodLine, BYLINE, DISPUTE_LINE } from '../lib/publication.mjs';
+const [doi = '', conceptDoi = '', releaseDate = new Date().toISOString().slice(0, 10)] = process.argv.slice(2);
+const minted = [doi, conceptDoi].every(x => /^10\.5281\/zenodo\.[1-9]\d+$/.test(x));
+if ((doi || conceptDoi) && !minted) throw new Error('Use two real Zenodo identifiers or leave both empty');
 const r = JSON.parse(readFileSync('results/summary.json', 'utf8'));
-requirePublication(readDerived('data'), r);
+const data = readDerived('data');
+requirePublication(data, r);
+const method = methodLine(data, releaseDate);
 const t = r.totals;
 const pct = x => x.pct === null ? `${x.k} of ${x.n}` : `${x.k} of ${x.n} (${x.pct.toFixed(1)} percent; 95 percent Wilson interval ${x.low.toFixed(1)} to ${x.high.toFixed(1)})`;
 const types = r.per_type.filter(x => x.statements).map(x => `| ${x.type.replace(/_/g, ' ')} | ${x.statements} | ${x.true} | ${x.wrong} | ${x.stale} | ${x.unverifiable} |`).join('\n');
@@ -16,11 +19,11 @@ const causes = r.causes.map(c => `| ${c.causing_type === 'not found' ? 'cause no
 const conf = r.confidence.map(c => `| ${c.runs_stated} of 3 runs | ${c.true} | ${c.wrong} | ${c.stale} | ${c.unverifiable} |`).join('\n');
 const readme = `# Wrong About You: what five AI engines state about 70 software vendors, classed against the vendors' own pages
 
-Broadcastwell, Study 6, version 1.0, ${releaseDate}. ${minted ? `DOI ${doi} (all versions: ${conceptDoi})` : 'Archived on Zenodo at release; the DOI is added here once Zenodo mints it'}. Licence CC BY 4.0.
+Broadcastwell, Study 6, version 1.0, ${releaseDate}. ${minted ? `DOI ${doi} (all versions: ${conceptDoi})` : 'DOI pending'}. Licence CC BY 4.0.
 
 ${BYLINE}
 
-${METHOD_LINE}
+${method}
 
 Every valid target answer that names one of 70 vendors, ${r.capture}. From those ${t.answers} answers we extracted every factual statement each answer makes about the vendor and classed it true, wrong, stale or unverifiable against the vendor's own public pages. No new answer was captured for this study.
 
@@ -79,7 +82,7 @@ Statements. A statement is one factual claim an answer makes about the vendor, o
 
 Classes. We class each claim under the published Record rules (broadcastwell.com/methodology#record-rules): true when it matches the vendor's published fact; wrong when it contradicts the published fact on the capture date; stale when it was true before a dated change the vendor documented; unverifiable when the vendor's own pages read in this study do not settle it. Only the vendor's own pages count as evidence, read once each on 8 October 2026 (a page that refused automated reading was read once in a real browser; a page whose robots.txt disallows automated agents was not read). Every true, wrong or stale claim carries the page and a verbatim quote from it.
 
-Team review. A script checks that every quote appears word for word in its deposit answer and every proof quote on the page read. Every flagged engine statement was reviewed by two Broadcastwell analysts before publication; each reviewed statement carries reviewer_1, reviewer_2, review_date and review_state, and the mark "Verified by two Broadcastwell analysts, <date>" shows only when both have signed it (scripts/import-review.mjs, with a dated audit log in data/review_log.csv). Other rows retain their own review state.
+Team review. A script checks that every quote appears word for word in its deposit answer and every proof quote on the page read. Each statement retains its actual reviewer_1, reviewer_2, review_date and review_state, and the mark "Verified by two Broadcastwell analysts, <date>" shows only after two distinct analysts have signed it with a real date (scripts/import-review.mjs, with a dated audit log in data/review_log.csv). Every review change is logged. Source provenance corrections are recorded separately in data/provenance_log.csv.
 
 Causes. For each wrong or stale claim we read the pages the answers carrying it cite; a cited page that carries the statement is its causing page, typed own page, directory, review site, press, forum or other. Otherwise the cause is "cause not found".
 
@@ -98,8 +101,10 @@ ${DISPUTE_LINE} A correction is released as a new version with the change logged
 ## Files
 
 - data/vendors.csv, data/answers.csv, data/claims.csv, data/instances.csv, data/pages.csv
-- coding/: the coded statement file for each vendor, as reviewed
-- results/: summary.json, RESULTS.md and every table as CSV
+- coding/: the provisional coded statement file for each vendor
+- results/: summary.json, RESULTS.md, flagged_statements.json with every source observation, and every table as CSV
+- data/review_log.csv: dated changes from returned analyst reviews; no rows means no review changes
+- data/provenance_log.csv: evidence-backed source metadata corrections
 - analysis/index-record.mjs (the analysis: node analysis/index-record.mjs data results), analysis/derive.mjs (builds data/ from coding/ and the Index deposit, after checking the deposit's SHA-256)
 - scripts/import-review.mjs and lib/xlsx-lite.mjs (the two-analyst review import)
 - analysis/gate.mjs and analysis/analyze.mjs: the hand-capture protocol for the team's future captured version, tested on a fictional fixture in test/fixture that never enters data/
@@ -107,7 +112,7 @@ ${DISPUTE_LINE} A correction is released as a new version with the change logged
 
 ## How to cite
 
-Broadcastwell (2026). Wrong About You: what five AI engines state about 70 software vendors (Version 1.0) [Data set]. Zenodo. ${minted ? `https://doi.org/${doi}` : 'https://github.com/Broadcastwell/wrong-about-you-2026-10'}
+Broadcastwell (2026). Wrong About You: what five AI engines state about 70 software vendors (Version 1.0) [Data set]. ${minted ? `Zenodo. https://doi.org/${doi}` : 'Repository release. https://github.com/Broadcastwell/wrong-about-you-2026-10'}
 
 ## Licence
 
@@ -120,14 +125,14 @@ title: "Wrong About You: what five AI engines state about 70 software vendors"
 type: dataset
 version: "1.0"
 date-released: "${releaseDate}"
-${doi.startsWith('10.') ? `doi: "${doi}"\n` : ''}authors:
+${minted ? `doi: "${doi}"\n` : ''}authors:
   - name: "Broadcastwell"
     website: "https://broadcastwell.com"
     email: "hello@broadcastwell.com"
 license: CC-BY-4.0
 repository-code: "https://github.com/Broadcastwell/wrong-about-you-2026-10"
 url: "https://broadcastwell.com/research/wrong-about-you"
-abstract: "Every valid target answer in the Absence Index release 2026-09 that names one of 70 vendors (${t.answers} answers, ${r.capture}), read for factual statements about the vendor and classed true, wrong, stale or unverifiable against the vendor's own pages under the published Record rules. ${t.statements} engine statements; every row carries its review state."
+abstract: "${BYLINE}. ${method} ${t.statements} engine statements; every row carries its review state. ${DISPUTE_LINE}"
 keywords: ["AI search", "B2B software", "Absence Index", "ChatGPT", "Claude", "Perplexity", "Google AI Overviews", "Google AI Mode"]
 references:
   - type: dataset

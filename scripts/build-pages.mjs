@@ -5,12 +5,13 @@ import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 import { parseCsv } from '../analysis/analyze.mjs';
 import { readDerived } from '../analysis/index-record.mjs';
-import { requirePublication, METHOD_LINE, BYLINE, DISPUTE_LINE, vendorReviewLabel } from '../lib/publication.mjs';
+import { requirePublication, methodLine, BYLINE, DISPUTE_LINE, vendorReviewLabel } from '../lib/publication.mjs';
 
-const [outDir, doi = '10.5281/zenodo.0000000', conceptDoi = '10.5281/zenodo.0000000', date = '2026-10-08'] = process.argv.slice(2);
+const [outDir, doi = '', conceptDoi = '', date = new Date().toISOString().slice(0, 10)] = process.argv.slice(2);
 const r = JSON.parse(readFileSync('results/summary.json', 'utf8'));
 const reviewedData = readDerived('data');
 requirePublication(reviewedData, r);
+const METHOD_LINE = methodLine(reviewedData, date);
 if (![doi, conceptDoi].every(x => /^10\.5281\/zenodo\.[1-9]\d+$/.test(x))) throw new Error('Real version and concept DOIs are required');
 const vendors = parseCsv(readFileSync('results/vendor_table.csv', 'utf8'));
 const vlist = parseCsv(readFileSync('data/vendors.csv', 'utf8'));
@@ -55,7 +56,7 @@ function markdown() {
   for (const v of vendors) L.push(`| ${v.category} | ${v.vendor} | ${v.named_answers} | ${v.wrong} (${v.category_median_wrong}) | ${v.stale} (${v.category_median_stale}) | ${v.unverifiable} (${v.category_median_unverifiable}) | ${v.true} (${v.category_median_true}) | ${vendorReviewLabel(reviewedData, v.slug)} |`);
   L.push('', '## Method', '');
   L.push(`Answers. Every valid target answer in the Absence Index release 2026-09 that names one of the 70 vendors under the release's own matching rule; their number equals each vendor's published named count. Five engines (${ENGINES}), ten buyer questions per category, three scheduled runs, ${r.capture}. No new answer was captured for this study.`, '');
-  L.push('Statements and classes. Thirteen statement types: pricing, plans, free tier, founding, ownership, headquarters, product names, integrations, platforms, certifications, customer counts, acquisitions and discontinued products. Each claim is classed true, wrong, stale or unverifiable under the published Record rules (broadcastwell.com/methodology#record-rules) against the vendor\'s own pages read once on 8 October 2026, with a verbatim quote from the page for every true, wrong or stale claim. A script checks every quote against the deposit and the page read. Every flagged engine statement has two analysts\' review fields in the dated audit trail. Other rows show their own review state.', '');
+  L.push('Statements and classes. Thirteen statement types: pricing, plans, free tier, founding, ownership, headquarters, product names, integrations, platforms, certifications, customer counts, acquisitions and discontinued products. Each claim is classed true, wrong, stale or unverifiable under the published Record rules (broadcastwell.com/methodology#record-rules) against the vendor\'s own pages read once on 8 October 2026, with a verbatim quote from the page for every true, wrong or stale claim. A script checks every quote against the deposit and the page read. Every row shows its actual review state. Only a statement signed by two distinct analysts with a real date may show the verified mark. Review changes are logged in data/review_log.csv; source provenance corrections are logged in data/provenance_log.csv.', '');
   L.push('Causes and confidence. A wrong or stale claim\'s causing page is a page cited by the answers carrying it that carries the statement, typed own page, directory, review site, press, forum or other; otherwise "cause not found". Confidence is the number of the three runs in which the engine stated the claim.', '');
   L.push('Differences from the Record Check. The Record Check captures fresh answers by hand and a reviewer classes them. This study reuses the September answers, traces causes through the answers\' own citations only, and reads the vendors\' pages on 8 October 2026. A page whose robots.txt disallows automated agents was not read; its claims stay unverifiable.', '');
   L.push('## What this does not prove', '', LIMITS, '', '## Disputes and citation', '', DISPUTE, '', `Cite as: Broadcastwell (2026). Wrong About You: what five AI engines state about 70 software vendors (Version 1.0) [Data set]. Zenodo. https://doi.org/${doi}. All versions: https://doi.org/${conceptDoi}.`, '');
@@ -112,7 +113,7 @@ export default function WrongAboutYou() {
  return <Page pagePath="/research/wrong-about-you" pageName="Wrong About You" footerVariant="research" jsonLd={JSON_LD}>
   <style suppressHydrationWarning dangerouslySetInnerHTML={{__html:CSS}} />
   <article className="way-study">
-   <nav className="way-links" aria-label="Study resources"><a href="/research">All research</a><a href={PDF}>Download PDF</a><a href={"https://doi.org/"+DOI}>Dataset and DOI</a><a href="/methodology#record-rules">Every figure comes from the published method</a><a href="/set-the-record">Set the Record</a></nav>
+   <nav className="way-links" aria-label="Study resources"><a href="/research">All research</a><a href={PDF}>Download PDF</a><a href={"https://doi.org/"+DOI}>Dataset and DOI</a><a href="/methodology#record-rules">Every figure comes from the published method, v1.1.</a><a href="/set-the-record">Set the Record</a></nav>
    <h1>{TITLE}</h1><p className="way-meta">{"Broadcastwell Research, Study 6, ${dateText(date)}, CC BY 4.0, DOI "+DOI}</p>
    <p className="way-meta">${BYLINE}</p><p>${esc(METHOD_LINE)}</p>
    <div className="way-heads">{HEADS.map((h, i) => <div key={i}><strong>{h[0]}</strong><span>{h[1]}</span><br/><span>{h[2]}</span></div>)}</div>

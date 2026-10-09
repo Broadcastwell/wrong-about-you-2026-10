@@ -3,7 +3,7 @@ message: "If you use this data or code, please cite it as below."
 title: "Wrong About You: what five AI engines state about 70 software vendors"
 type: dataset
 version: "1.0"
-date-released: "2026-10-08"
+date-released: "2026-10-09"
 authors:
   - name: "Broadcastwell"
     website: "https://broadcastwell.com"
@@ -11,7 +11,7 @@ authors:
 license: CC-BY-4.0
 repository-code: "https://github.com/Broadcastwell/wrong-about-you-2026-10"
 url: "https://broadcastwell.com/research/wrong-about-you"
-abstract: "Every valid target answer in the Absence Index release 2026-09 that names one of 70 vendors (5346 answers, captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index release 2026-09 (DOI 10.5281/zenodo.22907695)), read for factual statements about the vendor and classed true, wrong, stale or unverifiable against the vendor's own pages under the published Record rules. 2922 engine statements; every row carries its review state."
+abstract: "Prepared by the Broadcastwell team. Answers captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index release 2026-09 (DOI 10.5281/zenodo.22907695). Statements were extracted and classified under the published Record rules and checked against each vendor's own public pages. Every flagged statement is published with its engine, run, question, capture date and the vendor page it was checked against. Team review of the flagged statements is in progress; rows change only if the review changes them, and every change is logged in the public ledger. 2922 engine statements; every row carries its review state. Any named company may request one no-cost re-run at index@broadcastwell.com; both results are published."
 keywords: ["AI search", "B2B software", "Absence Index", "ChatGPT", "Claude", "Perplexity", "Google AI Overviews", "Google AI Mode"]
 references:
   - type: dataset

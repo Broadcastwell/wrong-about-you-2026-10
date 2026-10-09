@@ -1,6 +1,10 @@
 # Wrong About You v1.0: results
 
-Answers captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index release 2026-09 (DOI 10.5281/zenodo.22907695). Every statement classified under the published Record rules against the vendor's own pages; every row shows its review state. Counts come before rates; every rate carries a Wilson 95 percent interval. Unverifiable counts as neither right nor wrong.
+Prepared by the Broadcastwell team
+
+Answers captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index release 2026-09 (DOI 10.5281/zenodo.22907695). Statements were extracted and classified under the published Record rules and checked against each vendor's own public pages. Every flagged statement is published with its engine, run, question, capture date and the vendor page it was checked against. Team review of the flagged statements is in progress; rows change only if the review changes them, and every change is logged in the public ledger.
+
+Counts come before rates; every rate carries a Wilson 95 percent interval. Unverifiable counts as neither right nor wrong.
 
 - Vendors: 70 in 14 categories (the five most named per category in release 2026-09).
 - Answers naming them: 5346.
@@ -151,3 +155,7 @@ Answers captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index re
 | Project management | Smartsheet | 54 | 9 | 0 (0) | 0 (0) | 1 (1) | 8 (8) |
 
 Review: 0 claims verified by two analysts, 0 in first review, 1894 unreviewed.
+
+Any named company may request one no-cost re-run at index@broadcastwell.com; both results are published.
+
+Review changes: data/review_log.csv. Source provenance corrections: data/provenance_log.csv.
